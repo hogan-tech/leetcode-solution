@@ -1,8 +1,7 @@
 class Solution(object):
     def isPalindrome(self, s):
-        filtered_chars = filter(lambda ch: ch.isalnum(), s)
-        lowercase_filtered_chars = map(lambda ch: ch.lower(), filtered_chars)
-        filtered_chars_list = list(lowercase_filtered_chars)
-        reversed_chars_list = filtered_chars_list[::-1]
-
-        return reversed_chars_list == filtered_chars_list
+        filter_str = filter(lambda ch: ch.isalnum(), s)
+        lower_str = map(lambda ch: ch.lower(), filter_str)
+        list_str = list(lower_str)
+        reverse_str = list_str[::-1]
+        return reverse_str == list_str
