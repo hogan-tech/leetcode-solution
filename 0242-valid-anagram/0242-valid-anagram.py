@@ -1,3 +1,7 @@
+# class Solution(object):
+#     def isAnagram(self, s, t):
+#         return sorted(s) == sorted(t)
+
 class Solution(object):
     def isAnagram(self, s, t):
-        return sorted(s) == sorted(t)
+        return  collections.Counter(s) == collections.Counter(t)
