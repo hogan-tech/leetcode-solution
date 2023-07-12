@@ -8,13 +8,13 @@ class TreeNode(object):
 
 class Solution(object):
     def height(self, node: TreeNode):
-        if node == None:
+        if not node:
             return -1
-        return 1+max(self.height(node.left), self.height(node.right))
+        return 1 + max(self.height(node.left), self.height(node.right))
 
     def isBalanced(self, node: TreeNode):
-        if node == None:
+        if not node:
             return True
-        if abs(self.height(node.left) - self.height(node.right)) > 1:
+        if abs(self.height(node.left)-self.height(node.right)) > 1:
             return False
         return self.isBalanced(node.left) and self.isBalanced(node.right)
