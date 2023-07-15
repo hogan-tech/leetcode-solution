@@ -14,15 +14,13 @@ var compactObject = function (obj) {
     }
 
     const newObj = {};
-
     for (const key in obj) {
       const subRes = dfs(obj[key]);
       if (subRes) {
         newObj[key] = subRes;
       }
     }
-
-    return newObj;
+    return newObj
   }
   return dfs(obj);
 };
