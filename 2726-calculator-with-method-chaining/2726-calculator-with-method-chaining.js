@@ -2,11 +2,11 @@ class Calculator {
   constructor(value) {
     this.result = value;
   }
-  add(value){
+  add(value) {
     this.result += value;
     return this;
   }
-  subtract(value){
+  subtract(value) {
     this.result -= value;
     return this;
   }
@@ -15,7 +15,7 @@ class Calculator {
     return this;
   }
   divide(value) {
-    if(value === 0) throw "Division by zero is not allowed";
+    if (value === 0) throw "Division by zero is not allowed";
     this.result /= value;
     return this;
   }
