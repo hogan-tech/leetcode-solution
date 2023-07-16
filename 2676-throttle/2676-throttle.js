@@ -4,12 +4,12 @@
  * @return {Function}
  */
 var throttle = function (fn, t) {
-  let timeout = null;
+  let timeOut;
   let nextTimeToCall = 0;
   return function (...args) {
     let delay = Math.max(0, nextTimeToCall - Date.now());
-    clearTimeout(timeout);
-    timeout = setTimeout(() => {
+    clearTimeout(timeOut);
+    timeOut = setTimeout(() => {
       fn(...args);
       nextTimeToCall = Date.now() + t;
     }, delay);
