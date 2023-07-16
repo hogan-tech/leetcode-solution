@@ -10,9 +10,9 @@ var jsonStringify = function (object) {
         return `[${elements.join(",")}]`;
       } else if (object) {
         const keys = Object.keys(object);
-        const keyValuePairs = keys.map(
-          (key) => `"${key}":${jsonStringify(object[key])}`
-        );
+        const keyValuePairs = keys.map((key) => {
+          return `"${key}":${jsonStringify(object[key])}`;
+        });
         return `{${keyValuePairs.join(",")}}`;
       } else {
         return "null";
