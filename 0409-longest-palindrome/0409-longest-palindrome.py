@@ -1,13 +1,13 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        pairs = 0
-        unpaired_chars = set()
+        pair = 0
+        unpair_set = set()
 
-        for char in s:
-            if char in unpaired_chars:
-                pairs += 1
-                unpaired_chars.remove(char)
+        for c in s:
+            if c in unpair_set:
+                unpair_set.remove(c)
+                pair += 1
             else:
-                unpaired_chars.add(char)
+                unpair_set.add(c)
 
-        return 2 * pairs + 1 if unpaired_chars else 2 * pairs
+        return 2 * pair + 1 if unpair_set else 2 * pair
