@@ -19,15 +19,13 @@ class Solution:
 
         dir = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
-
         while not q.empty():
             curr = q.get()
             for i in range(4):
                 new_r = curr[0] + dir[i][0]
                 new_c = curr[1] + dir[i][1]
                 if 0 <= new_r < row and 0 <= new_c < col:
-                    if dist[new_r][new_c] > dist[curr[0]][curr[1]]+1:
-                        dist[new_r][new_c] = dist[curr[0]][curr[1]]+1
+                    if dist[new_r][new_c] > dist[curr[0]][curr[1]] + 1:
+                        dist[new_r][new_c] = dist[curr[0]][curr[1]] + 1
                         q.put((new_r, new_c))
-
         return dist
