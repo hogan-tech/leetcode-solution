@@ -14,7 +14,7 @@ class Solution:
             for coin in coins:
                 res = dfs(amount - coin)
                 if res != -1:
-                    min_cost = min(min_cost, res + 1)
+                    min_cost = min(min_cost, res+1)
             return -1 if min_cost == float('inf') else min_cost
 
         return dfs(amount)
