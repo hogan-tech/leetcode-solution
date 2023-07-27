@@ -20,7 +20,6 @@ class Solution:
         if not nr:
             return 0
         nc = len(grid[0])
-
         num_islands = 0
         for r in range(nr):
             for c in range(nc):
