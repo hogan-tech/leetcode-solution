@@ -8,7 +8,7 @@ class Solution:
         dp = {}
 
         
-        lru_cache(None)
+        @lru_cache(None)
         def calculate_dp(i, j):
             return (dp[max(0, i-4)][j] + dp[max(0, i-3)][j-1] + dp[max(0, i-2)][max(0, j-2)] + dp[i-1][max(0, j-3)]) / 4
 
