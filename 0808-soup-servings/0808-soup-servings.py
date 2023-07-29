@@ -1,25 +1,26 @@
-from functools import lru_cache
+import collections
 from math import ceil
 
 
 class Solution:
     def soupServings(self, n: int) -> float:
         m = ceil(n/25)
-        dp = {}
+        dp = collections.defaultdict(dict)
 
-        
-        @lru_cache(None)
-        def calculate_dp(i, j):
-            return (dp[max(0, i-4)][j] + dp[max(0, i-3)][j-1] + dp[max(0, i-2)][max(0, j-2)] + dp[i-1][max(0, j-3)]) / 4
+        def calculate_dp(i: int, j: int) -> float:
+            if i <= 0 and j <= 0:
+                return 0.5
+            if i <= 0:
+                return 1.0
+            if j <= 0:
+                return 0.0
+            if i in dp and j in dp[i]:
+                return dp[i][j]
+            dp[i][j] = (calculate_dp(i-4, j) + calculate_dp(i-3, j-1) +
+                        calculate_dp(i-2, j-2) + calculate_dp(i-1, j-3)) / 4.0
+            return dp[i][j]
 
-        dp[0] = {0: 0.5}
-
-        for k in range(1,m+1):
-            dp[0][k] = 1
-            dp[k] = {0:0}
-            for j in range(1,k+1):
-                dp[j][k] = calculate_dp(j,k)
-                dp[k][j] = calculate_dp(k,j)
-            if dp[k][k] > 1 - 1e-5:
-                return 1
-        return dp[m][m]
+        for k in range(1, m + 1):
+            if calculate_dp(k, k) > 1 - 1e-5:
+                return 1.0
+        return calculate_dp(m, m)
