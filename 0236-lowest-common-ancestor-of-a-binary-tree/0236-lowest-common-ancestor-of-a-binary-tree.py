@@ -17,7 +17,5 @@ class Solution:
 
         if left and right:
             return root
-        elif not left:
-            return right
-        elif not right:
-            return left
+
+        return left if left else right
