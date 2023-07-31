@@ -7,7 +7,7 @@ class Solution:
         words = set(wordDict)
         queue = deque([0])
         seen = set()
-        while  queue:
+        while queue:
             start = queue.popleft()
             if start == len(s):
                 return True
