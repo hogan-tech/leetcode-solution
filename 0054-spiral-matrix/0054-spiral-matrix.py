@@ -14,4 +14,5 @@ class Solution:
             if matrix and matrix[0]:
                 for row in matrix[::-1]:
                     result.append(row.pop(0))
+
         return result
