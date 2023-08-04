@@ -5,14 +5,7 @@ from typing import List
 
 
 class Codec:
-    '''       O(n) time and O(n) space, BFS traversal
-    e.g., 1
-         / \
-        2   5
-       / \
-      3   4  , level order traversal, serialize will be '1,2,5,3,4,None,None,None,None,None,None,'; deserialize 
-      with queue as well, convert back. Time and Space O(n).
-    '''
+
 
     def serialize(self, root):
         if not root:
