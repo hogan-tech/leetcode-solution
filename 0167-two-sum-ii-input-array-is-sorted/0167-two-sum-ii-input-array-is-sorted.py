@@ -11,4 +11,9 @@ class Solution:
             if target - numbers[left] == numbers[right]:
                 return [left+1, right+1]
             left += 1
-        return 0
+        return []
+
+
+numbers = [2, 7, 11, 15]
+target = 9
+print(Solution().twoSum(numbers, target))
