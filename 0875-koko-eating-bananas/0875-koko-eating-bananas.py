@@ -10,7 +10,6 @@ class Solution:
             hourSpent = 0
             for pile in piles:
                 hourSpent += math.ceil(pile / mid)
-            
             if hourSpent <= h:
                 right = mid
             else:
