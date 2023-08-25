@@ -1,10 +1,19 @@
+from typing import List
+
+
 class Solution(object):
-    def maxProfit(self, prices):
-        smallest_price = 9999
-        profit = 0
+    def maxProfit(self, prices: List[int]) -> int:
+        profit, smallestPrice = 0, 99999
         for price in prices:
-            if price < smallest_price:
-                smallest_price = price
-            if price - smallest_price > profit:
-                profit = price - smallest_price
+            if price < smallestPrice:
+                smallestPrice = price
+            else:
+                profit = max(profit, price - smallestPrice)
         return profit
+
+
+PriceList = [7, 1, 5, 3, 6, 4]
+
+solution = Solution()
+
+print(solution.maxProfit(PriceList))
