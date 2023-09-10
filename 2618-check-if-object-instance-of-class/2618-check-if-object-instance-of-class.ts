@@ -6,12 +6,12 @@ function checkIfInstanceOf(obj: any, classFunction: any): boolean {
     )
         return false;
 
-    let currPotentialPrototype = Object.getPrototypeOf(obj);
+    let currentPrototype = Object.getPrototypeOf(obj);
 
-    while (currPotentialPrototype !== null) {
-        if (currPotentialPrototype === (classFunction as Function).prototype)
+    while (currentPrototype !== null) {
+        if (currentPrototype === (classFunction as Function).prototype)
             return true;
-        currPotentialPrototype = Object.getPrototypeOf(currPotentialPrototype);
+        currentPrototype = Object.getPrototypeOf(currentPrototype);
     }
 
     return false;
