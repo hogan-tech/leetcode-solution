@@ -4,8 +4,9 @@ var flat = function (
     arr: MultiDimensionalArray,
     n: number
 ): MultiDimensionalArray {
+    const result: MultiDimensionalArray = [];
     if (n === 0) return arr;
-    let result: MultiDimensionalArray = [];
+
     const flatting = (array: MultiDimensionalArray, left: number) => {
         for (const item of array) {
             if (Array.isArray(item) && left > 0) {
