@@ -5,20 +5,21 @@ type MapEntry = {
 
 class TimeLimitedCache {
     caches = new Map<number, MapEntry>();
-
     set(key: number, value: number, duration: number): boolean {
-        const valueInCache = this.caches.get(key);
+        let valueInCache = this.caches.get(key);
         if (valueInCache) {
             clearTimeout(valueInCache.timeout);
         }
-        const timeout = setTimeout(() => this.caches.delete(key), duration);
+        const timeout = setTimeout(() => {
+            this.caches.delete(key);
+        }, duration);
         this.caches.set(key, { value, timeout });
         return Boolean(valueInCache);
     }
 
     get(key: number): number {
-        const entry = this.caches.get(key);
-        return entry?.value ?? -1;
+        const currentCache = this.caches.get(key);
+        return currentCache?.value ?? -1;
     }
 
     count(): number {
