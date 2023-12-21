@@ -1,3 +1,7 @@
+#Time complexity:O(n)
+#Space complexity: O(n)
+
+
 from collections import defaultdict
 from typing import List, Optional
 
