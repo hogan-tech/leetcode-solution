@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def minOperations(self, s: str) -> int:
         startZero = 0
@@ -13,10 +15,7 @@ class Solution:
                     startOne += 1
                 else:
                     startZero += 1
-                    
         return min(startOne, startZero)
-
-
 s = "1111"
 
 print(Solution().minOperations(s))
