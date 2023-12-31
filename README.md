@@ -18,20 +18,10 @@ Feel free to explore the solutions implemented in Python, C++, JavaScript, SQL, 
 
 The solutions are organized by difficulty and language. Here's a breakdown of the folder structure:
 
-- **Question1**
-  - question1.py
-  - NOTES.md
-  - README.md
-- **Question2**
-  - question2.py
-  - question2.cpp
-  - NOTES.md
-  - README.md
-- **Question3**
-  - question3.py
-  - question3.js
-  - NOTES.md
-  - README.md
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./0001-two-sum/0001-two-sum.py), [C++](./0001-two-sum/0001-two-sum.py)|Easy|
+
 
 
 ## How to Use
