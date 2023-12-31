@@ -7,8 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/language-TypeScript-blue.svg)
 
 
-This repository contains solutions to LeetCode problems. 
-Feel free to explore the solutions implemented in Python, C++, JavaScript, SQL, and TypeScript.
+This repository contains solutions to LeetCode problems, organized by difficulty and language. You can explore the solutions implemented in Python, C++, JavaScript, SQL, and TypeScript.
 
 ## Statistics
 
@@ -16,7 +15,14 @@ Feel free to explore the solutions implemented in Python, C++, JavaScript, SQL, 
 
 ## Folder Structure
 
-The solutions are organized by difficulty and language. Here's a breakdown of the folder structure:
+The solutions are organized as follows:
+
+- **Difficulty:** Problems are categorized into Easy, Medium, and Hard.
+- **Languages:** Solutions are available in multiple programming languages, including Python, C++, JavaScript, SQL, and TypeScript.
+- **Problem Titles:** Each problem is named after its LeetCode title.
+
+Here's a breakdown of the folder structure:
+
 
 | # | Title | Solution  | Difficulty & ReadMe |
 |---| ----- | --------  | ---------- |
@@ -37,12 +43,42 @@ The solutions are organized by difficulty and language. Here's a breakdown of th
 
 
 
-
-
-
 ## How to Use
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/hogan.tech/leetcode-solutions.git
+```
+
+2. Choose a Problem:
+
+Browse the folders to find the LeetCode problem you want to solve.
+
+3. Select a Language:
+
+Inside each problem folder, you'll find solutions in various programming languages. Choose the language you prefer.
+
+4. Read the ReadMe:
+
+Each problem folder contains a README file with a problem description, approach, and code explanation. Read this to understand the solution.
+
+5. Explore the Code:
+
+Open the code file to view the implementation. Study the code and adapt it as needed for your use case.
+
+6. Run the Code:
+
+You can run the code on your local machine to test and modify it as needed.
+
+7. Contribute:
+
+If you have a better solution or want to contribute in any way, feel free to submit a pull request.
+
+8. Share Your Feedback:
+
+Welcome feedback and suggestions. If you have any ideas to improve the solutions or find any errors, please let me know.
+
+Happy coding! 🚀
+
+By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
