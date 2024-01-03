@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 2610-convert-an-array-into-a-2d-array-with-conditions python medium
+2125-number-of-laser-beams-in-a-bank python medium
