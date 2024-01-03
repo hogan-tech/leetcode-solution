@@ -417,6 +417,7 @@ The solutions are organized as follows:
 |2833|[Furthest Point from Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python](./2833-furthest-point-from-origin/2833-furthest-point-from-origin.py)| [Easy](./2833-furthest-point-from-origin/README.md)|
 |2834|[Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/) | [Python](./2834-find-the-minimum-possible-sum-of-a-beautiful-array/2834-find-the-minimum-possible-sum-of-a-beautiful-array.py)| [Medium](./2834-find-the-minimum-possible-sum-of-a-beautiful-array/README.md)|
 |2849|[Determine if a Cell is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Python](./2849-determine-if-a-cell-is-reachable-at-a-given-time/2849-determine-if-a-cell-is-reachable-at-a-given-time.py)| [Medium](./2849-determine-if-a-cell-is-reachable-at-a-given-time/README.md)|
+|2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python](./2125-number-of-laser-beams-in-a-bank/2125-number-of-laser-beams-in-a-bank.py) | [Medium](./2125-number-of-laser-beams-in-a-bank/README.md) |
 
 
 ## How to Use
