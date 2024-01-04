@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from collections import Counter
 from math import ceil
 from typing import List
