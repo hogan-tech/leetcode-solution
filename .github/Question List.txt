@@ -8,3 +8,4 @@
 2125-number-of-laser-beams-in-a-bank python medium
 2870-minimum-number-of-operations-to-make-array-empty python medium
 0300-longest-increasing-subsequence python medium
+0446-arithmetic-slices-ii-subsequence python hard
