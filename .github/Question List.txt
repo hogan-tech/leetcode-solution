@@ -9,3 +9,5 @@
 2870-minimum-number-of-operations-to-make-array-empty python medium
 0300-longest-increasing-subsequence python medium
 0446-arithmetic-slices-ii-subsequence python hard
+0938-range-sum-of-bst python easy
+1428-leftmost-column-with-at-least-a-one python medium
