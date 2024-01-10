@@ -12,3 +12,4 @@
 0938-range-sum-of-bst python easy
 1428-leftmost-column-with-at-least-a-one python medium
 0872-leaf-similar-trees python easy
+2385-amount-of-time-for-binary-tree-to-be-infected python medium
