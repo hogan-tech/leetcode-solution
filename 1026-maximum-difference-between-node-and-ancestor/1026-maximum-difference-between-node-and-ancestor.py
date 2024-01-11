@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 # Definition for a binary tree node.
 from typing import Optional
 
