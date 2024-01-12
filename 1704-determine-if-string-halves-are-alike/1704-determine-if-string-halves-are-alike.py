@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
         vowelsSet = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
