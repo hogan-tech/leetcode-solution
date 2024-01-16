@@ -17,3 +17,6 @@
 1704-determine-if-string-halves-are-alike python easy
 1347-minimum-number-of-steps-to-make-two-strings-anagram python medium
 1657-determine-if-two-strings-are-close python medium
+2225-find-players-with-zero-or-one-losses python medium
+0380-insert-delete-getrandom-o1 python medium
+1165-single-row-keyboard python easy
