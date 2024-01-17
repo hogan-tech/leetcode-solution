@@ -20,3 +20,4 @@
 2225-find-players-with-zero-or-one-losses python medium
 0380-insert-delete-getrandom-o1 python medium
 1165-single-row-keyboard python easy
+1207-unique-number-of-occurrences python easy
