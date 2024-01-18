@@ -1,9 +1,13 @@
 class Solution:
-# Cashe with brute force
+    # time complexity: O(n)
+    # space complexity: O(n)
+    # Cashe with brute force
     # def climbStairs(self, n: int) -> int:
     #     memo = [0] * (n+1)
     #     return self.climb_Stairs(0, n, memo)
 
+    # time complexity: O(n)
+    # space complexity: O(n)
     # def climb_Stairs(self, i: int, n: int, memo: list) -> int:
     #     if (i > n):
     #         return 0
@@ -15,6 +19,8 @@ class Solution:
     #         self.climb_Stairs(i+2, n, memo)
     #     return memo[i]
 
+    # time complexity: O(n)
+    # space complexity: O(b)
     # Dynamic Programming
     # def climbStairs(self, n: int):
     #     if n == 1:
@@ -26,6 +32,8 @@ class Solution:
     #         dp[i] = dp[i-1] + dp[i-2]
     #     return dp[n]
 
+    # time complexity: O(n)
+    # space complexity: O(1)
     # Fibonacci Number
     def climbStairs(self, n: int) -> int:
         if n == 1:
@@ -38,3 +46,7 @@ class Solution:
             first = second
             second = third
         return second
+
+
+n = 50
+print(Solution().climbStairs(50))
