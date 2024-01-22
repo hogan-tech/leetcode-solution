@@ -4,23 +4,6 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-2610-convert-an-array-into-a-2d-array-with-conditions python medium
-2125-number-of-laser-beams-in-a-bank python medium
-2870-minimum-number-of-operations-to-make-array-empty python medium
-0300-longest-increasing-subsequence python medium
-0446-arithmetic-slices-ii-subsequence python hard
-0938-range-sum-of-bst python easy
-1428-leftmost-column-with-at-least-a-one python medium
-0872-leaf-similar-trees python easy
-2385-amount-of-time-for-binary-tree-to-be-infected python medium
-1026-maximum-difference-between-node-and-ancestor python medium
-1704-determine-if-string-halves-are-alike python easy
-1347-minimum-number-of-steps-to-make-two-strings-anagram python medium
-1657-determine-if-two-strings-are-close python medium
-2225-find-players-with-zero-or-one-losses python medium
-0380-insert-delete-getrandom-o1 python medium
-1165-single-row-keyboard python easy
-1207-unique-number-of-occurrences python easy
-0931-minimum-falling-path-sum python medium
-0907-sum-of-subarray-minimums python medium
-0198-house-robber python medium
+
+1167-minimum-cost-to-connect-sticks python medium
+0645-set-mismatch python easy
