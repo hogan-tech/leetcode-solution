@@ -1,3 +1,5 @@
+# time complexity: O(2^n)
+# space complexity: O(2^min(n,k))
 from typing import List
 
 
