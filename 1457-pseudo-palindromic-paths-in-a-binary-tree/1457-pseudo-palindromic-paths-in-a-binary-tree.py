@@ -1,4 +1,5 @@
-# Definition for a binary tree node.
+# time complexity: O(n)
+# space complexity: O(h)
 from collections import defaultdict
 from typing import Optional
 
