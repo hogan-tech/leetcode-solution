@@ -9,3 +9,4 @@
 0645-set-mismatch python easy
 1239-maximum-length-of-a-concatenated-string-with-unique-characters python medium
 1457-pseudo-palindromic-paths-in-a-binary-tree python medium
+1143-longest-common-subsequence python medium
