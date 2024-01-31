@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def isValid(self, s: str) -> bool:
         bracketMap = {"(": ")", "[": "]", "{": "}"}
@@ -11,3 +13,7 @@ class Solution:
             else:
                 return False
         return stack == []
+
+
+Input = "(())"
+print(Solution().isValid(Input))
