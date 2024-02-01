@@ -14,3 +14,5 @@
 0629-k-inverse-pairs-array python hard
 1074-number-of-submatrices-that-sum-to-target python hard
 0256-paint-house python medium
+0293-flip-game python easy
+2966-divide-array-into-arrays-with-max-difference python medium
