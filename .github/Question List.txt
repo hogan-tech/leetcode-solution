@@ -16,3 +16,4 @@
 0256-paint-house python medium
 0293-flip-game python easy
 2966-divide-array-into-arrays-with-max-difference python medium
+1291-sequential-digits python medium
