@@ -17,3 +17,4 @@
 0293-flip-game python easy
 2966-divide-array-into-arrays-with-max-difference python medium
 1291-sequential-digits python medium
+1043-partition-array-for-maximum-sum python medium
