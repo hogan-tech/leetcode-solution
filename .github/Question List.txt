@@ -13,8 +13,3 @@
 0576-out-of-boundary-paths python medium
 0629-k-inverse-pairs-array python hard
 1074-number-of-submatrices-that-sum-to-target python hard
-0256-paint-house python medium
-0293-flip-game python easy
-2966-divide-array-into-arrays-with-max-difference python medium
-1291-sequential-digits python medium
-1043-partition-array-for-maximum-sum python medium
