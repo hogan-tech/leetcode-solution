@@ -13,3 +13,4 @@
 0576-out-of-boundary-paths python medium
 0629-k-inverse-pairs-array python hard
 1074-number-of-submatrices-that-sum-to-target python hard
+0387-first-unique-character-in-a-string python, c++ easy
