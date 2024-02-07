@@ -14,3 +14,4 @@
 0629-k-inverse-pairs-array python hard
 1074-number-of-submatrices-that-sum-to-target python hard
 0387-first-unique-character-in-a-string python, c++ easy
+0451-sort-characters-by-frequency python medium
