@@ -1,3 +1,5 @@
+# time complexity: O(n*n^0.5)
+# space complexity: O(n)
 import math
 
 
