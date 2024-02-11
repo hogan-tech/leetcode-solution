@@ -19,3 +19,5 @@
 0276-paint-fence python medium
 0368-largest-divisible-subset python medium
 0647-palindromic-substrings python medium
+0741-cherry-pickup python hard
+1463-cherry-pickup-ii python hard
