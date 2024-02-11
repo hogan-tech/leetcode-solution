@@ -25,3 +25,7 @@ class Solution:
             return result
 
         return dp(0, 0, n-1)
+
+
+grid = [[3, 1, 1], [2, 5, 1], [1, 5, 5], [2, 1, 1]]
+print(Solution().cherryPickup(grid))
