@@ -1,3 +1,5 @@
+# time complexity: O(n * m)
+# space complexity: O(1)
 from typing import List
 
 
@@ -17,5 +19,5 @@ class Solution:
         return ""
 
 
-words = ["notapalindrome","racecar"]
+words = ["notapalindrome", "racecar"]
 print(Solution().firstPalindrome(words))
