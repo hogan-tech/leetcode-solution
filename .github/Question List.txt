@@ -21,3 +21,4 @@
 0647-palindromic-substrings python medium
 0741-cherry-pickup python hard
 1463-cherry-pickup-ii python hard
+2108-find-first-palindromic-string-in-the-array python medium
