@@ -23,3 +23,5 @@
 1463-cherry-pickup-ii python hard
 2108-find-first-palindromic-string-in-the-array python medium
 2149-rearrange-array-elements-by-sign python medium
+2971-find-polygon-with-the-largest-perimeter python medium
+1272-remove-interval python medium
