@@ -25,3 +25,4 @@
 2149-rearrange-array-elements-by-sign python medium
 2971-find-polygon-with-the-largest-perimeter python medium
 1272-remove-interval python medium
+1481-least-number-of-unique-integers-after-k-removals python medium
