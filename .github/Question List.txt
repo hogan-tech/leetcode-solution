@@ -5,24 +5,9 @@
 0005-longest-palindromic-substring python medium
 
 
-1167-minimum-cost-to-connect-sticks python medium
-0645-set-mismatch python easy
-1239-maximum-length-of-a-concatenated-string-with-unique-characters python medium
-1457-pseudo-palindromic-paths-in-a-binary-tree python medium
-1143-longest-common-subsequence python medium
-0576-out-of-boundary-paths python medium
-0629-k-inverse-pairs-array python hard
-1074-number-of-submatrices-that-sum-to-target python hard
-0387-first-unique-character-in-a-string python, c++ easy
-0451-sort-characters-by-frequency python medium
-0279-perfect-squares python medium
-0276-paint-fence python medium
-0368-largest-divisible-subset python medium
-0647-palindromic-substrings python medium
-0741-cherry-pickup python hard
-1463-cherry-pickup-ii python hard
-2108-find-first-palindromic-string-in-the-array python medium
+
 2149-rearrange-array-elements-by-sign python medium
 2971-find-polygon-with-the-largest-perimeter python medium
 1272-remove-interval python medium
 1481-least-number-of-unique-integers-after-k-removals python medium
+1642-furthest-building-you-can-reach python medium
