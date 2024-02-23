@@ -6,10 +6,6 @@
 
 
 2149-rearrange-array-elements-by-sign python medium
-2971-find-polygon-with-the-largest-perimeter python medium
-1272-remove-interval python medium
-1481-least-number-of-unique-integers-after-k-removals python medium
-1642-furthest-building-you-can-reach python medium
-2402-meeting-rooms-iii python hard
-0268-missing-number python easy
-0201-bitwise-and-of-numbers-range python medium
+1245-tree-diameter python medium
+0787-cheapest-flights-within-k-stops python medium
+0997-find-the-town-judge python easy
