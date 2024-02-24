@@ -9,3 +9,4 @@
 1245-tree-diameter python medium
 0787-cheapest-flights-within-k-stops python medium
 0997-find-the-town-judge python easy
+2092-find-all-people-with-secret python hard
