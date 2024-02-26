@@ -11,3 +11,4 @@
 0997-find-the-town-judge python easy
 2092-find-all-people-with-secret python hard
 2709-greatest-common-divisor-traversal python hard
+0100-same-tree python easy
