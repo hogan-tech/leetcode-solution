@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import Optional
 
 
@@ -22,7 +24,7 @@ class Solution:
             if left + right == node.val:
                 count += 1
             return node.val + left + right
-        
+
         countNodes(root)
         return count
 
