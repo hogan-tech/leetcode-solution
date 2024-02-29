@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from collections import deque
 from typing import Optional
 
@@ -15,13 +17,13 @@ class Solution:
             return True
         queue = deque([root])
         level = 0
-        
+
         while queue:
             prevVal = None
             for _ in range(len(queue)):
                 node = queue.popleft()
-                if(level % 2 == 0 and (node.val % 2 == 0 or (prevVal is not None and node.val <= prevVal))) or \
-                  (level % 2 == 1 and (node.val % 2 == 1 or (prevVal is not None and node.val >= prevVal))):
+                if (level % 2 == 0 and (node.val % 2 == 0 or (prevVal is not None and node.val <= prevVal))) or \
+                        (level % 2 == 1 and (node.val % 2 == 1 or (prevVal is not None and node.val >= prevVal))):
                     return False
                 prevVal = node.val
                 if node.left:
@@ -30,7 +32,8 @@ class Solution:
                     queue.append(node.right)
             level += 1
         return True
-    
+
+
 root = TreeNode(1)
 root.left = TreeNode(10)
 root.left.left = TreeNode(3)
