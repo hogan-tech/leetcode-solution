@@ -12,3 +12,7 @@
 2092-find-all-people-with-secret python hard
 2709-greatest-common-divisor-traversal python hard
 0100-same-tree python easy
+
+1973-count-nodes-equal-to-sum-of-descendants python medium
+1609-even-odd-tree python medium
+0513-find-bottom-left-tree-value python medium
