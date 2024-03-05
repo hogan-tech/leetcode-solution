@@ -19,3 +19,4 @@
 3062-winner-of-the-linked-list-game python easy
 2864-maximum-odd-binary-number python easy
 0948-bag-of-tokens python medium
+1750-minimum-length-of-string-after-deleting-similar-ends python medium
