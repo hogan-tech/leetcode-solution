@@ -7,3 +7,5 @@
 
 2149-rearrange-array-elements-by-sign python medium
 0006-zigzag-conversion python medium
+3005-count-elements-with-maximum-frequency python easy
+3063-linked-list-frequency python medium
