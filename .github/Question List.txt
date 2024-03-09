@@ -9,3 +9,4 @@
 0006-zigzag-conversion python medium
 3005-count-elements-with-maximum-frequency python easy
 3063-linked-list-frequency python medium
+2540-minimum-common-value python easy
