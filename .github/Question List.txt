@@ -10,3 +10,4 @@
 3005-count-elements-with-maximum-frequency python easy
 3063-linked-list-frequency python medium
 2540-minimum-common-value python easy
+0349-intersection-of-two-arrays python easy
