@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.js": "javascript",
+		"*.css": "css",
+		"*.cpp": "cpp",
+		"*.ros": "php",
+		"*.inc": "php",
+		"iostream": "cpp"
+	}
+}
