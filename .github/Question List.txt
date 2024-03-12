@@ -12,3 +12,4 @@
 2540-minimum-common-value python easy
 0349-intersection-of-two-arrays python easy
 0791-custom-sort-string python medium
+1171-remove-zero-sum-consecutive-nodes-from-linked-list python medium
