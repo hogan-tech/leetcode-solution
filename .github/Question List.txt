@@ -14,3 +14,4 @@
 0791-custom-sort-string python medium
 1171-remove-zero-sum-consecutive-nodes-from-linked-list python medium
 2485-find-the-pivot-integer python easy
+0930-binary-subarrays-with-sum python medium
