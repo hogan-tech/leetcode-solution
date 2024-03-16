@@ -15,3 +15,5 @@
 1171-remove-zero-sum-consecutive-nodes-from-linked-list python medium
 2485-find-the-pivot-integer python easy
 0930-binary-subarrays-with-sum python medium
+0525-contiguous-array python medium
+0253-meeting-rooms-ii python medium
