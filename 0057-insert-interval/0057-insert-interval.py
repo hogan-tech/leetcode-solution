@@ -1,21 +1,33 @@
+# time complexity: O(n)
+# space complexity: O(n)
+from typing import List
+
+
 class Solution:
-    def insert(self, ins: List[List[int]], new_interval: List[int]) -> List[List[int]]:
-        N = len(ins)
-        res = []
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        n = len(intervals)
         i = 0
+        res = []
 
-        while i < N and ins[i][1] < new_interval[0]:
-            res.append(ins[i])
+        # not overlapping and merge
+        while i < n and newInterval[0] > intervals[i][1]:
+            res.append(intervals[i])
             i += 1
-
-        res.append(new_interval)
-
-        while i < N and min(res[-1][1], ins[i][1]) >= max(res[-1][0], ins[i][0]):
-            res[-1] = min(res[-1][0], ins[i][0]), max(res[-1][1], ins[i][1])
+        # overlapping and  merge
+        while i < n and newInterval[1] >= intervals[i][0]:
+            newInterval[0] = min(intervals[i][0], newInterval[0])
+            newInterval[1] = max(intervals[i][1], newInterval[1])
             i += 1
-
-        while i < N:
-            res.append(ins[i])
+        res.append(newInterval)
+        # not merge
+        while i < n:
+            res.append(intervals[i])
             i += 1
 
         return res
+
+
+intervals = [[1, 2], [3, 5], [6, 7], [8, 10], [12, 16]]
+newInterval = [4, 8]
+
+print(Solution().insert(intervals, newInterval))
