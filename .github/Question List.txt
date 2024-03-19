@@ -6,3 +6,4 @@
 
 0007-reverse-integer python medium
 0452-minimum-number-of-arrows-to-burst-balloons python medium
+0010-regular-expression-matching python hard
