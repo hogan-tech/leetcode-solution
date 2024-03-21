@@ -8,3 +8,4 @@
 0452-minimum-number-of-arrows-to-burst-balloons python medium
 0010-regular-expression-matching python hard
 1669-merge-in-between-linked-lists python medium
+0073-set-matrix-zeroes python medium
