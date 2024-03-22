@@ -9,3 +9,5 @@
 0010-regular-expression-matching python hard
 1669-merge-in-between-linked-lists python medium
 0073-set-matrix-zeroes python medium
+0234-palindrome-linked-list python easy
+1119-remove-vowels-from-a-string python easy
