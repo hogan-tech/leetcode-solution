@@ -11,3 +11,5 @@
 0073-set-matrix-zeroes python medium
 0234-palindrome-linked-list python easy
 1119-remove-vowels-from-a-string python easy
+0143-reorder-list python medium
+0021-merge-two-sorted-lists javascript easy
