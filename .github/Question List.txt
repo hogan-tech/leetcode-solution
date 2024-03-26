@@ -14,3 +14,4 @@
 0143-reorder-list python medium
 0021-merge-two-sorted-lists javascript easy
 0442-find-all-duplicates-in-an-array python medium
+0041-first-missing-positive python hard
