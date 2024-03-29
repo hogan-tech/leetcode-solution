@@ -17,3 +17,5 @@
 0041-first-missing-positive python hard
 0713-subarray-product-less-than-k python medium
 2958-length-of-longest-subarray-with-at-most-k-frequency python medium
+2962-count-subarrays-where-max-element-appears-at-least-k-times python medium
+0340-longest-substring-with-at-most-k-distinct-characters python medium
