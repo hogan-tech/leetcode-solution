@@ -4,18 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-0007-reverse-integer python medium
-0452-minimum-number-of-arrows-to-burst-balloons python medium
-0010-regular-expression-matching python hard
-1669-merge-in-between-linked-lists python medium
-0073-set-matrix-zeroes python medium
-0234-palindrome-linked-list python easy
-1119-remove-vowels-from-a-string python easy
-0143-reorder-list python medium
-0021-merge-two-sorted-lists javascript easy
-0442-find-all-duplicates-in-an-array python medium
-0041-first-missing-positive python hard
-0713-subarray-product-less-than-k python medium
-2958-length-of-longest-subarray-with-at-most-k-frequency python medium
-2962-count-subarrays-where-max-element-appears-at-least-k-times python medium
-0340-longest-substring-with-at-most-k-distinct-characters python medium
+0992-subarrays-with-k-different-integers python hard
