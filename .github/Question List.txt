@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 0992-subarrays-with-k-different-integers python hard
+2444-count-subarrays-with-fixed-bounds python hard
