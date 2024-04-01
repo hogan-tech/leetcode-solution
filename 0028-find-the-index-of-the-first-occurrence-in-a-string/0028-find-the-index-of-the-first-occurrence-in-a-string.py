@@ -1,4 +1,5 @@
-
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         if needle not in haystack:
