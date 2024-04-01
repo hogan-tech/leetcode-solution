@@ -6,3 +6,5 @@
 
 0992-subarrays-with-k-different-integers python hard
 2444-count-subarrays-with-fixed-bounds python hard
+0025-reverse-nodes-in-k-group python easy
+0028-find-the-index-of-the-first-occurrence-in-a-string python easy
