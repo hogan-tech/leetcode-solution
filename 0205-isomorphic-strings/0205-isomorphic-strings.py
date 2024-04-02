@@ -1,10 +1,10 @@
-from collections import Counter
-
+# time complexity: O(n)
+# space complexity: O(1)
 
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        mappingST,mappingTS = {},{}
-        for c1, c2 in zip(s,t):
+        mappingST, mappingTS = {}, {}
+        for c1, c2 in zip(s, t):
             if (c1 not in mappingST) and (c2 not in mappingTS):
                 mappingST[c1] = c2
                 mappingTS[c2] = c1
