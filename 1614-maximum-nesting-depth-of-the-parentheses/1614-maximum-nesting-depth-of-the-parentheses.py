@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def maxDepth(self, s: str) -> int:
         depth = 0
