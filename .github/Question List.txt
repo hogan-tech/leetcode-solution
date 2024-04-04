@@ -10,3 +10,4 @@
 0028-find-the-index-of-the-first-occurrence-in-a-string python easy
 0146-lru-cache python medium
 0162-find-peak-element python medium
+1614-maximum-nesting-depth-of-the-parentheses python easy
