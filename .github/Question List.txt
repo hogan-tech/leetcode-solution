@@ -12,3 +12,4 @@
 0162-find-peak-element python medium
 1614-maximum-nesting-depth-of-the-parentheses python easy
 1544-make-the-string-great python easy
+1249-minimum-remove-to-make-valid-parentheses python medium
