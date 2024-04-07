@@ -4,12 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-0992-subarrays-with-k-different-integers python hard
-2444-count-subarrays-with-fixed-bounds python hard
-0025-reverse-nodes-in-k-group python easy
-0028-find-the-index-of-the-first-occurrence-in-a-string python easy
-0146-lru-cache python medium
-0162-find-peak-element python medium
-1614-maximum-nesting-depth-of-the-parentheses python easy
-1544-make-the-string-great python easy
-1249-minimum-remove-to-make-valid-parentheses python medium
+0678-valid-parenthesis-string python medium
