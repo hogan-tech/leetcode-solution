@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 0678-valid-parenthesis-string python medium
+1700-number-of-students-unable-to-eat-lunch python easy
