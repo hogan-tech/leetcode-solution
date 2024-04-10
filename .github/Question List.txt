@@ -8,3 +8,4 @@
 1700-number-of-students-unable-to-eat-lunch python easy
 2073-time-needed-to-buy-tickets python easy
 0255-verify-preorder-sequence-in-binary-search-tree python medium
+0950-reveal-cards-in-increasing-order python medium
