@@ -9,3 +9,5 @@
 2073-time-needed-to-buy-tickets python easy
 0255-verify-preorder-sequence-in-binary-search-tree python medium
 0950-reveal-cards-in-increasing-order python medium
+0042-trapping-rain-water python hard
+0402-remove-k-digits python medium
