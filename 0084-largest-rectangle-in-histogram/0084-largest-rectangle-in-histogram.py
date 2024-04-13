@@ -1,4 +1,5 @@
-from math import inf
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -19,3 +20,7 @@ class Solution:
             maxArea = max(maxArea, currentHeight * currentWidth)
 
         return maxArea
+
+
+Heights = [2, 1, 5, 6, 2, 3]
+print(Solution().largestRectangleArea(Heights))

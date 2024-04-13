@@ -12,3 +12,4 @@
 0042-trapping-rain-water python hard
 0402-remove-k-digits python medium
 0012-integer-to-roman python medium
+0085-maximal-rectangle python hard
