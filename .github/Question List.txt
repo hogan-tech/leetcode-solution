@@ -4,13 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-0678-valid-parenthesis-string python medium
-1700-number-of-students-unable-to-eat-lunch python easy
-2073-time-needed-to-buy-tickets python easy
-0255-verify-preorder-sequence-in-binary-search-tree python medium
-0950-reveal-cards-in-increasing-order python medium
-0042-trapping-rain-water python hard
-0402-remove-k-digits python medium
-0012-integer-to-roman python medium
-0085-maximal-rectangle python hard
-0404-sum-of-left-leaves python easy
+0129-sum-root-to-leaf-numbers python medium
+1469-find-all-the-lonely-nodes python easy
