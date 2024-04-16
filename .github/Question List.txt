@@ -6,3 +6,4 @@
 
 0129-sum-root-to-leaf-numbers python medium
 1469-find-all-the-lonely-nodes python easy
+0623-add-one-row-to-tree python medium
