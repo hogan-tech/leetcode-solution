@@ -10,3 +10,4 @@
 0988-smallest-string-starting-from-leaf python medium
 0463-island-perimeter python easy
 0016-3sum-closest python medium
+1992-find-all-groups-of-farmland python medium
