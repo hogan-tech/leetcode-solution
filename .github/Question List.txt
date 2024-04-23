@@ -14,3 +14,4 @@
 1971-find-if-path-exists-in-graph python easy
 0752-open-the-lock python medium
 0305-number-of-islands-ii python hard
+0029-divide-two-integers python medium
