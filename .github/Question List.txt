@@ -4,14 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-0129-sum-root-to-leaf-numbers python medium
-1469-find-all-the-lonely-nodes python easy
-0623-add-one-row-to-tree python medium
-0988-smallest-string-starting-from-leaf python medium
-0463-island-perimeter python easy
-0016-3sum-closest python medium
-1992-find-all-groups-of-farmland python medium
-1971-find-if-path-exists-in-graph python easy
-0752-open-the-lock python medium
-0305-number-of-islands-ii python hard
-0029-divide-two-integers python medium
+1137-n-th-tribonacci-number python, c++ easy
