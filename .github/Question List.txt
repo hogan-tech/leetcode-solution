@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 1137-n-th-tribonacci-number python, c++ easy
+2370-longest-ideal-subsequence python medium
