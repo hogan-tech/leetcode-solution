@@ -7,3 +7,4 @@
 1137-n-th-tribonacci-number python, c++ easy
 2370-longest-ideal-subsequence python medium
 1289-minimum-falling-path-sum-ii python hard
+0514-freedom-trail python hard
