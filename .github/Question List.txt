@@ -8,3 +8,6 @@
 2370-longest-ideal-subsequence python medium
 1289-minimum-falling-path-sum-ii python hard
 0514-freedom-trail python hard
+0834-sum-of-distances-in-tree python hard
+2505-bitwise-or-of-all-subsequence-sums python medium
+2997-minimum-number-of-operations-to-make-array-xor-equal-to-k python medium
