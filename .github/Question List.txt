@@ -11,3 +11,4 @@
 0834-sum-of-distances-in-tree python hard
 2505-bitwise-or-of-all-subsequence-sums python medium
 2997-minimum-number-of-operations-to-make-array-xor-equal-to-k python medium
+1915-number-of-wonderful-substrings python medium
