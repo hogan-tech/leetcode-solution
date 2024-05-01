@@ -4,11 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1137-n-th-tribonacci-number python, c++ easy
-2370-longest-ideal-subsequence python medium
-1289-minimum-falling-path-sum-ii python hard
-0514-freedom-trail python hard
-0834-sum-of-distances-in-tree python hard
-2505-bitwise-or-of-all-subsequence-sums python medium
-2997-minimum-number-of-operations-to-make-array-xor-equal-to-k python medium
-1915-number-of-wonderful-substrings python medium
+1885-count-pairs-in-two-arrays python medium
+2000-reverse-prefix-of-word python easy
