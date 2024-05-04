@@ -1,3 +1,5 @@
+# time complexity: O(n+m+max(n,m))
+# space complexity: O(n+m)
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
         nums1 = version1.split(".")
