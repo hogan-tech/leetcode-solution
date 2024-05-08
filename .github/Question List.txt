@@ -4,11 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1885-count-pairs-in-two-arrays python medium
-2000-reverse-prefix-of-word python easy
-2441-largest-positive-integer-that-exists-with-its-negative python easy
-0165-compare-version-numbers python medium
-0881-boats-to-save-people python medium
-0237-delete-node-in-a-linked-list python medium
-2487-remove-nodes-from-linked-list python medium
-2816-double-a-number-represented-as-a-linked-list python medium
+0506-relative-ranks python easy
+2473-minimum-cost-to-buy-apples python medium
