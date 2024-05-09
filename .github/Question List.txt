@@ -6,3 +6,4 @@
 
 0506-relative-ranks python easy
 2473-minimum-cost-to-buy-apples python medium
+3075-maximize-happiness-of-selected-children python medium
