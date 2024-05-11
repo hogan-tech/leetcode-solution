@@ -8,3 +8,4 @@
 2473-minimum-cost-to-buy-apples python medium
 3075-maximize-happiness-of-selected-children python medium
 0786-k-th-smallest-prime-fraction python medium
+0857-minimum-cost-to-hire-k-workers python hard
