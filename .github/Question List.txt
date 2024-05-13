@@ -10,3 +10,4 @@
 0786-k-th-smallest-prime-fraction python medium
 0857-minimum-cost-to-hire-k-workers python hard
 2373-largest-local-values-in-a-matrix python easy
+0861-score-after-flipping-matrix python medium
