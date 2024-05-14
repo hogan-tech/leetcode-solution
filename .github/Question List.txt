@@ -12,3 +12,4 @@
 2373-largest-local-values-in-a-matrix python easy
 0861-score-after-flipping-matrix python medium
 0572-subtree-of-another-tree python javascript easy
+1219-path-with-maximum-gold python medium
