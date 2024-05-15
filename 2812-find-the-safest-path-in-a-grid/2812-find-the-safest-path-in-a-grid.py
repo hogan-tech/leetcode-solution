@@ -1,3 +1,5 @@
+# time complexity: O(n^2logn)
+# space complexity: O(n^2)
 from collections import deque
 from typing import List
 
