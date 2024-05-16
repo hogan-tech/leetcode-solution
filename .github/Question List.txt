@@ -4,5 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-2061-number-of-spaces-cleaning-robot-cleaned python medium
-2812-find-the-safest-path-in-a-grid python medium
+2331-evaluate-boolean-binary-tree python easy
