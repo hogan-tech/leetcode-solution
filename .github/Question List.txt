@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 2331-evaluate-boolean-binary-tree python easy
+1325-delete-leaves-with-a-given-value python medium
