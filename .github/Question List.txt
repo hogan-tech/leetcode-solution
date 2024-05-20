@@ -8,3 +8,4 @@
 1325-delete-leaves-with-a-given-value python medium
 0979-distribute-coins-in-binary-tree python medium
 3068-find-the-maximum-sum-of-node-values python hard
+1863-sum-of-all-subset-xor-totals python easy
