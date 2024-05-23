@@ -4,9 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-2331-evaluate-boolean-binary-tree python easy
-1325-delete-leaves-with-a-given-value python medium
-0979-distribute-coins-in-binary-tree python medium
-3068-find-the-maximum-sum-of-node-values python hard
-1863-sum-of-all-subset-xor-totals python easy
-0024-swap-nodes-in-pairs python medium
+0131-palindrome-partitioning python medium
+0291-word-pattern-ii python medium
