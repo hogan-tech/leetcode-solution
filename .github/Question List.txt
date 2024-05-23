@@ -6,3 +6,4 @@
 
 0131-palindrome-partitioning python medium
 0291-word-pattern-ii python medium
+2597-the-number-of-beautiful-subsets python medium
