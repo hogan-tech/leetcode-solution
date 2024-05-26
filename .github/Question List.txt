@@ -9,3 +9,4 @@
 2597-the-number-of-beautiful-subsets python medium
 1255-maximum-score-words-formed-by-letters python hard
 0140-word-break-ii python hard
+0552-student-attendance-record-ii python hard
