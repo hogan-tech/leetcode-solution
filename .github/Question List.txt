@@ -10,3 +10,4 @@
 1255-maximum-score-words-formed-by-letters python hard
 0140-word-break-ii python hard
 0552-student-attendance-record-ii python hard
+1608-special-array-with-x-elements-greater-than-or-equal-x python easy
