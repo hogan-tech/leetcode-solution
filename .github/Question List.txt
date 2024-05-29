@@ -4,11 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-0131-palindrome-partitioning python medium
-0291-word-pattern-ii python medium
-2597-the-number-of-beautiful-subsets python medium
-1255-maximum-score-words-formed-by-letters python hard
-0140-word-break-ii python hard
-0552-student-attendance-record-ii python hard
-1608-special-array-with-x-elements-greater-than-or-equal-x python easy
-1208-get-equal-substrings-within-budget python medium
+1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one python medium
+2802-find-the-k-th-lucky-number python medium
