@@ -8,3 +8,4 @@
 2802-find-the-k-th-lucky-number python medium
 1442-count-triplets-that-can-form-two-arrays-of-equal-xor python medium
 0260-single-number-iii python medium
+3110-score-of-a-string python easy
