@@ -9,4 +9,5 @@
 1442-count-triplets-that-can-form-two-arrays-of-equal-xor python medium
 0260-single-number-iii python medium
 3110-score-of-a-string python easy
-1940-longest-common-subsequence-between-sorted-arrays python medium
+1940-longest-common-subsequence-between-sorted-arrays python 
+2486-append-characters-to-string-to-make-subsequence python medium
