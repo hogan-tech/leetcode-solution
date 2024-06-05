@@ -4,10 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one python medium
-2802-find-the-k-th-lucky-number python medium
-1442-count-triplets-that-can-form-two-arrays-of-equal-xor python medium
-0260-single-number-iii python medium
-3110-score-of-a-string python easy
-1940-longest-common-subsequence-between-sorted-arrays python 
-2486-append-characters-to-string-to-make-subsequence python medium
+1002-find-common-characters python easy
