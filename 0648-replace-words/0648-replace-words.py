@@ -1,3 +1,5 @@
+# time complexity: O(d*w + s*w^2)
+# space complexity: O(d*w + s*w)
 from typing import List
 
 
@@ -12,10 +14,10 @@ class Solution:
                     break
                 if wordIdx == len(word):
                     result.append(word[:wordIdx])
-            
-        return   " ".join(result)
+
+        return " ".join(result)
 
 
-dictionary = ["cat","bat","rat"]
+dictionary = ["cat", "bat", "rat"]
 sentence = "the cattle was rattled by the battery"
 print(Solution().replaceWords(dictionary, sentence))
