@@ -5,9 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 1002-find-common-characters python easy
-0846-hand-of-straights python medium
-0648-replace-words python medium
-0523-continuous-subarray-sum python medium
-0974-subarray-sums-divisible-by-k python medium
-1051-height-checker python easy
-2083-substrings-that-begin-and-end-with-the-same-letter python medium
+1122-relative-sort-array python easy
