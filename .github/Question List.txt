@@ -4,8 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1002-find-common-characters python easy
-1122-relative-sort-array python easy
-0061-rotate-list python medium
-2037-minimum-number-of-moves-to-seat-everyone python easy
-0945-minimum-increment-to-make-array-unique python medium
+1580-put-boxes-into-the-warehouse-ii python medium
+0502-ipo python hard
