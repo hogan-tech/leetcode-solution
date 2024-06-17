@@ -7,3 +7,4 @@
 1580-put-boxes-into-the-warehouse-ii python medium
 0502-ipo python hard
 0330-patching-array python hard
+0633-sum-of-square-numbers python medium
