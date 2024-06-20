@@ -4,8 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1580-put-boxes-into-the-warehouse-ii python medium
-0502-ipo python hard
-0330-patching-array python hard
-0633-sum-of-square-numbers python medium
-0826-most-profit-assigning-work python medium
+1482-minimum-number-of-days-to-make-m-bouquets python medium
+1552-magnetic-force-between-two-balls python medium
