@@ -6,3 +6,4 @@
 
 1482-minimum-number-of-days-to-make-m-bouquets python medium
 1552-magnetic-force-between-two-balls python medium
+1052-grumpy-bookstore-owner python medium
