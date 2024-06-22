@@ -9,3 +9,4 @@
 1052-grumpy-bookstore-owner python medium
 1248-count-number-of-nice-subarrays python medium
 2743-count-substrings-without-repeating-character python medium
+1046-last-stone-weight python easy
