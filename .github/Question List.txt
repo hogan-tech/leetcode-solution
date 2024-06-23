@@ -4,9 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1482-minimum-number-of-days-to-make-m-bouquets python medium
-1552-magnetic-force-between-two-balls python medium
-1052-grumpy-bookstore-owner python medium
-1248-count-number-of-nice-subarrays python medium
-2743-count-substrings-without-repeating-character python medium
-1046-last-stone-weight python easy
+1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit python medium
