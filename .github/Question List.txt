@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit python medium
+0995-minimum-number-of-k-consecutive-bit-flips python medium
