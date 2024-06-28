@@ -8,3 +8,5 @@
 0995-minimum-number-of-k-consecutive-bit-flips python medium
 1038-binary-search-tree-to-greater-sum-tree python medium
 1382-balance-a-binary-search-tree python medium
+1791-find-center-of-star-graph python easy
+2285-maximum-total-importance-of-roads python medium
