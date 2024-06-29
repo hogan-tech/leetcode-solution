@@ -4,9 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit python medium
-0995-minimum-number-of-k-consecutive-bit-flips python medium
-1038-binary-search-tree-to-greater-sum-tree python medium
-1382-balance-a-binary-search-tree python medium
-1791-find-center-of-star-graph python easy
-2285-maximum-total-importance-of-roads python medium
+2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph python medium
