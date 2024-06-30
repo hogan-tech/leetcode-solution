@@ -5,3 +5,5 @@
 0005-longest-palindromic-substring python medium
 
 2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph python medium
+0776-split-bst python medium
+1579-remove-max-number-of-edges-to-keep-graph-fully-traversable python hard
