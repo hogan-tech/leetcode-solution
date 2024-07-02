@@ -8,3 +8,4 @@
 0776-split-bst python medium
 1579-remove-max-number-of-edges-to-keep-graph-fully-traversable python hard
 1550-three-consecutive-odds python medium
+1101-the-earliest-moment-when-everyone-become-friends python medium
