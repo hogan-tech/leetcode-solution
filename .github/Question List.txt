@@ -4,8 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph python medium
-0776-split-bst python medium
-1579-remove-max-number-of-edges-to-keep-graph-fully-traversable python hard
-1550-three-consecutive-odds python medium
-1101-the-earliest-moment-when-everyone-become-friends python medium
+1509-minimum-difference-between-largest-and-smallest-value-in-three-moves python medium
