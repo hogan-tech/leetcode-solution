@@ -6,3 +6,4 @@
 
 1509-minimum-difference-between-largest-and-smallest-value-in-three-moves python medium
 2181-merge-nodes-in-between-zeros python medium
+2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points python medium
