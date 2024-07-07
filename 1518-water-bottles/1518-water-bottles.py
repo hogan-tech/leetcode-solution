@@ -1,3 +1,5 @@
+# time complexity: O(1)
+# space complexity: O(1)
 class Solution:
     def numWaterBottles(self, numBottles: int, numExchange: int) -> int:
         total = numBottles
