@@ -8,3 +8,5 @@
 2181-merge-nodes-in-between-zeros python medium
 2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points python medium
 1518-water-bottles python easy
+0064-minimum-path-sum python medium
+1836-remove-duplicates-from-an-unsorted-linked-list python medium
