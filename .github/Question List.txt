@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 1701-average-waiting-time python medium
+1598-crawler-log-folder python easy
