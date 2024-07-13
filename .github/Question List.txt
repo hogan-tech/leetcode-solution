@@ -4,7 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1701-average-waiting-time python medium
-1598-crawler-log-folder python easy
-1190-reverse-substrings-between-each-pair-of-parentheses python medium
-1717-maximum-score-from-removing-substrings python medium
+2751-robot-collisions python hard
