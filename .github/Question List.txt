@@ -5,3 +5,4 @@
 0005-longest-palindromic-substring python medium
 
 2751-robot-collisions python hard
+0726-number-of-atoms python hard
