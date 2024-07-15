@@ -6,3 +6,5 @@
 
 2751-robot-collisions python hard
 0726-number-of-atoms python hard
+1740-find-distance-in-a-binary-tree python medium
+2196-create-binary-tree-from-descriptions python medium
