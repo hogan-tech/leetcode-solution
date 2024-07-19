@@ -4,9 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-2751-robot-collisions python hard
-0726-number-of-atoms python hard
-1740-find-distance-in-a-binary-tree python medium
-2196-create-binary-tree-from-descriptions python medium
-1110-delete-nodes-and-return-forest python medium
-1530-number-of-good-leaf-nodes-pairs python medium
+1380-lucky-numbers-in-a-matrix python easy
