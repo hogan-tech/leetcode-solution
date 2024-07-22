@@ -4,6 +4,5 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-1380-lucky-numbers-in-a-matrix python easy
-1605-find-valid-matrix-given-row-and-column-sums python medium
-2392-build-a-matrix-with-conditions python hard
+2093-minimum-cost-to-reach-city-with-discounts python medium
+2418-sort-the-people python easy
