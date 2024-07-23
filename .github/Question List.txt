@@ -6,3 +6,4 @@
 
 2093-minimum-cost-to-reach-city-with-discounts python medium
 2418-sort-the-people python easy
+1636-sort-array-by-increasing-frequency python easy
