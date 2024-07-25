@@ -4,6 +4,4 @@
 0004-median-of-two-sorted-arrays python hard
 0005-longest-palindromic-substring python medium
 
-2093-minimum-cost-to-reach-city-with-discounts python medium
-2418-sort-the-people python easy
-1636-sort-array-by-increasing-frequency python easy
+0912-sort-an-array python medium
