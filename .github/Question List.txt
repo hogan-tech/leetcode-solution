@@ -1,9 +1,2 @@
-0001-two-sum python, typescript easy
-0002-add-two-numbers c++ medium
-0003-longest-substring-without-repeating-characters python, c++ medium
-0004-median-of-two-sorted-arrays python hard
-0005-longest-palindromic-substring python medium
-
-0912-sort-an-array python medium
-1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance python medium
-2976-minimum-cost-to-convert-string-i python medium
+1230-toss-strange-coins python medium
+1395-count-number-of-teams python medium
