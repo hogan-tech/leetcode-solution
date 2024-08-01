@@ -1,3 +1,3 @@
-1230-toss-strange-coins python medium
-1395-count-number-of-teams python medium
-1653-minimum-deletions-to-make-string-balanced python medium
+2678-number-of-senior-citizens python easy
+1062-longest-repeating-substring python medium
+1105-filling-bookcase-shelves python medium
