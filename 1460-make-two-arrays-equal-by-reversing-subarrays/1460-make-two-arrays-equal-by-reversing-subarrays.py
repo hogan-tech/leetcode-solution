@@ -1,3 +1,5 @@
+# time complexity: O(1)
+# space complexity: O(1)
 from typing import Counter, List
 
 
