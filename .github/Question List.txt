@@ -1,3 +1,2 @@
-2678-number-of-senior-citizens python easy
-1062-longest-repeating-substring python medium
-1105-filling-bookcase-shelves python medium
+2134-minimum-swaps-to-group-all-1s-together-ii python medium
+1460-make-two-arrays-equal-by-reversing-subarrays python easy
