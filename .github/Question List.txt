@@ -1,8 +1,2 @@
-2134-minimum-swaps-to-group-all-1s-together-ii python medium
-1460-make-two-arrays-equal-by-reversing-subarrays python easy
-1508-range-sum-of-sorted-subarray-sums python medium
-2053-kth-distinct-string-in-an-array python easy
-3016-minimum-number-of-pushes-to-type-word-ii python medium
-0273-integer-to-english-words python hard
-0885-spiral-matrix-iii python medium
-0703-kth-largest-element-in-a-stream python easy
+0351-android-unlock-patterns python medium
+0840-magic-squares-in-grid python medium
