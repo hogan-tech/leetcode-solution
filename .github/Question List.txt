@@ -1,2 +1,3 @@
 0351-android-unlock-patterns python medium
 0840-magic-squares-in-grid python medium
+0959-regions-cut-by-slashes python medium
