@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         minLen = min(len(word1), len(word2))
