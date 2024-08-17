@@ -7,3 +7,4 @@
 0719-find-k-th-smallest-pair-distance python hard
 0860-lemonade-change python easy
 3189-minimum-moves-to-get-a-peaceful-board python medium
+1937-maximum-number-of-points-with-cost python medium
