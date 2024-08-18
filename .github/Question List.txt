@@ -1,10 +1,2 @@
-0351-android-unlock-patterns python medium
-0840-magic-squares-in-grid python medium
-0959-regions-cut-by-slashes python medium
-1568-minimum-number-of-days-to-disconnect-island python hard
-1768-merge-strings-alternately python easy
-0040-combination-sum-ii python medium
-0719-find-k-th-smallest-pair-distance python hard
-0860-lemonade-change python easy
-3189-minimum-moves-to-get-a-peaceful-board python medium
-1937-maximum-number-of-points-with-cost python medium
+0263-ugly-number python easy
+0264-ugly-number-ii python medium
