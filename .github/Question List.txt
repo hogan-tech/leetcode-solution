@@ -1,2 +1,3 @@
 0263-ugly-number python easy
 0264-ugly-number-ii python medium
+0650-2-keys-keyboard python medium
