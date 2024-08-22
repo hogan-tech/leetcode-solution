@@ -1,4 +1,2 @@
-0263-ugly-number python easy
-0264-ugly-number-ii python medium
-0650-2-keys-keyboard python medium
-1140-stone-game-ii python medium
+0476-number-complement python easy
+0320-generalized-abbreviation python medium
