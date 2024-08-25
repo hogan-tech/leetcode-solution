@@ -1,3 +1,5 @@
+# time complexity: O(n+m)
+# space complexity: O(n)
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         patternMap, wordMap = {}, {}
