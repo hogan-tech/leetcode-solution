@@ -2,3 +2,4 @@
 0320-generalized-abbreviation python medium
 0564-find-the-closest-palindrome python hard
 0592-fraction-addition-and-subtraction python medium
+0290-word-pattern python easy
