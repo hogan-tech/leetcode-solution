@@ -3,3 +3,5 @@
 0564-find-the-closest-palindrome python hard
 0592-fraction-addition-and-subtraction python medium
 0290-word-pattern python easy
+0219-contains-duplicate-ii python easy
+0590-n-ary-tree-postorder-traversal python easy
