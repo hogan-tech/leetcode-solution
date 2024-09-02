@@ -1,3 +1,5 @@
 0122-best-time-to-buy-and-sell-stock-ii python medium
 2022-convert-1d-array-into-2d-array python easy
 0274-h-index python medium
+1634-add-two-polynomials-represented-as-linked-lists python medium
+1894-find-the-student-that-will-replace-the-chalk python medium
