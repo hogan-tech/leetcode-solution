@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 from typing import Optional
 
 
@@ -11,6 +13,7 @@ class TreeNode:
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         counter = 0
+
         def traverse(node: Optional[TreeNode]):
             nonlocal counter
             if node is None:
@@ -20,7 +23,6 @@ class Solution:
             traverse(node.right)
         traverse(root)
         return counter
-
 
 
 root = TreeNode(1)
