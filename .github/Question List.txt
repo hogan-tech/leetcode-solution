@@ -3,3 +3,4 @@
 0151-reverse-words-in-a-string python medium
 0209-minimum-size-subarray-sum python meidum
 0228-summary-ranges python easy
+0222-count-complete-tree-nodes python easy
