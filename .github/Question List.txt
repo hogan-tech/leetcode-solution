@@ -1,3 +1,4 @@
 0289-game-of-life python medium
 2028-find-missing-observations python medium
 1431-kids-with-the-greatest-number-of-candies python easy
+0605-can-place-flowers python easy
