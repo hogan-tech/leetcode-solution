@@ -2,3 +2,4 @@
 0874-walking-robot-simulation python medium
 0151-reverse-words-in-a-string python medium
 0209-minimum-size-subarray-sum python meidum
+0228-summary-ranges python easy
