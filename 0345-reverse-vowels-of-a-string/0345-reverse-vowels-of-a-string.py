@@ -1,6 +1,8 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        vowels = ['a','e','i','o','u','A','E','I','O','U']
+        vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
         vowelsList = []
         for c in s:
             if c in vowels:
