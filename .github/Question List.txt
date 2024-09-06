@@ -3,3 +3,4 @@
 1431-kids-with-the-greatest-number-of-candies python easy
 0605-can-place-flowers python easy
 0345-reverse-vowels-of-a-string python easy
+3217-delete-nodes-from-linked-list-present-in-array python medium
