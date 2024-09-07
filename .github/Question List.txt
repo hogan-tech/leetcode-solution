@@ -1,11 +1,1 @@
-0289-game-of-life python medium
-2028-find-missing-observations python medium
-1431-kids-with-the-greatest-number-of-candies python easy
-0605-can-place-flowers python easy
-0345-reverse-vowels-of-a-string python easy
-3217-delete-nodes-from-linked-list-present-in-array python medium
-1151-minimum-swaps-to-group-all-1s-together python medium
-2334-subarray-with-elements-greater-than-varying-threshold python hard
-0210-course-schedule-ii python medium
-0093-restore-ip-addresses python medium
-1367-linked-list-in-binary-tree python medium
+0694-number-of-distinct-islands python medium
