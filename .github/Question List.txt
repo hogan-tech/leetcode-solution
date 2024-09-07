@@ -3,3 +3,4 @@
 1011-capacity-to-ship-packages-within-d-days python medium
 0072-edit-distance python medium
 0124-binary-tree-maximum-path-sum python medium
+0394-decode-string python medium
