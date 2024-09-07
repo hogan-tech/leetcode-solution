@@ -1,1 +1,2 @@
 0694-number-of-distinct-islands python medium
+0160-intersection-of-two-linked-lists python easy
