@@ -1,3 +1,5 @@
+# time complexity: O(n*m)
+# space complexity: O(n+m)
 from typing import Optional
 
 
@@ -32,7 +34,7 @@ class Solution:
 
 head = ListNode(4)
 head.next = ListNode(2)
-head.next.next = ListNode(1)
+head.next.next = ListNode(0)
 
 root = TreeNode(1)
 root.left = TreeNode(4)
