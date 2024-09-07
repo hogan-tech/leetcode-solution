@@ -8,3 +8,4 @@
 2334-subarray-with-elements-greater-than-varying-threshold python hard
 0210-course-schedule-ii python medium
 0093-restore-ip-addresses python medium
+1367-linked-list-in-binary-tree python medium
