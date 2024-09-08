@@ -3,3 +3,5 @@
 3282-reach-end-of-array-with-max-score python medium
 0473-matchsticks-to-square python medium
 0924-minimize-malware-spread python hard
+
+3043-find-the-length-of-the-longest-common-prefix python medium
