@@ -1,3 +1,4 @@
 3280-convert-date-to-binary python easy
 3281-maximize-score-of-numbers-in-ranges python medium
 3282-reach-end-of-array-with-max-score python medium
+0473-matchsticks-to-square python medium
