@@ -1,6 +1,3 @@
-0694-number-of-distinct-islands python medium
-0160-intersection-of-two-linked-lists python easy
-1011-capacity-to-ship-packages-within-d-days python medium
-0072-edit-distance python medium
-0124-binary-tree-maximum-path-sum python medium
-0394-decode-string python medium
+3280-convert-date-to-binary python easy
+3281-maximize-score-of-numbers-in-ranges python medium
+3282-reach-end-of-array-with-max-score python medium
