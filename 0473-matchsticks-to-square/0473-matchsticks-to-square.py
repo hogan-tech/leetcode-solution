@@ -1,3 +1,5 @@
+# time complexity: O(4^n)
+# space complexity: O(n)
 from typing import List
 
 
