@@ -1,1 +1,2 @@
 1010-pairs-of-songs-with-total-durations-divisible-by-60 python medium
+2592-maximize-greatness-of-an-array python medium
