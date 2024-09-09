@@ -1,1 +1,1 @@
-0399-evaluate-division python medium
+1010-pairs-of-songs-with-total-durations-divisible-by-60 python medium
