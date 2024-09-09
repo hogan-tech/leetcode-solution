@@ -5,3 +5,5 @@
 0924-minimize-malware-spread python hard
 
 3043-find-the-length-of-the-longest-common-prefix python medium
+2326-spiral-matrix-iv python medium
+1770-maximum-score-from-performing-multiplication-operations python hard
