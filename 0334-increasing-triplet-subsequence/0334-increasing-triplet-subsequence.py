@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 from typing import List
 
 
@@ -12,7 +14,6 @@ class Solution:
             else:
                 return True
         return False
-        
 
 
 nums = [2, 1, 5, 0, 4, 6]
