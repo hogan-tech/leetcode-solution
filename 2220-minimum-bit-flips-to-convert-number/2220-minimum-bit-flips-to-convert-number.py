@@ -1,4 +1,5 @@
-
+# time complexity: O(n)
+# space complexity: O(1)
 
 class Solution:
     def minBitFlips(self, start: int, goal: int) -> int:
@@ -13,9 +14,8 @@ class Solution:
         for i in range(len(startBin)):
             if goalBin[i] != startBin[i]:
                 count += 1
-        print(startBin)
-        print(goalBin)
         return count
+
 
 start = 3
 goal = 4
