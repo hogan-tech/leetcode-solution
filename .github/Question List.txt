@@ -4,3 +4,5 @@
 0037-sudoku-solver python hard
 2771-longest-non-decreasing-subarray-from-two-arrays python medium
 0718-maximum-length-of-repeated-subarray python medium
+0400-nth-digit python medium
+0152-maximum-product-subarray python medium
