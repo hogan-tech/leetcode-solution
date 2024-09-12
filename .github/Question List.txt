@@ -4,3 +4,4 @@
 1679-max-number-of-k-sum-pairs python medium
 0259-3sum-smaller python medium
 1684-count-the-number-of-consistent-strings python easy
+2985-calculate-compressed-mean sql easy
