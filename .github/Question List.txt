@@ -1,3 +1,4 @@
 2220-minimum-bit-flips-to-convert-number python easy
 0334-increasing-triplet-subsequence python medium
 0443-string-compression python medium
+1679-max-number-of-k-sum-pairs python medium
