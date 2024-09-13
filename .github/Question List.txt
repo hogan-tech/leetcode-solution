@@ -1,1 +1,2 @@
 0643-maximum-average-subarray-i python easy
+1310-xor-queries-of-a-subarray python medium
