@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
         vowels = ['a', 'e', 'i', 'o', 'u']
