@@ -1,7 +1,1 @@
-0643-maximum-average-subarray-i python easy
-1310-xor-queries-of-a-subarray python medium
-1456-maximum-number-of-vowels-in-a-substring-of-given-length python medium
-1004-max-consecutive-ones-iii python medium
-2215-find-the-difference-of-two-arrays python easy
-0724-find-pivot-index python easy
-1732-find-the-highest-altitude python easy
+1493-longest-subarray-of-1s-after-deleting-one-element python medium
