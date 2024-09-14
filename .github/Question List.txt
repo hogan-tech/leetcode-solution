@@ -1,1 +1,2 @@
 1493-longest-subarray-of-1s-after-deleting-one-element python medium
+0374-guess-number-higher-or-lower python easy
