@@ -1,1 +1,2 @@
 2352-equal-row-and-column-pairs python medium
+2390-removing-stars-from-a-string python medium
