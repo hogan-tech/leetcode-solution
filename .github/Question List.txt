@@ -1,1 +1,3 @@
 2419-longest-subarray-with-maximum-bitwise-and python medium
+3289-the-two-sneaky-numbers-of-digitville python easy
+3290-maximum-multiplication-score python medium
