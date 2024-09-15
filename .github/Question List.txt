@@ -1,5 +1,1 @@
-2419-longest-subarray-with-maximum-bitwise-and python medium
-3289-the-two-sneaky-numbers-of-digitville python easy
-3290-maximum-multiplication-score python medium
-1371-find-the-longest-substring-containing-vowels-in-even-counts python medium
-1257-smallest-common-region python medium
+2352-equal-row-and-column-pairs python medium
