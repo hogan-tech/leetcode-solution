@@ -1,21 +1,27 @@
+# time complexity: O(n)
+# space complexity: O(n)
+from typing import List
+
+
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
-        ans = []
         stack = []
-        for x in asteroids:
-            if x > 0:
-                stack.append(x)
+        result = []
+        for asteroid in asteroids:
+            if asteroid > 0:
+                stack.append(asteroid)
             else:
-                # negative asteroid destroys others in stack one by one
-                while len(stack) > 0 and stack[-1] < abs(x):
+                while len(stack) > 0 and stack[-1] < abs(asteroid):
                     stack.pop()
-                # negative asteroid destroyed everyone
                 if len(stack) == 0:
-                    ans.append(x)
-                # negative asteroid was beaten by positive asteroid (stack[-1])
+                    result.append(asteroid)
                 else:
-                    # they destroyed each other
-                    if stack[-1] == abs(x):
+                    if stack[-1] == abs(asteroid):
                         stack.pop()
-        ans += stack
-        return ans
+        result += stack
+        return result
+
+
+
+asteroids = [10, 2, -5]
+print(Solution().asteroidCollision(asteroids))
