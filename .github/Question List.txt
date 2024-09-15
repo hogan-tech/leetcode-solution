@@ -1,4 +1,1 @@
-1493-longest-subarray-of-1s-after-deleting-one-element python medium
-0374-guess-number-higher-or-lower python easy
-3285-find-indices-of-stable-mountains python easy
-3286-find-a-safe-walk-through-a-grid python medium
+2419-longest-subarray-with-maximum-bitwise-and python medium
