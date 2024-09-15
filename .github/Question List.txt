@@ -1,2 +1,3 @@
 2352-equal-row-and-column-pairs python medium
 2390-removing-stars-from-a-string python medium
+0735-asteroid-collision python medium
