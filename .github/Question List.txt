@@ -2,3 +2,4 @@
 2390-removing-stars-from-a-string python medium
 0735-asteroid-collision python medium
 0933-number-of-recent-calls python easy
+2095-delete-the-middle-node-of-a-linked-list python medium
