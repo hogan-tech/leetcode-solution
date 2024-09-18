@@ -1,3 +1,5 @@
 0539-minimum-time-difference python medium
 0299-bulls-and-cows python medium
 0884-uncommon-words-from-two-sentences python easy
+0179-largest-number python medium
+0649-dota2-senate python medium
