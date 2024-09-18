@@ -1,3 +1,5 @@
+# time complexity: O(h)
+# space complexity: O(h)
 from typing import Optional
 
 
@@ -40,7 +42,6 @@ class Solution:
             root.val = successor.val
             root.right = self.deleteNode(root.right, successor.val)
 
-        # self.traverse(root)
         return root
 
 
