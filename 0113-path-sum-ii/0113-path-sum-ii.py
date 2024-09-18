@@ -11,19 +11,16 @@ class TreeNode:
 
 
 class Solution:
-    def helper(self, node: TreeNode, remainingSum: int, pathNodes: List[int], pathsList: List[int]) -> None:
+    def helper(self, node: TreeNode, remainingSum: int, pathNode: List[int], result: List[List[int]]):
         if node is None:
             return
-        pathNodes.append(node.val)
-        if remainingSum == node.val and node.left is None and node.right is None:
-            pathsList.append(list(pathNodes))
+        pathNode.append(node.val)
+        if node.val == remainingSum and node.left is None and node.right is None:
+            result.append(list(pathNode))
         else:
-            self.helper(node.left, remainingSum -
-                        node.val, pathNodes, pathsList)
-            self.helper(node.right, remainingSum -
-                        node.val, pathNodes, pathsList)
-
-        pathNodes.pop()
+            self.helper(node.left, remainingSum - node.val, pathNode, result)
+            self.helper(node.right, remainingSum - node.val, pathNode, result)
+        pathNode.pop()
 
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
         result = []
