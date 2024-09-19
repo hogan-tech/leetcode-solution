@@ -1,1 +1,2 @@
 0096-unique-binary-search-trees python medium
+0241-different-ways-to-add-parentheses python medium
