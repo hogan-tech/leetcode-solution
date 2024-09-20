@@ -1,3 +1,5 @@
+# time complexity: O(N + E)
+# space complexity: O(N)
 from typing import List
 
 
