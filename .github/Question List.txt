@@ -2,3 +2,4 @@
 0241-different-ways-to-add-parentheses python medium
 1360-number-of-days-between-two-dates python easy
 0214-shortest-palindrome python hard
+2130-maximum-twin-sum-of-a-linked-list python medium
