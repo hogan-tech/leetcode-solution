@@ -1,6 +1,1 @@
-0096-unique-binary-search-trees python medium
-0241-different-ways-to-add-parentheses python medium
-1360-number-of-days-between-two-dates python easy
-0214-shortest-palindrome python hard
-2130-maximum-twin-sum-of-a-linked-list python medium
-0841-keys-and-rooms python medium
+0547-number-of-provinces python medium
