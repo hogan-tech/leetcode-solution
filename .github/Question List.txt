@@ -1,3 +1,4 @@
 2462-total-cost-to-hire-k-workers python medium
 2300-successful-pairs-of-spells-and-potions python medium
 0216-combination-sum-iii python medium
+0790-domino-and-tromino-tiling python medium
