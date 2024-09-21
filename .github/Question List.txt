@@ -2,3 +2,4 @@
 1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero python medium
 0386-lexicographical-numbers python medium
 1926-nearest-exit-from-entrance-in-maze python medium
+2336-smallest-number-in-infinite-set python medium
