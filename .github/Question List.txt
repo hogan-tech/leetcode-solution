@@ -1,2 +1,3 @@
 0547-number-of-provinces python medium
 1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero python medium
+0386-lexicographical-numbers python medium
