@@ -3,3 +3,4 @@
 0386-lexicographical-numbers python medium
 1926-nearest-exit-from-entrance-in-maze python medium
 2336-smallest-number-in-infinite-set python medium
+2542-maximum-subsequence-score python medium
