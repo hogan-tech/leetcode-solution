@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         result = 0
