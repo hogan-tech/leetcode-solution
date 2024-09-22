@@ -2,3 +2,4 @@
 2300-successful-pairs-of-spells-and-potions python medium
 0216-combination-sum-iii python medium
 0790-domino-and-tromino-tiling python medium
+0424-longest-repeating-character-replacement python medium
