@@ -1,5 +1,2 @@
-2462-total-cost-to-hire-k-workers python medium
-2300-successful-pairs-of-spells-and-potions python medium
-0216-combination-sum-iii python medium
-0790-domino-and-tromino-tiling python medium
-0424-longest-repeating-character-replacement python medium
+3295-report-spam-message python medium
+3296-minimum-number-of-seconds-to-make-mountain-height-zero python medium
