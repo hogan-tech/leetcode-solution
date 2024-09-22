@@ -1,3 +1,4 @@
 3295-report-spam-message python medium
 3296-minimum-number-of-seconds-to-make-mountain-height-zero python medium
 0901-online-stock-span python medium
+0440-k-th-smallest-in-lexicographical-order python hard
