@@ -2,3 +2,4 @@
 3296-minimum-number-of-seconds-to-make-mountain-height-zero python medium
 0901-online-stock-span python medium
 0440-k-th-smallest-in-lexicographical-order python hard
+1858-longest-word-with-all-prefixes python medium
