@@ -1,6 +1,1 @@
-3295-report-spam-message python medium
-3296-minimum-number-of-seconds-to-make-mountain-height-zero python medium
-0901-online-stock-span python medium
-0440-k-th-smallest-in-lexicographical-order python hard
-1858-longest-word-with-all-prefixes python medium
-0714-best-time-to-buy-and-sell-stock-with-transaction-fee python medium
+1318-minimum-flips-to-make-a-or-b-equal-to-c python medium
