@@ -2,3 +2,4 @@
 1268-search-suggestions-system python medium
 0435-non-overlapping-intervals python medium
 0030-substring-with-concatenation-of-all-words python hard
+0071-simplify-path python medium
