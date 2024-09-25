@@ -1,2 +1,3 @@
 0082-remove-duplicates-from-sorted-list-ii python medium
 2416-sum-of-prefix-scores-of-strings python hard
+0106-construct-binary-tree-from-inorder-and-postorder-traversal python medium
