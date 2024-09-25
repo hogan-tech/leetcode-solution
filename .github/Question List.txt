@@ -2,3 +2,4 @@
 2416-sum-of-prefix-scores-of-strings python hard
 0106-construct-binary-tree-from-inorder-and-postorder-traversal python medium
 0117-populating-next-right-pointers-in-each-node-ii python medium
+0114-flatten-binary-tree-to-linked-list python medium
