@@ -1,3 +1,4 @@
 0130-surrounded-regions python medium
 0433-minimum-genetic-mutation python medium
 0909-snakes-and-ladders python medium
+0172-factorial-trailing-zeroes python medium
