@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(h)
 import statistics
 from typing import List, Optional
 
@@ -15,7 +17,7 @@ class Solution:
         result = []
         if root is None:
             return
-        
+
         def levelOrder(node: TreeNode, level: List[int]):
             if len(levels) == level:
                 levels.append([])
