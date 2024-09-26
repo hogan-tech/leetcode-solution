@@ -1,3 +1,5 @@
+# time complexity: O(nlogn)
+# space complexity: O(n)
 from typing import Optional
 
 
@@ -11,6 +13,7 @@ class TreeNode:
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         nodeList = []
+
         def traverse(node: Optional[TreeNode]):
             nonlocal nodeList
             if node is None:
@@ -22,7 +25,7 @@ class Solution:
         traverse(root)
         nodeList.sort()
         minDif = float("inf")
-        for i in range(1,len(nodeList)):
+        for i in range(1, len(nodeList)):
             minDif = min(minDif, nodeList[i] - nodeList[i-1])
         return minDif
 
