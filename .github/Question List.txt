@@ -2,3 +2,4 @@
 0212-word-search-ii python hard
 0051-n-queens python hard
 0052-n-queens-ii python hard
+0373-find-k-pairs-with-smallest-sums python medium
