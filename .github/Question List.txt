@@ -1,6 +1,1 @@
-0918-maximum-sum-circular-subarray python medium
-0731-my-calendar-ii python medium
-0240-search-a-2d-matrix-ii python medium
-3300-minimum-element-after-replacement-with-digit-sum python easy
-3301-maximize-the-total-height-of-unique-towers python medium
-0641-design-circular-deque python medium
+0432-all-oone-data-structure hard
