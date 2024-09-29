@@ -1,5 +1,2 @@
-0432-all-oone-data-structure python hard
-0212-word-search-ii python hard
-0051-n-queens python hard
-0052-n-queens-ii python hard
-0373-find-k-pairs-with-smallest-sums python medium
+3304-find-the-k-th-character-in-string-game-i python easy
+3305-count-of-substrings-containing-every-vowel-and-k-consonants-i python medium
