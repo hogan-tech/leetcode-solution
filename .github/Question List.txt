@@ -1,2 +1,3 @@
 3304-find-the-k-th-character-in-string-game-i python easy
 3305-count-of-substrings-containing-every-vowel-and-k-consonants-i python medium
+0149-max-points-on-a-line python hard
