@@ -1,39 +1,38 @@
+# time complexity: O(nlogn)
+# space complexity: O(1)
 from typing import List
 
 
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        lower_bound = self.findBound(nums, target, True)
-        if (lower_bound == -1):
+        lowerBound = self.findBound(nums, target, True)
+        if lowerBound == -1:
             return [-1, -1]
-        upper_bound = self.findBound(nums, target, False)
-        return [lower_bound, upper_bound]
+        upperBound = self.findBound(nums, target, False)
+        return [lowerBound, upperBound]
 
     def findBound(self, nums: List[int], target: int, isFirst: bool) -> int:
-
-        N = len(nums)
-        begin, end = 0, N - 1
-        while begin <= end:
-            mid = int((begin + end) / 2)
+        left = 0
+        right = len(nums) - 1
+        while left <= right:
+            mid = (right + left) // 2
             if nums[mid] == target:
                 if isFirst:
-                    if mid == begin or nums[mid - 1] < target:
+                    if mid == left or nums[mid - 1] < target:
                         return mid
-                    end = mid - 1
+                    right = mid - 1
                 else:
-                    if mid == end or nums[mid + 1] > target:
+                    if mid == right or nums[mid + 1] > target:
                         return mid
-                    begin = mid + 1
-
+                    left = mid + 1
             elif nums[mid] > target:
-                end = mid - 1
+                right = mid - 1
             else:
-                begin = mid + 1
-
+                left = mid + 1
         return -1
 
 
 nums = [5, 7, 7, 8, 8, 10]
-target = 8
+target = 6
 
 print(Solution().searchRange(nums, target))
