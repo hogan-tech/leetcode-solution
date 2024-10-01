@@ -1,4 +1,3 @@
-1133-largest-unique-number python easy
-1497-check-if-array-pairs-are-divisible-by-k python medium
-0123-best-time-to-buy-and-sell-stock-iii python hard
-0188-best-time-to-buy-and-sell-stock-iv python hard
+0560-subarray-sum-equals-k python medium
+0142-linked-list-cycle-ii python medium
+0032-longest-valid-parentheses python hard
