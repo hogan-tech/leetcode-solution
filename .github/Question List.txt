@@ -1,5 +1,1 @@
-0560-subarray-sum-equals-k python medium
-0142-linked-list-cycle-ii python medium
-0032-longest-valid-parentheses python hard
-0744-find-smallest-letter-greater-than-target python easy
-1351-count-negative-numbers-in-a-sorted-matrix python easy
+1331-rank-transform-of-an-array python easy
