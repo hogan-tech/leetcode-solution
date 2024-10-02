@@ -1,2 +1,3 @@
 1331-rank-transform-of-an-array python easy
 0047-permutations-ii python medium
+0043-multiply-strings python medium
