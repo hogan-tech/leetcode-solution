@@ -1,3 +1,5 @@
-1331-rank-transform-of-an-array python easy
-0047-permutations-ii python medium
-0043-multiply-strings python medium
+1378-replace-employee-id-with-the-unique-identifier SQL easy
+1581-customer-who-visited-but-did-not-make-any-transactions SQL easy
+1661-average-time-of-process-per-machine SQL easy
+1068-product-sales-analysis-i SQL easy
+0577-employee-bonus SQL easy
