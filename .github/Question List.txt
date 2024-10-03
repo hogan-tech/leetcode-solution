@@ -1,3 +1,4 @@
-1280-students-and-examinations SQL easy
-0570-managers-with-at-least-5-direct-reports SQL medium
-1934-confirmation-rate SQL medium
+0620-not-boring-movies SQL easy
+1251-average-selling-price SQL easy
+1075-project-employees-i SQL easy
+1633-percentage-of-users-attended-a-contest SQL easy
