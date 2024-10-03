@@ -1,4 +1,1 @@
-0620-not-boring-movies SQL easy
-1251-average-selling-price SQL easy
-1075-project-employees-i SQL easy
-1633-percentage-of-users-attended-a-contest SQL easy
+1590-make-sum-divisible-by-p python medium
