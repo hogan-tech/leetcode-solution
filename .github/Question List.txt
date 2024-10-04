@@ -1,1 +1,1 @@
-1590-make-sum-divisible-by-p python medium
+2491-divide-players-into-teams-of-equal-skill python medium
