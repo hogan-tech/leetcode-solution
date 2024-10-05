@@ -1,1 +1,2 @@
 0323-number-of-connected-components-in-an-undirected-graph python medium
+0269-alien-dictionary python hard
