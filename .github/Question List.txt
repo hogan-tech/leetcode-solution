@@ -1,4 +1,2 @@
-2491-divide-players-into-teams-of-equal-skill python medium
-2013-detect-squares python medium
-0252-meeting-rooms python easy
-0684-redundant-connection python medium
+0371-sum-of-two-integers python medium
+0567-permutation-in-string python medium
