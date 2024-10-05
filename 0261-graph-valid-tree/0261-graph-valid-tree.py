@@ -1,9 +1,11 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
 class UnionFind:
-    def __init__(self, node: int) -> None:
-        self.parents: list[int] = list(range(node))
+    def __init__(self, n: int) -> None:
+        self.parents = list(range(n))
 
     def find(self, node: int) -> int:
         while node != self.parents[node]:
@@ -22,13 +24,13 @@ class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
         if len(edges) != n - 1:
             return False
-        disjointUnionSets = UnionFind(n)
+        disjointUnionSet = UnionFind(n)
         for startVertex, endVertex in edges:
-            if not disjointUnionSets.union(startVertex, endVertex):
+            if not disjointUnionSet.union(startVertex, endVertex):
                 return False
         return True
 
 
 n = 5
-edges = [[0, 1], [0, 2], [0, 3], [1, 4]]
+edges = [[0, 1], [0, 2], [0, 3], [2, 3]]
 print(Solution().validTree(n, edges))
