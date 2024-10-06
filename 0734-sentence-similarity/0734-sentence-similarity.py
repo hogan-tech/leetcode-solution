@@ -1,3 +1,5 @@
+# time complexity: O((n + k) * m)
+# space complexity: O(k*m)
 from collections import defaultdict
 from typing import List
 
@@ -8,12 +10,10 @@ class Solution:
             return False
         wordMap = defaultdict(set)
 
-
         for similarPair in similarPairs:
             wordMap[similarPair[0]].add(similarPair[1])
             wordMap[similarPair[1]].add(similarPair[0])
 
-        print(wordMap)
         for i in range(len(sentence1)):
             if sentence1[i] == sentence2[i] or sentence2[i] in wordMap[sentence1[i]]:
                 continue
