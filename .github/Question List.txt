@@ -1,2 +1,4 @@
 0734-sentence-similarity python easy
 0737-sentence-similarity-ii python medium
+3309-maximum-possible-number-by-binary-concatenation python medium
+3310-remove-methods-from-project python medium
