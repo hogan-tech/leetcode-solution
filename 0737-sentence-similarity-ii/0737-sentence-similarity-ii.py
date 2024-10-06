@@ -1,3 +1,5 @@
+# time complexity: O((n + k) * m)
+# space complexity: O(k*m)
 from itertools import chain
 from typing import List
 
@@ -35,7 +37,7 @@ class Solution:
 
         for startVertex, endVertex in similarPairs:
             disjointUnionSet.union(startVertex, endVertex)
-        
+
         for word1, word2 in zip(sentence1, sentence2):
             if disjointUnionSet.find(word1) != disjointUnionSet.find(word2):
                 return False
