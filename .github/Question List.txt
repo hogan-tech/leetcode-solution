@@ -1,1 +1,2 @@
 0286-walls-and-gates python medium
+0494-target-sum python medium
