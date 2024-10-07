@@ -1,4 +1,1 @@
-0286-walls-and-gates python medium
-0494-target-sum python medium
-2696-minimum-string-length-after-removing-substrings python easy
-0309-best-time-to-buy-and-sell-stock-with-cooldown python medium
+0115-distinct-subsequences python hard
