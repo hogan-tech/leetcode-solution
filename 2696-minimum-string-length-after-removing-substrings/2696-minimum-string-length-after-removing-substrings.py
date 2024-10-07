@@ -1,3 +1,5 @@
+# time complexity: O(n^2)
+# space complexity: O(n)
 class Solution:
     def minLength(self, s: str) -> int:
         while "AB" in s or "CD" in s:
