@@ -1,4 +1,6 @@
-from collections import defaultdict, deque
+# time complexity: O(n + elogn)
+# space complexity: O(n+e)
+from collections import defaultdict
 import heapq
 from typing import List
 
