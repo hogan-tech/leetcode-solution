@@ -1,1 +1,2 @@
 0115-distinct-subsequences python hard
+0743-network-delay-time python medium
