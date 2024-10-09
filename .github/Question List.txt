@@ -1,1 +1,2 @@
 0921-minimum-add-to-make-parentheses-valid python medium
+0692-top-k-frequent-words python medium
