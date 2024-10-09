@@ -1,1 +1,2 @@
 1963-minimum-number-of-swaps-to-make-the-string-balanced python medium
+2838-maximum-coins-heroes-can-collect python medium
