@@ -1,3 +1,4 @@
 0921-minimum-add-to-make-parentheses-valid python medium
 0692-top-k-frequent-words python medium
 1730-shortest-path-to-get-food python medium
+0662-maximum-width-of-binary-tree python medium
