@@ -1,3 +1,4 @@
 0227-basic-calculator-ii python medium
 0285-inorder-successor-in-bst python medium
 0362-design-hit-counter python medium
+0528-random-pick-with-weight python medium
