@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
         stack = []
