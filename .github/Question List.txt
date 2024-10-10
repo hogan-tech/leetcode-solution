@@ -3,3 +3,4 @@
 0362-design-hit-counter python medium
 0528-random-pick-with-weight python medium
 1899-merge-triplets-to-form-target-triplet python medium
+0355-design-twitter python medium
