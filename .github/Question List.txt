@@ -1,6 +1,1 @@
-0227-basic-calculator-ii python medium
-0285-inorder-successor-in-bst python medium
-0362-design-hit-counter python medium
-0528-random-pick-with-weight python medium
-1899-merge-triplets-to-form-target-triplet python medium
-0355-design-twitter python medium
+0962-maximum-width-ramp python medium
