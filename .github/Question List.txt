@@ -2,3 +2,4 @@
 0895-maximum-frequency-stack python hard
 0863-all-nodes-distance-k-in-binary-tree python medium
 0329-longest-increasing-path-in-a-matrix python hard
+0778-swim-in-rising-water python hard
