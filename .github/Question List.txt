@@ -1,3 +1,4 @@
 0962-maximum-width-ramp python medium
 0895-maximum-frequency-stack python hard
 0863-all-nodes-distance-k-in-binary-tree python medium
+0329-longest-increasing-path-in-a-matrix python hard
