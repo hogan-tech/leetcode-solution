@@ -1,2 +1,3 @@
 3155-maximum-number-of-upgradable-servers python medium
 0588-design-in-memory-file-system python hard
+2303-calculate-amount-paid-in-taxes python easy
