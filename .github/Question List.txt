@@ -2,3 +2,4 @@
 0588-design-in-memory-file-system python hard
 2303-calculate-amount-paid-in-taxes python easy
 2406-divide-intervals-into-minimum-number-of-groups python medium
+3176-find-the-maximum-length-of-a-good-subsequence-i python medium
