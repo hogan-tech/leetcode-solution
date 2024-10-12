@@ -1,3 +1,5 @@
+# time complexity: O(nlogn)
+# space complexity: O(n)
 from heapq import heappop, heappush
 from typing import List
 
