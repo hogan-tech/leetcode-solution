@@ -1,4 +1,1 @@
-0312-burst-balloons python hard
-2856-minimum-array-length-after-pair-removals python medium
-3314-construct-the-minimum-bitwise-array-i python easy
-3315-construct-the-minimum-bitwise-array-ii python medium
+3155-maximum-number-of-upgradable-servers python medium
