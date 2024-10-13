@@ -1,3 +1,4 @@
 3318-find-x-sum-of-all-k-long-subarrays-i python easy
 3319-k-th-largest-perfect-subtree-size-in-binary-tree python medium
 0632-smallest-range-covering-elements-from-k-lists python hard
+1639-number-of-ways-to-form-a-target-string-given-a-dictionary python hard
