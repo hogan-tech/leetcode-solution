@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import Optional
 
 
@@ -22,13 +24,13 @@ class Solution:
 
         originalList[k - 1], originalList[len(originalList) - k] = originalList[len(
             originalList) - k], originalList[k - 1]
-        
+
         result = newHead = ListNode(originalList[0])
-        for i in range(1,len(originalList)):
+        for i in range(1, len(originalList)):
             tempHead = ListNode(originalList[i])
             newHead.next = tempHead
             newHead = newHead.next
-        
+
         return result
 
 
