@@ -1,4 +1,6 @@
-from heapq import heapify, heappop, heappush
+# time complexity: O(nlogn)
+# space complexity: O(n)
+from heapq import heappop, heappush
 from math import ceil
 from typing import List
 
