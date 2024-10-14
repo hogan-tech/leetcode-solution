@@ -1,2 +1,3 @@
 1721-swapping-nodes-in-a-linked-list python medium
 2530-maximal-score-after-applying-k-operations python medium
+0304-range-sum-query-2d-immutable python medium
