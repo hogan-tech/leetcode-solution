@@ -1,2 +1,3 @@
 2938-separate-black-and-white-balls python medium
 1429-first-unique-number python medium
+2291-maximum-profit-from-trading-stocks python medium
