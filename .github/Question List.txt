@@ -2,3 +2,4 @@
 1429-first-unique-number python medium
 2291-maximum-profit-from-trading-stocks python medium
 2062-count-vowel-substrings-of-a-string python easy
+1898-maximum-number-of-removable-characters python medium
