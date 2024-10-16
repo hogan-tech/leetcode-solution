@@ -1,5 +1,2 @@
-2938-separate-black-and-white-balls python medium
-1429-first-unique-number python medium
-2291-maximum-profit-from-trading-stocks python medium
-2062-count-vowel-substrings-of-a-string python easy
-1898-maximum-number-of-removable-characters python medium
+1405-longest-happy-string python medium
+0759-employee-free-time python hard
