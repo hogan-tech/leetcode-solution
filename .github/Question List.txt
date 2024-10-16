@@ -1,2 +1,4 @@
 1405-longest-happy-string python medium
 0759-employee-free-time python hard
+2877-create-a-dataframe-from-list python easy
+2878-get-the-size-of-a-dataframe python easy
