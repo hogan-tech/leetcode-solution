@@ -2,3 +2,4 @@
 0759-employee-free-time python hard
 2877-create-a-dataframe-from-list python easy
 2878-get-the-size-of-a-dataframe python easy
+3177-find-the-maximum-length-of-a-good-subsequence-ii python medium
