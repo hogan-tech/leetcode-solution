@@ -3,3 +3,4 @@
 2877-create-a-dataframe-from-list python easy
 2878-get-the-size-of-a-dataframe python easy
 3177-find-the-maximum-length-of-a-good-subsequence-ii python medium
+0670-maximum-swap python medium
