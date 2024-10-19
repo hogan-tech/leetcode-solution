@@ -1,2 +1,3 @@
 2044-count-number-of-maximum-bitwise-or-subsets python medium
 1545-find-kth-bit-in-nth-binary-string python medium
+1092-shortest-common-supersequence python hard
