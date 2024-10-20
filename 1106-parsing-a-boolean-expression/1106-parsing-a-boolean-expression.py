@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -16,7 +18,7 @@ class Solution:
                 for item in TFList:
                     temp &= item
                 return temp
-            
+
         operationStack = []
         boolStack = []
         for char in expression:
@@ -37,7 +39,8 @@ class Solution:
                             break
                         else:
                             tempTFList.append(temp)
-                    boolStack.append(calculate(tempTFList, operationStack.pop()))
+                    boolStack.append(
+                        calculate(tempTFList, operationStack.pop()))
         return boolStack[0]
 
 
