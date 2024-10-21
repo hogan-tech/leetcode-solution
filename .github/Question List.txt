@@ -1,13 +1,1 @@
-2879-display-the-first-three-rows 
-2880-select-data 
-2881-create-a-new-column 
-mkdir 2882-drop-duplicate-rows 
-mkdir 2883-drop-missing-data 
-mkdir 2884-modify-columns 
-mkdir 2885-rename-columns 
-mkdir 2886-change-data-type 
-mkdir 2887-fill-missing-data 
-mkdir 2888-reshape-data-concatenate 
-mkdir 2889-reshape-data-pivot 
-mkdir 2890-reshape-data-melt 
-mkdir 2891-method-chaining 
+2101-detonate-the-maximum-bombs python medium
