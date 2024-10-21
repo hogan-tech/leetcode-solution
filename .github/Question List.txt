@@ -1,7 +1,13 @@
-2044-count-number-of-maximum-bitwise-or-subsets python medium
-1545-find-kth-bit-in-nth-binary-string python medium
-1092-shortest-common-supersequence python hard
-3324-find-the-sequence-of-strings-appeared-on-the-screen python medium
-3325-count-substrings-with-k-frequency-characters-i python medium
-1106-parsing-a-boolean-expression python hard
-1593-split-a-string-into-the-max-number-of-unique-substrings python medium
+2879-display-the-first-three-rows 
+2880-select-data 
+2881-create-a-new-column 
+mkdir 2882-drop-duplicate-rows 
+mkdir 2883-drop-missing-data 
+mkdir 2884-modify-columns 
+mkdir 2885-rename-columns 
+mkdir 2886-change-data-type 
+mkdir 2887-fill-missing-data 
+mkdir 2888-reshape-data-concatenate 
+mkdir 2889-reshape-data-pivot 
+mkdir 2890-reshape-data-melt 
+mkdir 2891-method-chaining 
