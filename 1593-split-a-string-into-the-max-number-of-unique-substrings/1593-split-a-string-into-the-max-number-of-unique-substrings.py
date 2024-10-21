@@ -1,3 +1,5 @@
+# time complexity: O(n* 2^n)
+# space complexity: O(n)
 class Solution:
     def backtrack(self, s: str, start: int, seen: set) -> int:
         if start == len(s):
@@ -10,7 +12,7 @@ class Solution:
                 seen.add(subString)
                 maxCount = max(maxCount, 1 + self.backtrack(s, end, seen))
                 seen.remove(subString)
-        
+
         return maxCount
 
     def maxUniqueSplit(self, s: str) -> int:
