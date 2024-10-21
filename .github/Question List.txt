@@ -4,3 +4,4 @@
 3324-find-the-sequence-of-strings-appeared-on-the-screen python medium
 3325-count-substrings-with-k-frequency-characters-i python medium
 1106-parsing-a-boolean-expression python hard
+1593-split-a-string-into-the-max-number-of-unique-substrings python medium
