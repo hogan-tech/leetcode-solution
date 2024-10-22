@@ -1,5 +1,6 @@
+# time complexity: O(n^2)
+# space complexity: O(n)
 from typing import List
-
 import sortedcontainers
 
 
