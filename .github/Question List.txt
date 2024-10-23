@@ -1,6 +1,1 @@
-0366-find-leaves-of-binary-tree python medium
-0166-fraction-to-recurring-decimal python medium
-0249-group-shifted-strings python medium
-0993-cousins-in-binary-tree python easy
-2641-cousins-in-binary-tree-ii python medium
-1254-number-of-closed-islands python medium
+1146-snapshot-array python medium
