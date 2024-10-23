@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from collections import defaultdict
 from typing import List
 
@@ -10,7 +12,7 @@ class Solution:
             alphet = ord(c) - diff
             temp += chr(alphet + 26 if alphet < ord('a') else alphet)
         return temp
-            
+
     def groupStrings(self, strings: List[str]) -> List[List[str]]:
         groupDict = defaultdict(list)
         for string in strings:
