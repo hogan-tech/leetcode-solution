@@ -1,4 +1,6 @@
-from collections import Counter, defaultdict
+# time compexity: O(2^n)
+# space complexity: O(n)
+from collections import defaultdict
 from functools import lru_cache
 
 
@@ -7,7 +9,7 @@ class Solution:
         temp = ""
         freqDict = defaultdict(int)
         freqDict[countString[0]] += 1
-        for i in range(1,len(countString)):
+        for i in range(1, len(countString)):
             if countString[i] != countString[i-1]:
                 key = countString[i-1]
                 freq = freqDict[countString[i-1]]
