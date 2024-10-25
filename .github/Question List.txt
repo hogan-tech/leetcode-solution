@@ -2,3 +2,4 @@
 1834-single-threaded-cpu python medium
 0951-flip-equivalent-binary-trees python medium
 0038-count-and-say python medium
+1233-remove-sub-folders-from-the-filesystem python medium
