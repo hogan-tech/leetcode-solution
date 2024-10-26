@@ -1,1 +1,2 @@
-2458-height-of-binary-tree-after-subtree-removal-queries python hard
+3330-find-the-original-typed-string-i python easy
+3331-find-subtree-sizes-after-changes python medium
