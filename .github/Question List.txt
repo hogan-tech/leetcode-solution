@@ -2,3 +2,4 @@
 3331-find-subtree-sizes-after-changes python medium
 3334-find-the-maximum-factor-score-of-array python medium
 3335-total-characters-in-string-after-transformations-i python medium
+1277-count-square-submatrices-with-all-ones python medium
