@@ -2,3 +2,4 @@
 2684-maximum-number-of-moves-in-a-grid python medium
 0265-paint-house-ii python hard
 1671-minimum-number-of-removals-to-make-mountain-array python hard
+2463-minimum-total-distance-traveled python hard
