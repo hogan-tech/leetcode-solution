@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def isCircularSentence(self, sentence: str) -> bool:
         stack = []
