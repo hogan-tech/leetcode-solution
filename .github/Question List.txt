@@ -1,7 +1,1 @@
-2501-longest-square-streak-in-an-array python medium
-2684-maximum-number-of-moves-in-a-grid python medium
-0265-paint-house-ii python hard
-1671-minimum-number-of-removals-to-make-mountain-array python hard
-2463-minimum-total-distance-traveled python hard
-1957-delete-characters-to-make-fancy-string python easy
-2955-number-of-same-end-substrings python medium
+2490-circular-sentence python easy
