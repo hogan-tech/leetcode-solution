@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
         for i in range(len(s)):
