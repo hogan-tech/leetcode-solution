@@ -3,3 +3,4 @@
 3342-find-minimum-time-to-reach-last-room-ii python medium
 3163-string-compression-iii python medium
 2914-minimum-number-of-changes-to-make-binary-string-beautiful python medium
+3011-find-if-array-can-be-sorted python medium
