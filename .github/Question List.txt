@@ -1,0 +1,2 @@
+1213-intersection-of-three-sorted-arrays python easy
+1829-maximum-xor-for-each-query python medium
