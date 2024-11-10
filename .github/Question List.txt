@@ -1,6 +1,2 @@
-1213-intersection-of-three-sorted-arrays python easy
-1829-maximum-xor-for-each-query python medium
-3133-minimum-array-end python medium
-3345-smallest-divisible-digit-product-i python easy
-3349-adjacent-increasing-subarrays-detection-i python easy
-3350-adjacent-increasing-subarrays-detection-ii python medium
+3095-shortest-subarray-with-or-at-least-k-i python easy
+3097-shortest-subarray-with-or-at-least-k-ii python medium
