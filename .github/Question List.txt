@@ -2,3 +2,5 @@
 1829-maximum-xor-for-each-query python medium
 3133-minimum-array-end python medium
 3345-smallest-divisible-digit-product-i python easy
+3349-adjacent-increasing-subarrays-detection-i python easy
+3350-adjacent-increasing-subarrays-detection-ii python medium
