@@ -1,10 +1,12 @@
+# time complexity: O(n!)
+# space complexity: O(n)
 from typing import List
 
 
 class Solution:
     def totalNQueens(self, n: int) -> int:
         return len(self.solveNQueens(n))
-    
+
     def solveNQueens(self, n: int) -> List[List[str]]:
         def createBoard(state: List[str]):
             board = []
