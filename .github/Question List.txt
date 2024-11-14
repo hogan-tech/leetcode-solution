@@ -1,1 +1,2 @@
 2563-count-the-number-of-fair-pairs python medium
+2064-minimized-maximum-of-products-distributed-to-any-store python medium
