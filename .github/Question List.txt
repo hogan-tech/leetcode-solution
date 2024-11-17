@@ -1,2 +1,3 @@
 3354-make-array-elements-equal-to-zero python easy
 3355-zero-array-transformation-i python medium
+0862-shortest-subarray-with-sum-at-least-k python hard
