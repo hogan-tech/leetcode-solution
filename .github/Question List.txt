@@ -2,3 +2,4 @@
 2064-minimized-maximum-of-products-distributed-to-any-store python medium
 0426-convert-binary-search-tree-to-sorted-doubly-linked-list python medium
 1574-shortest-subarray-to-be-removed-to-make-array-sorted python medium
+2107-number-of-unique-flavors-after-sharing-k-candies python medium
