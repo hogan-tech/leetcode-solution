@@ -1,3 +1,5 @@
+# time complexity: O(m*n)
+# space complexity: O(m*n)
 from collections import deque
 from typing import List
 
@@ -7,6 +9,7 @@ class Solution:
     Unguarded = 1
     Guard = 2
     Wall = 3
+
     def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
         ROW = m
         COL = n
@@ -14,7 +17,7 @@ class Solution:
         queue = deque()
         for i, j in guards:
             board[i][j] = self.Guard
-            queue.append((i,j))
+            queue.append((i, j))
         for i, j in walls:
             board[i][j] = self.Wall
         while queue:
@@ -39,7 +42,7 @@ class Solution:
                 if board[currR][c] == self.Wall or board[currR][c] == self.Guard:
                     break
                 board[currR][c] = self.Guarded
-        
+
         return sum([board[i].count(1) for i in range(ROW)])
 
 
