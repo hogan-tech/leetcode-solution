@@ -1,6 +1,1 @@
-3354-make-array-elements-equal-to-zero python easy
-3355-zero-array-transformation-i python medium
-0862-shortest-subarray-with-sum-at-least-k python hard
-1652-defuse-the-bomb python easy
-2461-maximum-sum-of-distinct-subarrays-with-length-k python medium
-2257-count-unguarded-cells-in-the-grid python medium
+1072-flip-columns-for-maximum-number-of-equal-rows python medium
