@@ -1,2 +1,4 @@
 1072-flip-columns-for-maximum-number-of-equal-rows python medium
 2371-minimize-maximum-value-in-a-grid python hard
+3360-stone-removal-game python easy
+3361-shift-distance-between-two-strings python medium
