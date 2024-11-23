@@ -2,3 +2,4 @@
 2371-minimize-maximum-value-in-a-grid python hard
 3360-stone-removal-game python easy
 3361-shift-distance-between-two-strings python medium
+1861-rotating-the-box python medium
