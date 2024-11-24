@@ -1,2 +1,3 @@
 3364-minimum-positive-sum-subarray python easy
 3365-rearrange-k-substrings-to-form-target-string python medium
+1975-maximum-matrix-sum python medium
