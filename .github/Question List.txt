@@ -1,6 +1,1 @@
-3364-minimum-positive-sum-subarray python easy
-3365-rearrange-k-substrings-to-form-target-string python medium
-1975-maximum-matrix-sum python medium
-0773-sliding-puzzle python hard
-0388-longest-absolute-file-path python medium
-2923-find-champion-i python easy
+2924-find-champion-ii python medium
