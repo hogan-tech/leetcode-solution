@@ -1,1 +1,3 @@
 2924-find-champion-ii python medium
+0390-elimination-game python medium
+0391-perfect-rectangle python hard
