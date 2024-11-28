@@ -1,3 +1,5 @@
 0393-utf-8-validation python medium
 0395-longest-substring-with-at-least-k-repeating-characters python medium
 2290-minimum-obstacle-removal-to-reach-corner python hard
+0396-rotate-function python medium
+0397-integer-replacement python medium
