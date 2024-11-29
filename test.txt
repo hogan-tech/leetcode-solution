@@ -1,0 +1,2 @@
+0398-random-pick-index python medium
+2577-minimum-time-to-visit-a-cell-in-a-grid python hard
