@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from collections import defaultdict
 import random
 from typing import List
@@ -11,7 +13,7 @@ class Solution:
 
     def pick(self, target: int) -> int:
         targetList = self.dict[target]
-        randomNum = random.randint(0,len(targetList)-1)
+        randomNum = random.randint(0, len(targetList)-1)
         return targetList[randomNum]
 
 
