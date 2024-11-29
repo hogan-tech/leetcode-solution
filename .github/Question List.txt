@@ -3,3 +3,4 @@
 2290-minimum-obstacle-removal-to-reach-corner python hard
 0396-rotate-function python medium
 0397-integer-replacement python medium
+0398-random-pick-index python medium
