@@ -1,4 +1,3 @@
-0398-random-pick-index python medium
-2577-minimum-time-to-visit-a-cell-in-a-grid python hard
-2204-distance-to-a-cycle-in-undirected-graph python hard
-2097-valid-arrangement-of-pairs python hard
+3370-smallest-number-with-all-set-bits python easy
+3371-identify-the-largest-outlier-in-an-array python medium
+3372-maximize-the-number-of-target-nodes-after-connecting-trees-i python medium
