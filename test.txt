@@ -1,3 +1,2 @@
-3370-smallest-number-with-all-set-bits python easy
-3371-identify-the-largest-outlier-in-an-array python medium
-3372-maximize-the-number-of-target-nodes-after-connecting-trees-i python medium
+1346-check-if-n-and-its-double-exist python easy
+1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence python easy
