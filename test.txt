@@ -1,3 +1,4 @@
 2109-adding-spaces-to-a-string python medium
 2825-make-string-a-subsequence-using-cyclic-increments python medium
 0405-convert-a-number-to-hexadecimal python easy
+0406-queue-reconstruction-by-height python medium
