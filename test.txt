@@ -1,5 +1,5 @@
-0407-trapping-rain-water-ii python hard
-0408-valid-word-abbreviation python easy
-2337-move-pieces-to-obtain-a-string python medium
-2554-maximum-number-of-integers-to-choose-from-a-range-i python medium
-1760-minimum-limit-of-balls-in-a-bag python medium
+1891-cutting-ribbons python medium
+2054-two-best-non-overlapping-events python medium
+3152-special-array-ii python medium
+3379-transformed-array python easy
+3380-maximum-area-rectangle-with-point-constraints-i python medium
