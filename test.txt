@@ -1,5 +1,1 @@
-1891-cutting-ribbons python medium
-2054-two-best-non-overlapping-events python medium
-3152-special-array-ii python medium
-3379-transformed-array python easy
-3380-maximum-area-rectangle-with-point-constraints-i python medium
+2981-find-longest-special-substring-that-occurs-thrice-i python medium
