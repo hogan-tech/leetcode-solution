@@ -1,3 +1,5 @@
+# time complexity: O(n+klogn)
+# space complexity: O(n)
 from heapq import heappop, heappush
 from math import sqrt
 from typing import List
