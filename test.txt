@@ -1,2 +1,1 @@
-2981-find-longest-special-substring-that-occurs-thrice-i python medium
-2779-maximum-beauty-of-an-array-after-applying-operation python medium
+2558-take-gifts-from-the-richest-pile python easy
