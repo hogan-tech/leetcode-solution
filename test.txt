@@ -1,1 +1,2 @@
 2558-take-gifts-from-the-richest-pile python easy
+2593-find-score-of-an-array-after-marking-all-elements python medium
