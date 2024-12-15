@@ -1,3 +1,5 @@
+# time complexity: O(n^(t/m) + 1)
+# space complexity: O(t/m)
 from typing import List
 
 
@@ -19,3 +21,9 @@ class Solution:
         backtrack(target, [], 0)
 
         return result
+
+
+Candidates = [2, 3, 6, 7]
+Target = 7
+
+print(Solution().combinationSum(Candidates, Target))
