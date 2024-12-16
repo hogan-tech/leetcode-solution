@@ -1,2 +1,1 @@
-1792-maximum-average-pass-ratio python medium
-2832-maximal-range-that-each-element-is-maximum-in-it python medium
+3264-final-array-state-after-k-multiplication-operations-i python easy
