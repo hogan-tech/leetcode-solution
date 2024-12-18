@@ -1,2 +1,1 @@
-3264-final-array-state-after-k-multiplication-operations-i python easy
-2182-construct-string-with-repeat-limit python medium
+1475-final-prices-with-a-special-discount-in-a-shop python easy
