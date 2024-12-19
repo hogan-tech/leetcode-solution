@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def nextPalindrome(self, num: str) -> str:
         def findNextPermutation(digits):
@@ -21,13 +23,13 @@ class Solution:
 
         if not findNextPermutation(leftHalf):
             return ""
-        
+
         if n % 2 == 0:
             nextPalidrome = ''.join(leftHalf + leftHalf[::-1])
         else:
             midDigit = num[midLen]
             nextPalidrome = ''.join(leftHalf + [midDigit] + leftHalf[::-1])
-        
+
         if nextPalidrome > num:
             return nextPalidrome
         return ""
