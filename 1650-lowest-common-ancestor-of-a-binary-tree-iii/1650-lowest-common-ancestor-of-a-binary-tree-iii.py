@@ -1,3 +1,5 @@
+# time complexity: O(h)
+# space complexity: O(1)
 class Node:
     def __init__(self, val):
         self.val = val
@@ -20,6 +22,5 @@ class Solution:
                 ptr2 = ptr2.parent
             else:
                 ptr2 = p
-        
-        return ptr1
 
+        return ptr1
