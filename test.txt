@@ -1,2 +1,3 @@
 1475-final-prices-with-a-special-discount-in-a-shop python easy
 0246-strobogrammatic-number python easy
+0769-max-chunks-to-make-sorted python medium
