@@ -1,7 +1,5 @@
-from cmath import inf
-from typing import List
-
-
+# time complexity: O(logn)
+# space complexity: O(logn)
 class Solution:
     def isHappy(self, n: int) -> bool:
 
