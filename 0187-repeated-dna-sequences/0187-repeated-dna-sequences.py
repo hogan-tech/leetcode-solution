@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -7,7 +9,7 @@ class Solution:
         visited = set()
         currString = s[:10]
         visited.add(currString)
-        for i in range(1,len(s) - 9):
+        for i in range(1, len(s) - 9):
             currString = currString[1:] + s[i+9]
             if currString in visited:
                 result.add(currString)
