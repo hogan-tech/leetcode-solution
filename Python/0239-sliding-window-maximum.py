@@ -1,30 +1,36 @@
+# time complexity: O(n)
+# space complexity: O(ns)
 from collections import deque
 from typing import List
 
 
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        n = len(nums)
-        queue = deque()
-        res = []
-        for i in range(n):
-            while queue and queue[-1] <= i - k:
-                queue.pop()
-            if queue and nums[queue[-1]] > nums[i]:
-                while queue and nums[queue[0]] < nums[i]:
-                    queue.popleft()
-                queue.appendleft(i)
-            else:
-                queue.append(i)
-            if i >= k - 1:
-                res.append(nums[queue[-1]])
-        return res
-        # maxList = []
-        # for i in range(len(nums) - k + 1):
-        #     maxList.append(max(nums[i:i+k]))
-        # return maxList
+        def cleanUp(i: int, currWindow: deque, nums: List[int]):
+            while currWindow and nums[i] >= nums[currWindow[-1]]:
+                currWindow.pop()
+
+        if len(nums) == 1:
+            return nums
+        result = []
+        currWindow = deque()
+        for i in range(k):
+            cleanUp(i, currWindow, nums)
+            currWindow.append(i)
+
+        result.append(nums[currWindow[0]])
+        for i in range(k, len(nums)):
+            cleanUp(i, currWindow, nums)
+            if currWindow and currWindow[0] <= (i - k):
+                currWindow.popleft()
+            currWindow.append(i)
+            result.append(nums[currWindow[0]])
+        return result
 
 
 nums = [1, 3, -1, -3, 5, 3, 6, 7]
 k = 3
+print(Solution().maxSlidingWindow(nums, k))
+nums = [1]
+k = 1
 print(Solution().maxSlidingWindow(nums, k))
