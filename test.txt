@@ -1,4 +1,1 @@
-1842-next-palindrome-using-same-digits python hard
-1650-lowest-common-ancestor-of-a-binary-tree-iii python medium
-0680-valid-palindrome-ii python easy
-0457-circular-array-loop python medium
+0287-find-the-duplicate-number python medium
