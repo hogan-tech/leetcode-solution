@@ -1,4 +1,1 @@
-0287-find-the-duplicate-number python medium
-2415-reverse-odd-levels-of-binary-tree python medium
-2674-split-a-circular-linked-list python medium
-0187-repeated-dna-sequences python medium
+0727-minimum-window-subsequence python hard
