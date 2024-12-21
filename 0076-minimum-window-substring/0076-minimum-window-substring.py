@@ -5,36 +5,38 @@ from collections import Counter, defaultdict
 
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(t) == 0:
-            return ""
-        requireCount = defaultdict(int)
+        reqCount = defaultdict(int)
         window = defaultdict(int)
-        for char in t:
-            requireCount[char] += 1
-        current = 0
-        required = len(requireCount)
         result = [-1, -1]
         resultLen = float('inf')
+        current = 0
+        
+
+        for char in t:
+            reqCount[char] += 1
+
+        required = len(reqCount)
 
         left = 0
         for right in range(len(s)):
             char = s[right]
-            if char in requireCount:
+            if char in reqCount:
                 window[char] += 1
-                if window[char] == requireCount[char]:
+                if window[char] == reqCount[char]:
                     current += 1
             while current == required:
                 if (right - left + 1) < resultLen:
+                    resultLen = right - left + 1
                     result = [left, right]
-                    resultLen = (right - left + 1)
-
                 leftChar = s[left]
-                if leftChar in requireCount:
+                if leftChar in window:
                     window[leftChar] -= 1
-                    if window[leftChar] < requireCount[leftChar]:
+                    if window[leftChar] < reqCount[leftChar]:
                         current -= 1
                 left += 1
-        return s[result[0]: result[1]+1] if resultLen != float('inf') else ""
+
+        return s[result[0]:result[1] + 1] if resultLen != float('inf') else ""
+        
 
 
 S = "ADOBECODEBANC"
