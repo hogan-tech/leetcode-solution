@@ -1,34 +1,42 @@
 # time complexity: O(len(s) + len(t))
 # space complexity: O(len(s) + len(t))
-from collections import Counter
+from collections import Counter, defaultdict
 
 
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if not t or not s:
-            return ""
-        dictT = Counter(t)
-        required = len(dictT)
-        l, r = 0, 0
-        formed = 0
-        windowCounts = {}
-        ans = float("inf"), None, None
+        reqCount = defaultdict(int)
+        window = defaultdict(int)
+        result = [-1, -1]
+        resultLen = float('inf')
+        current = 0
+        
 
-        while r < len(s):
-            character = s[r]
-            windowCounts[character] = windowCounts.get(character, 0) + 1
-            if character in dictT and windowCounts[character] == dictT[character]:
-                formed += 1
-            while l <= r and formed == required:
-                character = s[l]
-                if r-l+1 < ans[0]:
-                    ans = (r - l + 1, l, r)
-                windowCounts[character] -= 1
-                if character in dictT and windowCounts[character] < dictT[character]:
-                    formed -= 1
-                l += 1
-            r += 1
-        return "" if ans[0] == float("inf") else s[ans[1]:ans[2]+1]
+        for char in t:
+            reqCount[char] += 1
+
+        required = len(reqCount)
+
+        left = 0
+        for right in range(len(s)):
+            char = s[right]
+            if char in reqCount:
+                window[char] += 1
+                if window[char] == reqCount[char]:
+                    current += 1
+            while current == required:
+                if (right - left + 1) < resultLen:
+                    resultLen = right - left + 1
+                    result = [left, right]
+                leftChar = s[left]
+                if leftChar in window:
+                    window[leftChar] -= 1
+                    if window[leftChar] < reqCount[leftChar]:
+                        current -= 1
+                left += 1
+
+        return s[result[0]:result[1] + 1] if resultLen != float('inf') else ""
+        
 
 
 S = "ADOBECODEBANC"
