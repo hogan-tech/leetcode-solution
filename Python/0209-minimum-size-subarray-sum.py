@@ -6,15 +6,15 @@ from typing import List
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         tempSum = 0
-        result = float('inf')
         left = 0
-        for i in range(len(nums)):
-            tempSum += nums[i]
+        windowSize = float('inf')
+        for right in range(len(nums)):
+            tempSum += nums[right]
             while tempSum >= target:
-                result = min(result, i - left + 1)
+                windowSize = min(right - left +1, windowSize)
                 tempSum -= nums[left]
-                left += 1
-        return result if result != float('inf') else 0
+                left +=1
+        return windowSize if windowSize != float('inf') else 0
 
 
 target = 7
