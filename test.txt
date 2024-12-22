@@ -1,3 +1,1 @@
-3392-count-subarrays-of-length-three-with-a-condition python easy
-3393-count-paths-with-the-given-xor-value python medium
-3396-minimum-number-of-operations-to-make-elements-in-array-distinct python easy
+1644-lowest-common-ancestor-of-a-binary-tree-ii python medium
