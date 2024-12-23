@@ -1,2 +1,3 @@
 1644-lowest-common-ancestor-of-a-binary-tree-ii python medium
 2940-find-building-where-alice-and-bob-can-meet python hard
+1176-diet-plan-performance python easy
