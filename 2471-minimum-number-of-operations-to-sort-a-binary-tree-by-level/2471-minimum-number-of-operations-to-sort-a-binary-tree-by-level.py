@@ -1,3 +1,5 @@
+# time complexity: O(nlogn)
+# space complexity: O(n)
 from collections import deque
 from typing import Optional
 
