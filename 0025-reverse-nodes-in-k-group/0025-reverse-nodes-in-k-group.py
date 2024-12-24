@@ -21,6 +21,7 @@ class Solution:
             curr.next = prev
             prev = curr
             curr = next
+
         head.next = self.reverseKGroup(curr, k)
         return prev
 
