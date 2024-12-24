@@ -13,13 +13,15 @@ class Solution:
             if not curr:
                 return head
             curr = curr.next
+
         prev = None
         curr = head
         for _ in range(k):
-            nxt = curr.next
+            next = curr.next
             curr.next = prev
             prev = curr
-            curr = nxt
+            curr = next
+
         head.next = self.reverseKGroup(curr, k)
         return prev
 
