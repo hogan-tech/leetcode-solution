@@ -1,4 +1,5 @@
-# Definition for singly-linked list.
+# time complexity: O(n)
+# space complexity: O(1)
 from typing import Optional
 
 
@@ -11,26 +12,42 @@ class ListNode:
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         if not head:
-            return None
-        cur, prev = head, None
-        while left > 1:
-            prev = cur
-            cur = cur.next
-            left, right = left - 1, right - 1
+            return
 
-        tail, con = cur, prev
-
-        while right:
-            third = cur.next
-            cur.next = prev
-            prev = cur
-            cur = third
+        curr = head
+        prev = None
+        for _ in range(left - 1):
+            prev = curr
+            curr = curr.next
             right -= 1
+
+        tail, con = curr, prev
+        for _ in range(right):
+            next = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next
 
         if con:
             con.next = prev
         else:
             head = prev
-        tail.next = cur
-
+        tail.next = curr
         return head
+
+
+def traverse(node: Optional[ListNode]):
+    if node is None:
+        return
+    print(node.val)
+    traverse(node.next)
+
+
+head = ListNode(1)
+head.next = ListNode(2)
+head.next.next = ListNode(3)
+head.next.next.next = ListNode(4)
+head.next.next.next.next = ListNode(5)
+left = 2
+right = 4
+traverse(Solution().reverseBetween(head, left, right))
