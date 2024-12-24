@@ -9,14 +9,15 @@ class Solution:
         if not intervals:
             return 0
         freeRooms = []
-        intervals.sort(key=lambda x: x[0])
+        intervals.sort()
         heapq.heappush(freeRooms, intervals[0][1])
-        for i in intervals[1:]:
-            if freeRooms[0] <= i[0]:
+        for interval in intervals[1:]:
+            if freeRooms[0] <= interval[0]:
                 heapq.heappop(freeRooms)
-            heapq.heappush(freeRooms, i[1])
+            heapq.heappush(freeRooms, interval[1])
+
         return len(freeRooms)
 
 
-intervals = [[7, 10], [2, 4]]
+intervals = [[2, 8], [3, 4], [3, 9], [5, 11], [8, 20], [11, 15]]
 print(Solution().minMeetingRooms(intervals))
