@@ -1,5 +1,5 @@
 # time complexity: O(n)
-# space complexity: O(n)
+# space complexity: O(1)
 from typing import Optional
 
 
@@ -16,23 +16,21 @@ class Solution:
             head = head.next
 
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        originalList = []
-        temp = head
-        while temp:
-            originalList.append(temp.val)
-            temp = temp.next
+        count = 0
+        front, end = None, None
+        curr = head
+        while curr:
+            count += 1
+            if end is not None:
+                end = end.next
 
-        originalList[k - 1], originalList[len(originalList) - k] = originalList[len(
-            originalList) - k], originalList[k - 1]
+            if count == k:
+                front = curr
+                end = head
+            curr = curr.next
 
-        result = newHead = ListNode(originalList[0])
-        for i in range(1, len(originalList)):
-            tempHead = ListNode(originalList[i])
-            newHead.next = tempHead
-            newHead = newHead.next
-
-        return result
-
+        front.val, end.val = end.val, front.val
+        return head
 
 head = ListNode(1)
 head.next = ListNode(2)
