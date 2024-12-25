@@ -1,4 +1,5 @@
-# Definition for a binary tree node.
+# time complexity: O(h)
+# space complexity: O(n)
 from typing import List, Optional
 
 
@@ -11,21 +12,19 @@ class TreeNode:
 
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
-        def dfs(node:Optional[TreeNode], depth):
-            if not node:
+        def dfs(node: Optional[TreeNode], arr: List[int], level: int):
+            if node is None:
                 return
-
-            if depth == len(ans):
-                ans.append(node.val)
+            if len(arr) == level:
+                arr.append(node.val)
             else:
-                ans[depth] = max(ans[depth], node.val)
+                arr[level] = max(arr[level], node.val)
+            dfs(node.left, arr, level + 1)
+            dfs(node.right, arr, level + 1)
 
-            dfs(node.left, depth + 1)
-            dfs(node.right, depth + 1)
-
-        ans = []
-        dfs(root, 0)
-        return ans
+        result = []
+        dfs(root, result, 0)
+        return result
 
 
 root = TreeNode(1)
