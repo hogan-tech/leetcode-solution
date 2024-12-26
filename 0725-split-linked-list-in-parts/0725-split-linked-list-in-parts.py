@@ -1,4 +1,5 @@
-# Definition for singly-linked list.
+# time complexity: O(n)
+# space complexity: O(1)
 from typing import List, Optional
 
 
