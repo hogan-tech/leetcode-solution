@@ -1,2 +1,3 @@
 0689-maximum-sum-of-3-non-overlapping-subarrays python hard
 480-sliding-window-median python hard
+2231-largest-number-after-digit-swaps-by-parity python easy
