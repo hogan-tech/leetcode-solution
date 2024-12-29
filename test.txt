@@ -1,4 +1,1 @@
-0689-maximum-sum-of-3-non-overlapping-subarrays python hard
-480-sliding-window-median python hard
-2231-largest-number-after-digit-swaps-by-parity python easy
-0436-find-right-interval python medium
+3402-minimum-operations-to-make-columns-strictly-increasing python easy
