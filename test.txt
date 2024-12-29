@@ -1,1 +1,1 @@
-3402-minimum-operations-to-make-columns-strictly-increasing python easy
+1746-maximum-subarray-sum-after-one-operation python medium
