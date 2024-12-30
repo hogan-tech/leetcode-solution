@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/k-closest-points-to-origin/">973. K Closest Points to Origin</a></h2><h3>Medium</h3><hr><div><p>Given an array of <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a point on the <strong>X-Y</strong> plane and an integer <code>k</code>, return the <code>k</code> closest points to the origin <code>(0, 0)</code>.</p>
+<h2> 8586 316
+973. K Closest Points to Origin</h2><hr><div><p>Given an array of <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a point on the <strong>X-Y</strong> plane and an integer <code>k</code>, return the <code>k</code> closest points to the origin <code>(0, 0)</code>.</p>
 
 <p>The distance between two points on the <strong>X-Y</strong> plane is the Euclidean distance (i.e., <code>√(x<sub>1</sub> - x<sub>2</sub>)<sup>2</sup> + (y<sub>1</sub> - y<sub>2</sub>)<sup>2</sup></code>).</p>
 
@@ -28,6 +29,6 @@ We only want the closest k = 1 points from the origin, so the answer is just [[-
 
 <ul>
 	<li><code>1 &lt;= k &lt;= points.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>4</sup> &lt; x<sub>i</sub>, y<sub>i</sub> &lt; 10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
 </ul>
 </div>

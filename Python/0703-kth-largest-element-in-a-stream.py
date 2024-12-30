@@ -1,3 +1,5 @@
+# time complexity: O(nlogk)
+# space complexity: O(k)
 import heapq
 from typing import List
 
@@ -12,8 +14,8 @@ class KthLargest:
     def add(self, val: int) -> int:
         if len(self.minHeap) < self.k:
             heapq.heappush(self.minHeap, val)
-        elif val > self.minHeap[0]:
-            heapq.heapreplace(self.minHeap, val)
+        elif self.minHeap[0] < val:
+            heapq.heappushpop(self.minHeap, val)
         return self.minHeap[0]
 
 
