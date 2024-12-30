@@ -1,2 +1,3 @@
 1746-maximum-subarray-sum-after-one-operation python medium
 378-kth-smallest-element-in-a-sorted-matrix python medium
+2466-count-ways-to-build-good-strings python medium
