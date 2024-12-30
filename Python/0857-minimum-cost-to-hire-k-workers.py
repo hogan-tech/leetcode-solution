@@ -6,34 +6,32 @@ from typing import List
 
 class Solution:
     def mincostToHireWorkers(self, quality: List[int], wage: List[int], k: int) -> float:
+        totalCost = float('inf')
         n = len(quality)
-        totalCost = float("inf")
-        currentTotalQuality = 0
+        currTotalQuality = 0
         wageToQualityRatio = []
-
         for i in range(n):
             wageToQualityRatio.append((wage[i] / quality[i], quality[i]))
 
         wageToQualityRatio.sort(key=lambda x: x[0])
-
-        highestQualityWorkers = []
-
+        maxHeap = []
         for i in range(n):
-            heapq.heappush(highestQualityWorkers, -wageToQualityRatio[i][1])
-            currentTotalQuality += wageToQualityRatio[i][1]
+            heapq.heappush(maxHeap, - wageToQualityRatio[i][1])
+            currTotalQuality += wageToQualityRatio[i][1]
 
-            if len(highestQualityWorkers) > k:
-                currentTotalQuality += heapq.heappop(highestQualityWorkers)
-
-            if len(highestQualityWorkers) == k:
-                totalCost = min(
-                    totalCost, currentTotalQuality * wageToQualityRatio[i][0]
-                )
-
+            if len(maxHeap) > k:
+                currTotalQuality += heapq.heappop(maxHeap)
+            if len(maxHeap) == k:
+                totalCost = min(totalCost, currTotalQuality *
+                                wageToQualityRatio[i][0])
         return totalCost
 
 
 quality = [10, 20, 5]
 wage = [70, 50, 30]
 k = 2
+print(Solution().mincostToHireWorkers(quality, wage, k))
+quality = [3, 1, 10, 10, 1]
+wage = [4, 8, 2, 2, 7]
+k = 3
 print(Solution().mincostToHireWorkers(quality, wage, k))

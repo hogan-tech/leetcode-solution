@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-to-hire-k-workers/">857. Minimum Cost to Hire K Workers</a></h2><h3>Hard</h3><hr><div><p>There are <code>n</code> workers. You are given two integer arrays <code>quality</code> and <code>wage</code> where <code>quality[i]</code> is the quality of the <code>i<sup>th</sup></code> worker and <code>wage[i]</code> is the minimum wage expectation for the <code>i<sup>th</sup></code> worker.</p>
+<h2> 2949 398
+857. Minimum Cost to Hire K Workers</h2><hr><div><p>There are <code>n</code> workers. You are given two integer arrays <code>quality</code> and <code>wage</code> where <code>quality[i]</code> is the quality of the <code>i<sup>th</sup></code> worker and <code>wage[i]</code> is the minimum wage expectation for the <code>i<sup>th</sup></code> worker.</p>
 
 <p>We want to hire exactly <code>k</code> workers to form a <strong>paid group</strong>. To hire a group of <code>k</code> workers, we must pay them according to the following rules:</p>
 
