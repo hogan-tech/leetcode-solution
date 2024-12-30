@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/maximal-score-after-applying-k-operations/">2530. Maximal Score After Applying K Operations</a></h2><h3>Medium</h3><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>. You have a <strong>starting score</strong> of <code>0</code>.</p>
+<h2> 839 52
+2530. Maximal Score After Applying K Operations</h2><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>. You have a <strong>starting score</strong> of <code>0</code>.</p>
 
 <p>In one <strong>operation</strong>:</p>
 
@@ -27,7 +28,7 @@
 <strong>Explanation: </strong>You can do the following operations:
 Operation 1: Select i = 1, so nums becomes [1,<strong><u>4</u></strong>,3,3,3]. Your score increases by 10.
 Operation 2: Select i = 1, so nums becomes [1,<strong><u>2</u></strong>,3,3,3]. Your score increases by 4.
-Operation 3: Select i = 2, so nums becomes [1,1,<u><strong>1</strong></u>,3,3]. Your score increases by 3.
+Operation 3: Select i = 2, so nums becomes [1,2,<u><strong>1</strong></u>,3,3]. Your score increases by 3.
 The final score is 10 + 4 + 3 = 17.
 </pre>
 
