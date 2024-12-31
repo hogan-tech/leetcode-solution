@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">540. Single Element in a Sorted Array</a></h2><h3>Medium</h3><hr><div><p>You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.</p>
+<h2> 11620 204
+540. Single Element in a Sorted Array</h2><hr><div><p>You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.</p>
 
 <p>Return <em>the single element that appears only once</em>.</p>
 
