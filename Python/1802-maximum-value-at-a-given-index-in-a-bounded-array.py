@@ -1,16 +1,18 @@
+# time complexity: O(log maxSum)
+# space complexity: O(1)
 class Solution:
-    def getSum(self, index: int, value: int, n: int) -> int:
+    def getSum(self, index: int, mid: int, n: int) -> int:
         count = 0
-        if value > index:
-            count += (value + value - index) * (index + 1)//2
+        if mid > index:
+            count += (mid + mid - index) * (index + 1)//2
         else:
-            count += (value + 1) * value // 2 + index - value + 1
+            count += (mid + 1) * mid // 2 + index - mid + 1
 
-        if value >= n - index:
-            count += (value + value - n + 1 + index) * (n - index) // 2
+        if mid >= n - index:
+            count += (mid + mid - n + 1 + index) * (n - index) // 2
         else:
-            count += (value + 1) * value // 2 + n - index - value
-        return count - value
+            count += (mid + 1) * mid // 2 + n - index - mid
+        return count - mid
 
     def maxValue(self, n: int, index: int, maxSum: int) -> int:
         left, right = 1, maxSum
@@ -26,6 +28,8 @@ class Solution:
 n = 4
 index = 2
 maxSum = 6
-
-
+print(Solution().maxValue(n, index, maxSum))
+n = 6
+index = 1
+maxSum = 10
 print(Solution().maxValue(n, index, maxSum))
