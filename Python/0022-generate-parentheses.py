@@ -1,17 +1,22 @@
+# time complexity: O(4^n)
+# space complexity: O(n)
 from typing import List
 
 
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        def backtracking(curString: str, leftCount: int, rightCount: int) -> None:
-            if len(curString) == 2 * n:
-                ans.append(curString)
+        def backtrack(currString: str, leftCount: int, rightCount: int) -> None:
+            if len(currString) == 2*n:
+                result.append(currString)
                 return
             if leftCount < n:
-                backtracking(curString + "(", leftCount + 1, rightCount)
+                backtrack(currString + "(", leftCount + 1, rightCount)
             if rightCount < leftCount:
-                backtracking(curString + ")", leftCount, rightCount + 1)
+                backtrack(currString + ")", leftCount, rightCount + 1)
 
-        ans = []
-        backtracking("", 0, 0)
-        return ans
+        result = []
+        backtrack("", 0, 0)
+        return result
+
+
+print(Solution().generateParenthesis(3))
