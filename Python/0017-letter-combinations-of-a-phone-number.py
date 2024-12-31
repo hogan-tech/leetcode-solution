@@ -1,4 +1,5 @@
-
+# time complexity: O(k^n*n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -17,18 +18,19 @@ class Solution:
         numberMap["8"] = set("tuv")
         numberMap["9"] = set("wxyz")
 
-        def backtrack(index: int, path: List):
+        def backtrack(index: int, path: List[str]):
             if len(path) == len(digits):
-                combinations.append("".join(path))
+                result.append("".join(path))
                 return
-            possible_letters = numberMap[digits[index]]
-            for letter in possible_letters:
+            letters = numberMap[digits[index]]
+            for letter in letters:
                 path.append(letter)
-                backtrack(index + 1, path)
+                backtrack(index+1, path)
                 path.pop()
-
-
-        combinations = []
+        result = []
         backtrack(0, [])
 
-        return combinations
+        return result
+
+
+print(Solution().letterCombinations("2345"))
