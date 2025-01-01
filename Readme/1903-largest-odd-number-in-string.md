@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/largest-odd-number-in-string/">1903. Largest Odd Number in String</a></h2><h3>Easy</h3><hr><div><p>You are given a string <code>num</code>, representing a large integer. Return <em>the <strong>largest-valued odd</strong> integer (as a string) that is a <strong>non-empty substring</strong> of </em><code>num</code><em>, or an empty string </em><code>""</code><em> if no odd integer exists</em>.</p>
+<h2> 2185 135
+1903. Largest Odd Number in String</h2><hr><div><p>You are given a string <code>num</code>, representing a large integer. Return <em>the <strong>largest-valued odd</strong> integer (as a string) that is a <strong>non-empty substring</strong> of </em><code>num</code><em>, or an empty string </em><code>""</code><em> if no odd integer exists</em>.</p>
 
 <p>A <strong>substring</strong> is a contiguous sequence of characters within a string.</p>
 
