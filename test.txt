@@ -1,1 +1,2 @@
 1427-perform-string-shifts python easy
+2561-rearranging-fruits python hard
