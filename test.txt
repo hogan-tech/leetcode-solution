@@ -1,5 +1,1 @@
-2099-find-subsequence-of-length-k-with-the-largest-sum python easy
-0983-minimum-cost-for-tickets python medium
-1029-two-city-scheduling python medium
-0871-minimum-number-of-refueling-stops python hard
-2384-largest-palindromic-number python medium
+1427-perform-string-shifts python easy
