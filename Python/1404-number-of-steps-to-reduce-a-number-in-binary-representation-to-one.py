@@ -1,18 +1,22 @@
 # time complexity: O(n)
-# space complexity: O(n)
-class Solution(object):
-    def numSteps(self, s):
-        steps = 0
+# space complexity: O(1)
+class Solution:
+    def numSteps(self, s: str) -> int:
         carry = 0
-        n = len(s) - 1
-        for i in range(n, 0, -1):
-            if int(s[i]) + carry == 1:
-                carry = 1
+        steps = 0
+        for i in range(len(s) - 1, 0, -1):
+            currNum = int(s[i]) + carry
+            if currNum % 2:
+                carry = currNum
                 steps += 2
             else:
                 steps += 1
-        return steps + carry
+        return carry + steps
 
 
 s = "1101"
+print(Solution().numSteps(s))
+s = "10"
+print(Solution().numSteps(s))
+s = "1"
 print(Solution().numSteps(s))
