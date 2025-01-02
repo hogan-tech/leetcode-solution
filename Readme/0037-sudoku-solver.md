@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/sudoku-solver/">37. Sudoku Solver</a></h2><h3>Hard</h3><hr><div><p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
+<h2> 9855 276
+37. Sudoku Solver</h2><hr><div><p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
 
 <p>A sudoku solution must satisfy <strong>all of the following rules</strong>:</p>
 
