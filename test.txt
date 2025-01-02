@@ -2,3 +2,4 @@
 2561-rearranging-fruits python hard
 0337-house-robber-iii python medium
 2559-count-vowel-strings-in-ranges python medium
+2850-minimum-moves-to-spread-stones-over-grid python medium
