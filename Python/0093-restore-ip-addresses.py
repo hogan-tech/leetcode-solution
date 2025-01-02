@@ -5,22 +5,39 @@ from typing import List
 
 class Solution:
     def restoreIpAddresses(self, s: str) -> List[str]:
-        def backtrack(start):
-            if len(octets) == 4 and start == len(s):
-                ips.append('.'.join(octets))
-                return
-            for size in range(1, 4):
-                octet = s[start:start + size]
-                if len(octet) > 1 and (octet[0] == '0' or int(octet) > 255):
-                    continue
-                if len(octets) < 4:
-                    octets.append(octet)
-                    backtrack(start + size)
-                    octets.pop()
-        octets = []
-        ips = []
-        backtrack(0)
-        return ips
+        def valid(segment: List[str]):
+            segmentLen = len(segment)
+            if segmentLen > 3:
+                return False
+            return int(segment) <= 255 if segment[0] != '0' else len(segment) == 1
+        
+        def updateSegments(s: str, currDot: int, segments: List[str], result: List[str]):
+            segment = s[currDot + 1:len(s)]
+            if valid(segment):
+                segments.append(segment)
+                result.append('.'.join(segments))
+                segments.pop()
+
+        def backtrack(s: str, prevDot: int, dots: int, segments: List[str], result: List[str]):
+            size = len(s)
+
+            for currDot in range(prevDot + 1, min(size - 1, prevDot + 4)):
+                segment = s[prevDot + 1: currDot + 1]
+                if valid(segment):
+                    segments.append(segment)
+
+                    if dots - 1 == 0:
+                        updateSegments(s, currDot, segments, result)
+                    else:
+                        backtrack(s, currDot, dots-1, segments, result)
+                    
+                    segments.pop()
+
+            return
+        result = []
+        segments = []
+        backtrack(s, -1, 3, segments, result)
+        return result
 
 
 s = "25525511135"
