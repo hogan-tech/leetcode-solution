@@ -7,17 +7,21 @@ class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
-
-        maxSoFar, minSoFar, result = nums[0], nums[0], nums[0]
+        maxSoFar = nums[0]
+        minSoFar = nums[0]
+        result = maxSoFar
         for i in range(1, len(nums)):
-            curr = nums[i]
-            tempMax = max(curr, max(maxSoFar * curr, minSoFar * curr))
-            minSoFar = min(curr, min(maxSoFar * curr, minSoFar * curr))
-            maxSoFar = tempMax
+            currNum = nums[i]
+            preMax = maxSoFar
+            maxSoFar = max(currNum, minSoFar * currNum, maxSoFar * currNum)
+            minSoFar = min(currNum, minSoFar * currNum, preMax * currNum)
             result = max(result, maxSoFar)
 
         return result
 
+
+nums = [2, 3, -2, 4]
+print(Solution().maxProduct(nums))
 
 nums = [-2, 0, -1]
 print(Solution().maxProduct(nums))
