@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/longest-common-subsequence/">1143. Longest Common Subsequence</a></h2><h3>Medium</h3><hr><div><p>Given two strings <code>text1</code> and <code>text2</code>, return <em>the length of their longest <strong>common subsequence</strong>. </em>If there is no <strong>common subsequence</strong>, return <code>0</code>.</p>
+<h2> 13922 211
+1143. Longest Common Subsequence</h2><hr><div><p>Given two strings <code>text1</code> and <code>text2</code>, return <em>the length of their longest <strong>common subsequence</strong>. </em>If there is no <strong>common subsequence</strong>, return <code>0</code>.</p>
 
 <p>A <strong>subsequence</strong> of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.</p>
 
