@@ -1,2 +1,3 @@
 0257-binary-tree-paths python easy
 0465-optimal-account-balancing python hard
+2270-number-of-ways-to-split-array python medium
