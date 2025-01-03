@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/palindromic-substrings/">647. Palindromic Substrings</a></h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>, return <em>the number of <strong>palindromic substrings</strong> in it</em>.</p>
+<h2> 10985 242
+647. Palindromic Substrings</h2><hr><div><p>Given a string <code>s</code>, return <em>the number of <strong>palindromic substrings</strong> in it</em>.</p>
 
 <p>A string is a <strong>palindrome</strong> when it reads the same backward as forward.</p>
 
