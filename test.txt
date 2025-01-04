@@ -1,3 +1,4 @@
 1539-kth-missing-positive-number python easy
 1385-find-the-distance-value-between-two-arrays python easy
 2389-longest-subsequence-with-limited-sum python easy
+2089-find-target-indices-after-sorting-array python easy
