@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/first-missing-positive/">41. First Missing Positive</a></h2><h3>Hard</h3><hr><div><p>Given an unsorted integer array <code>nums</code>. Return the <em>smallest positive integer</em> that is <em>not present</em> in <code>nums</code>.</p>
+<h2> 17219 1886
+41. First Missing Positive</h2><hr><div><p>Given an unsorted integer array <code>nums</code>. Return the <em>smallest positive integer</em> that is <em>not present</em> in <code>nums</code>.</p>
 
 <p>You must implement an algorithm that runs in <code>O(n)</code> time and uses <code>O(1)</code> auxiliary space.</p>
 
