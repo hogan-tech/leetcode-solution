@@ -1,4 +1,2 @@
-2602-minimum-operations-to-make-all-array-elements-equal python medium
-1300-sum-of-mutated-array-closest-to-target python medium
-3407-substring-matching-pattern python easy
-2381-shifting-letters-ii python medium
+3411-maximum-subarray-with-equal-products python easy
+3412-find-mirror-score-of-a-string python medium
