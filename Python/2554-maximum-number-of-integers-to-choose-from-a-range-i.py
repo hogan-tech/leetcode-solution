@@ -1,18 +1,25 @@
 # time complexity: O(nlogn)
 # space complexity: O(n)
-from bisect import bisect_right
 from typing import List
 
 
 class Solution:
     def maxCount(self, banned: List[int], n: int, maxSum: int) -> int:
-        count = 0
         banned.sort()
-        banEnd = bisect_right(banned, n)
-        banSet = set(banned[:banEnd])
+        left = 0
+        right = len(banned) - 1
+        while left <= right:
+            mid = left + (right - left) // 2
+            if banned[mid] <= n:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        bannedSet = set(banned[:left])
+        count = 0
         prefixSum = 0
         for num in range(1, n + 1):
-            if num not in banSet:
+            if num not in bannedSet:
                 if prefixSum + num <= maxSum:
                     prefixSum += num
                     count += 1
