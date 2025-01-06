@@ -1,1 +1,2 @@
 2814-minimum-time-takes-to-reach-destination-without-drowning python hard
+0302-smallest-rectangle-enclosing-black-pixels python hard
