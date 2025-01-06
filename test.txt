@@ -1,2 +1,3 @@
 2115-find-all-possible-recipes-from-given-supplies python medium
 0354-russian-doll-envelopes python hard
+1706-where-will-the-ball-fall python medium
