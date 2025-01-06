@@ -1,4 +1,1 @@
-3411-maximum-subarray-with-equal-products python easy
-3412-find-mirror-score-of-a-string python medium
-0953-verifying-an-alien-dictionary python easy
-2246-longest-path-with-different-adjacent-characters python hard
+2115-find-all-possible-recipes-from-given-supplies python medium
