@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/spiral-matrix/">54. Spiral Matrix</a></h2><h3>Medium</h3><hr><div><p>Given an <code>m x n</code> <code>matrix</code>, return <em>all elements of the</em> <code>matrix</code> <em>in spiral order</em>.</p>
+<h2> 15473 1391
+54. Spiral Matrix</h2><hr><div><p>Given an <code>m x n</code> <code>matrix</code>, return <em>all elements of the</em> <code>matrix</code> <em>in spiral order</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
