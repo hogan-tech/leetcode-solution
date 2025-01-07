@@ -1,4 +1,6 @@
-from collections import defaultdict
+# time complexity: O(r*s)
+# space complexity: O(r*s)
+from collections import defaultdict, deque
 from typing import List
 
 
@@ -10,16 +12,18 @@ class Solution:
         for group, route in enumerate(routes):
             for stop in route:
                 adjList[stop].add(group)
-        queue = [(source, 0)]
+        queue = deque()
+        queue.append((source, 0))
         visited = set()
-        for stop, buses in queue:
+        while queue:
+            stop, buses = queue.popleft()
             if stop == target:
                 return buses
             for group in adjList[stop]:
-                for nei in routes[group]:
-                    if nei not in visited:
-                        visited.add(nei)
-                        queue.append((nei, buses + 1))
+                for neighbor in routes[group]:
+                    if neighbor not in visited:
+                        visited.add(neighbor)
+                        queue.append((neighbor, buses + 1))
                 routes[group] = []
         return -1
 
@@ -27,6 +31,8 @@ class Solution:
 routes = [[1, 2, 7], [3, 6, 7]]
 source = 1
 target = 6
-
-
+print(Solution().numBusesToDestination(routes, source, target))
+routes = [[7, 12], [4, 5, 15], [6], [15, 19], [9, 12, 13]]
+source = 15
+target = 12
 print(Solution().numBusesToDestination(routes, source, target))

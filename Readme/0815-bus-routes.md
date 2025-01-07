@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/bus-routes/">815. Bus Routes</a></h2><h3>Hard</h3><hr><div><p>You are given an array <code>routes</code> representing bus routes where <code>routes[i]</code> is a bus route that the <code>i<sup>th</sup></code> bus repeats forever.</p>
+<h2> 4353 125
+815. Bus Routes</h2><hr><div><p>You are given an array <code>routes</code> representing bus routes where <code>routes[i]</code> is a bus route that the <code>i<sup>th</sup></code> bus repeats forever.</p>
 
 <ul>
 	<li>For example, if <code>routes[0] = [1, 5, 7]</code>, this means that the <code>0<sup>th</sup></code> bus travels in the sequence <code>1 -&gt; 5 -&gt; 7 -&gt; 1 -&gt; 5 -&gt; 7 -&gt; 1 -&gt; ...</code> forever.</li>
@@ -21,6 +22,8 @@
 <pre><strong>Input:</strong> routes = [[7,12],[4,5,15],[6],[15,19],[9,12,13]], source = 15, target = 12
 <strong>Output:</strong> -1
 </pre>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
