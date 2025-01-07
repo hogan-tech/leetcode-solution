@@ -1,5 +1,1 @@
-2814-minimum-time-takes-to-reach-destination-without-drowning python hard
-0302-smallest-rectangle-enclosing-black-pixels python hard
-1408-string-matching-in-an-array python easy
-1047-remove-all-adjacent-duplicates-in-string python easy
-0636-exclusive-time-of-functions python medium
+2077-paths-in-maze-that-lead-to-same-room python medium
