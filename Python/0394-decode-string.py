@@ -2,26 +2,31 @@
 # space complexity: O(n)
 class Solution:
     def decodeString(self, s: str) -> str:
-        stack = []
+        current = ""
+        countStack = []
+        stringStack = []
+        k = 0
         for c in s:
-            if c != ']':
-                stack.append(c)
-                continue
+            if c.isdigit():
+                k = k * 10 + int(c)
+            elif c == '[':
+                countStack.append(k)
+                stringStack.append(current)
+                k = 0
+                current = ""
+            elif c == ']':
+                prevString = stringStack.pop()
+                prevNum = countStack.pop()
+                current = prevString + current * prevNum
+            else:
+                current += c
 
-            innerString = ""
-
-            while stack and stack[-1] != '[':
-                innerString = stack.pop() + innerString
-            stack.pop()
-
-            multiplier = ""
-            while stack and stack[-1].isdigit():
-                multiplier = stack.pop() + multiplier
-
-            stack.append(int(multiplier) * innerString)
-
-        return "".join(stack)
+        return current
 
 
 s = "3[a]2[bc]"
+print(Solution().decodeString(s))
+s = "3[a2[c]]"
+print(Solution().decodeString(s))
+s = "2[abc]3[cd]ef"
 print(Solution().decodeString(s))
