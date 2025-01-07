@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/">2696. Minimum String Length After Removing Substrings</a></h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code> consisting only of <strong>uppercase</strong> English letters.</p>
+<h2> 954 24
+2696. Minimum String Length After Removing Substrings</h2><hr><div><p>You are given a string <code>s</code> consisting only of <strong>uppercase</strong> English letters.</p>
 
 <p>You can apply some operations to this string where, in one operation, you can remove <strong>any</strong> occurrence of one of the substrings <code>"AB"</code> or <code>"CD"</code> from <code>s</code>.</p>
 
