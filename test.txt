@@ -1,2 +1,3 @@
 2814-minimum-time-takes-to-reach-destination-without-drowning python hard
 0302-smallest-rectangle-enclosing-black-pixels python hard
+1408-string-matching-in-an-array python easy

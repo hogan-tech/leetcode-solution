@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/spiral-matrix-ii/">59. Spiral Matrix II</a></h2><h3>Medium</h3><hr><div><p>Given a positive integer <code>n</code>, generate an <code>n x n</code> <code>matrix</code> filled with elements from <code>1</code> to <code>n<sup>2</sup></code> in spiral order.</p>
+<h2> 6543 268
+59. Spiral Matrix II</h2><hr><div><p>Given a positive integer <code>n</code>, generate an <code>n x n</code> <code>matrix</code> filled with elements from <code>1</code> to <code>n<sup>2</sup></code> in spiral order.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
