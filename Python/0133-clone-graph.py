@@ -17,10 +17,10 @@ class Solution:
         if node in self.visited:
             return self.visited[node]
 
-        clone_node = Node(node.val, [])
-        self.visited[node] = clone_node
+        cloneNode = Node(node.val, [])
+        self.visited[node] = cloneNode
 
         if node.neighbors:
-            clone_node.neighbors = [self.cloneGraph(n) for n in node.neighbors]
+            cloneNode.neighbors = [self.cloneGraph(n) for n in node.neighbors]
 
-        return clone_node
+        return cloneNode
