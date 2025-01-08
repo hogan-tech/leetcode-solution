@@ -1,5 +1,6 @@
 # time complextiy: O(n+q)
 # space complexity: O(n)
+from collections import defaultdict
 from typing import List, Optional
 
 
@@ -50,3 +51,39 @@ class Solution:
         traverseRightToLeft(root, 0)
 
         return [maxHeightAfterRemoval[q] for q in queries]
+
+
+class Solution:
+    def treeQueries(self, root: Optional[TreeNode], queries: List[int]) -> List[int]:
+        nodeDepth = {}
+        nodeHeight = {}
+
+        def dfs(node, depth, nodeDepth, nodeHeight):
+            if not node:
+                return -1
+            nodeDepth[node.val] = depth
+            height = max(dfs(node.left, depth + 1, nodeDepth, nodeHeight),
+                         dfs(node.right, depth + 1, nodeDepth, nodeHeight)) + 1
+            nodeHeight[node.val] = height
+            return height
+
+        dfs(root, 0, nodeDepth, nodeHeight)
+
+        depthGroups = defaultdict(list)
+        for value, depth in nodeDepth.items():
+            depthGroups[depth].append((nodeHeight[value], value))
+            depthGroups[depth].sort(reverse=True)
+            if len(depthGroups[depth]) > 2:
+                depthGroups[depth].pop()
+
+        result = []
+
+        for q in queries:
+            depth = nodeDepth[q]
+            if len(depthGroups[depth]) == 1:
+                result.append(depth - 1)
+            elif depthGroups[depth][0][1] == q:
+                result.append(depthGroups[depth][1][0] + depth)
+            else:
+                result.append(depthGroups[depth][0][0] + depth)
+        return result

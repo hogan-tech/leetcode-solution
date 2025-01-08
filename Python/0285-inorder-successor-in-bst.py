@@ -14,11 +14,11 @@ class Solution:
     def inorderSuccessor(self, root: TreeNode, p: TreeNode) -> Optional[TreeNode]:
         successor = None
         while root:
-            if p.val >= root.val:
-                root = root.right
-            else:
+            if root.val > p.val:
                 successor = root
                 root = root.left
+            else:
+                root = root.right
         return successor
 
 
