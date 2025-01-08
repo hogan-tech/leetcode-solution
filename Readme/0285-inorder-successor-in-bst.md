@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/inorder-successor-in-bst/">285. Inorder Successor in BST</a></h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary search tree and a node <code>p</code> in it, return <em>the in-order successor of that node in the BST</em>. If the given node has no in-order successor in the tree, return <code>null</code>.</p>
+<h2> 2591 93
+285. Inorder Successor in BST</h2><hr><div><p>Given the <code>root</code> of a binary search tree and a node <code>p</code> in it, return <em>the in-order successor of that node in the BST</em>. If the given node has no in-order successor in the tree, return <code>null</code>.</p>
 
 <p>The successor of a node <code>p</code> is the node with the smallest key greater than <code>p.val</code>.</p>
 
