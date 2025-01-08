@@ -12,28 +12,25 @@ class TreeNode:
 
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        levels = []
-
+        result: List[List[int]] = []
         if root is None:
             return []
-
-        def levelOrder(node: Optional[TreeNode], level: int):
-            if len(levels) == level:
-                levels.append([])
-
-            levels[level].append(node.val)
-
+        def bfs(node: Optional[TreeNode], level: int):
+            if len(result) == level:
+                result.append([])
+            if node is None:
+                return
+            result[level].append(node.val)
             if node.left:
-                levelOrder(node.left, level + 1)
+                bfs(node.left, level + 1)
             if node.right:
-                levelOrder(node.right, level + 1)
-
-        levelOrder(root, 0)
-
-        for i in range(len(levels)):
+                bfs(node.right, level + 1)
+            
+        bfs(root, 0)
+        for i, row in enumerate(result):
             if i % 2:
-                levels[i].reverse()
-        return levels
+                row.reverse()
+        return result
 
 
 root = TreeNode(3)
