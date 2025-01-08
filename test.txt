@@ -1,2 +1,3 @@
 2077-paths-in-maze-that-lead-to-same-room python medium
 3042-count-prefix-and-suffix-pairs-i python easy
+0364-nested-list-weight-sum-ii python medium
