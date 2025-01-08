@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(1)
 from typing import Optional
 
 
@@ -26,6 +28,25 @@ class Solution:
 
     def flatten(self, root: Optional[TreeNode]) -> None:
         self.flattenTree(root)
+
+
+class Solution:
+    def flatten(self, root: TreeNode) -> TreeNode:
+        if not root:
+            return
+        current = root
+        while current:
+            if current.left:
+                last = current.left
+                while last.right:
+                    last = last.right
+                last.right = current.right
+                current.right = current.left
+                current.left = None
+
+            current = current.right
+
+        return root
 
 
 root = TreeNode(1)

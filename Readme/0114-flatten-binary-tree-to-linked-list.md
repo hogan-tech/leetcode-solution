@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">114. Flatten Binary Tree to Linked List</a></h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, flatten the tree into a "linked list":</p>
+<h2> 12657 572
+114. Flatten Binary Tree to Linked List</h2><hr><div><p>Given the <code>root</code> of a binary tree, flatten the tree into a "linked list":</p>
 
 <ul>
 	<li>The "linked list" should use the same <code>TreeNode</code> class where the <code>right</code> child pointer points to the next node in the list and the <code>left</code> child pointer is always <code>null</code>.</li>
