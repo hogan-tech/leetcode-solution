@@ -1,40 +1,70 @@
+# time complexity: O(n)
+# space complexity: O(h)
+from collections import deque
+from typing import Optional
+
+
+
+
 class Codec:
     def serialize(self, root: Optional[TreeNode]) -> str:
         if not root:
             return ''
 
         queue = deque([root])
-        res = []
+        result = []
         while queue:
             node = queue.popleft()
             if node:
-                res.append(str(node.val))
+                result.append(str(node.val))
                 queue.extend([node.left, node.right])
             else:
-                res.append('None')
-        return ','.join(res)
+                result.append('None')
+        
+        return ','.join(result)
 
     def deserialize(self, data: str) -> Optional[TreeNode]:
         if not data:
             return None
 
-        ls = data.split(',')
-        root = TreeNode(int(ls[0]))
+        dataList = data.split(',')
+        root = TreeNode(int(dataList[0]))
         queue = deque([root])
 
         i = 1
-        while queue and i < len(ls):
+        while queue and i < len(dataList):
             node = queue.popleft()
-            left_val, right_val = ls[i], ls[i+1] if i + 1 < len(ls) else 'None'
+            leftVal, rightVal = dataList[i], dataList[i+1] if i + 1 < len(dataList) else 'None'
 
-            if left_val != 'None':
-                node.left = TreeNode(int(left_val))
+            if leftVal != 'None':
+                node.left = TreeNode(int(leftVal))
                 queue.append(node.left)
 
-            if right_val != 'None':
-                node.right = TreeNode(int(right_val))
+            if rightVal != 'None':
+                node.right = TreeNode(int(rightVal))
                 queue.append(node.right)
 
             i += 2
 
         return root
+
+
+# Your Codec object will be instantiated and called as such:
+root = TreeNode(1)
+root.left = TreeNode(2)
+root.right = TreeNode(5)
+root.left.left = TreeNode(3)
+root.left.right = TreeNode(4)
+
+ser = Codec()
+deser = Codec()
+
+tree = ser.serialize(root)
+print(tree)  # '1,2,5,3,4,None,None,None,None,None,None,'
+
+ans = deser.deserialize(tree)
+print(ans.val)  # 1
+print(ans.left.val)  # 2
+print(ans.right.val)  # 5
+print(ans.left.left.val)  # 3
+print(ans.left.right.val)  # 4
