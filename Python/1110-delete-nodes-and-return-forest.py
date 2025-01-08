@@ -12,26 +12,25 @@ class TreeNode:
 
 class Solution:
     def delNodes(self, root: Optional[TreeNode], toDelete: List[int]) -> List[TreeNode]:
-        resultTreeList = []
+        result = []
         toDeleteSet = set(toDelete)
-
         def dfs(node: Optional[TreeNode]):
-            nonlocal resultTreeList
+            nonlocal result
             if node is None:
                 return
             node.left = dfs(node.left)
             node.right = dfs(node.right)
             if node.val in toDeleteSet:
                 if node.left:
-                    resultTreeList.append(node.left)
+                    result.append(node.left)
                 if node.right:
-                    resultTreeList.append(node.right)
+                    result.append(node.right)
                 return None
             return node
         root = dfs(root)
         if root:
-            resultTreeList.append(root)
-        return resultTreeList
+            result.append(root)
+        return result
 
 
 toDelete = [3, 5]
