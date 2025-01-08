@@ -12,19 +12,18 @@ class TreeNode:
 
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        diameter = 0
+        result = 0
 
-        def longestPath(node: Optional[TreeNode]):
-            if not node:
+        def dfs(node: Optional[TreeNode]):
+            nonlocal result
+            if node is None:
                 return 0
-            nonlocal diameter
-            leftPath = longestPath(node.left)
-            rightPath = longestPath(node.right)
-            diameter = max(diameter, leftPath + rightPath)
-            return max(leftPath, rightPath) + 1
-
-        longestPath(root)
-        return diameter
+            leftResult = dfs(node.left)
+            rightResult = dfs(node.right)
+            result = max(result, leftResult + rightResult)
+            return max(leftResult, rightResult) + 1
+        dfs(root)
+        return result
 
 
 root = TreeNode(1)
@@ -32,3 +31,4 @@ root.left = TreeNode(2)
 root.left.left = TreeNode(4)
 root.left.right = TreeNode(5)
 root.right = TreeNode(3)
+print(Solution().diameterOfBinaryTree(root))
