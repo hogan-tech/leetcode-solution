@@ -2,3 +2,4 @@
 3042-count-prefix-and-suffix-pairs-i python easy
 0364-nested-list-weight-sum-ii python medium
 2185-counting-words-with-a-given-prefix python easy
+2168-unique-substrings-with-equal-digit-frequency python medium
