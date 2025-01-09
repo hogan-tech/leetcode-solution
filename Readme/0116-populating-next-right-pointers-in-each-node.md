@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/">116. Populating Next Right Pointers in Each Node</a></h2><h3>Medium</h3><hr><div><p>You are given a <strong>perfect binary tree</strong> where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
+<h2> 9942 310
+116. Populating Next Right Pointers in Each Node</h2><hr><div><p>You are given a <strong>perfect binary tree</strong> where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
 
 <pre>struct Node {
   int val;
