@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/symmetric-tree/">101. Symmetric Tree</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, <em>check whether it is a mirror of itself</em> (i.e., symmetric around its center).</p>
+<h2> 15723 399
+101. Symmetric Tree</h2><hr><div><p>Given the <code>root</code> of a binary tree, <em>check whether it is a mirror of itself</em> (i.e., symmetric around its center).</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
