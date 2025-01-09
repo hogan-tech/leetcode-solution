@@ -1,3 +1,5 @@
+# time complexity: O(n*m)
+# space complexity: O(n*m)
 from collections import deque
 from typing import List
 
@@ -24,3 +26,13 @@ class Solution:
                     current[j] = tmp
             count += 1
         return 0
+
+
+beginWord = "hit"
+endWord = "cog"
+wordList = ["hot", "dot", "dog", "lot", "log", "cog"]
+print(Solution().ladderLength(beginWord, endWord, wordList))
+beginWord = "hit"
+endWord = "cog"
+wordList = ["hot", "dot", "dog", "lot", "log"]
+print(Solution().ladderLength(beginWord, endWord, wordList))
