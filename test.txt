@@ -1,1 +1,2 @@
 0987-vertical-order-traversal-of-a-binary-tree python medium
+0958-check-completeness-of-a-binary-tree python medium
