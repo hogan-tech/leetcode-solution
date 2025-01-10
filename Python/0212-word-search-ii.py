@@ -48,6 +48,82 @@ class Solution:
 
         return matchedWords
 
+# time complexity: O(n*3^l)
+# space complexity: O(m)
+class TrieNode:
+    def __init__(self, char=""):
+        self.char = char
+        self.children = {}
+        self.isEnd = False
+
+
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+
+    def insert(self, word):
+        node = self.root
+        for c in word:
+            if c not in node.children:
+                node.children[c] = TrieNode()
+            node = node.children.get(c)
+        node.isEnd = True
+
+    def startsWith(self, prefix):
+        node = self.root
+        for c in prefix:
+            if c not in node.children:
+                return False
+            node = node.children[c]
+        return True
+
+    def removeChars(self, word):
+        node = self.root
+        childList = []
+
+        for c in word:
+            childList.append([node, c])
+            node = node.children[c]
+
+        for parent, childChar in reversed(childList):
+            target = parent.children[childChar]
+            if target.children:
+                return
+            del parent.children[childChar]
+
+
+class Solution:
+    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
+        def dfs(trieForWords: Trie, node: TrieNode, grid: List[List[str]], row: int, col: int, result: List[str], word=""):
+            if node.isEnd:
+                result.append(word)
+                node.isEnd = False
+                trieForWords.removeChars(word)
+
+            if 0 <= row < ROW and 0 <= col < COL:
+                char = grid[row][col]
+                child = node.children.get(char)
+                if child is not None:
+                    word += char
+                    grid[row][col] = None
+                    for dR, dC in [(0, 1), (1, 0), (-1, 0), (0, -1)]:
+                        dfs(trieForWords, child, grid,
+                            row + dR, col + dC, result, word)
+                    grid[row][col] = char
+
+        ROW = len(board)
+        COL = len(board[0])
+        trieForWords = Trie()
+        result = []
+        for word in words:
+            trieForWords.insert(word)
+
+        for r in range(ROW):
+            for c in range(COL):
+                dfs(trieForWords, trieForWords.root, board, r, c, result)
+
+        return result
+
 
 board = [["o", "a", "a", "n"],
          ["e", "t", "a", "e"],
