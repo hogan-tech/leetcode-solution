@@ -2,3 +2,4 @@
 0958-check-completeness-of-a-binary-tree python medium
 1065-index-pairs-of-a-string python easy
 0359-logger-rate-limiter python easy
+0496-next-greater-element-i python easy
