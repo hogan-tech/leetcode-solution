@@ -1,2 +1,3 @@
 0609-find-duplicate-file-in-system python medium
 1570-dot-product-of-two-sparse-vectors python medium
+1086-high-five python easy
