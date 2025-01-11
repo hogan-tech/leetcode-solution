@@ -2,3 +2,4 @@
 1570-dot-product-of-two-sparse-vectors python medium
 1086-high-five python easy
 2262-total-appeal-of-a-string python hard
+0266-palindrome-permutation python easy
