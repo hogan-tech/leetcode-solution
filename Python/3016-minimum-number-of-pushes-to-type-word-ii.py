@@ -7,11 +7,15 @@ class Solution:
     def minimumPushes(self, words: str) -> int:
         wordCounter = list(Counter(words).values())
         wordCounter.sort(reverse=True)
-        ans = 0
+        result = 0
         for i in range(len(wordCounter)):
-            ans += (i // 8 + 1) * wordCounter[i]
-        return ans
+            result += (i // 8 + 1) * wordCounter[i]
+        return result
 
 
-words = "aabbccddeeffgghhiiiiii"
-print(Solution().minimumPushes(words))
+word = "abcde"
+print(Solution().minimumPushes(word))
+word = "xyzxyzxyzxyz"
+print(Solution().minimumPushes(word))
+word = "aabbccddeeffgghhiiiiii"
+print(Solution().minimumPushes(word))

@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/">3016. Minimum Number of Pushes to Type Word II</a></h2><h3>Medium</h3><hr><div><p>You are given a string <code>word</code> containing lowercase English letters.</p>
+<h2> 748 74
+3016. Minimum Number of Pushes to Type Word II</h2><hr><div><p>You are given a string <code>word</code> containing lowercase English letters.</p>
 
 <p>Telephone keypads have keys mapped with <strong>distinct</strong> collections of lowercase English letters, which can be used to form words by pushing them. For example, the key <code>2</code> is mapped with <code>["a","b","c"]</code>, we need to push the key one time to type <code>"a"</code>, two times to type <code>"b"</code>, and three times to type <code>"c"</code> <em>.</em></p>
 
@@ -24,7 +25,7 @@ It can be shown that no other mapping can provide a lower cost.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2023/12/26/keypadv2e2.png" style="width: 329px; height: 313px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2024/08/20/edited.png" style="width: 329px; height: 313px;">
 <pre><strong>Input:</strong> word = "xyzxyzxyzxyz"
 <strong>Output:</strong> 12
 <strong>Explanation:</strong> The remapped keypad given in the image provides the minimum cost.
