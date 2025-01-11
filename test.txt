@@ -1,2 +1,3 @@
 1366-rank-teams-by-votes python medium
 0684-redundant-connection python medium
+1970-last-day-where-you-can-still-cross python hard
