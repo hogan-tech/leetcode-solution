@@ -1,1 +1,2 @@
 1400-construct-k-palindrome-strings python medium
+0348-design-tic-tac-toe python medium
