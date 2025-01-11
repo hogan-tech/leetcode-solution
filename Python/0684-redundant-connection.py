@@ -5,8 +5,8 @@ from typing import List
 
 class UnionFind:
     def __init__(self, countNodes: int) -> None:
-        self.parents: list[int] = list(range(countNodes + 1))
-        self.ranks: list[int] = [1] * (countNodes + 1)
+        self.parents = list(range(countNodes + 1))
+        self.ranks = [1] * (countNodes + 1)
 
     def find(self, node: int) -> int:
         while node != self.parents[node]:
@@ -29,11 +29,13 @@ class UnionFind:
 
 class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        disjointsSet = UnionFind(len(edges))
-        for startVertex, endVertex in edges:
-            if not disjointsSet.union(startVertex, endVertex):
-                return [startVertex, endVertex]
+        disjointSet = UnionFind(len(edges))
+        for start, end in edges:
+            if not disjointSet.union(start, end):
+                return [start, end]
 
 
 edges = [[1, 2], [1, 3], [2, 3]]
+print(Solution().findRedundantConnection(edges))
+edges = [[1, 2], [2, 3], [3, 4], [1, 4], [1, 5]]
 print(Solution().findRedundantConnection(edges))
