@@ -5,17 +5,17 @@ from typing import List
 
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        prefixMod = 0
-        modSeen = {0: -1}
+        remainderMap = {0: -1}
+        cumulativeSum = 0
 
-        for i in range(len(nums)):
-            prefixMod = (prefixMod + nums[i]) % k
-
-            if prefixMod in modSeen:
-                if i - modSeen[prefixMod] > 1:
+        for i, num in enumerate(nums):
+            cumulativeSum += num
+            remainder = cumulativeSum % k
+            if remainder in remainderMap:
+                if i - remainderMap[remainder] > 1:
                     return True
             else:
-                modSeen[prefixMod] = i
+                remainderMap[remainder] = i
 
         return False
 

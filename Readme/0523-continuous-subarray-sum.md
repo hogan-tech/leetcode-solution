@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/continuous-subarray-sum/">523. Continuous Subarray Sum</a></h2><h3>Medium</h3><hr><div><p>Given an integer array nums and an integer k, return <code>true</code> <em>if </em><code>nums</code><em> has a <strong>good subarray</strong> or </em><code>false</code><em> otherwise</em>.</p>
+<h2> 6459 671
+523. Continuous Subarray Sum</h2><hr><div><p>Given an integer array nums and an integer k, return <code>true</code> <em>if </em><code>nums</code><em> has a <strong>good subarray</strong> or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>A <strong>good subarray</strong> is a subarray where:</p>
 
