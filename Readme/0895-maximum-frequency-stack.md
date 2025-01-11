@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/maximum-frequency-stack/">895. Maximum Frequency Stack</a></h2><h3>Hard</h3><hr><div><p>Design a stack-like data structure to push elements to the stack and pop the most frequent element from the stack.</p>
+<h2> 4754 74
+895. Maximum Frequency Stack</h2><hr><div><p>Design a stack-like data structure to push elements to the stack and pop the most frequent element from the stack.</p>
 
 <p>Implement the <code>FreqStack</code> class:</p>
 
