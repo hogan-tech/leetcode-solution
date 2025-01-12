@@ -1,14 +1,18 @@
-from typing import List
+# set()
+# time complexity: O(m*l)
+# space complexity: O(l)
+# get()
+# time complexity: O(n*timestamp*l)
+# space complexity: O(1)
+from collections import defaultdict
 
 
 class TimeMap:
 
     def __init__(self):
-        self.map = {}
+        self.map = defaultdict(list)
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        if not key in self.map:
-            self.map[key]: List = []
         self.map[key].append([timestamp, value])
 
     def get(self, key: str, timestamp: int) -> str:

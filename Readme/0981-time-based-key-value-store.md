@@ -1,10 +1,11 @@
-<h2><a href="https://leetcode.com/problems/time-based-key-value-store/">981. Time Based Key-Value Store</a></h2><h3>Medium</h3><hr><div><p>Design a time-based key-value data structure that can store multiple values for the same key at different time stamps and retrieve the key's value at a certain timestamp.</p>
+<h2> 4916 640
+981. Time Based Key-Value Store</h2><hr><div><p>Design a time-based key-value data structure that can store multiple values for the same key at different time stamps and retrieve the key's value at a certain timestamp.</p>
 
 <p>Implement the <code>TimeMap</code> class:</p>
 
 <ul>
 	<li><code>TimeMap()</code> Initializes the object of the data structure.</li>
-	<li><code>void set(String key, String value, int timestamp)</code> Stores the key <code>key</code> with the value <code>value </code>at the given time <code>timestamp</code>.</li>
+	<li><code>void set(String key, String value, int timestamp)</code> Stores the key <code>key</code> with the value <code>value</code> at the given time <code>timestamp</code>.</li>
 	<li><code>String get(String key, int timestamp)</code> Returns a value such that <code>set</code> was called previously, with <code>timestamp_prev &lt;= timestamp</code>. If there are multiple such values, it returns the value associated with the largest <code>timestamp_prev</code>. If there are no values, it returns <code>""</code>.</li>
 </ul>
 
