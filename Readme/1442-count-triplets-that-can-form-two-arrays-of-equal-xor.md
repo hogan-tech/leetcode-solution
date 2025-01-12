@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/">1442. Count Triplets That Can Form Two Arrays of Equal XOR</a></h2><h3>Medium</h3><hr><div><p>Given an array of integers <code>arr</code>.</p>
+<h2> 1968 132
+1442. Count Triplets That Can Form Two Arrays of Equal XOR</h2><hr><div><p>Given an array of integers <code>arr</code>.</p>
 
 <p>We want to select three indices <code>i</code>, <code>j</code> and <code>k</code> where <code>(0 &lt;= i &lt; j &lt;= k &lt; arr.length)</code>.</p>
 
