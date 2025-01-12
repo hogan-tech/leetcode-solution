@@ -1,2 +1,3 @@
 3417-zigzag-grid-traversal-with-skip python easy
 3418-maximum-amount-of-money-robot-can-earn python medium
+0218-the-skyline-problem python hard
