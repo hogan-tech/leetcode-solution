@@ -1,4 +1,1 @@
-3417-zigzag-grid-traversal-with-skip python easy
-3418-maximum-amount-of-money-robot-can-earn python medium
-0218-the-skyline-problem python hard
-1009-complement-of-base-10-integer python easy
+0832-flipping-an-image python easy
