@@ -1,4 +1,2 @@
-1366-rank-teams-by-votes python medium
-0684-redundant-connection python medium
-1970-last-day-where-you-can-still-cross python hard
-2116-check-if-a-parentheses-string-can-be-valid python medium
+3417-zigzag-grid-traversal-with-skip python easy
+3418-maximum-amount-of-money-robot-can-earn python medium
