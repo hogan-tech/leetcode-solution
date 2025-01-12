@@ -1,1 +1,2 @@
 0716-max-stack python hard
+0170-two-sum-iii-data-structure-design python easy
