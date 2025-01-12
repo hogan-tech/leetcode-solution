@@ -1,14 +1,15 @@
-from collections import Counter
+# time complexity: O(n)
+# space complexity: O(1)
 from typing import List
 
 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        numsCounter = list(Counter(nums).items())
-        for item in numsCounter:
-            if(item[1] == 1):
-                return item[0]
-        return 0
-    
-nums = [0,1,0,1,0,1,99]
+        result = 0
+        for num in nums:
+            result ^= num
+        return result
+
+
+nums = [2, 2, 1]
 print(Solution().singleNumber(nums))
