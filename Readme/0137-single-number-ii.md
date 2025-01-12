@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/single-number-ii/">137. Single Number II</a></h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code> where&nbsp;every element appears <strong>three times</strong> except for one, which appears <strong>exactly once</strong>. <em>Find the single element and return it</em>.</p>
+<h2> 8149 712
+137. Single Number II</h2><hr><div><p>Given an integer array <code>nums</code> where&nbsp;every element appears <strong>three times</strong> except for one, which appears <strong>exactly once</strong>. <em>Find the single element and return it</em>.</p>
 
 <p>You must&nbsp;implement a solution with a linear runtime complexity and use&nbsp;only constant&nbsp;extra space.</p>
 
