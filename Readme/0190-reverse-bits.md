@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/reverse-bits/">190. Reverse Bits</a></h2><h3>Easy</h3><hr><div><p>Reverse bits of a given 32 bits unsigned integer.</p>
+<h2> 5262 1527
+190. Reverse Bits</h2><hr><div><p>Reverse bits of a given 32 bits unsigned integer.</p>
 
 <p><strong>Note:</strong></p>
 
