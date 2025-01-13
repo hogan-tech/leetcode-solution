@@ -1,1 +1,2 @@
 0934-shortest-bridge python medium
+0851-loud-and-rich python medium
