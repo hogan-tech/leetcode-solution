@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/meeting-rooms/">252. Meeting Rooms</a></h2><h3>Easy</h3><hr><div><p>Given an array of meeting time <code>intervals</code>&nbsp;where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>, determine if a person could attend all meetings.</p>
+<h2> 2064 108
+252. Meeting Rooms</h2><hr><div><p>Given an array of meeting time <code>intervals</code>&nbsp;where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>, determine if a person could attend all meetings.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
