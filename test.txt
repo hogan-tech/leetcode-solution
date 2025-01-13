@@ -1,4 +1,1 @@
-0716-max-stack python hard
-0170-two-sum-iii-data-structure-design python easy
-0303-range-sum-query-immutable python easy
-0410-split-array-largest-sum python hard
+0934-shortest-bridge python medium
