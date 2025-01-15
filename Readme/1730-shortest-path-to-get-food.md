@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/shortest-path-to-get-food/">1730. Shortest Path to Get Food</a></h2><h3>Medium</h3><hr><div><p>You are starving and you want to eat food as quickly as possible. You want to find the shortest path to arrive at any food cell.</p>
+<h2> 695 40
+1730. Shortest Path to Get Food</h2><hr><div><p>You are starving and you want to eat food as quickly as possible. You want to find the shortest path to arrive at any food cell.</p>
 
 <p>You are given an <code>m x n</code> character matrix, <code>grid</code>, of these different types of cells:</p>
 

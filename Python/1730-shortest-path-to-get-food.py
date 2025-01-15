@@ -9,30 +9,34 @@ class Solution:
         ROW = len(grid)
         COL = len(grid[0])
         queue = deque()
-        seen = set()
-        for i in range(ROW):
-            for j in range(COL):
-                if grid[i][j] == "*":
-                    queue.append((1, (i, j)))
-                    seen.add((i, j))
-                    break
-        directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+        visited = set()
+        for r in range(ROW):
+            for c in range(COL):
+                if grid[r][c] == '*':
+                    queue.append((1, (r, c)))
+                    visited.add((r, c))
         minDistance = float('inf')
         while queue:
-            currDistance, (currR, currC) = queue.popleft()
-            for dR, dC in directions:
+            currDis, (currR, currC) = queue.popleft()
+
+            for dR, dC in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
                 nextR = currR + dR
                 nextC = currC + dC
-                if 0 <= nextR < ROW and 0 <= nextC < COL and grid[nextR][nextC] != "X" and grid[nextR][nextC] == "O" and (nextR, nextC) not in seen:
-                    queue.append((currDistance + 1, (nextR, nextC)))
-                    seen.add((nextR, nextC))
-                if 0 <= nextR < ROW and 0 <= nextC < COL and grid[nextR][nextC] == "#":
-                    minDistance = min(minDistance, currDistance)
-
-        if minDistance == float("inf"):
-            return -1
-        return minDistance
+                if 0 <= nextR < ROW and 0 <= nextC < COL and (nextR, nextC) not in visited:
+                    if grid[nextR][nextC] != 'X' and grid[nextR][nextC] == 'O':
+                        queue.append((currDis + 1, (nextR, nextC)))
+                        visited.add((nextR, nextC))
+                if 0 <= nextR < ROW and 0 <= nextC < COL and grid[nextR][nextC] == '#':
+                    minDistance = min(minDistance, currDis)
+        return minDistance if minDistance != float('inf') else -1
 
 
-grid = [["O", "*"], ["#", "O"]]
+grid = [["X", "X", "X", "X", "X", "X"], ["X", "*", "O", "O", "O", "X"],
+        ["X", "O", "O", "#", "O", "X"], ["X", "X", "X", "X", "X", "X"]]
+print(Solution().getFood(grid))
+grid = [["X", "X", "X", "X", "X"], ["X", "*", "X", "O", "X"],
+        ["X", "O", "X", "#", "X"], ["X", "X", "X", "X", "X"]]
+print(Solution().getFood(grid))
+grid = [["X", "X", "X", "X", "X", "X", "X", "X"], ["X", "*", "O", "X", "O", "#", "O", "X"], ["X", "O", "O",
+                                                                                             "X", "O", "O", "X", "X"], ["X", "O", "O", "O", "O", "#", "O", "X"], ["X", "X", "X", "X", "X", "X", "X", "X"]]
 print(Solution().getFood(grid))
