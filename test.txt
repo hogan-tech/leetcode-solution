@@ -1,1 +1,2 @@
 2657-find-the-prefix-common-array-of-two-arrays python medium
+2429-minimize-xor python medium
