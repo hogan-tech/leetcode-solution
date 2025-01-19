@@ -1,4 +1,2 @@
-2683-neighboring-bitwise-xor python medium
-1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid python hard
-3423-maximum-difference-between-adjacent-elements-in-a-circular-array python easy
-3424-minimum-cost-to-make-arrays-identical python medium
+3427-sum-of-variable-length-subarrays python easy
+3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences python medium
