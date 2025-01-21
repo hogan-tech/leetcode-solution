@@ -1,3 +1,1 @@
-3427-sum-of-variable-length-subarrays python easy
-3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences python medium
-2661-first-completely-painted-row-or-column python medium
+2017-grid-game python medium
