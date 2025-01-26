@@ -1,2 +1,2 @@
-0802-find-eventual-safe-states python medium
-2948-make-lexicographically-smallest-array-by-swapping-elements python medium
+3432-count-partitions-with-even-sum-difference python easy
+3433-count-mentions-per-user python medium
