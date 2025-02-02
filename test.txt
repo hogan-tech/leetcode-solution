@@ -1,3 +1,4 @@
 1852-distinct-numbers-in-each-subarray python medium
 3438-find-valid-pair-of-adjacent-digits-in-string python easy
 3439-reschedule-meetings-for-maximum-free-time-i python medium
+1752-check-if-array-is-sorted-and-rotated python easy
