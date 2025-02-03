@@ -1,1 +1,2 @@
 3105-longest-strictly-increasing-or-strictly-decreasing-subarray python easy
+2442-count-number-of-distinct-integers-after-reverse-operations python medium
