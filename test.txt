@@ -1,1 +1,2 @@
 3159-find-occurrences-of-an-element-in-an-array python medium
+1447-simplified-fractions python medium
