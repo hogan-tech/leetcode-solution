@@ -1,3 +1,4 @@
 1492-the-kth-factor-of-n python medium
 2279-maximum-bags-with-full-capacity-of-rocks python medium
 1833-maximum-ice-cream-bars python medium
+2186-minimum-number-of-steps-to-make-two-strings-anagram-ii python medium
