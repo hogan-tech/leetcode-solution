@@ -1,6 +1,1 @@
-1492-the-kth-factor-of-n python medium
-2279-maximum-bags-with-full-capacity-of-rocks python medium
-1833-maximum-ice-cream-bars python medium
-2186-minimum-number-of-steps-to-make-two-strings-anagram-ii python medium
-2177-find-three-consecutive-integers-that-sum-to-a-given-number python medium
-1305-all-elements-in-two-binary-search-trees python medium
+3159-find-occurrences-of-an-element-in-an-array python medium
