@@ -1,2 +1,3 @@
 3271-hash-divided-string python medium
 1551-minimum-operations-to-make-array-equal python medium
+2545-sort-the-students-by-their-kth-score python medium
