@@ -1,3 +1,5 @@
+# time complexity: O(n^2)
+# space complexity: O(n)
 from typing import List
 
 
@@ -21,7 +23,7 @@ class Solution:
             if prime[i]:
                 right = i
                 break
-                
+
         return right - left
 
 
