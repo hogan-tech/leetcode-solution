@@ -1,3 +1,4 @@
 3159-find-occurrences-of-an-element-in-an-array python medium
 1447-simplified-fractions python medium
 1800-maximum-ascending-subarray-sum python easy
+2150-find-all-lonely-numbers-in-the-array python medium
