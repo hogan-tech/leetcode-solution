@@ -2,3 +2,4 @@
 1447-simplified-fractions python medium
 1800-maximum-ascending-subarray-sum python easy
 2150-find-all-lonely-numbers-in-the-array python medium
+2428-maximum-sum-of-an-hourglass python medium
