@@ -1,1 +1,2 @@
 2740-find-the-value-of-the-partition python medium
+1338-reduce-array-size-to-the-half python medium
