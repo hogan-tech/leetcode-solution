@@ -1,3 +1,4 @@
 2740-find-the-value-of-the-partition python medium
 1338-reduce-array-size-to-the-half python medium
 2342-max-sum-of-a-pair-with-equal-sum-of-digits python medium
+1451-rearrange-words-in-a-sentence python medium
