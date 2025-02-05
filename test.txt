@@ -1,2 +1,3 @@
 1476-subrectangle-queries python medium
 2396-strictly-palindromic-number python medium
+1324-print-words-vertically python medium
