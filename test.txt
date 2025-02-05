@@ -1,2 +1,3 @@
 3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i python medium
 2640-find-the-score-of-all-prefixes-of-an-array python medium
+2348-number-of-zero-filled-subarrays python medium
