@@ -1,2 +1,3 @@
 1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold python medium
 2221-find-triangular-sum-of-an-array python medium
+2079-watering-plants python medium
