@@ -2,3 +2,4 @@
 2221-find-triangular-sum-of-an-array python medium
 2079-watering-plants python medium
 1936-add-minimum-number-of-rungs python medium
+3084-count-substrings-starting-and-ending-with-given-character python medium
