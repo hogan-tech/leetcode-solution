@@ -1,18 +1,27 @@
+# time complexit: O(2^n + nlogn)
+# space complexity: O(n)
 from collections import Counter
 from typing import List
 
 
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        powerset = [[]]
-        hmap = Counter(nums)
-        for key in hmap.keys():
-            for i in range(0, len(powerset)):
-                k = 0
-                while (k < hmap[key]):
-                    k += 1
-                    powerset.append(list(powerset[i]+k*[key]))
-        return powerset
+        result = []
+        nums.sort()
+
+        def backtrack(start: int, comb: List[int], counter: Counter):
+            if list(comb) not in result:
+                result.append(list(comb))
+            for i in range(start, len(nums)):
+                if counter[nums[i]] > 0:
+                    counter[nums[i]] -= 1
+                    comb.append(nums[i])
+                    backtrack(i + 1, comb, counter)
+                    comb.pop()
+                    counter[nums[i]] += 1
+
+        backtrack(0, [], Counter(nums))
+        return result
 
 
 nums = [1, 2, 2]
