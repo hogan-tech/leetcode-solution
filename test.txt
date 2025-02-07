@@ -1,4 +1,1 @@
-1476-subrectangle-queries python medium
-2396-strictly-palindromic-number python medium
-1324-print-words-vertically python medium
-1726-tuple-with-same-product python medium
+3160-find-the-number-of-distinct-colors-among-the-balls python medium
