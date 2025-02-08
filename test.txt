@@ -1,1 +1,2 @@
 1409-queries-on-a-permutation-with-key python medium
+2587-rearrange-array-to-maximize-prefix-score python medium
