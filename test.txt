@@ -1,1 +1,2 @@
 2599-make-the-prefix-sum-non-negative python medium
+2349-design-a-number-container-system python medium
