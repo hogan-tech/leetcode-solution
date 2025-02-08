@@ -1,3 +1,1 @@
-1409-queries-on-a-permutation-with-key python medium
-2587-rearrange-array-to-maximize-prefix-score python medium
-2161-partition-array-according-to-given-pivot python medium
+2599-make-the-prefix-sum-non-negative python medium
