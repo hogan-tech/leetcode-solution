@@ -1,3 +1,4 @@
 3160-find-the-number-of-distinct-colors-among-the-balls python medium
 1471-the-k-strongest-values-in-an-array python medium
 2274-maximum-consecutive-floors-without-special-floors python medium
+2679-sum-in-a-matrix python medium
