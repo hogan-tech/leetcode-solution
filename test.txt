@@ -1,1 +1,2 @@
 2364-count-number-of-bad-pairs python medium
+2895-minimum-processing-time python medium
