@@ -1,2 +1,8 @@
-2599-make-the-prefix-sum-non-negative python medium
-2349-design-a-number-container-system python medium
+2023-number-of-pairs-of-strings-with-concatenation-equal-to-target python medium
+2284-sender-with-largest-word-count python medium
+2829-determine-the-minimum-sum-of-a-k-avoiding-array python medium
+3195-find-the-minimum-area-to-cover-all-ones-i python medium
+1100-find-k-length-substrings-with-no-repeated-characters python medium
+1513-number-of-substrings-with-only-1s python medium
+3447-assign-elements-to-groups-with-constraints python medium
+3446-sort-matrix-by-diagonals python medium
