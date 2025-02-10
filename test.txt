@@ -1,4 +1,1 @@
-2364-count-number-of-bad-pairs python medium
-2895-minimum-processing-time python medium
-0307-range-sum-query-mutable python medium
-3174-clear-digits python easy
+2165-smallest-value-of-the-rearranged-number python medium
