@@ -1,1 +1,6 @@
-2165-smallest-value-of-the-rearranged-number python medium
+3211-generate-binary-strings-without-adjacent-zeros python medium
+1689-partitioning-into-minimum-number-of-deci-binary-numbers python medium
+2405-optimal-partition-of-string python medium
+2043-simple-bank-system python medium
+2579-count-total-number-of-colored-cells python medium
+1910-remove-all-occurrences-of-a-substring python medium
