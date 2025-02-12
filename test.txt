@@ -1,1 +1,2 @@
 2244-minimum-rounds-to-complete-all-tasks python medium
+1288-remove-covered-intervals python medium
