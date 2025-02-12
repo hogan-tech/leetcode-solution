@@ -2,3 +2,4 @@
 1817-finding-the-users-active-minutes python medium
 2260-minimum-consecutive-cards-to-pick-up python medium
 3100-water-bottles-ii python medium
+3179-find-the-n-th-value-after-k-seconds python medium
