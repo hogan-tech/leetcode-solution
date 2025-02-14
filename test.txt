@@ -1,4 +1,1 @@
-2244-minimum-rounds-to-complete-all-tasks python medium
-1288-remove-covered-intervals python medium
-2443-sum-of-number-and-its-reverse python medium
-0807-max-increase-to-keep-city-skyline python medium
+2120-execution-of-all-suffix-instructions-staying-in-a-grid python medium
