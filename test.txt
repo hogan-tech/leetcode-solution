@@ -1,1 +1,2 @@
 1352-product-of-the-last-k-numbers python medium
+1828-queries-on-number-of-points-inside-a-circle python medium
