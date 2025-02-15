@@ -1,3 +1,4 @@
 0814-binary-tree-pruning python medium
 2410-maximum-matching-of-players-with-trainers python medium
 1881-maximum-value-after-insertion python medium
+0849-maximize-distance-to-closest-person python medium
