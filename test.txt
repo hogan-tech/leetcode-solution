@@ -1,2 +1,1 @@
-1352-product-of-the-last-k-numbers python medium
-1828-queries-on-number-of-points-inside-a-circle python medium
+0814-binary-tree-pruning python medium
