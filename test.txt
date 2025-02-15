@@ -1,4 +1,2 @@
-1756-design-most-recently-used-queue python medium
-2698-find-the-punishment-number-of-an-integer python medium
-3034-number-of-subarrays-that-match-a-pattern-i python medium
-2091-removing-minimum-and-maximum-from-array python medium
+3452-sum-of-good-numbers python easy
+3453-separate-squares-i python medium
