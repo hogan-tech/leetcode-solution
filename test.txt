@@ -1,2 +1,3 @@
 3456-find-special-substring-of-length-k python easy
 3457-eat-pizzas python medium
+1718-construct-the-lexicographically-largest-valid-sequence python medium
