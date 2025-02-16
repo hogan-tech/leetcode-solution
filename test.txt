@@ -1,2 +1,2 @@
-3452-sum-of-good-numbers python easy
-3453-separate-squares-i python medium
+3456-find-special-substring-of-length-k python easy
+3457-eat-pizzas python medium
