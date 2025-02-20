@@ -1,1 +1,3 @@
 2375-construct-smallest-number-from-di-string python medium
+1276-number-of-burgers-with-no-waste-of-ingredients python medium
+1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n python medium
