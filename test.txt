@@ -1,2 +1,3 @@
 1302-deepest-leaves-sum python medium
 1214-two-sum-bsts python medium
+2155-all-divisions-with-the-highest-score-of-a-binary-array python medium
