@@ -1,1 +1,2 @@
-1222-queens-that-can-attack-the-king python medium
+1529-minimum-suffix-flips python medium
+0978-longest-turbulent-subarray python medium
