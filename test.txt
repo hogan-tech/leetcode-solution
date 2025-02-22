@@ -1,1 +1,2 @@
 2256-minimum-average-difference python medium
+1306-jump-game-iii python medium
