@@ -1,1 +1,1 @@
-1261-find-elements-in-a-contaminated-binary-tree python medium
+2256-minimum-average-difference python medium
