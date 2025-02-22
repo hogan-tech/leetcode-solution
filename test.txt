@@ -1,1 +1,2 @@
 2240-number-of-ways-to-buy-pens-and-pencils python medium
+1198-find-smallest-common-element-in-all-rows python medium
