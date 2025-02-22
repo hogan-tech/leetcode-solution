@@ -1,4 +1,1 @@
-2240-number-of-ways-to-buy-pens-and-pencils python medium
-1198-find-smallest-common-element-in-all-rows python medium
-3111-minimum-rectangles-to-cover-points python medium
-3101-count-alternating-subarrays python medium
+2734-lexicographically-smallest-string-after-substring-operation python medium
