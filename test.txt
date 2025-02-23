@@ -1,2 +1,1 @@
-2734-lexicographically-smallest-string-after-substring-operation python medium
-1028-recover-a-tree-from-preorder-traversal python hard
+1410-html-entity-parser python medium
