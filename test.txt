@@ -1,1 +1,2 @@
-1410-html-entity-parser python medium
+3461-check-if-digits-are-equal-in-string-after-operations-i python easy
+3462-maximum-sum-with-at-most-k-elements python medium
