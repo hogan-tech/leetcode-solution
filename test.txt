@@ -1,2 +1,1 @@
-2357-make-array-zero-by-subtracting-equal-amounts python easy
-2055-plates-between-candles python medium
+2214-minimum-health-to-beat-game python medium
