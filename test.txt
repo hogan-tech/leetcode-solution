@@ -1,2 +1,5 @@
 3461-check-if-digits-are-equal-in-string-after-operations-i python easy
 3462-maximum-sum-with-at-most-k-elements python medium
+0889-construct-binary-tree-from-preorder-and-postorder-traversal python medium
+1152-analyze-user-website-visit-pattern python medium
+2467-most-profitable-path-in-a-tree python medium
