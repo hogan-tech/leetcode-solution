@@ -1,2 +1,1 @@
-1091-shortest-path-in-binary-matrix python medium
-1762-buildings-with-an-ocean-view python medium
+0498-diagonal-traverse python medium
