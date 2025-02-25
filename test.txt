@@ -1,4 +1,2 @@
-2214-minimum-health-to-beat-game python medium
-1209-remove-all-adjacent-duplicates-in-string-ii python medium
-0099-recover-binary-search-tree python medium
-2772-apply-operations-to-make-all-array-elements-equal-to-zero python medium
+1091-shortest-path-in-binary-matrix python medium
+1762-buildings-with-an-ocean-view python medium
