@@ -1,1 +1,5 @@
-0498-diagonal-traverse python medium
+3026-maximum-good-subarray-sum python medium
+1524-number-of-sub-arrays-with-odd-sum python medium
+1344-angle-between-hands-of-a-clock python medium
+0250-count-univalue-subtrees python medium
+0475-heaters python medium
