@@ -1,2 +1,1 @@
-1749-maximum-absolute-sum-of-any-subarray python medium
-2492-minimum-score-of-a-path-between-two-cities python medium
+0873-length-of-longest-fibonacci-subsequence python medium
