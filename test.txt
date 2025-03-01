@@ -1,2 +1,2 @@
-0873-length-of-longest-fibonacci-subsequence python medium
-2460-apply-operations-to-an-array python easy
+3467-transform-array-by-parity python easy
+3468-find-the-number-of-copy-arrays python medium
