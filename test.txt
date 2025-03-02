@@ -1,2 +1,2 @@
-3467-transform-array-by-parity python easy
-3468-find-the-number-of-copy-arrays python medium
+3471-find-the-largest-almost-missing-integer python easy
+3473-sum-of-k-subarrays-with-length-at-least-m python medium
