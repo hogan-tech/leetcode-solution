@@ -1,2 +1,1 @@
-1006-clumsy-factorial python medium
-2110-number-of-smooth-descent-periods-of-a-stock python medium
+1138-alphabet-board-path python medium
