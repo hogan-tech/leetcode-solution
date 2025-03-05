@@ -1,2 +1,1 @@
-2570-merge-two-2d-arrays-by-summing-values python easy
-1780-check-if-number-is-a-sum-of-powers-of-three python medium
+1006-clumsy-factorial python medium
