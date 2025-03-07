@@ -1,2 +1,1 @@
-1138-alphabet-board-path python medium
-2965-find-missing-and-repeated-values python medium
+2523-closest-prime-numbers-in-range python medium
