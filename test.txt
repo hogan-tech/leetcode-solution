@@ -1,2 +1,1 @@
-2379-minimum-recolors-to-get-k-consecutive-black-blocks python easy
-2521-distinct-prime-factors-of-product-of-array python medium
+1985-find-the-kth-largest-integer-in-the-array python medium
