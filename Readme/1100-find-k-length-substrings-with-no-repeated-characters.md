@@ -1,4 +1,4 @@
-<h2> 584 11
+<h2> 585 11
 1100. Find K-Length Substrings With No Repeated Characters</h2><hr><div><p>Given a string <code>s</code> and an integer <code>k</code>, return <em>the number of substrings in </em><code>s</code><em> of length </em><code>k</code><em> with no repeated characters</em>.</p>
 
 <p>&nbsp;</p>
