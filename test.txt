@@ -1,3 +1,1 @@
-0890-find-and-replace-pattern python medium
-2294-partition-array-such-that-maximum-difference-is-k python medium
-2139-minimum-moves-to-reach-target-score python medium
+1962-remove-stones-to-minimize-the-total python medium
