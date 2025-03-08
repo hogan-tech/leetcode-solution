@@ -1,1 +1,2 @@
 0890-find-and-replace-pattern python medium
+2294-partition-array-such-that-maximum-difference-is-k python medium
