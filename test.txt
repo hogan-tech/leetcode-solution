@@ -1,1 +1,2 @@
-3275-k-th-nearest-obstacle-queries python medium
+3477-fruits-into-baskets-ii python easy
+3478-choose-k-elements-with-maximum-sum python medium
