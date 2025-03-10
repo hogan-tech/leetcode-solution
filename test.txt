@@ -1,2 +1,1 @@
-3477-fruits-into-baskets-ii python easy
-3478-choose-k-elements-with-maximum-sum python medium
+3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii python medium
