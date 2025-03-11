@@ -1,1 +1,2 @@
 3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii python medium
+1358-number-of-substrings-containing-all-three-characters python medium
