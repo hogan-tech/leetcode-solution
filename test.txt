@@ -1,2 +1,5 @@
 2226-maximum-candies-allocated-to-k-children python medium
 0314-binary-tree-vertical-order-traversal python medium
+2408-design-sql python medium
+3483-unique-3-digit-even-numbers python easy
+3484-design-spreadsheet python medium
