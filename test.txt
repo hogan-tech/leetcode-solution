@@ -1,1 +1,2 @@
 1033-moving-stones-until-consecutive python medium
+2606-find-the-substring-with-maximum-cost python medium
