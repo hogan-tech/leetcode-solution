@@ -1,2 +1,0 @@
-3489-zero-array-transformation-iv python medium
-3488-closest-equal-element-queries python medium
