@@ -1,2 +1,3 @@
 1033-moving-stones-until-consecutive python medium
 2606-find-the-substring-with-maximum-cost python medium
+1333-filter-restaurants-by-vegan-friendly-price-and-distance python medium
