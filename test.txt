@@ -1,1 +1,2 @@
 2560-house-robber-iv python medium
+2594-minimum-time-to-repair-cars python medium
