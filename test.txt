@@ -3,3 +3,5 @@
 1333-filter-restaurants-by-vegan-friendly-price-and-distance python medium
 3039-apply-operations-to-make-string-empty python medium
 1003-check-if-word-is-valid-after-substitutions python medium
+1432-max-difference-you-can-get-from-changing-an-integer python medium
+1315-sum-of-nodes-with-even-valued-grandparent python medium
