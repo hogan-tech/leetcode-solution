@@ -5,3 +5,4 @@
 1003-check-if-word-is-valid-after-substitutions python medium
 1432-max-difference-you-can-get-from-changing-an-integer python medium
 1315-sum-of-nodes-with-even-valued-grandparent python medium
+2206-divide-array-into-equal-pairs python easy
