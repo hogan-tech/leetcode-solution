@@ -2,3 +2,4 @@
 3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii python medium
 0967-numbers-with-same-consecutive-differences python medium
 2001-number-of-pairs-of-interchangeable-rectangles python medium
+1433-check-if-a-string-can-break-another-string python medium
