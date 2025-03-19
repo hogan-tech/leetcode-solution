@@ -1,4 +1,4 @@
-<h2> 159 8
+<h2> 228 9
 3191. Minimum Operations to Make Binary Array Elements Equal to One I</h2><hr><div><p>You are given a <span data-keyword="binary-array">binary array</span> <code>nums</code>.</p>
 
 <p>You can do the following operation on the array <strong>any</strong> number of times (possibly zero):</p>
