@@ -1,3 +1,2 @@
-1357-apply-discount-every-n-orders python medium
-2957-remove-adjacent-almost-equal-characters python medium
-1170-compare-strings-by-frequency-of-the-smallest-character python medium
+1785-minimum-elements-to-add-to-form-a-given-sum python medium
+3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii python medium
