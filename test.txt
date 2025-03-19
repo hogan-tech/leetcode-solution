@@ -1,2 +1,3 @@
 1357-apply-discount-every-n-orders python medium
 2957-remove-adjacent-almost-equal-characters python medium
+1170-compare-strings-by-frequency-of-the-smallest-character python medium
