@@ -1,1 +1,2 @@
 1357-apply-discount-every-n-orders python medium
+2957-remove-adjacent-almost-equal-characters python medium
