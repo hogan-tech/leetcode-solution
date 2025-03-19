@@ -1,3 +1,4 @@
 1785-minimum-elements-to-add-to-form-a-given-sum python medium
 3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii python medium
 0967-numbers-with-same-consecutive-differences python medium
+2001-number-of-pairs-of-interchangeable-rectangles python medium
