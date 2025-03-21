@@ -2,3 +2,4 @@
 0677-map-sum-pairs python medium
 1094-car-pooling python medium
 2526-find-consecutive-integers-from-a-data-stream python medium
+1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts python medium
