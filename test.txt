@@ -1,6 +1,1 @@
-3108-minimum-cost-walk-in-weighted-graph python hard
-0677-map-sum-pairs python medium
-1094-car-pooling python medium
-2526-find-consecutive-integers-from-a-data-stream python medium
-1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts python medium
-2295-replace-elements-in-an-array python medium
+1946-largest-number-after-mutating-substring python medium
