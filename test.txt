@@ -1,3 +1,4 @@
 3108-minimum-cost-walk-in-weighted-graph python hard
 0677-map-sum-pairs python medium
 1094-car-pooling python medium
+2526-find-consecutive-integers-from-a-data-stream python medium
