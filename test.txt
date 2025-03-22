@@ -1,3 +1,4 @@
 1946-largest-number-after-mutating-substring python medium
 2596-check-knight-tour-configuration python medium
 0831-masking-personal-information python medium
+2961-double-modular-exponentiation python medium
