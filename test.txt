@@ -1,2 +1,3 @@
 3492-maximum-containers-on-a-ship python easy
 3493-properties-graph python medium
+3169-count-days-without-meetings python medium
