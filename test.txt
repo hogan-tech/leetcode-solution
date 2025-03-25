@@ -1,2 +1,3 @@
 3394-check-if-grid-can-be-cut-into-sections python medium
 3227-vowels-game-in-a-string python medium
+0781-rabbits-in-forest python medium
