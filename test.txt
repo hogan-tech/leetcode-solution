@@ -1,1 +1,2 @@
 1472-design-browser-history python medium
+2780-minimum-index-of-a-valid-split python medium
