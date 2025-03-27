@@ -1,3 +1,1 @@
-2235-add-two-integers python easy
-2034-stock-price-fluctuation python medium
-2033-minimum-operations-to-make-a-uni-value-grid python medium
+1472-design-browser-history python medium
