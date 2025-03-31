@@ -8,6 +8,25 @@
 
 Welcome to a robust and versatile repository of LeetCode solutions! This repository is a treasure trove for coding enthusiasts, educators, students, and professionals who are preparing for technical interviews or enhancing their coding skills.
 
+## What You'll Find Here
+
+- **Wide Range of Problems:** Our collection includes an extensive range of LeetCode problems, covering various topics and difficulty levels – from Easy to Hard.
+- **Multi-Language Support:** We offer solutions in several programming languages, including Python, C++, JavaScript, SQL, and TypeScript, catering to a diverse coding community.
+- **Organized and Accessible:** Each solution is meticulously organized by difficulty and language, making it easy to navigate and find what you need.
+- **In-Depth Explanations:** You'll find README files in each problem folder with detailed explanations of the problem, the approach taken, and a thorough walkthrough of the solution.
+
+## Statistics
+
+<img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
+
+## Folder Structure
+
+The solutions are organized as follows:
+
+- **Difficulty:** Problems are categorized into Easy, Medium, and Hard.
+- **Languages:** Solutions are available in multiple programming languages, including Python, C++, JavaScript, SQL, and TypeScript.
+- **Problem Titles:** Each problem is named after its LeetCode title.
+
 ## Question List
 
 <details><summary><b>Question List 0001 ~ 1000</b></summary>
@@ -1414,27 +1433,6 @@ Welcome to a robust and versatile repository of LeetCode solutions! This reposit
 | 3503 | [Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i)                                                       | [Python](./Python/3503-longest-palindrome-after-substring-concatenation-i.py)                                                             | [Medium](./Readme/3503-longest-palindrome-after-substring-concatenation-i.md)                            |
 
 </details>
-
-## What You'll Find Here
-
-- **Wide Range of Problems:** Our collection includes an extensive range of LeetCode problems, covering various topics and difficulty levels – from Easy to Hard.
-- **Multi-Language Support:** We offer solutions in several programming languages, including Python, C++, JavaScript, SQL, and TypeScript, catering to a diverse coding community.
-- **Organized and Accessible:** Each solution is meticulously organized by difficulty and language, making it easy to navigate and find what you need.
-- **In-Depth Explanations:** You'll find README files in each problem folder with detailed explanations of the problem, the approach taken, and a thorough walkthrough of the solution.
-
-## Statistics
-
-<img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
-
-## Folder Structure
-
-The solutions are organized as follows:
-
-- **Difficulty:** Problems are categorized into Easy, Medium, and Hard.
-- **Languages:** Solutions are available in multiple programming languages, including Python, C++, JavaScript, SQL, and TypeScript.
-- **Problem Titles:** Each problem is named after its LeetCode title.
-
-
 
 ## How to Use
 
