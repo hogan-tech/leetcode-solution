@@ -1,1 +1,4 @@
-1055-shortest-way-to-form-string python medium
+3498-reverse-degree-of-a-string python easy
+3499-maximize-active-section-with-trade-i python medium
+3502-minimum-cost-to-reach-every-position python easy
+3503-longest-palindrome-after-substring-concatenation-i python medium
