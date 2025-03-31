@@ -2,3 +2,4 @@
 3499-maximize-active-section-with-trade-i python medium
 3502-minimum-cost-to-reach-every-position python easy
 3503-longest-palindrome-after-substring-concatenation-i python medium
+2551-put-marbles-in-bags python hard
