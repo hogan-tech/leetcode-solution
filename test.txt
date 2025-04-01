@@ -1,2 +1,3 @@
 3147-taking-maximum-energy-from-the-mystic-dungeon python medium
 2140-solving-questions-with-brainpower python medium
+1663-smallest-string-with-a-given-numeric-value python medium
