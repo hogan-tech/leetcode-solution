@@ -15,6 +15,15 @@ Welcome to a robust and versatile repository of LeetCode solutions! This reposit
 - **Organized and Accessible:** Each solution is meticulously organized by difficulty and language, making it easy to navigate and find what you need.
 - **In-Depth Explanations:** You'll find README files in each problem folder with detailed explanations of the problem, the approach taken, and a thorough walkthrough of the solution.
 
+## Question List
+
+- [Problem 0001 ~ 1000](./Question_List_0001_1000.md)
+
+- [Problem 1001 ~ 2000](./Question_List_1001_2000.md)
+
+- [Problem 2001 ~ 3500](./Question_List_2001_3500.md)
+
+
 ## Statistics
 
 <img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
@@ -27,13 +36,6 @@ The solutions are organized as follows:
 - **Languages:** Solutions are available in multiple programming languages, including Python, C++, JavaScript, SQL, and TypeScript.
 - **Problem Titles:** Each problem is named after its LeetCode title.
 
-## Question List
-
-- [Problem 0001 ~ 1000](./Question_List_0001_1000.md)
-
-- [Problem 1001 ~ 2000](./Question_List_1001_2000.md)
-
-- [Problem 2001 ~ 3500](./Question_List_2001_3500.md)
 
 
 ## How to Use
