@@ -1,2 +1,3 @@
 0946-validate-stack-sequences python medium
 1396-design-underground-system python medium
+1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k python medium
