@@ -1,2 +1,4 @@
-0865-smallest-subtree-with-all-the-deepest-nodes python medium
-1123-lowest-common-ancestor-of-deepest-leaves python medium
+0317-shortest-distance-from-all-buildings python hard
+
+3507-minimum-pair-removal-to-sort-array-i python easy
+3508-implement-router python medium
