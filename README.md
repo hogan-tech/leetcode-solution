@@ -77,3 +77,19 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0317-shortest-distance-from-all-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/0317-shortest-distance-from-all-buildings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0317-shortest-distance-from-all-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/0317-shortest-distance-from-all-buildings) |
+## Matrix
+|  |
+| ------- |
+| [0317-shortest-distance-from-all-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/0317-shortest-distance-from-all-buildings) |
+<!---LeetCode Topics End-->
