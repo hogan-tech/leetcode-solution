@@ -1,4 +1,1 @@
-0317-shortest-distance-from-all-buildings python hard
-
-3507-minimum-pair-removal-to-sort-array-i python easy
-3508-implement-router python medium
+2012-sum-of-beauty-in-the-array python medium

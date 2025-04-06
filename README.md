@@ -78,11 +78,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2138-sum-of-beauty-in-the-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2138-sum-of-beauty-in-the-array) |
-<!---LeetCode Topics End-->
