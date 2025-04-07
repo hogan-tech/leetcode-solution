@@ -80,18 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1183-statistics-from-a-large-sample](https://github.com/hogan-tech/leetcode-solution/tree/master/1183-statistics-from-a-large-sample) |
-## Math
-|  |
-| ------- |
-| [1183-statistics-from-a-large-sample](https://github.com/hogan-tech/leetcode-solution/tree/master/1183-statistics-from-a-large-sample) |
-## Probability and Statistics
-|  |
-| ------- |
-| [1183-statistics-from-a-large-sample](https://github.com/hogan-tech/leetcode-solution/tree/master/1183-statistics-from-a-large-sample) |
-<!---LeetCode Topics End-->
