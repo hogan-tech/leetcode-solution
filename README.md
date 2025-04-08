@@ -80,3 +80,15 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hogan-tech/leetcode-solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+## Hash Table
+|  |
+| ------- |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hogan-tech/leetcode-solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+<!---LeetCode Topics End-->
