@@ -91,4 +91,20 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hogan-tech/leetcode-solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+## Depth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Union Find
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Graph
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
