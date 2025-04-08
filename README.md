@@ -107,4 +107,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## String
+|  |
+| ------- |
+| [1252-break-a-palindrome](https://github.com/hogan-tech/leetcode-solution/tree/master/1252-break-a-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [1252-break-a-palindrome](https://github.com/hogan-tech/leetcode-solution/tree/master/1252-break-a-palindrome) |
 <!---LeetCode Topics End-->
