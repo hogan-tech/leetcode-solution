@@ -97,4 +97,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2736-minimum-additions-to-make-valid-string) |
+## Array
+|  |
+| ------- |
+| [1284-four-divisors](https://github.com/hogan-tech/leetcode-solution/tree/master/1284-four-divisors) |
+## Math
+|  |
+| ------- |
+| [1284-four-divisors](https://github.com/hogan-tech/leetcode-solution/tree/master/1284-four-divisors) |
 <!---LeetCode Topics End-->
