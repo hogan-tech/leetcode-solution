@@ -78,31 +78,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2736-minimum-additions-to-make-valid-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2736-minimum-additions-to-make-valid-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2736-minimum-additions-to-make-valid-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2736-minimum-additions-to-make-valid-string) |
-## Stack
-|  |
-| ------- |
-| [2736-minimum-additions-to-make-valid-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2736-minimum-additions-to-make-valid-string) |
-## Greedy
-|  |
-| ------- |
-| [2736-minimum-additions-to-make-valid-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2736-minimum-additions-to-make-valid-string) |
-## Array
-|  |
-| ------- |
-| [1284-four-divisors](https://github.com/hogan-tech/leetcode-solution/tree/master/1284-four-divisors) |
-## Math
-|  |
-| ------- |
-| [1284-four-divisors](https://github.com/hogan-tech/leetcode-solution/tree/master/1284-four-divisors) |
-<!---LeetCode Topics End-->
