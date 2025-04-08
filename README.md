@@ -79,3 +79,35 @@ Happy coding! 🚀
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+## Hash Table
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+## Tree
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+## Depth-First Search
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+## Union Find
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+## Graph
+|  |
+| ------- |
+| [2445-reachable-nodes-with-restrictions](https://github.com/hogan-tech/leetcode-solution/tree/master/2445-reachable-nodes-with-restrictions) |
+<!---LeetCode Topics End-->
