@@ -79,15 +79,3 @@ Happy coding! 🚀
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1026-string-without-aaa-or-bbb](https://github.com/hogan-tech/leetcode-solution/tree/master/1026-string-without-aaa-or-bbb) |
-## Greedy
-|  |
-| ------- |
-| [1026-string-without-aaa-or-bbb](https://github.com/hogan-tech/leetcode-solution/tree/master/1026-string-without-aaa-or-bbb) |
-<!---LeetCode Topics End-->
