@@ -93,4 +93,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1076-brace-expansion](https://github.com/hogan-tech/leetcode-solution/tree/master/1076-brace-expansion) |
+## Array
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+## Hash Table
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 <!---LeetCode Topics End-->
