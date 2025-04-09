@@ -78,3 +78,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1076-brace-expansion](https://github.com/hogan-tech/leetcode-solution/tree/master/1076-brace-expansion) |
+## Backtracking
+|  |
+| ------- |
+| [1076-brace-expansion](https://github.com/hogan-tech/leetcode-solution/tree/master/1076-brace-expansion) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1076-brace-expansion](https://github.com/hogan-tech/leetcode-solution/tree/master/1076-brace-expansion) |
+<!---LeetCode Topics End-->
