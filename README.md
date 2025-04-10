@@ -78,3 +78,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3243-count-the-number-of-powerful-integers) |
+## String
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3243-count-the-number-of-powerful-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3243-count-the-number-of-powerful-integers) |
+<!---LeetCode Topics End-->
