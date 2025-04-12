@@ -85,8 +85,18 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3548-find-the-count-of-good-integers) |
+## Hash Table
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
