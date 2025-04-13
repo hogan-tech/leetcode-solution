@@ -1,3 +1,3 @@
-3512-minimum-operations-to-make-array-sum-divisible-by-k python easy
-3513-number-of-unique-xor-triplets-i python medium
-3514-number-of-unique-xor-triplets-ii python medium
+3516-find-closest-person python easy
+3517-smallest-palindromic-rearrangement-i python medium
+3519-count-numbers-with-non-decreasing-digits python hard
