@@ -1,3 +1,1 @@
-3516-find-closest-person python easy
-3517-smallest-palindromic-rearrangement-i python medium
-3519-count-numbers-with-non-decreasing-digits python hard
+1922-count-good-numbers python medium
