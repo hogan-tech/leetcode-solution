@@ -80,3 +80,15 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/2050-count-good-numbers) |
+<!---LeetCode Topics End-->
