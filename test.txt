@@ -1,1 +1,2 @@
 1922-count-good-numbers python medium
+1534-count-good-triplets python easy
