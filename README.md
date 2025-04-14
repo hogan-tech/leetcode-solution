@@ -91,4 +91,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/2050-count-good-numbers) |
+## Array
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
