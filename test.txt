@@ -1,3 +1,1 @@
-0325-maximum-size-subarray-sum-equals-k python medium
-2179-count-good-triplets-in-an-array python hard
-2380-time-needed-to-rearrange-a-binary-string python medium
+1807-evaluate-the-bracket-pairs-of-a-string python medium
