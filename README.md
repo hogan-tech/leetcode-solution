@@ -108,6 +108,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## String
 |  |
 | ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search
 |  |
@@ -154,4 +155,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 <!---LeetCode Topics End-->
