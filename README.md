@@ -99,4 +99,28 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
+## Two Pointers
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## String
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
