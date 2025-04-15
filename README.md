@@ -94,6 +94,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Array
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
 ## Enumeration
 |  |
@@ -123,4 +124,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Table
+|  |
+| ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
