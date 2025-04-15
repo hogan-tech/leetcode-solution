@@ -96,6 +96,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -111,6 +112,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Binary Search
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Rolling Hash
 |  |
@@ -132,4 +134,24 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
