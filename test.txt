@@ -1,1 +1,2 @@
 0325-maximum-size-subarray-sum-equals-k python medium
+2179-count-good-triplets-in-an-array python hard
