@@ -99,6 +99,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/hogan-tech/leetcode-solution/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Enumeration
 |  |
 | ------- |
@@ -165,6 +166,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/hogan-tech/leetcode-solution/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Simulation
 |  |
 | ------- |
