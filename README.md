@@ -98,6 +98,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -134,6 +135,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,4 +168,8 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
