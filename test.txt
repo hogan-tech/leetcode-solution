@@ -1,2 +1,1 @@
-1807-evaluate-the-bracket-pairs-of-a-string python medium
-2537-count-the-number-of-good-subarrays pyhton medium
+2904-shortest-and-lexicographically-smallest-beautiful-string python medium
