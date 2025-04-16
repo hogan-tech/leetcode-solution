@@ -112,6 +112,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | ------- |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hogan-tech/leetcode-solution/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search
 |  |
@@ -172,4 +173,5 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hogan-tech/leetcode-solution/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
