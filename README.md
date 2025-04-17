@@ -96,6 +96,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [1242-matrix-block-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/1242-matrix-block-sum) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/hogan-tech/leetcode-solution/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -113,6 +114,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## String
 |  |
 | ------- |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/hogan-tech/leetcode-solution/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hogan-tech/leetcode-solution/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -138,6 +140,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/hogan-tech/leetcode-solution/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
@@ -164,6 +167,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Ordered Set
 |  |
 | ------- |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/hogan-tech/leetcode-solution/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -183,4 +187,8 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/1242-matrix-block-sum) |
+## Sorting
+|  |
+| ------- |
+| [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/hogan-tech/leetcode-solution/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 <!---LeetCode Topics End-->
