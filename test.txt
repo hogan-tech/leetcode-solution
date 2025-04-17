@@ -1,1 +1,2 @@
 3259-maximum-energy-boost-from-two-drinks python medium
+2176-count-equal-and-divisible-pairs-in-an-array python medium
