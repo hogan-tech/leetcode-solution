@@ -97,6 +97,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [1656-count-good-triplets](https://github.com/hogan-tech/leetcode-solution/tree/master/1656-count-good-triplets) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/hogan-tech/leetcode-solution/tree/master/3525-maximum-energy-boost-from-two-drinks) |
