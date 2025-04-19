@@ -1,4 +1,1 @@
-3259-maximum-energy-boost-from-two-drinks python medium
-2176-count-equal-and-divisible-pairs-in-an-array python medium
-1314-matrix-block-sum python medium
-1418-display-table-of-food-orders-in-a-restaurant python medium
+2840-check-if-strings-can-be-made-equal-with-operations-ii python medium
