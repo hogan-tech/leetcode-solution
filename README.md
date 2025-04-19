@@ -80,3 +80,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+## String
+|  |
+| ------- |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Sorting
+|  |
+| ------- |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+<!---LeetCode Topics End-->
