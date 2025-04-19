@@ -1,1 +1,2 @@
 2840-check-if-strings-can-be-made-equal-with-operations-ii python medium
+1753-maximum-score-from-removing-stones python medium
