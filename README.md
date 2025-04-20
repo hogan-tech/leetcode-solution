@@ -80,3 +80,23 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/hogan-tech/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+## Hash Table
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/hogan-tech/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+## Math
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/hogan-tech/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/hogan-tech/leetcode-solution/tree/master/0797-rabbits-in-forest) |
+<!---LeetCode Topics End-->
