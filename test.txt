@@ -1,2 +1,3 @@
-2840-check-if-strings-can-be-made-equal-with-operations-ii python medium
-1753-maximum-score-from-removing-stones python medium
+3522-calculate-score-after-performing-instructions python medium
+3523-make-array-non-decreasing python medium
+3524-find-x-value-of-array-i python medium
