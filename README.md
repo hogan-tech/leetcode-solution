@@ -79,3 +79,15 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/2249-count-the-hidden-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/2249-count-the-hidden-sequences) |
+<!---LeetCode Topics End-->
