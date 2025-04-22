@@ -90,6 +90,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/hogan-tech/leetcode-solution/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +99,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+## String
+|  |
+| ------- |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/hogan-tech/leetcode-solution/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
+## Counting
+|  |
+| ------- |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/hogan-tech/leetcode-solution/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 <!---LeetCode Topics End-->
