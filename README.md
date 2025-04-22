@@ -79,32 +79,3 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/hogan-tech/leetcode-solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
-| [2249-count-the-hidden-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/2249-count-the-hidden-sequences) |
-## Prefix Sum
-|  |
-| ------- |
-| [2249-count-the-hidden-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/2249-count-the-hidden-sequences) |
-## Binary Search
-|  |
-| ------- |
-| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/hogan-tech/leetcode-solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
-## Depth-First Search
-|  |
-| ------- |
-| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/hogan-tech/leetcode-solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/hogan-tech/leetcode-solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
-## Matrix
-|  |
-| ------- |
-| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/hogan-tech/leetcode-solution/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
-<!---LeetCode Topics End-->
