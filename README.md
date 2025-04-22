@@ -79,3 +79,23 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+<!---LeetCode Topics End-->
