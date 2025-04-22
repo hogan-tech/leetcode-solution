@@ -79,15 +79,3 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/hogan-tech/leetcode-solution/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
-## Simulation
-|  |
-| ------- |
-| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/hogan-tech/leetcode-solution/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
-<!---LeetCode Topics End-->
