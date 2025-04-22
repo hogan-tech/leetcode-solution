@@ -1,4 +1,1 @@
-3522-calculate-score-after-performing-instructions python medium
-3523-make-array-non-decreasing python medium
-3524-find-x-value-of-array-i python medium
-2145-count-the-hidden-sequences python medium
+2338-count-the-number-of-ideal-arrays python medium
