@@ -86,6 +86,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hogan-tech/leetcode-solution/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/hogan-tech/leetcode-solution/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
+## Math
+|  |
+| ------- |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hogan-tech/leetcode-solution/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/hogan-tech/leetcode-solution/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 <!---LeetCode Topics End-->
