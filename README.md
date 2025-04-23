@@ -98,4 +98,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0986-largest-time-for-given-digits](https://github.com/hogan-tech/leetcode-solution/tree/master/0986-largest-time-for-given-digits) |
+## Tree
+|  |
+| ------- |
+| [1040-maximum-binary-tree-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1040-maximum-binary-tree-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [1040-maximum-binary-tree-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1040-maximum-binary-tree-ii) |
 <!---LeetCode Topics End-->
