@@ -79,27 +79,3 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2033-the-number-of-full-rounds-you-have-played](https://github.com/hogan-tech/leetcode-solution/tree/master/2033-the-number-of-full-rounds-you-have-played) |
-## String
-|  |
-| ------- |
-| [2033-the-number-of-full-rounds-you-have-played](https://github.com/hogan-tech/leetcode-solution/tree/master/2033-the-number-of-full-rounds-you-have-played) |
-## Array
-|  |
-| ------- |
-| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
-## Matrix
-|  |
-| ------- |
-| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
-## Prefix Sum
-|  |
-| ------- |
-| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
-<!---LeetCode Topics End-->
