@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from collections import defaultdict
 
 
@@ -8,14 +10,14 @@ class Solution:
             for c in str(num):
                 count += int(c)
             return count
-        
+
         hashSet = defaultdict(list)
-        maxLen = 0 
+        maxLen = 0
         for num in range(1, n + 1):
             count = getDigitSum(num)
             hashSet[count].append(num)
             maxLen = max(maxLen, len(hashSet[count]))
-        
+
         result = 0
         for value in hashSet.values():
             if len(value) == maxLen:
