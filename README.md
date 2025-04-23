@@ -106,4 +106,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1040-maximum-binary-tree-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1040-maximum-binary-tree-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/hogan-tech/leetcode-solution/tree/master/1500-count-largest-group) |
+## Math
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/hogan-tech/leetcode-solution/tree/master/1500-count-largest-group) |
 <!---LeetCode Topics End-->
