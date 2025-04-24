@@ -79,3 +79,19 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2856-count-complete-subarrays-in-an-array) |
+<!---LeetCode Topics End-->
