@@ -1,4 +1,1 @@
-0998-maximum-binary-tree-ii python medium
-1399-count-largest-group python easy
-1904-the-number-of-full-rounds-you-have-played python medium
-3070-count-submatrices-with-top-left-element-and-sum-less-than-k python medium
+1968-array-with-elements-not-equal-to-average-of-neighbors python medium

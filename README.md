@@ -79,19 +79,3 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hogan-tech/leetcode-solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
-## Greedy
-|  |
-| ------- |
-| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hogan-tech/leetcode-solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
-## Sorting
-|  |
-| ------- |
-| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/hogan-tech/leetcode-solution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
-<!---LeetCode Topics End-->
