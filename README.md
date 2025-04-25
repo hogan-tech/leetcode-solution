@@ -79,3 +79,19 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2915-count-of-interesting-subarrays) |
+## Hash Table
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2915-count-of-interesting-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2915-count-of-interesting-subarrays) |
+<!---LeetCode Topics End-->
