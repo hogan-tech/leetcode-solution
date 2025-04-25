@@ -1,1 +1,2 @@
 1968-array-with-elements-not-equal-to-average-of-neighbors python medium
+2845-count-of-interesting-subarrays python medium
