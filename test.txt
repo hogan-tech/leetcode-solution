@@ -1,2 +1,2 @@
-1968-array-with-elements-not-equal-to-average-of-neighbors python medium
-2845-count-of-interesting-subarrays python medium
+3527-find-the-most-common-response python medium
+3528-unit-conversion-i python medium
