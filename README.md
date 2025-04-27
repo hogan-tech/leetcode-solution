@@ -79,24 +79,3 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/hogan-tech/leetcode-solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
-| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hogan-tech/leetcode-solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
-## Queue
-|  |
-| ------- |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/hogan-tech/leetcode-solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
-## Sliding Window
-|  |
-| ------- |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/hogan-tech/leetcode-solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
-## Monotonic Queue
-|  |
-| ------- |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/hogan-tech/leetcode-solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
-<!---LeetCode Topics End-->
