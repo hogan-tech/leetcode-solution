@@ -86,6 +86,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/hogan-tech/leetcode-solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hogan-tech/leetcode-solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Queue
 |  |
 | ------- |
