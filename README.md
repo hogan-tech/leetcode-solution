@@ -79,3 +79,23 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+<!---LeetCode Topics End-->
