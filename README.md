@@ -85,6 +85,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Array
 |  |
 | ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/hogan-tech/leetcode-solution/tree/master/0311-sparse-matrix-multiplication) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Binary Search
 |  |
@@ -98,4 +99,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/hogan-tech/leetcode-solution/tree/master/0311-sparse-matrix-multiplication) |
+## Matrix
+|  |
+| ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/hogan-tech/leetcode-solution/tree/master/0311-sparse-matrix-multiplication) |
 <!---LeetCode Topics End-->
