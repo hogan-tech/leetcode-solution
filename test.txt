@@ -1,3 +1,1 @@
-3531-count-covered-buildings python medium
-3532-path-existence-queries-in-a-graph-i python medium
-2302-count-subarrays-with-score-less-than-k python hard
+0311-sparse-matrix-multiplication python medium
