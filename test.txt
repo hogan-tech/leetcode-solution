@@ -1,2 +1,1 @@
-2507-smallest-value-after-replacing-with-sum-of-prime-factors python medium
-1525-number-of-good-ways-to-split-a-string python medium
+0915-partition-array-into-disjoint-intervals python medium
