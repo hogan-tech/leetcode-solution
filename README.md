@@ -79,23 +79,3 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1632-number-of-good-ways-to-split-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1632-number-of-good-ways-to-split-a-string) |
-## String
-|  |
-| ------- |
-| [1632-number-of-good-ways-to-split-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1632-number-of-good-ways-to-split-a-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1632-number-of-good-ways-to-split-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1632-number-of-good-ways-to-split-a-string) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1632-number-of-good-ways-to-split-a-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1632-number-of-good-ways-to-split-a-string) |
-<!---LeetCode Topics End-->
