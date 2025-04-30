@@ -112,4 +112,13 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hogan-tech/leetcode-solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hogan-tech/leetcode-solution/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Simulation
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hogan-tech/leetcode-solution/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hogan-tech/leetcode-solution/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
