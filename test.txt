@@ -1,2 +1,1 @@
-0311-sparse-matrix-multiplication python medium
-1295-find-numbers-with-even-number-of-digits python easy
+2507-smallest-value-after-replacing-with-sum-of-prime-factors python medium
