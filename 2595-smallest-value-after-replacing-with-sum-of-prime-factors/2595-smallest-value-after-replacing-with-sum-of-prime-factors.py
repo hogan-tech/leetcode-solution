@@ -1,5 +1,5 @@
-# time complexity: O(nlogn)
-# space complexity: O(n)
+# time complexity: O(n**0.5 * logn)
+# space complexity: O(logn)
 class Solution:
     def smallestValue(self, n: int) -> int:
         def primeFactors(n):
