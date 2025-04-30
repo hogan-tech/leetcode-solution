@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -11,8 +13,8 @@ class Solution:
             leftPrefix[i] = max(leftPrefix[i - 1], nums[i])
         for i in range(len(nums) - 2, -1, -1):
             rightPrefix[i] = min(rightPrefix[i + 1], nums[i])
-        
-        for i in range(1,len(nums)):
+
+        for i in range(1, len(nums)):
             if leftPrefix[i - 1] <= rightPrefix[i]:
                 return i
 
