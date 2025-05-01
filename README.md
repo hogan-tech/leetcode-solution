@@ -86,4 +86,25 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/hogan-tech/leetcode-solution/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Binary Search
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sorting
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
