@@ -107,4 +107,16 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hogan-tech/leetcode-solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/hogan-tech/leetcode-solution/tree/master/0868-push-dominoes) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/hogan-tech/leetcode-solution/tree/master/0868-push-dominoes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/hogan-tech/leetcode-solution/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
