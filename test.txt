@@ -1,1 +1,1 @@
-0838-push-dominoes python medium
+1007-minimum-domino-rotations-for-equal-row python medium
