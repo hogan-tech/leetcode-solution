@@ -79,3 +79,19 @@ Welcome feedback and suggestions. If you have any ideas to improve the solutions
 Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/hogan-tech/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/hogan-tech/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/hogan-tech/leetcode-solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+<!---LeetCode Topics End-->
