@@ -87,9 +87,26 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Array
 |  |
 | ------- |
+| [1169-largest-values-from-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/1169-largest-values-from-labels) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/hogan-tech/leetcode-solution/tree/master/3355-minimum-levels-to-gain-more-points) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/hogan-tech/leetcode-solution/tree/master/3355-minimum-levels-to-gain-more-points) |
+## Hash Table
+|  |
+| ------- |
+| [1169-largest-values-from-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/1169-largest-values-from-labels) |
+## Greedy
+|  |
+| ------- |
+| [1169-largest-values-from-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/1169-largest-values-from-labels) |
+## Sorting
+|  |
+| ------- |
+| [1169-largest-values-from-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/1169-largest-values-from-labels) |
+## Counting
+|  |
+| ------- |
+| [1169-largest-values-from-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/1169-largest-values-from-labels) |
 <!---LeetCode Topics End-->
