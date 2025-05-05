@@ -1,2 +1,1 @@
-0353-domino-and-tromino-tiling python medium
-3096-minimum-levels-to-gain-more-points python medium
+1090-largest-values-from-labels python medium
