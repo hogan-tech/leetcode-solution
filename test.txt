@@ -1,4 +1,1 @@
-1007-minimum-domino-rotations-for-equal-row python medium
-1128-number-of-equivalent-domino-pairs python easy
-3536-maximum-product-of-two-digits python easy
-3537-fill-a-special-grid python medium
+0353-domino-and-tromino-tiling python medium
