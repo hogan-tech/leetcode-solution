@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -7,12 +9,12 @@ class Solution:
         suffix = [0 for _ in range(len(possible))]
         prefix[0] = 1 if possible[0] else -1
         suffix[-1] = 1 if possible[-1] else -1
-        
+
         for i in range(1, len(possible)):
             prefix[i] = prefix[i - 1] + (1 if possible[i] else -1)
         for i in range(len(possible)-2, -1, -1):
             suffix[i] = suffix[i + 1] + (1 if possible[i] else -1)
-        
+
         for i in range(len(possible) - 1):
             if prefix[i] > suffix[i + 1]:
                 return i + 1
