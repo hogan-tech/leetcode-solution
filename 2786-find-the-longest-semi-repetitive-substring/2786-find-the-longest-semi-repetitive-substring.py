@@ -1,22 +1,21 @@
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def longestSemiRepetitiveSubstring(self, s: str) -> int:
-        def checkValid(s):
-            flag = False
-            prev = s[0]
-            for i in range(1, len(s)):
-                if prev == s[i]:
-                    if flag:
-                        return False
-                    else:
-                        flag = True
-                prev = s[i]
-            return True
-            
-        result = 0
-        for left in range(len(s)):
-            for right in range(left, len(s)):
-                if checkValid(s[left:right + 1]):
-                    result = max(result, right - left + 1)
+
+        result = 1
+        pair = left = 0
+        for right in range(1, len(s)):
+            if s[right] == s[right - 1]:
+                pair += 1
+
+            while pair > 1 and left < right:
+                if s[left] == s[left + 1]:
+                    pair -= 1
+                left += 1
+
+            result = max(result, right - left + 1)
+
         return result
 
 
