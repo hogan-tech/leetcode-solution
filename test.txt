@@ -1,2 +1,3 @@
 1090-largest-values-from-labels python medium
 1920-build-array-from-permutation python easy
+2730-find-the-longest-semi-repetitive-substring python medium
