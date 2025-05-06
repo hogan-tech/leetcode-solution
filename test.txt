@@ -1,1 +1,2 @@
 1090-largest-values-from-labels python medium
+1920-build-array-from-permutation python easy
