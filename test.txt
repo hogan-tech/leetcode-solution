@@ -1,1 +1,2 @@
 2708-maximum-strength-of-a-group python medium
+2358-maximum-number-of-groups-entering-a-competition python medium
