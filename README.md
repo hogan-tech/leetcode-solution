@@ -81,27 +81,3 @@ Happy coding! 🚀
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hogan-tech/leetcode-solution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## String
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hogan-tech/leetcode-solution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hogan-tech/leetcode-solution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## Rolling Hash
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hogan-tech/leetcode-solution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## Hash Function
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hogan-tech/leetcode-solution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-<!---LeetCode Topics End-->
