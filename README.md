@@ -81,3 +81,23 @@ Happy coding! 🚀
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hogan-tech/leetcode-solution/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+## Math
+|  |
+| ------- |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hogan-tech/leetcode-solution/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+## Binary Search
+|  |
+| ------- |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hogan-tech/leetcode-solution/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+## Greedy
+|  |
+| ------- |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hogan-tech/leetcode-solution/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+<!---LeetCode Topics End-->
