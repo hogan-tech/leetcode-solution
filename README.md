@@ -87,6 +87,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Array
 |  |
 | ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Graph
 |  |
@@ -116,4 +117,28 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/hogan-tech/leetcode-solution/tree/master/0359-logger-rate-limiter) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
+## Backtracking
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
+## Greedy
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
+## Sorting
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
+## Enumeration
+|  |
+| ------- |
+| [2754-maximum-strength-of-a-group](https://github.com/hogan-tech/leetcode-solution/tree/master/2754-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
