@@ -104,4 +104,16 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Hash Table
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/hogan-tech/leetcode-solution/tree/master/0359-logger-rate-limiter) |
+## Design
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/hogan-tech/leetcode-solution/tree/master/0359-logger-rate-limiter) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/hogan-tech/leetcode-solution/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
