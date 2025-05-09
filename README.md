@@ -81,3 +81,23 @@ Happy coding! 🚀
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
+## String
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
+<!---LeetCode Topics End-->
