@@ -100,4 +100,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3637-count-number-of-balanced-permutations) |
+## Array
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hogan-tech/leetcode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hogan-tech/leetcode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
