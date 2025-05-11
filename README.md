@@ -103,6 +103,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/hogan-tech/leetcode-solution/tree/master/1293-three-consecutive-odds) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hogan-tech/leetcode-solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Greedy
 |  |
