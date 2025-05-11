@@ -1,1 +1,2 @@
 3343-count-number-of-balanced-permutations python hard
+2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros python medium
