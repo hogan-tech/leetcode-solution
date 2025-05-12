@@ -1,2 +1,3 @@
-3343-count-number-of-balanced-permutations python hard
-2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros python medium
+3541-find-most-frequent-vowel-and-consonant python easy
+3545-minimum-deletions-for-at-most-k-distinct-characters python easy
+3546-equal-sum-grid-partition-i python medium
