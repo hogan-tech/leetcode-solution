@@ -1,3 +1,5 @@
+# time complexity: O(n^3)
+# space complexity: O(n)
 from typing import List
 
 
