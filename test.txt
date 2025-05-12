@@ -1,3 +1,1 @@
-3541-find-most-frequent-vowel-and-consonant python easy
-3545-minimum-deletions-for-at-most-k-distinct-characters python easy
-3546-equal-sum-grid-partition-i python medium
+2094-finding-3-digit-even-numbers python easy
