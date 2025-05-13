@@ -87,10 +87,12 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/hogan-tech/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/hogan-tech/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -103,5 +105,14 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/hogan-tech/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/hogan-tech/leetcode-solution/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/hogan-tech/leetcode-solution/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
