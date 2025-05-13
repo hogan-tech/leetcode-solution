@@ -81,3 +81,27 @@ Happy coding! 🚀
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Math
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## String
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+<!---LeetCode Topics End-->
