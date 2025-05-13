@@ -1,3 +1,1 @@
-2094-finding-3-digit-even-numbers python easy
-2104-total-characters-in-string-after-transformations-i python medium
-0869-reordered-power-of-2 python medium
+2761-prime-pairs-with-target-sum python medium
