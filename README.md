@@ -80,3 +80,23 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2873-prime-pairs-with-target-sum) |
+## Math
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2873-prime-pairs-with-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2873-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2873-prime-pairs-with-target-sum) |
+<!---LeetCode Topics End-->
