@@ -1,1 +1,2 @@
 2094-finding-3-digit-even-numbers python easy
+2104-total-characters-in-string-after-transformations-i python medium
