@@ -91,6 +91,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2873-prime-pairs-with-target-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2873-prime-pairs-with-target-sum) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -99,4 +100,20 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2873-prime-pairs-with-target-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2873-prime-pairs-with-target-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## String
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Counting
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
