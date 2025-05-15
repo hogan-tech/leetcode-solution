@@ -1,1 +1,2 @@
 2900-longest-unequal-adjacent-groups-subsequence-i python easy
+0361-bomb-enemy python medium
