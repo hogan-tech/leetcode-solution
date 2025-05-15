@@ -95,4 +95,16 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1488-sort-integers-by-the-power-value) |
+## Array
+|  |
+| ------- |
+| [2228-watering-plants-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2228-watering-plants-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2228-watering-plants-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2228-watering-plants-ii) |
+## Simulation
+|  |
+| ------- |
+| [2228-watering-plants-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2228-watering-plants-ii) |
 <!---LeetCode Topics End-->
