@@ -80,19 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
-## Greedy
-|  |
-| ------- |
-| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
-## Matrix
-|  |
-| ------- |
-| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
-<!---LeetCode Topics End-->

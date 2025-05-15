@@ -1,2 +1,1 @@
-2900-longest-unequal-adjacent-groups-subsequence-i python easy
-0361-bomb-enemy python medium
+1253-reconstruct-a-2-row-binary-matrix python medium
