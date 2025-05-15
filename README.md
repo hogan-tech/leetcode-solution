@@ -80,3 +80,23 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## String
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+<!---LeetCode Topics End-->
