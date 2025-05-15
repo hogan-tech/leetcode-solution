@@ -1,1 +1,2 @@
 1253-reconstruct-a-2-row-binary-matrix python medium
+1387-sort-integers-by-the-power-value python medium
