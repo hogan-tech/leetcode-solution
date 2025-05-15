@@ -80,3 +80,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1488-sort-integers-by-the-power-value) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1488-sort-integers-by-the-power-value) |
+## Sorting
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1488-sort-integers-by-the-power-value) |
+<!---LeetCode Topics End-->
