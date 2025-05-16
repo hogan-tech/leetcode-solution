@@ -87,6 +87,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1488-sort-integers-by-the-power-value) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -99,6 +100,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2228-watering-plants-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2228-watering-plants-ii) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +109,8 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [2228-watering-plants-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2228-watering-plants-ii) |
+## String
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 <!---LeetCode Topics End-->
