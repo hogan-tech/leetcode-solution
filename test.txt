@@ -1,1 +1,2 @@
 2901-longest-unequal-adjacent-groups-subsequence-ii python medium
+3233-find-the-count-of-numbers-which-are-not-special python medium

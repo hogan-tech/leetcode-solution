@@ -80,19 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
-## Math
-|  |
-| ------- |
-| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
-## Number Theory
-|  |
-| ------- |
-| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
-<!---LeetCode Topics End-->
