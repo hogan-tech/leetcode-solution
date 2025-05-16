@@ -80,19 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/hogan-tech/leetcode-solution/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
-## Stack
-|  |
-| ------- |
-| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/hogan-tech/leetcode-solution/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
-## Greedy
-|  |
-| ------- |
-| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/hogan-tech/leetcode-solution/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
-<!---LeetCode Topics End-->
