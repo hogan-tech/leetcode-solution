@@ -1,3 +1,2 @@
-1931-painting-a-grid-with-three-different-colors python hard
-1557-minimum-number-of-vertices-to-reach-all-nodes python medium
-1855-maximum-distance-between-a-pair-of-values python medium
+3550-minimum-swaps-to-sort-by-digit-sum python easy
+3551-smallest-index-with-digit-sum-equal-to-index python medium
