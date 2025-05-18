@@ -1,1 +1,2 @@
 1931-painting-a-grid-with-three-different-colors python hard
+1557-minimum-number-of-vertices-to-reach-all-nodes python medium
