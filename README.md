@@ -80,3 +80,11 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Graph
+|  |
+| ------- |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/hogan-tech/leetcode-solution/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+<!---LeetCode Topics End-->
