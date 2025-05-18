@@ -95,4 +95,8 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hogan-tech/leetcode-solution/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/hogan-tech/leetcode-solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
