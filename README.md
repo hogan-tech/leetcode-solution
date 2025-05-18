@@ -80,23 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/hogan-tech/leetcode-solution/tree/master/0075-sort-colors) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/hogan-tech/leetcode-solution/tree/master/0075-sort-colors) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/hogan-tech/leetcode-solution/tree/master/0075-sort-colors) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2061-painting-a-grid-with-three-different-colors](https://github.com/hogan-tech/leetcode-solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
-<!---LeetCode Topics End-->
