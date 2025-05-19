@@ -80,3 +80,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Enumeration
+|  |
+| ------- |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+<!---LeetCode Topics End-->
