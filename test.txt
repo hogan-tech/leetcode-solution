@@ -1,2 +1,1 @@
-3550-minimum-swaps-to-sort-by-digit-sum python easy
-3551-smallest-index-with-digit-sum-equal-to-index python medium
+3024-type-of-triangle python easy
