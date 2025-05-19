@@ -80,19 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1119-robot-bounded-in-circle](https://github.com/hogan-tech/leetcode-solution/tree/master/1119-robot-bounded-in-circle) |
-## String
-|  |
-| ------- |
-| [1119-robot-bounded-in-circle](https://github.com/hogan-tech/leetcode-solution/tree/master/1119-robot-bounded-in-circle) |
-## Simulation
-|  |
-| ------- |
-| [1119-robot-bounded-in-circle](https://github.com/hogan-tech/leetcode-solution/tree/master/1119-robot-bounded-in-circle) |
-<!---LeetCode Topics End-->
