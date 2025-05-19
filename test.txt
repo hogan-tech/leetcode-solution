@@ -1,1 +1,1 @@
-3024-type-of-triangle python easy
+3106-lexicographically-smallest-string-after-operations-with-constraint python medium

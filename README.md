@@ -80,15 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/hogan-tech/leetcode-solution/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
-## Greedy
-|  |
-| ------- |
-| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/hogan-tech/leetcode-solution/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
-<!---LeetCode Topics End-->
