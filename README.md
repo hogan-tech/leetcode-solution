@@ -80,3 +80,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3114-beautiful-towers-i) |
+## Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3114-beautiful-towers-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3114-beautiful-towers-i) |
+<!---LeetCode Topics End-->
