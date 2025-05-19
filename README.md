@@ -80,3 +80,15 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0790-global-and-local-inversions](https://github.com/hogan-tech/leetcode-solution/tree/master/0790-global-and-local-inversions) |
+## Math
+|  |
+| ------- |
+| [0790-global-and-local-inversions](https://github.com/hogan-tech/leetcode-solution/tree/master/0790-global-and-local-inversions) |
+<!---LeetCode Topics End-->
