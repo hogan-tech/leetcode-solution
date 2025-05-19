@@ -1,2 +1,3 @@
 3106-lexicographically-smallest-string-after-operations-with-constraint python medium
 0775-global-and-local-inversions python medium
+1641-count-sorted-vowel-strings python medium

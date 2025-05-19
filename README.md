@@ -80,19 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1761-count-sorted-vowel-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/1761-count-sorted-vowel-strings) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1761-count-sorted-vowel-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/1761-count-sorted-vowel-strings) |
-## Combinatorics
-|  |
-| ------- |
-| [1761-count-sorted-vowel-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/1761-count-sorted-vowel-strings) |
-<!---LeetCode Topics End-->
