@@ -80,3 +80,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1813-maximum-erasure-value) |
+## Hash Table
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1813-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1813-maximum-erasure-value) |
+<!---LeetCode Topics End-->
