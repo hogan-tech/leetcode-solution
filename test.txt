@@ -1,4 +1,1 @@
-2201-zero-array-transformation-i python medium
-1695-maximum-erasure-value python medium
-0900-rle-iterator python medium
-2770-maximum-number-of-jumps-to-reach-the-last-index python medium
+1362-closest-divisors python medium
