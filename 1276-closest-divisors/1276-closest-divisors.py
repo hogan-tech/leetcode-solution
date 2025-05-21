@@ -1,30 +1,20 @@
-from math import sqrt
+# time complexity: O(logn)
+# space complexity: O(1)
+from math import isqrt
 from typing import List
 
 
 class Solution:
     def closestDivisors(self, num: int) -> List[int]:
-        firstNum = num + 1
-        secondNum = num + 2
-        minDiff = float('inf')
-        result = [0, 0]
-        for i in range(1, int(sqrt(firstNum)) + 1):
-            if firstNum % i == 0:
-                divisor = firstNum // i
-                diff = (divisor - i)
-                if diff < minDiff:
-                    minDiff = diff
-                    result = [i, divisor]
-                    
-        for i in range(1, int(sqrt(secondNum)) + 1):
-            if secondNum % i == 0:
-                divisor = secondNum // i
-                diff = (divisor - i)
-                if diff < minDiff:
-                    minDiff = diff
-                    result = [i, divisor]
-        
-        return result
+        def findClosestPair(n: int) -> List[int]:
+            for i in range(isqrt(n), 0, -1):
+                if n % i == 0:
+                    return [i, n // i]
+
+        pair1 = findClosestPair(num + 1)
+        pair2 = findClosestPair(num + 2)
+
+        return pair1 if abs(pair1[0] - pair1[1]) <= abs(pair2[0] - pair2[1]) else pair2
 
 
 num = 8
