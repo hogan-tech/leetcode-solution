@@ -80,3 +80,19 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/2279-maximum-split-of-positive-even-integers) |
+## Backtracking
+|  |
+| ------- |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/2279-maximum-split-of-positive-even-integers) |
+## Greedy
+|  |
+| ------- |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/2279-maximum-split-of-positive-even-integers) |
+<!---LeetCode Topics End-->
