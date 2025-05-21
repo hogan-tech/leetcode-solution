@@ -80,27 +80,3 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1080-camelcase-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/1080-camelcase-matching) |
-## Two Pointers
-|  |
-| ------- |
-| [1080-camelcase-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/1080-camelcase-matching) |
-## String
-|  |
-| ------- |
-| [1080-camelcase-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/1080-camelcase-matching) |
-## Trie
-|  |
-| ------- |
-| [1080-camelcase-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/1080-camelcase-matching) |
-## String Matching
-|  |
-| ------- |
-| [1080-camelcase-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/1080-camelcase-matching) |
-<!---LeetCode Topics End-->
