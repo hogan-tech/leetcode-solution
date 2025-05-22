@@ -80,3 +80,27 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+## Hash Table
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+## Design
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+## Queue
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+## Data Stream
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+<!---LeetCode Topics End-->
