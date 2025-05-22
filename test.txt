@@ -1,3 +1,1 @@
-3362-zero-array-transformation-iii python medium
-3128-right-triangles python medium
-2575-find-the-divisibility-array-of-a-string python medium
+1283-find-the-smallest-divisor-given-a-threshold python medium
