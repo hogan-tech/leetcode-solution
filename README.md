@@ -80,3 +80,27 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
+## Hash Table
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
+## Math
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
+## Combinatorics
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
+## Counting
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
+<!---LeetCode Topics End-->
