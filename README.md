@@ -87,6 +87,7 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+| [3647-zero-array-transformation-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +104,20 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 |  |
 | ------- |
 | [1366-first-unique-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1366-first-unique-number) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
+## Sorting
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
