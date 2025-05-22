@@ -1,1 +1,2 @@
 1283-find-the-smallest-divisor-given-a-threshold python medium
+0794-valid-tic-tac-toe-state python medium
