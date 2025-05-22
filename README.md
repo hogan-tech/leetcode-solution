@@ -25,7 +25,6 @@ Welcome to a robust and versatile repository of LeetCode solutions! This reposit
 
 - [Problem 3001 ~ 4000](./Question_List_3001_4000.md)
 
-
 ## Statistics
 
 <img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
@@ -37,8 +36,6 @@ The solutions are organized as follows:
 - **Difficulty:** Problems are categorized into Easy, Medium, and Hard.
 - **Languages:** Solutions are available in multiple programming languages, including Python, C++, JavaScript, SQL, and TypeScript.
 - **Problem Titles:** Each problem is named after its LeetCode title.
-
-
 
 ## How to Use
 
@@ -80,27 +77,10 @@ Happy coding! 🚀
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
+## Contributing
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
-## Hash Table
-|  |
-| ------- |
-| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
-## Math
-|  |
-| ------- |
-| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
-## Combinatorics
-|  |
-| ------- |
-| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
-## Counting
-|  |
-| ------- |
-| [3388-right-triangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3388-right-triangles) |
-<!---LeetCode Topics End-->
+We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
