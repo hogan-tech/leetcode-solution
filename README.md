@@ -84,3 +84,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+<!---LeetCode Topics End-->
