@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Dynamic Programming
 |  |
@@ -111,4 +112,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Hash Table
+|  |
+| ------- |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 <!---LeetCode Topics End-->
