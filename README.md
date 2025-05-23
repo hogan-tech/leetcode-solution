@@ -84,3 +84,31 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Greedy
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Sorting
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+<!---LeetCode Topics End-->
