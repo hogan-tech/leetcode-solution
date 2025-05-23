@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [0760-bold-words-in-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0760-bold-words-in-string) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/hogan-tech/leetcode-solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Dynamic Programming
@@ -115,9 +116,22 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Hash Table
 |  |
 | ------- |
+| [0760-bold-words-in-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0760-bold-words-in-string) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+## String
+|  |
+| ------- |
+| [0760-bold-words-in-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0760-bold-words-in-string) |
+## Trie
+|  |
+| ------- |
+| [0760-bold-words-in-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0760-bold-words-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0760-bold-words-in-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0760-bold-words-in-string) |
 <!---LeetCode Topics End-->
