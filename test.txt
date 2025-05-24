@@ -1,3 +1,1 @@
-2841-maximum-sum-of-almost-unique-subarray python medium
-0758-bold-words-in-string python medium
-0616-add-bold-tag-in-string python medium
+2942-find-words-containing-character python easy
