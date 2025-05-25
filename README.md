@@ -84,27 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hogan-tech/leetcode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
-## Hash Table
-|  |
-| ------- |
-| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hogan-tech/leetcode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
-## String
-|  |
-| ------- |
-| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hogan-tech/leetcode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
-## Greedy
-|  |
-| ------- |
-| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hogan-tech/leetcode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
-## Counting
-|  |
-| ------- |
-| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/hogan-tech/leetcode-solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
-<!---LeetCode Topics End-->

@@ -1,1 +1,2 @@
-2942-find-words-containing-character python easy
+3556-sum-of-largest-prime-substrings python medium
+3558-number-of-ways-to-assign-edge-weights-i python medium
