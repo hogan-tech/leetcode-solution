@@ -84,3 +84,31 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+<!---LeetCode Topics End-->
