@@ -1,2 +1,2 @@
-3556-sum-of-largest-prime-substrings python medium
-3558-number-of-ways-to-assign-edge-weights-i python medium
+3560-find-minimum-log-transportation-cost python easy
+3561-resulting-string-after-adjacent-removals python medium
