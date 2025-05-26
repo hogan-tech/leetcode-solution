@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/hogan-tech/leetcode-solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [2543-most-popular-video-creator](https://github.com/hogan-tech/leetcode-solution/tree/master/2543-most-popular-video-creator) |
 ## Hash Table
 |  |
@@ -102,9 +103,14 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Sorting
 |  |
 | ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/hogan-tech/leetcode-solution/tree/master/1253-sort-the-matrix-diagonally) |
 | [2543-most-popular-video-creator](https://github.com/hogan-tech/leetcode-solution/tree/master/2543-most-popular-video-creator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2543-most-popular-video-creator](https://github.com/hogan-tech/leetcode-solution/tree/master/2543-most-popular-video-creator) |
+## Matrix
+|  |
+| ------- |
+| [1253-sort-the-matrix-diagonally](https://github.com/hogan-tech/leetcode-solution/tree/master/1253-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
