@@ -84,20 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2621-find-xor-beauty-of-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2621-find-xor-beauty-of-array) |
-## Math
-|  |
-| ------- |
-| [2621-find-xor-beauty-of-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2621-find-xor-beauty-of-array) |
-| [3172-divisible-and-non-divisible-sums-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2621-find-xor-beauty-of-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2621-find-xor-beauty-of-array) |
-<!---LeetCode Topics End-->
