@@ -95,6 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [2621-find-xor-beauty-of-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2621-find-xor-beauty-of-array) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
