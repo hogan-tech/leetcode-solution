@@ -84,3 +84,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2310-minimum-operations-to-halve-array-sum) |
+## Greedy
+|  |
+| ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2310-minimum-operations-to-halve-array-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/2310-minimum-operations-to-halve-array-sum) |
+<!---LeetCode Topics End-->
