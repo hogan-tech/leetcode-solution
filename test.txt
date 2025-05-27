@@ -1,3 +1,1 @@
-2527-find-xor-beauty-of-array python medium
-2894-divisible-and-non-divisible-sums-difference python easy
-2208-minimum-operations-to-halve-array-sum python medium
+2207-maximize-number-of-subsequences-in-a-string python medium
