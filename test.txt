@@ -1,2 +1,3 @@
 2207-maximize-number-of-subsequences-in-a-string python medium
 2007-find-original-array-from-doubled-array python medium
+1181-before-and-after-puzzle python medium
