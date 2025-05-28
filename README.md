@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
-## Hash Table
-|  |
-| ------- |
-| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
-## String
-|  |
-| ------- |
-| [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
-<!---LeetCode Topics End-->

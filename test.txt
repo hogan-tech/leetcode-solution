@@ -1,1 +1,1 @@
-0856-score-of-parentheses python medium
+1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list python medium
