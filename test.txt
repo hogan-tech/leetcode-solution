@@ -1,1 +1,1 @@
-2310-sum-of-numbers-with-units-digit-k python medium
+2470-number-of-subarrays-with-lcm-equal-to-k python medium
