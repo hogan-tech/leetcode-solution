@@ -1,3 +1,1 @@
-2470-number-of-subarrays-with-lcm-equal-to-k python medium
-1376-time-needed-to-inform-all-employees python medium
-1256-encode-number python medium
+0856-score-of-parentheses python medium
