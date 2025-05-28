@@ -99,4 +99,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+## Tree
+|  |
+| ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/hogan-tech/leetcode-solution/tree/master/1492-time-needed-to-inform-all-employees) |
+## Depth-First Search
+|  |
+| ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/hogan-tech/leetcode-solution/tree/master/1492-time-needed-to-inform-all-employees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/hogan-tech/leetcode-solution/tree/master/1492-time-needed-to-inform-all-employees) |
 <!---LeetCode Topics End-->
