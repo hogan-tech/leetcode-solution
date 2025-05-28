@@ -103,4 +103,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/hogan-tech/leetcode-solution/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
