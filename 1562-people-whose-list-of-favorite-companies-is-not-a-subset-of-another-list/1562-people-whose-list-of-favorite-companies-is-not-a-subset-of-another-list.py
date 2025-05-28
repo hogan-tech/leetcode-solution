@@ -1,3 +1,5 @@
+# time complexity: O(n^2)
+# space complexity: O(n)
 from typing import List
 
 
@@ -10,7 +12,8 @@ class Solution:
                     continue
                 if set(favoriteCompanies[j]).issubset(set(favoriteCompanies[i])):
                     subsetCompaniesIdx.add(j)
-        result = [num for num in range(len(favoriteCompanies)) if num not in subsetCompaniesIdx]
+        result = [num for num in range(
+            len(favoriteCompanies)) if num not in subsetCompaniesIdx]
         return result
 
 
