@@ -94,6 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Math
 |  |
 | ------- |
+| [1189-encode-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1189-encode-number) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Number Theory
 |  |
@@ -111,4 +112,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hogan-tech/leetcode-solution/tree/master/1492-time-needed-to-inform-all-employees) |
+## String
+|  |
+| ------- |
+| [1189-encode-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1189-encode-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1189-encode-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1189-encode-number) |
 <!---LeetCode Topics End-->
