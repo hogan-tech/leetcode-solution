@@ -84,3 +84,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+## Math
+|  |
+| ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+## Number Theory
+|  |
+| ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+<!---LeetCode Topics End-->
