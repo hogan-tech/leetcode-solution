@@ -91,4 +91,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
