@@ -84,28 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
-## Tree
-|  |
-| ------- |
-| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
-## Depth-First Search
-|  |
-| ------- |
-| [2438-find-closest-node-to-given-two-nodes](https://github.com/hogan-tech/leetcode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
-| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
-## Breadth-First Search
-|  |
-| ------- |
-| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
-## Graph
-|  |
-| ------- |
-| [2438-find-closest-node-to-given-two-nodes](https://github.com/hogan-tech/leetcode-solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
-<!---LeetCode Topics End-->
