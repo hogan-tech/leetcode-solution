@@ -84,31 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0945-snakes-and-ladders](https://github.com/hogan-tech/leetcode-solution/tree/master/0945-snakes-and-ladders) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0945-snakes-and-ladders](https://github.com/hogan-tech/leetcode-solution/tree/master/0945-snakes-and-ladders) |
-## Matrix
-|  |
-| ------- |
-| [0945-snakes-and-ladders](https://github.com/hogan-tech/leetcode-solution/tree/master/0945-snakes-and-ladders) |
-## Math
-|  |
-| ------- |
-| [3201-distribute-candies-among-children-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
-## Combinatorics
-|  |
-| ------- |
-| [3201-distribute-candies-among-children-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
-## Enumeration
-|  |
-| ------- |
-| [3201-distribute-candies-among-children-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
-<!---LeetCode Topics End-->
