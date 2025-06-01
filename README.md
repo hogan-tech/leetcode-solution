@@ -99,4 +99,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/hogan-tech/leetcode-solution/tree/master/0945-snakes-and-ladders) |
+## Math
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
