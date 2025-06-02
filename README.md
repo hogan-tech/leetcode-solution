@@ -84,3 +84,23 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/1072-next-greater-node-in-linked-list) |
+<!---LeetCode Topics End-->
