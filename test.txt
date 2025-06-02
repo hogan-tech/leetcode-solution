@@ -1,1 +1,4 @@
-2929-distribute-candies-among-children-ii python medium
+3566-partition-array-into-two-equal-product-subsets python medium
+3567-minimum-moves-to-clean-the-classroom python medium
+3568-maximize-count-of-distinct-primes-after-split python medium
+3569-minimum-absolute-difference-in-sliding-submatrix python hard
