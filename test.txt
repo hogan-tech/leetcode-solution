@@ -1,1 +1,1 @@
-1008-construct-binary-search-tree-from-preorder-traversal python medium
+3249-count-the-number-of-good-nodes python medium
