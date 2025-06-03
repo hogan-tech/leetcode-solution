@@ -95,4 +95,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3216-distribute-candies-among-children-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3216-distribute-candies-among-children-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
