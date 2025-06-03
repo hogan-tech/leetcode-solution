@@ -1,4 +1,1 @@
-3249-count-the-number-of-good-nodes python medium
-1109-corporate-flight-bookings python medium
-1019-next-greater-node-in-linked-list python medium
-1423-maximum-points-you-can-obtain-from-cards python medium
+1298-maximum-candies-you-can-get-from-boxes python hard
