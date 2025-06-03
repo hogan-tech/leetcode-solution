@@ -1,1 +1,2 @@
 1298-maximum-candies-you-can-get-from-boxes python hard
+2927-distribute-candies-among-children-iii python hard
