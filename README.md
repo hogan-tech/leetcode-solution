@@ -84,3 +84,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hogan-tech/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hogan-tech/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hogan-tech/leetcode-solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+<!---LeetCode Topics End-->
