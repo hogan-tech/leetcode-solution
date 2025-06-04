@@ -84,35 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3216-distribute-candies-among-children-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3216-distribute-candies-among-children-iii) |
-## Combinatorics
-|  |
-| ------- |
-| [3216-distribute-candies-among-children-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3216-distribute-candies-among-children-iii) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/0191-number-of-1-bits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/0191-number-of-1-bits) |
-## Two Pointers
-|  |
-| ------- |
-| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
-## String
-|  |
-| ------- |
-| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
-## Enumeration
-|  |
-| ------- |
-| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
-<!---LeetCode Topics End-->
