@@ -5,40 +5,41 @@ from typing import List
 
 
 class Solution:
-
     def orangesRotting(self, grid: List[List[int]]) -> int:
+        ROW = len(grid)
+        COL = len(grid[0])
         queue = deque()
-        rows = len(grid)
-        cols = len(grid[0])
-        freshOranges = 0
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == 2:
-                    queue.append((r, c))
-                elif grid[r][c] == 1:
-                    freshOranges += 1
-
-        queue.append((-1, -1))
-        minutesElapsed = -1
-        directions = [(1, 0), (-1, 0), (0, -1), (0, 1)]
-
+        freshCount = 0
+        for nextR in range(ROW):
+            for nextC in range(COL):
+                if grid[nextR][nextC] == 2:
+                    queue.append((nextR, nextC))
+                if grid[nextR][nextC] == 1:
+                    freshCount += 1
+                    
+        if freshCount == 0:
+            return 0
+        
+        
+        minutes = -1
         while queue:
-            row, col = queue.popleft()
-            if row == -1:
-                minutesElapsed += 1
-                if queue:
-                    queue.append((-1, -1))
-            else:
-                for d in directions:
-                    nextRow = row + d[0]
-                    nextCol = col + d[1]
-                    if rows > nextRow >= 0 and cols > nextCol >= 0:
-                        if grid[nextRow][nextCol] == 1:
-                            grid[nextRow][nextCol] = 2
-                            freshOranges -= 1
-                            queue.append((nextRow, nextCol))
-
-        return minutesElapsed if freshOranges == 0 else -1
+            size = len(queue)
+            while size > 0:
+                currR, currC = queue.popleft()
+                size -= 1
+                for dR, dC in [(1, 0), (-1, 0), (0, -1), (0, 1)]:
+                    nextR = currR + dR
+                    nextC = currC + dC
+                    if 0 <= nextR < ROW and 0 <= nextC < COL and grid[nextR][nextC] == 1:
+                        grid[nextR][nextC] = 2
+                        freshCount -= 1
+                        queue.append((nextR, nextC))
+            minutes += 1
+        
+        if freshCount == 0:
+            return minutes
+        
+        return -1
 
 
 grid = [[2, 1, 1], [1, 1, 0], [0, 1, 1]]
