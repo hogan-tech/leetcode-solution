@@ -91,8 +91,17 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [1036-rotting-oranges](https://github.com/hogan-tech/leetcode-solution/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0040-combination-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/hogan-tech/leetcode-solution/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/hogan-tech/leetcode-solution/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
