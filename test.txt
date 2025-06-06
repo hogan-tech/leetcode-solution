@@ -1,1 +1,1 @@
-1061-lexicographically-smallest-equivalent-string python medium
+2434-using-a-robot-to-print-the-lexicographically-smallest-string python medium
