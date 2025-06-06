@@ -55,22 +55,22 @@ class Solution:
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         n = len(s)
-        dp = [[False] * n for _ in range(n)]
-        ans = [0, 0]
-        for i in range(n):
-            dp[i][i] = True
-        for i in range(n-1):
-            if s[i] == s[i+1]:
-                dp[i][i+1] = True
-                ans = [i, i+1]
-        for diff in range(2, n):
-            for i in range(n - diff):
-                j = i + diff
-                if s[i] == s[j] and dp[i+1][j-1]:
-                    dp[i][j] = True
-                    ans = [i, j]
-        i, j = ans
-        return s[i:j+1]
+        dp = [[False for _ in range(n)] for _ in range(n)]
+        if n < 1:
+            return s
+        maxLen = 1
+        maxStr = s[0]
+        for right in range(n):
+            dp[right][right] = True
+            for left in range(right):
+                if s[left] == s[right] and (right - left <= 2 or dp[left + 1][right - 1]):
+                    dp[left][right] = True
+                    if right - left + 1 > maxLen:
+                        maxLen = right - left + 1
+                        maxStr = s[left:right + 1]
+
+        return maxStr
+
 
 
 s = "babad"
