@@ -84,3 +84,27 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## String
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Greedy
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+<!---LeetCode Topics End-->
