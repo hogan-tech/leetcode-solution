@@ -107,4 +107,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
