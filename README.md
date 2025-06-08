@@ -98,6 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hogan-tech/leetcode-solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
@@ -115,4 +116,28 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/0386-lexicographical-numbers) |
+## Array
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 <!---LeetCode Topics End-->
