@@ -1,4 +1,5 @@
-# Definition for a binary tree node.
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List, Optional
 
 
@@ -20,3 +21,24 @@ class Solution:
         result = []
         self.addToArr(root, result)
         return result[k-1]
+
+# time complexity: O(H)
+# space complexity: O(H)
+class Solution:
+    def addToArr(self, node: Optional[TreeNode], treeList: List[int]) -> None:
+        if node:
+            self.addToArr(node.left, treeList)
+            treeList.append(node.val)
+            self.addToArr(node.right, treeList)
+
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        result = []
+        self.addToArr(root, result)
+        return result[k-1]
+
+
+root = TreeNode(3)
+root.left = TreeNode(1)
+root.left.right = TreeNode(2)
+root.right = TreeNode(4)
+print(Solution().kthSmallest(root, 1))
