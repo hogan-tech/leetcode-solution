@@ -84,3 +84,27 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/hogan-tech/leetcode-solution/tree/master/0695-max-area-of-island) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/hogan-tech/leetcode-solution/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/hogan-tech/leetcode-solution/tree/master/0695-max-area-of-island) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/hogan-tech/leetcode-solution/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/hogan-tech/leetcode-solution/tree/master/0695-max-area-of-island) |
+<!---LeetCode Topics End-->
