@@ -25,16 +25,21 @@ class Solution:
 # time complexity: O(H)
 # space complexity: O(H)
 class Solution:
-    def addToArr(self, node: Optional[TreeNode], treeList: List[int]) -> None:
-        if node:
-            self.addToArr(node.left, treeList)
-            treeList.append(node.val)
-            self.addToArr(node.right, treeList)
-
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        result = []
-        self.addToArr(root, result)
-        return result[k-1]
+        stack = []
+        while True:
+            
+            while root:
+                stack.append(root)
+                root = root.left
+            
+            root = stack.pop()
+            k -= 1
+
+            if k == 0:
+                return root.val
+            
+            root = root.right
 
 
 root = TreeNode(3)
