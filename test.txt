@@ -1,1 +1,3 @@
-3170-lexicographically-minimum-string-after-removing-stars python medium
+3576-transform-array-to-all-equal-elements python medium
+3577-count-the-number-of-computer-unlocking-permutations python medium
+3578-count-partitions-with-max-min-difference-at-most-k python medium
