@@ -1,3 +1,1 @@
-3576-transform-array-to-all-equal-elements python medium
-3577-count-the-number-of-computer-unlocking-permutations python medium
-3578-count-partitions-with-max-min-difference-at-most-k python medium
+3442-maximum-difference-between-even-and-odd-frequency-i python easy

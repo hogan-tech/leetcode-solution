@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
-## String
-|  |
-| ------- |
-| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
-## Counting
-|  |
-| ------- |
-| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
-<!---LeetCode Topics End-->
