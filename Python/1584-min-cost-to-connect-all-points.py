@@ -1,31 +1,32 @@
+# time complexity: O(n^2 logn)
+# space complexity: O(n^2)
+from heapq import heappop, heappush
 from typing import List
 
 
 class UnionFind:
     def __init__(self, size: int) -> None:
-        self.group = [0]*size
-        self.rank = [0]*size
-        for i in range(size):
-            self.group[i] = i
+        self.parent = [i for i in range(size)]
+        self.rank = [0 for _ in range(size)]
 
     def find(self, node: int) -> int:
-        if self.group[node] != node:
-            self.group[node] = self.find(self.group[node])
-        return self.group[node]
+        if self.parent[node] != node:
+            self.parent[node] = self.find(self.parent[node])
+        return self.parent[node]
 
     def join(self, node1: int, node2: int) -> bool:
-        group1 = self.find(node1)
-        group2 = self.find(node2)
+        parent1 = self.find(node1)
+        parent2 = self.find(node2)
 
-        if group1 == group2:
+        if parent1 == parent2:
             return False
-        if self.rank[group1] > self.rank[group2]:
-            self.group[group2] = group1
-        elif self.rank[group1] < self.rank[group2]:
-            self.group[group1] = group2
+        if self.rank[parent1] > self.rank[parent2]:
+            self.parent[parent2] = parent1
+        elif self.rank[parent1] < self.rank[parent2]:
+            self.parent[parent1] = parent2
         else:
-            self.group[group1] = group2
-            self.rank[group2] += 1
+            self.parent[parent1] = parent2
+            self.rank[parent2] += 1
         return True
 
 
@@ -44,15 +45,46 @@ class Solution:
         allEdges.sort()
 
         uf = UnionFind(n)
-        mstCost = 0
+        result = 0
         edgesUsed = 0
         for weight, node1, node2 in allEdges:
             if uf.join(node1, node2):
-                mstCost += weight
+                result += weight
                 edgesUsed += 1
                 if edgesUsed == n-1:
                     break
-        return mstCost
+        return result
+
+
+class Solution:
+    def minCostConnectPoints(self, points: List[List[int]]) -> int:
+        n = len(points)
+
+        heap = [(0, 0)]
+
+        inMst = [False] * n
+
+        result = 0
+        edgesUsed = 0
+
+        while edgesUsed < n:
+            weight, currNode = heappop(heap)
+
+            if inMst[currNode]:
+                continue
+
+            inMst[currNode] = True
+            result += weight
+            edgesUsed += 1
+
+            for nextNode in range(n):
+                if not inMst[nextNode]:
+                    nextWeight = abs(points[currNode][0] - points[nextNode][0]) +\
+                        abs(points[currNode][1] - points[nextNode][1])
+
+                    heappush(heap, (nextWeight, nextNode))
+
+        return result
 
 
 points = [[0, 0], [2, 2], [3, 10], [5, 2], [7, 0]]
