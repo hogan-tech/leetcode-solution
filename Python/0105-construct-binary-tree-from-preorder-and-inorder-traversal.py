@@ -1,31 +1,34 @@
-# time complexity: O(n)
-# space complexity: O(n)
-from typing import List, Optional
-
-
-
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-
-        def dfs(left: int, right: int):
-            nonlocal preorderIndex
+        
+        def traverse(left: int, right: int):
+            nonlocal preorderIdx
             if left > right:
                 return None
-            rootValue = preorder[preorderIndex]
-            root = TreeNode(rootValue)
-            preorderIndex += 1
-            root.left = dfs(left, inorderMap[rootValue] - 1)
-            root.right = dfs(inorderMap[rootValue] + 1, right)
+            rootVal = preorder[preorderIdx]
+            root = TreeNode(rootVal)
+            preorderIdx += 1
+            root.left = traverse(left, inorderMap[rootVal] - 1)
+            root.right = traverse(inorderMap[rootVal] + 1, right)
             return root
-        
-        preorderIndex = 0
-        inorderMap = {}
-        for i, value in enumerate(inorder):
-            inorderMap[value] = i
 
-        return dfs(0, len(inorder) - 1)
+        inorderMap = {val: i for i, val in enumerate(inorder)}
+        preorderIdx = 0
+        return traverse(0, len(preorder) - 1)
 
 
-preorder = [3, 9, 20, 15, 7]
-inorder = [9, 3, 15, 20, 7]
-print(Solution().buildTree(preorder, inorder))
+'''
+        root
+          |
+preorder: 3 9 1 2 20 15 7
+inorder : 1 9 2 3 15 20 7
+                |
+
+          l.  r.  l.    r
+'''
