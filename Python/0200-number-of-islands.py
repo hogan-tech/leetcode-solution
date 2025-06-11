@@ -1,5 +1,6 @@
 # time complexity: O(m*n)
 # space complexity: O(m*n)
+from collections import deque
 from typing import List
 
 
@@ -67,6 +68,7 @@ class UnionFind:
     def getCount(self):
         return self.count
 
+
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         ROW = len(grid)
@@ -84,6 +86,41 @@ class Solution:
         return count
 
 
+class Solution:
+    def numIslands(self, grid: List[List[str]]) -> int:
+        ROW = len(grid)
+        COL = len(grid[0])
+
+        def bfs(r, c):
+            queue = deque()
+            queue.append((r, c))
+            while queue:
+                currR, currC = queue.popleft()
+                grid[currR][currC] = '0'
+                for dR, dC in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
+                    nextR = currR + dR
+                    nextC = currC + dC
+                    if 0 <= nextR < ROW and 0 <= nextC < COL and grid[nextR][nextC] == '1':
+                        grid[nextR][nextC] = '0'
+                        queue.append((nextR, nextC))
+
+        count = 0
+        for r in range(ROW):
+            for c in range(COL):
+                if grid[r][c] == '1':
+                    count += 1
+                    bfs(r, c)
+
+        return count
+
+
+grid = [
+    ["1", "1", "1", "1", "0"],
+    ["1", "1", "0", "1", "0"],
+    ["1", "1", "0", "0", "0"],
+    ["0", "0", "0", "0", "0"]
+]
+print(Solution().numIslands(grid))
 grid = [
     ["1", "1", "0", "0", "0"],
     ["1", "1", "0", "0", "0"],
