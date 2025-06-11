@@ -84,23 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-|  |
-| ------- |
-| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
-## Union Find
-|  |
-| ------- |
-| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
-## Graph
-|  |
-| ------- |
-| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hogan-tech/leetcode-solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
-<!---LeetCode Topics End-->

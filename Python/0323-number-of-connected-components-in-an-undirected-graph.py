@@ -11,36 +11,39 @@ class UnionFind():
     def find(self, node):
         while node != self.parents[node]:
             node = self.parents[node]
-        return node
+        return self.parents[node]
 
-    def uion(self, nodeX, nodeY):
-        parentX = self.find(nodeX)
-        parentY = self.find(nodeY)
+    def union(self, node1, node2):
+        parent1 = self.find(node1)
+        parent2 = self.find(node2)
 
-        if parentX == parentY:
-            return
-
-        if self.rank[parentX] > self.rank[parentY]:
-            self.parents[parentY] = self.parents[parentX]
-        elif self.rank[parentX] < self.rank[parentY]:
-            self.parents[parentX] = self.parents[parentY]
+        if self.rank[parent1] > self.rank[parent2]:
+            self.parents[parent2] = parent1
+        elif self.rank[parent1] < self.rank[parent2]:
+            self.parents[parent1] = parent2
         else:
-            self.parents[parentX] = self.parents[parentY]
-            self.rank[parentY] += 1
+            self.parents[parent1] = parent2
+            self.rank[parent2] += 1
 
 
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        disjointUnionSet = UnionFind(n)
-        for startVertex, endVertex in edges:
-            disjointUnionSet.uion(startVertex, endVertex)
+        uf = UnionFind(n)
+        for u, v in edges:
+            uf.union(u, v)
 
         parent = set()
-        for i in range(n):
-            parent.add(disjointUnionSet.find(i))
+        for node in range(n):
+            parent.add(uf.find(node))
         return len(set(parent))
 
 
 n = 4
 edges = [[0, 1], [2, 3], [1, 2]]
+print(Solution().countComponents(n, edges))
+n = 5
+edges = [[0, 1], [1, 2], [3, 4]]
+print(Solution().countComponents(n, edges))
+n = 5
+edges = [[0, 1], [1, 2], [2, 3], [3, 4]]
 print(Solution().countComponents(n, edges))
