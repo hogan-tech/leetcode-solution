@@ -1,1 +1,1 @@
-3442-maximum-difference-between-even-and-odd-frequency-i python easy
+3445-maximum-difference-between-even-and-odd-frequency-ii python hard
