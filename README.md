@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hogan-tech/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
-## Binary Search
-|  |
-| ------- |
-| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hogan-tech/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
-## Greedy
-|  |
-| ------- |
-| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hogan-tech/leetcode-solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
-<!---LeetCode Topics End-->
