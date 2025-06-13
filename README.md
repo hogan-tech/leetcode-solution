@@ -84,3 +84,23 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+<!---LeetCode Topics End-->
