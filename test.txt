@@ -1,2 +1,3 @@
 3445-maximum-difference-between-even-and-odd-frequency-ii python hard
 2616-minimize-the-maximum-difference-of-pairs python medium
+2566-maximum-difference-by-remapping-a-digit python easy
