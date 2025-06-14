@@ -99,4 +99,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/hogan-tech/leetcode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/hogan-tech/leetcode-solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
