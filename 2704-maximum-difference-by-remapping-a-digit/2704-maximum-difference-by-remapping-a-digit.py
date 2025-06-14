@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def minMaxDifference(self, num: int) -> int:
         maxNumList = [c for c in str(num)]
