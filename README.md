@@ -94,6 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Tree
 |  |
@@ -115,4 +116,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hogan-tech/leetcode-solution/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
