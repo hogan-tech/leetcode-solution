@@ -107,4 +107,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0663-equal-tree-partition](https://github.com/hogan-tech/leetcode-solution/tree/master/0663-equal-tree-partition) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hogan-tech/leetcode-solution/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hogan-tech/leetcode-solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
