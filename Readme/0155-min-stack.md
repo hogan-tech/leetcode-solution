@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/min-stack/">155. Min Stack</a></h2><h3>Medium</h3><hr><div><p>Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.</p>
+<h2><a href="https://leetcode.com/problems/min-stack">155. Min Stack</a></h2><h3>Medium</h3><hr><p>Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.</p>
 
 <p>Implement the <code>MinStack</code> class:</p>
 
@@ -15,8 +15,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input</strong>
-["MinStack","push","push","push","getMin","pop","top","getMin"]
+<pre>
+<strong>Input</strong>
+[&quot;MinStack&quot;,&quot;push&quot;,&quot;push&quot;,&quot;push&quot;,&quot;getMin&quot;,&quot;pop&quot;,&quot;top&quot;,&quot;getMin&quot;]
 [[],[-2],[0],[-3],[],[],[],[]]
 
 <strong>Output</strong>
@@ -41,4 +42,3 @@ minStack.getMin(); // return -2
 	<li>Methods <code>pop</code>, <code>top</code> and <code>getMin</code> operations will always be called on <strong>non-empty</strong> stacks.</li>
 	<li>At most <code>3 * 10<sup>4</sup></code> calls will be made to <code>push</code>, <code>pop</code>, <code>top</code>, and <code>getMin</code>.</li>
 </ul>
-</div>
