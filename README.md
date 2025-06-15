@@ -95,4 +95,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Tree
+|  |
+| ------- |
+| [0663-equal-tree-partition](https://github.com/hogan-tech/leetcode-solution/tree/master/0663-equal-tree-partition) |
+## Depth-First Search
+|  |
+| ------- |
+| [0663-equal-tree-partition](https://github.com/hogan-tech/leetcode-solution/tree/master/0663-equal-tree-partition) |
+## Binary Tree
+|  |
+| ------- |
+| [0663-equal-tree-partition](https://github.com/hogan-tech/leetcode-solution/tree/master/0663-equal-tree-partition) |
 <!---LeetCode Topics End-->
