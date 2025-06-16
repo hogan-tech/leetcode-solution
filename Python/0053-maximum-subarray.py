@@ -5,16 +5,18 @@ from typing import List
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        maxNum = -100000
-        sum = 0
-        for i in range(len(nums)):
-            sum += nums[i]
-            if sum < nums[i]:
-                sum = nums[i]
-            maxNum = max(sum, maxNum)
-        return maxNum
+        result = float('-inf')
+        prefix = 0
+        for num in nums:
+            prefix += num
+            prefix = max(prefix, num)
+            result = max(result, prefix)
+        return result
 
 
-Nums = [5, 4, -1, 7, 8]
-
-print(Solution().maxSubArray(Nums))
+nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+print(Solution().maxSubArray(nums))
+nums = [1]
+print(Solution().maxSubArray(nums))
+nums = [5, 4, -1, 7, 8]
+print(Solution().maxSubArray(nums))
