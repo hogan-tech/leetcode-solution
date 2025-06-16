@@ -120,6 +120,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/hogan-tech/leetcode-solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
