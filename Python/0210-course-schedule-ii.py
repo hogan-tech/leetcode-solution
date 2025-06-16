@@ -1,5 +1,5 @@
 # time complexity: O(V+E)
-# space complexity: O(V)
+# space complexity: O(V+E)
 from collections import deque
 from typing import List
 
