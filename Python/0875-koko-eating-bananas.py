@@ -1,3 +1,5 @@
+# time complexity: O(nlogm)
+# space complexity: O(1)
 import math
 from typing import List
 
@@ -19,5 +21,10 @@ class Solution:
 
 piles = [3, 6, 7, 11]
 h = 8
-
+print(Solution().minEatingSpeed(piles, h))
+piles = [30, 11, 23, 4, 20]
+h = 5
+print(Solution().minEatingSpeed(piles, h))
+piles = [30, 11, 23, 4, 20]
+h = 6
 print(Solution().minEatingSpeed(piles, h))

@@ -6,14 +6,26 @@ from typing import List
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort()
-        mergeResult = [intervals[0]]
-        for interval in intervals:
-            if mergeResult[-1][1] < interval[0]:
-                mergeResult.append(interval)
-            else:
-                mergeResult[-1][1] = max(mergeResult[-1][1], interval[1])
-        return mergeResult
+        stack = []
+        if intervals:
+            stack.append(intervals[0])
 
+        for i in range(1, len(intervals)):
+            currInterval = intervals[i]
+            prevInterval = stack[-1]
+            if prevInterval[1] < currInterval[0]:
+                stack.append(currInterval)
+            elif prevInterval[1] < currInterval[1]:
+                    stack[-1][1] = currInterval[1]
+
+        return stack
+
+'''
+[1, 5] -> [2, 6] -> [1, 6]
+          [2, 4] -> [1, 5]
+          [6, 9] -> [1, 5] [6, 9]
+
+'''
 
 intervals = [[1, 3], [2, 6], [8, 10], [15, 18]]
 print(Solution().merge(intervals))
