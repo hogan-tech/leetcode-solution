@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lru-cache/">146. LRU Cache</a></h2><h3>Medium</h3><hr><div><p>Design a data structure that follows the constraints of a <strong><a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a></strong>.</p>
+<h2><a href="https://leetcode.com/problems/lru-cache">146. LRU Cache</a></h2><h3>Medium</h3><hr><p>Design a data structure that follows the constraints of a <strong><a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a></strong>.</p>
 
 <p>Implement the <code>LRUCache</code> class:</p>
 
@@ -13,8 +13,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input</strong>
-["LRUCache", "put", "put", "get", "put", "get", "put", "get", "get", "get"]
+<pre>
+<strong>Input</strong>
+[&quot;LRUCache&quot;, &quot;put&quot;, &quot;put&quot;, &quot;get&quot;, &quot;put&quot;, &quot;get&quot;, &quot;put&quot;, &quot;get&quot;, &quot;get&quot;, &quot;get&quot;]
 [[2], [1, 1], [2, 2], [1], [3, 3], [2], [4, 4], [1], [3], [4]]
 <strong>Output</strong>
 [null, null, null, 1, null, -1, null, -1, 3, 4]
@@ -41,4 +42,3 @@ lRUCache.get(4);    // return 4
 	<li><code>0 &lt;= value &lt;= 10<sup>5</sup></code></li>
 	<li>At most <code>2 * 10<sup>5</sup></code> calls will be made to <code>get</code> and <code>put</code>.</li>
 </ul>
-</div>
