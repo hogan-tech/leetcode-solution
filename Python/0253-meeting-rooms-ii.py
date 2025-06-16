@@ -19,5 +19,9 @@ class Solution:
         return len(freeRooms)
 
 
+intervals = [[7, 10], [2, 4]]
+print(Solution().minMeetingRooms(intervals))
+intervals = [[0, 30], [5, 10], [15, 20]]
+print(Solution().minMeetingRooms(intervals))
 intervals = [[2, 8], [3, 4], [3, 9], [5, 11], [8, 20], [11, 15]]
 print(Solution().minMeetingRooms(intervals))
