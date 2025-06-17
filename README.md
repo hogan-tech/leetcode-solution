@@ -84,3 +84,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+<!---LeetCode Topics End-->
