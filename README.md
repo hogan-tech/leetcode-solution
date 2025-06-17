@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/hogan-tech/leetcode-solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -98,5 +99,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/hogan-tech/leetcode-solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
