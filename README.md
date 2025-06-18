@@ -110,4 +110,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/hogan-tech/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/hogan-tech/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
