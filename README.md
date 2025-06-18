@@ -92,6 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 | ------- |
 | [0198-house-robber](https://github.com/hogan-tech/leetcode-solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +102,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 | ------- |
 | [0198-house-robber](https://github.com/hogan-tech/leetcode-solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
