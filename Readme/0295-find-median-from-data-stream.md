@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-median-from-data-stream/">295. Find Median from Data Stream</a></h2><h3>Hard</h3><hr><div><p>The <strong>median</strong> is the middle value in an ordered integer list. If the size of the list is even, there is no middle value, and the median is the mean of the two middle values.</p>
+<h2><a href="https://leetcode.com/problems/find-median-from-data-stream">295. Find Median from Data Stream</a></h2><h3>Hard</h3><hr><p>The <strong>median</strong> is the middle value in an ordered integer list. If the size of the list is even, there is no middle value, and the median is the mean of the two middle values.</p>
 
 <ul>
 	<li>For example, for <code>arr = [2,3,4]</code>, the median is <code>3</code>.</li>
@@ -16,8 +16,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input</strong>
-["MedianFinder", "addNum", "addNum", "findMedian", "addNum", "findMedian"]
+<pre>
+<strong>Input</strong>
+[&quot;MedianFinder&quot;, &quot;addNum&quot;, &quot;addNum&quot;, &quot;findMedian&quot;, &quot;addNum&quot;, &quot;findMedian&quot;]
 [[], [1], [2], [], [3], []]
 <strong>Output</strong>
 [null, null, null, 1.5, null, 2.0]
@@ -47,4 +48,3 @@ medianFinder.findMedian(); // return 2.0
 	<li>If all integer numbers from the stream are in the range <code>[0, 100]</code>, how would you optimize your solution?</li>
 	<li>If <code>99%</code> of all integer numbers from the stream are in the range <code>[0, 100]</code>, how would you optimize your solution?</li>
 </ul>
-</div>
