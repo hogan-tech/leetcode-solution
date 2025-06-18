@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/">309. Best Time to Buy and Sell Stock with Cooldown</a></h2><h3>Medium</h3><hr><div><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
+<h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown">309. Best Time to Buy and Sell Stock with Cooldown</a></h2><h3>Medium</h3><hr><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
 <p>Find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times) with the following restrictions:</p>
 
@@ -11,14 +11,16 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> prices = [1,2,3,0,2]
+<pre>
+<strong>Input:</strong> prices = [1,2,3,0,2]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> transactions = [buy, sell, cooldown, buy, sell]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> prices = [1]
+<pre>
+<strong>Input:</strong> prices = [1]
 <strong>Output:</strong> 0
 </pre>
 
@@ -29,4 +31,3 @@
 	<li><code>1 &lt;= prices.length &lt;= 5000</code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 1000</code></li>
 </ul>
-</div>

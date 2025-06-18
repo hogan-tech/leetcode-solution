@@ -19,3 +19,8 @@ class Solution:
 
 prices = [1, 2, 3, 0, 2]
 print(Solution().maxProfit(prices))
+'''
+sold[i]=hold[i−1]+price[i]
+held[i]=max(held[i−1],reset[i−1]−price[i])
+reset[i]=max(reset[i−1],sold[i−1])
+'''
