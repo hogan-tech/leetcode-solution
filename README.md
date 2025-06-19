@@ -84,3 +84,31 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+<!---LeetCode Topics End-->
