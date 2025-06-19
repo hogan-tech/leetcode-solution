@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0271-encode-and-decode-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0271-encode-and-decode-strings) |
-## String
-|  |
-| ------- |
-| [0271-encode-and-decode-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0271-encode-and-decode-strings) |
-## Design
-|  |
-| ------- |
-| [0271-encode-and-decode-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0271-encode-and-decode-strings) |
-<!---LeetCode Topics End-->
