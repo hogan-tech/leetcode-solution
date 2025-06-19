@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+| [0416-partition-equal-subset-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hogan-tech/leetcode-solution/tree/master/0139-word-break) |
+| [0416-partition-equal-subset-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Trie
 |  |
 | ------- |
