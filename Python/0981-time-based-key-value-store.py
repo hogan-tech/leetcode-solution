@@ -16,24 +16,28 @@ class TimeMap:
         self.map[key].append([timestamp, value])
 
     def get(self, key: str, timestamp: int) -> str:
-        if not key in self.map:
+        if key not in self.map:
             return ""
-
-        if timestamp < self.map[key][0][0]:
+        currKeyList = self.map[key]
+        if timestamp < currKeyList[0][0]:
             return ""
-
-        left, right = 0, len(self.map[key])
-
+        left = 0
+        right = len(currKeyList)
         while left < right:
-            mid = left + (right - left) // 2
-            if self.map[key][mid][0] <= timestamp:
+            mid = (left + right) // 2
+            midTime, midVal = currKeyList[mid]
+            if midTime == timestamp:
+                return midVal
+            if midTime < timestamp:
                 left = mid + 1
             else:
                 right = mid
-        return "" if right == 0 else self.map[key][right-1][1]
-
-
-# Your TimeMap object will be instantiated and called as such:
+        return "" if right == 0 else currKeyList[right-1][1]
+'''
+{
+    'foo': [[1, 'bar'], [4, 'bar2]]
+}
+'''
 timeMap = TimeMap()
 timeMap.set("foo", "bar", 1)
 print(timeMap.get("foo", 1))
