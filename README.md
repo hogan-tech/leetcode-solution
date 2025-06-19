@@ -103,4 +103,24 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0261-graph-valid-tree) |
+## Array
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/hogan-tech/leetcode-solution/tree/master/1977-minimum-interval-to-include-each-query) |
+## Binary Search
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/hogan-tech/leetcode-solution/tree/master/1977-minimum-interval-to-include-each-query) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/hogan-tech/leetcode-solution/tree/master/1977-minimum-interval-to-include-each-query) |
+## Sorting
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/hogan-tech/leetcode-solution/tree/master/1977-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/hogan-tech/leetcode-solution/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
