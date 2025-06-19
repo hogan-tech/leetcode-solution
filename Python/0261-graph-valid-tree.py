@@ -5,29 +5,38 @@ from typing import List
 
 # Union Find
 class UnionFind:
-    def __init__(self, n: int) -> None:
-        self.parents = list(range(n))
-
-    def find(self, node: int) -> int:
-        while node != self.parents[node]:
-            node = self.parents[node]
+    def __init__(self, size):
+        self.parent = [i for i in range(size)]
+        self.rank = [0 for _ in range(size)]
+    
+    def find(self, node):
+        while node != self.parent[node]:
+            node = self.parent[node]
         return node
+    
+    def union(self, node1, node2):
+        parent1 = self.find(node1)
+        parent2 = self.find(node2)
 
-    def union(self, nodeX: int, nodeY: int) -> bool:
-        parentX, parentY = self.find(nodeX), self.find(nodeY)
-        if parentX == parentY:
+        if parent1 == parent2:
             return False
-        self.parents[parentX] = parentY
-        return True
 
+        if self.rank[parent1] > self.rank[parent2]:
+            self.parent[parent2] = parent1
+            self.rank[parent1] += 1
+        else:
+            self.parent[parent1] = parent2 
+            self.rank[parent2] += 1
+        
+        return True
 
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
         if len(edges) != n - 1:
             return False
-        disjointUnionSet = UnionFind(n)
-        for startVertex, endVertex in edges:
-            if not disjointUnionSet.union(startVertex, endVertex):
+        uf = UnionFind(n)
+        for u, v in edges:
+            if not uf.union(u, v):
                 return False
         return True
 
