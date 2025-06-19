@@ -1,1 +1,2 @@
 3405-count-the-number-of-arrays-with-k-matching-adjacent-elements python medium
+0485-max-consecutive-ones python easy
