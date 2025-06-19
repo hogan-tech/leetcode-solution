@@ -113,6 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hogan-tech/leetcode-solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0485-max-consecutive-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0883-car-fleet](https://github.com/hogan-tech/leetcode-solution/tree/master/0883-car-fleet) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Stack
