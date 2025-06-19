@@ -1,3 +1,30 @@
+# Bottom Up
+# time complexity: O(n^3 +m*k)
+# space complexity: O(n+m*k)
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        n = len(s)
+        words = set(wordDict)
+        dp = [False for _ in range(n + 1)]
+        dp[0] = True
+
+        for right in range(1, n + 1):
+            for left in range(right):
+                if dp[left] and s[left: right] in words:
+                    dp[right] = True
+                    break
+        
+        return dp[-1]
+'''
+  l e e t c o d e
+
+T F F F T F F F T
+
+  l
+        r
+
+'''
+
 # Tries
 # time complexity: O(n^2 + m*k)
 # space complexity: O(n + m*k)
@@ -38,9 +65,6 @@ class Solution:
 # Bottom Up
 # time complexity: O(n^3 +m*k)
 # space complexity: O(n+m*k)
-# from typing import List
-
-
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         n = len(s)
@@ -67,8 +91,6 @@ print(Solution().wordBreak(s, wordDict))
 # DP 1
 # time complexity: O(n*m*k)
 # space complexity: O(n)
-
-
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         sLen = len(s)
@@ -88,8 +110,6 @@ class Solution:
 # BFS
 # time complexity: O(n^3 + m*k)
 # space complexity: O(n+m*k)
-
-
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         words = set(wordDict)
