@@ -1,15 +1,16 @@
-<h2> 1503 431
-271. Encode and Decode Strings</h2><hr><div><p>Design an algorithm to encode <b>a list of strings</b> to <b>a string</b>. The encoded string is then sent over the network and is decoded back to the original list of strings.</p>
+<h2><a href="https://leetcode.com/problems/encode-and-decode-strings">271. Encode and Decode Strings</a></h2><h3>Medium</h3><hr><p>Design an algorithm to encode <b>a list of strings</b> to <b>a string</b>. The encoded string is then sent over the network and is decoded back to the original list of strings.</p>
 
 <p>Machine 1 (sender) has the function:</p>
 
-<pre>string encode(vector&lt;string&gt; strs) {
+<pre>
+string encode(vector&lt;string&gt; strs) {
   // ... your code
   return encoded_string;
 }</pre>
 Machine 2 (receiver) has the function:
 
-<pre>vector&lt;string&gt; decode(string s) {
+<pre>
+vector&lt;string&gt; decode(string s) {
   //... your code
   return strs;
 }
@@ -17,12 +18,14 @@ Machine 2 (receiver) has the function:
 
 <p>So Machine 1 does:</p>
 
-<pre>string encoded_string = encode(strs);
+<pre>
+string encoded_string = encode(strs);
 </pre>
 
 <p>and Machine 2 does:</p>
 
-<pre>vector&lt;string&gt; strs2 = decode(encoded_string);
+<pre>
+vector&lt;string&gt; strs2 = decode(encoded_string);
 </pre>
 
 <p><code>strs2</code> in Machine 2 should be the same as <code>strs</code> in Machine 1.</p>
@@ -34,8 +37,9 @@ Machine 2 (receiver) has the function:
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> dummy_input = ["Hello","World"]
-<strong>Output:</strong> ["Hello","World"]
+<pre>
+<strong>Input:</strong> dummy_input = [&quot;Hello&quot;,&quot;World&quot;]
+<strong>Output:</strong> [&quot;Hello&quot;,&quot;World&quot;]
 <strong>Explanation:</strong>
 Machine 1:
 Codec encoder = new Codec();
@@ -49,8 +53,9 @@ String[] strs = decoder.decode(msg);
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> dummy_input = [""]
-<strong>Output:</strong> [""]
+<pre>
+<strong>Input:</strong> dummy_input = [&quot;&quot;]
+<strong>Output:</strong> [&quot;&quot;]
 </pre>
 
 <p>&nbsp;</p>
@@ -64,4 +69,3 @@ String[] strs = decoder.decode(msg);
 
 <p>&nbsp;</p>
 <p><strong>Follow up: </strong>Could you write a generalized algorithm to work on any possible set of characters?</p>
-</div>

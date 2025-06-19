@@ -4,30 +4,23 @@ from typing import List
 
 
 class Codec:
-    def __init__(self) -> None:
-        self.stringIndex = []
-        pass
+    def __init__(self):
+        self.idxList = []
 
     def encode(self, strs: List[str]) -> str:
-        encodeString = ""
+        encodeString = ''
         for string in strs:
-            currentIndex = len(string)
-            self.stringIndex.append(currentIndex)
+            self.idxList.append(len(string))
             encodeString += string
-        print(self.stringIndex)
         return encodeString
 
     def decode(self, s: str) -> List[str]:
         decodeList = []
-        for i, item in enumerate(self.stringIndex):
-            decodeList.append(s[:item])
-            s = s[item:]
+        for wordIdx in self.idxList:
+            decodeList.append(s[:wordIdx])
+            s = s[wordIdx:]
         return decodeList
 
-
-# Your Codec object will be instantiated and called as such:
 codec = Codec()
-
-dummy_input = ["Hello", "World"]
-print(codec.encode(dummy_input))
+print(codec.encode(["Hello", "World"]))
 print(codec.decode("HelloWorld"))
