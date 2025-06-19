@@ -1,8 +1,25 @@
-# time complexity: O(t*n)
-# space complexity: O(t*n)
 from typing import List
 
+# time complexity: O(2^n)
+# space complexity: O(n)
+class Solution:
+    def findTargetSumWays(self, nums: List[int], target: int) -> int:
+        result = 0
+        
+        def dfs(currIdx: int, currSum: int):
+            nonlocal result
+            if currIdx == len(nums):
+                if currSum == target:
+                    result += 1
+            else:
+                dfs(currIdx + 1, currSum + nums[currIdx])
+                dfs(currIdx + 1, currSum - nums[currIdx])
 
+        dfs(0, 0)
+        return result
+    
+# time complexity: O(totalsum * n)
+# space complexity: O(totalsum * n)
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
 
@@ -17,10 +34,31 @@ class Solution:
                 if (dp[i - 1][itemSum + total] > 0):
                     dp[i][itemSum + nums[i] + total] += dp[i-1][itemSum + total]
                     dp[i][itemSum - nums[i] + total] += dp[i-1][itemSum + total]
-        print(dp)
         return dp[len(nums) - 1][target + total]
+
+
+class Solution:
+    def findTargetSumWays(self, nums: List[int], target: int) -> int:
+        totalSum = sum(nums)
+        memo = [[float("-inf")] * (2 * totalSum + 1) for _ in range(len(nums))]
+
+        def dfs(currIdx: int, currSum: int) -> int:
+            if currIdx == len(nums):
+                return 1 if currSum == target else 0
+            else:
+                if memo[currIdx][currSum + totalSum] != float("-inf"):
+                    return memo[currIdx][currSum + totalSum]
+                add = dfs(currIdx + 1, currSum + nums[currIdx])
+                subtract = dfs(currIdx + 1, currSum - nums[currIdx],)
+                memo[currIdx][currSum + totalSum] = add + subtract
+                return memo[currIdx][currSum + totalSum]
+
+        return dfs(0, 0)
 
 
 nums = [1, 1, 1, 1, 1]
 target = 3
+print(Solution().findTargetSumWays(nums, target))
+nums = [1]
+target = 1
 print(Solution().findTargetSumWays(nums, target))
