@@ -1,36 +1,67 @@
 # time complexity: O(m*n)
 # space complexity: O(m*n)
-# class Solution:
-#     def numDistinct(self, s: str, t: str) -> int:
-#         M = len(s)
-#         N = len(t)
-#         dp = [[0 for _ in range(N + 1)] for _ in range(M + 1)]
-#         for j in range(N + 1):
-#             dp[M][j] = 0
-#         for i in range(M + 1):
-#             dp[i][N] = 1
-#         for i in range(M - 1, -1, -1):
-#             for j in range(N - 1, -1, -1):
-#                 dp[i][j] = dp[i + 1][j]
-#                 if s[i] == t[j]:
-#                     dp[i][j] += dp[i + 1][j + 1]
-#         return dp[0][0]
+from functools import lru_cache
+
 
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        n, m = len(s), len(t)
-        dp = [[0] * (m + 1) for _ in range(n + 1)]
-        dp[0][0] = 1
-        for i in range(1, n + 1):
-            dp[i][0] = 1
-            for j in range(1, m + 1):
-                if s[i - 1] != t[j - 1]:
-                    dp[i][j] = dp[i-1][j]
-                else:
-                    dp[i][j] = dp[i-1][j-1] + dp[i-1][j]
-        return dp[n][m]
 
+        @lru_cache(None)
+        def uniqueSubsequences(sIdx: int, tIdx: int) -> int:
+
+            sLen, tLen = len(s), len(t)
+
+            if sIdx == sLen or tIdx == tLen or sLen - sIdx < tLen - tIdx:
+                return int(tIdx == len(t))
+
+            result = uniqueSubsequences(sIdx + 1, tIdx)
+
+            if s[sIdx] == t[tIdx]:
+                result += uniqueSubsequences(sIdx + 1, tIdx + 1)
+
+            return result
+
+        return uniqueSubsequences(0, 0)
+
+
+class Solution:
+    def numDistinct(self, s: str, t: str) -> int:
+
+        sLen = len(s)
+        tLen = len(t)
+
+        dp = [[0 for _ in range(tLen + 1)] for _ in range(sLen + 1)]
+
+        for tIdx in range(tLen + 1):
+            dp[sLen][tIdx] = 0
+
+        for sIdx in range(sLen + 1):
+            dp[sIdx][tLen] = 1
+
+        for sIdx in range(sLen - 1, -1, -1):
+            for tIdx in range(tLen - 1, -1, -1):
+                dp[sIdx][tIdx] = dp[sIdx + 1][tIdx]
+                if s[sIdx] == t[tIdx]:
+                    dp[sIdx][tIdx] += dp[sIdx + 1][tIdx + 1]
+
+        return dp[0][0]
+
+
+'''
+T
+    r a b b b i t     S
+r                 1 
+a                 1
+b                 1
+b       V         1
+i       V V       1
+t                 1
+    0 0 0 0 0 0 0 
+'''
 
 s = "rabbbit"
 t = "rabbit"
+print(Solution().numDistinct(s, t))
+s = "babgbag"
+t = "bag"
 print(Solution().numDistinct(s, t))
