@@ -22,7 +22,7 @@ class Solution:
         return longestStreak
 
 
-# time complexity: O(n)
+# time complexity: O(n^2)
 # space complexity: O(n)
 class UnionFind:
     def __init__(self, nums):
@@ -41,16 +41,17 @@ class UnionFind:
 
         if parent1 == parent2:
             return False
-    
+
         if self.ranks[parent1] < self.ranks[parent2]:
             self.parents[parent1] = parent2
             self.ranks[parent2] += self.ranks[parent1]
         else:
             self.parents[parent2] = parent1
             self.ranks[parent1] += self.ranks[parent2]
-            
-        self.maxLength = max(self.maxLength, self.ranks[parent1], self.ranks[parent2])
-        
+
+        self.maxLength = max(
+            self.maxLength, self.ranks[parent1], self.ranks[parent2])
+
         return True
 
 
@@ -64,6 +65,28 @@ class Solution:
                 uf.union(num, num + 1)
 
         return uf.maxLength
+
+# time complexity: O(nlogn)
+# space complexity: O(n)
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+
+        nums.sort()
+
+        longestStreak = 1
+        currentStreak = 1
+
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i - 1]:
+                if nums[i] == nums[i - 1] + 1:
+                    currentStreak += 1
+                else:
+                    longestStreak = max(longestStreak, currentStreak)
+                    currentStreak = 1
+
+        return max(longestStreak, currentStreak)
 
 
 nums = [100, 4, 200, 1, 3, 2]
