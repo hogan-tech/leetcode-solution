@@ -14,7 +14,7 @@ class Solution:
             newInterval[0] = min(intervals[i][0], newInterval[0])
             newInterval[1] = max(intervals[i][1], newInterval[1])
             i += 1
-            
+
         result.append(newInterval)
 
         while i < len(intervals):
@@ -23,7 +23,9 @@ class Solution:
         return result
 
 
+intervals = [[1, 3], [6, 9]]
+newInterval = [2, 5]
+print(Solution().insert(intervals, newInterval))
 intervals = [[1, 2], [3, 5], [6, 7], [8, 10], [12, 16]]
 newInterval = [4, 8]
-
 print(Solution().insert(intervals, newInterval))
