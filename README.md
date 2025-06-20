@@ -84,31 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0134-gas-station](https://github.com/hogan-tech/leetcode-solution/tree/master/0134-gas-station) |
-## Greedy
-|  |
-| ------- |
-| [0134-gas-station](https://github.com/hogan-tech/leetcode-solution/tree/master/0134-gas-station) |
-## String
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/hogan-tech/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
-## Depth-First Search
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/hogan-tech/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
-## Design
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/hogan-tech/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
-## Trie
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/hogan-tech/leetcode-solution/tree/master/0211-design-add-and-search-words-data-structure) |
-<!---LeetCode Topics End-->

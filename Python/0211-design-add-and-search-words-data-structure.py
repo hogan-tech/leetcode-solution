@@ -1,36 +1,35 @@
-# time complexity: O(M)
-# space complexity: O(M)
 class TrieNode:
     def __init__(self):
         self.children = {}
         self.isEnd = False
 
-
 class WordDictionary:
     def __init__(self):
         self.root = TrieNode()
         self.maxLen = 0
+        
 
     def addWord(self, word: str) -> None:
         node = self.root
-        l = 0
-        for char in word:
-            if char not in node.children:
-                node.children[char] = TrieNode()
-            node = node.children[char]
-            l += 1
-        self.maxLen = max(self.maxLen, l)
+        currLen = 0
+        for c in word:
+            if c not in node.children:
+                node.children[c] = TrieNode()
+            node = node.children[c]
+            currLen += 1
+        self.maxLen = max(self.maxLen, currLen)
+        
         node.isEnd = True
 
     def search(self, word: str) -> bool:
         if len(word) > self.maxLen:
             return False
-
-        def helper(idx, node):
+        
+        def dfs(idx, node):
             for i in range(idx, len(word)):
-                if word[i] == ".":
+                if word[i] == '.':
                     for child in node.children.values():
-                        if helper(i + 1, child):
+                        if dfs(i + 1, child):
                             return True
                     return False
                 else:
@@ -38,14 +37,12 @@ class WordDictionary:
                         return False
                     node = node.children[word[i]]
             return node.isEnd
-        return helper(0, self.root)
+        return dfs(0, self.root)
+            
 
 
-wordDictionary = WordDictionary()
-wordDictionary.addWord("bad")
-wordDictionary.addWord("dad")
-wordDictionary.addWord("mad")
-print(wordDictionary.search("pad"))
-print(wordDictionary.search("bad"))
-print(wordDictionary.search(".ad"))
-print(wordDictionary.search("b.."))
+
+# Your WordDictionary object will be instantiated and called as such:
+# obj = WordDictionary()
+# obj.addWord(word)
+# param_2 = obj.search(word)
