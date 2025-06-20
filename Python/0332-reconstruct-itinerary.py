@@ -6,22 +6,23 @@ from typing import List
 
 class Solution:
     def findItinerary(self, tickets: List[List[str]]) -> List[str]:
-        self.flightMap = defaultdict(list)
-        self.result = []
-        for origin, dest in tickets:
-            self.flightMap[origin].append(dest)
-        for origin, itinerary in self.flightMap.items():
-            itinerary.sort(reverse=True)
+        adjList = defaultdict(list)
+        result = []
+        for u, v in tickets:
+            adjList[u].append(v)
+        
+        for flights in adjList.values():
+            flights.sort(reverse = True)
 
-        self.dfs('JFK')
-        return self.result[::-1]
-    
-    def dfs(self, original: str):
-        destList = self.flightMap[original]
-        while destList:
-            nextDest = destList.pop()
-            self.dfs(nextDest)
-        self.result.append(original)
+        def dfs(original):
+            nonlocal result
+            while adjList[original]:
+                nextFlight = adjList[original].pop()
+                dfs(nextFlight)
+            result.append(original)
+
+        dfs('JFK')
+        return result[::-1]
 
 tickets = [["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]]
 print(Solution().findItinerary(tickets))
