@@ -1,30 +1,29 @@
 # time complexity: O(n)
-# space complexity: O(ns)
+# space complexity: O(n)
 from collections import deque
 from typing import List
 
 
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        def cleanUp(i: int, currWindow: deque, nums: List[int]):
-            while currWindow and nums[i] >= nums[currWindow[-1]]:
-                currWindow.pop()
-
-        if len(nums) == 1:
-            return nums
+        monoQueue = deque()
         result = []
-        currWindow = deque()
-        for i in range(k):
-            cleanUp(i, currWindow, nums)
-            currWindow.append(i)
 
-        result.append(nums[currWindow[0]])
-        for i in range(k, len(nums)):
-            cleanUp(i, currWindow, nums)
-            if currWindow and currWindow[0] <= (i - k):
-                currWindow.popleft()
-            currWindow.append(i)
-            result.append(nums[currWindow[0]])
+        left = 0
+        right = 0
+        while right < len(nums):
+            while monoQueue and nums[monoQueue[-1]] < nums[right]:
+                monoQueue.pop()
+            monoQueue.append(right)
+            
+            if left > monoQueue[0]:
+                monoQueue.popleft()
+            
+            if (right + 1) >= k:
+                result.append(nums[monoQueue[0]])
+                left += 1
+            right += 1
+
         return result
 
 
