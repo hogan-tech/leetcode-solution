@@ -22,5 +22,7 @@ class Solution:
         return maxArea
 
 
-Heights = [2, 1, 5, 6, 2, 3]
-print(Solution().largestRectangleArea(Heights))
+heights = [2, 1, 5, 6, 2, 3]
+print(Solution().largestRectangleArea(heights))
+heights = [2,4]
+print(Solution().largestRectangleArea(heights))
