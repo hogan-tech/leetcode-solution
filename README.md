@@ -84,23 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hogan-tech/leetcode-solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
-## Math
-|  |
-| ------- |
-| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hogan-tech/leetcode-solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
-## String
-|  |
-| ------- |
-| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hogan-tech/leetcode-solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
-## Counting
-|  |
-| ------- |
-| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hogan-tech/leetcode-solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
-<!---LeetCode Topics End-->
