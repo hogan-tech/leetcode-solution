@@ -7,22 +7,27 @@ class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         n1 = len(s1)
         n2 = len(s2)
-        freq1 = Counter(s1)
-        freq2 = Counter(s2[:n1])
-        if freq1 == freq2:
+        counter1 = Counter(s1)
+        counter2 = Counter(s2[:n1])
+        if counter1 == counter2:
             return True
-        left = 1
-        right = n1
-        while right < n2:
-            freq2[s2[left - 1]] -= 1
-            freq2[s2[right]] += 1
-            if freq1 == freq2:
+        for i in range(n2 - n1 ):
+            leftChar = s2[i]
+            rightChar = s2[i + n1]
+            counter2[leftChar] -= 1
+            counter2[rightChar] += 1
+            if counter1 == counter2:
                 return True
-            right += 1
-            left += 1
+
         return False
 
 
 s1 = "ab"
 s2 = "eidbaooo"
+print(Solution().checkInclusion(s1, s2))
+s1 = "ab"
+s2 = "eidboaoo"
+print(Solution().checkInclusion(s1, s2))
+s1 = "adc"
+s2 = "dcda"
 print(Solution().checkInclusion(s1, s2))
