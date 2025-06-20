@@ -1,5 +1,8 @@
 # time complexity: O(n^3)
 # space complexity: O(1)
+from typing import List
+
+
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         longestStreak = 0
@@ -18,11 +21,9 @@ class Solution:
 
         return longestStreak
 
+
 # time complexity: O(n)
 # space complexity: O(n)
-from typing import List
-
-
 class UnionFind:
     def __init__(self, nums):
         self.parents = {num: num for num in nums}
@@ -34,32 +35,40 @@ class UnionFind:
             self.parents[num] = self.find(self.parents[num])
         return self.parents[num]
 
-    def union(self, x, y):
-        parentX = self.find(x)
-        parentY = self.find(y)
+    def union(self, node1, node2):
+        parent1 = self.find(node1)
+        parent2 = self.find(node2)
 
-        if parentX != parentY:
-            if self.ranks[parentX] < self.ranks[parentY]:
-                parentX, parentY = parentY, parentX
-            self.parents[parentY] = parentX
-            self.ranks[parentX] += self.ranks[parentY]
-            self.maxLength = max(self.maxLength, self.ranks[parentX])
+        if parent1 == parent2:
+            return False
+    
+        if self.ranks[parent1] < self.ranks[parent2]:
+            self.parents[parent1] = parent2
+            self.ranks[parent2] += self.ranks[parent1]
+        else:
+            self.parents[parent2] = parent1
+            self.ranks[parent1] += self.ranks[parent2]
+            
+        self.maxLength = max(self.maxLength, self.ranks[parent1], self.ranks[parent2])
+        
+        return True
 
 
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
-        disjointSet = UnionFind(nums)
+        uf = UnionFind(nums)
         for num in nums:
-            if num + 1 in disjointSet.parents:
-                disjointSet.union(num, num + 1)
+            if num + 1 in uf.parents:
+                uf.union(num, num + 1)
 
-        return disjointSet.maxLength
-
-
-
+        return uf.maxLength
 
 
 nums = [100, 4, 200, 1, 3, 2]
+print(Solution().longestConsecutive(nums))
+nums = [0, 3, 7, 2, 5, 8, 4, 6, 0, 1]
+print(Solution().longestConsecutive(nums))
+nums = [1, 0, 1, 2]
 print(Solution().longestConsecutive(nums))
