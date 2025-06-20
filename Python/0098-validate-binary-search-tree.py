@@ -13,7 +13,7 @@ class TreeNode:
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def dfs(node: Optional[TreeNode], low=-math.inf, high=math.inf):
+        def dfs(node, low = float('-inf'), high = float('inf')):
             if node is None:
                 return True
             if node.val <= low:
