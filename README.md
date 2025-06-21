@@ -84,27 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
-## String
-|  |
-| ------- |
-| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
-## Greedy
-|  |
-| ------- |
-| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
-## Sorting
-|  |
-| ------- |
-| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
-## Counting
-|  |
-| ------- |
-| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hogan-tech/leetcode-solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
-<!---LeetCode Topics End-->
