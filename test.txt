@@ -1,1 +1,5 @@
-0981-time-based-key-value-store python medium
+3587-minimum-adjacent-swaps-to-alternate-parity python medium
+3588-find-maximum-area-of-a-triangle python medium
+3591-check-if-any-element-has-prime-frequency python easy
+3592-inverse-coin-change python medium
+3593-minimum-increments-to-equalize-leaf-paths python medium
