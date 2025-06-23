@@ -90,10 +90,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0212-word-search-ii) |
 | [0269-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0269-alien-dictionary) |
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0212-word-search-ii) |
 | [0269-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0269-alien-dictionary) |
 ## Depth-First Search
 |  |
@@ -111,4 +113,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0269-alien-dictionary) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
