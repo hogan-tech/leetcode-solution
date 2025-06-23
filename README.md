@@ -84,15 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2202-sum-of-k-mirror-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/2202-sum-of-k-mirror-numbers) |
-## Enumeration
-|  |
-| ------- |
-| [2202-sum-of-k-mirror-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/2202-sum-of-k-mirror-numbers) |
-<!---LeetCode Topics End-->
