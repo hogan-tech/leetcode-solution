@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/0010-regular-expression-matching) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/0010-regular-expression-matching) |
-## Recursion
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/hogan-tech/leetcode-solution/tree/master/0010-regular-expression-matching) |
-<!---LeetCode Topics End-->
