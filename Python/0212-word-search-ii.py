@@ -7,53 +7,48 @@ class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         WORDKEY = "$"
         trie = {}
+
         for word in words:
             node = trie
             for letter in word:
                 node = node.setdefault(letter, {})
             node[WORDKEY] = word
-        rowNum = len(board)
-        colNum = len(board[0])
+
+        ROW = len(board)
+        COL = len(board[0])
         matchedWords = []
 
-        def backtracking(row, col, parent):
-            letter = board[row][col]
+        def backtracking(currR: int, currC: int, parent: dict):
+            letter = board[currR][currC]
             currNode = parent[letter]
             wordMatch = currNode.pop(WORDKEY, False)
             if wordMatch:
                 matchedWords.append(wordMatch)
-            board[row][col] = "#"
-            for rowOffset, colOffset in [(-1, 0), (0, 1), (1, 0), (0, -1)]:
-                newRow, newCol = row + rowOffset, col + colOffset
-                if (
-                    newRow < 0
-                    or newRow >= rowNum
-                    or newCol < 0
-                    or newCol >= colNum
-                ):
-                    continue
-                if not board[newRow][newCol] in currNode:
-                    continue
-                backtracking(newRow, newCol, currNode)
+            board[currR][currC] = "#"
+            for dR, dC in [(-1, 0), (0, 1), (1, 0), (0, -1)]:
+                nextR = currR + dR
+                nextC = currC + dC
+                if 0 <= nextR < ROW and 0 <= nextC < COL and board[nextR][nextC] in currNode:
+                    backtracking(nextR, nextC, currNode)
 
-            board[row][col] = letter
+            board[currR][currC] = letter
 
             if not currNode:
                 parent.pop(letter)
 
-        for row in range(rowNum):
-            for col in range(colNum):
-                if board[row][col] in trie:
-                    backtracking(row, col, trie)
+        for r in range(ROW):
+            for c in range(COL):
+                if board[r][c] in trie:
+                    backtracking(r, c, trie)
 
         return matchedWords
 
-# time complexity: O(n*3^l)
-# space complexity: O(m)
+# time complexity: O(m*l + n*4^l)
+# space complexity: O(m*l + n)
 class TrieNode:
     def __init__(self, char=""):
-        self.char = char
         self.children = {}
+        self.char = char
         self.isEnd = False
 
 
@@ -69,7 +64,7 @@ class Trie:
             node = node.children.get(c)
         node.isEnd = True
 
-    def startsWith(self, prefix):
+    def startWith(self, prefix):
         node = self.root
         for c in prefix:
             if c not in node.children:
@@ -77,7 +72,7 @@ class Trie:
             node = node.children[c]
         return True
 
-    def removeChars(self, word):
+    def removeChar(self, word):
         node = self.root
         childList = []
 
@@ -85,7 +80,7 @@ class Trie:
             childList.append([node, c])
             node = node.children[c]
 
-        for parent, childChar in reversed(childList):
+        for parent, childChar in childList[::-1]:
             target = parent.children[childChar]
             if target.children:
                 return
@@ -94,41 +89,43 @@ class Trie:
 
 class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
-        def dfs(trieForWords: Trie, node: TrieNode, grid: List[List[str]], row: int, col: int, result: List[str], word=""):
+
+        trie = Trie()
+        ROW = len(board)
+        COL = len(board[0])
+        for word in words:
+            trie.insert(word)
+
+        def backtrack(node: TrieNode, r: int, c: int, word=""):
             if node.isEnd:
                 result.append(word)
                 node.isEnd = False
-                trieForWords.removeChars(word)
+                trie.removeChar(word)
 
-            if 0 <= row < ROW and 0 <= col < COL:
-                char = grid[row][col]
-                child = node.children.get(char)
+            if 0 <= r < ROW and 0 <= c < COL:
+                currC = board[r][c]
+                child = node.children.get(currC)
                 if child is not None:
-                    word += char
-                    grid[row][col] = None
+                    word += currC
+                    board[r][c] = None
                     for dR, dC in [(0, 1), (1, 0), (-1, 0), (0, -1)]:
-                        dfs(trieForWords, child, grid,
-                            row + dR, col + dC, result, word)
-                    grid[row][col] = char
+                        nextR = r + dR
+                        nextC = c + dC
+                        backtrack(child, nextR, nextC, word)
+                    board[r][c] = currC
 
-        ROW = len(board)
-        COL = len(board[0])
-        trieForWords = Trie()
         result = []
-        for word in words:
-            trieForWords.insert(word)
-
         for r in range(ROW):
             for c in range(COL):
-                dfs(trieForWords, trieForWords.root, board, r, c, result)
+                backtrack(trie.root, r, c)
 
         return result
 
 
-board = [["o", "a", "a", "n"],
-         ["e", "t", "a", "e"],
-         ["i", "h", "k", "r"],
-         ["i", "f", "l", "v"]]
+board = [["o", "a", "a", "n"], ["e", "t", "a", "e"],
+         ["i", "h", "k", "r"], ["i", "f", "l", "v"]]
 words = ["oath", "pea", "eat", "rain"]
-
+print(Solution().findWords(board, words))
+board = [["a", "b"], ["c", "d"]]
+words = ["abcb"]
 print(Solution().findWords(board, words))
