@@ -1,6 +1,6 @@
 # time complexity: O(C)
 # space complexity: O(1)
-from collections import Counter, defaultdict, deque
+from collections import defaultdict, deque
 from typing import List
 
 
@@ -34,38 +34,54 @@ class Solution:
             return ""
         return "".join(output)
 
-
+# time complexity: O(C)
+# space complexity: O(1)
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
         adjList = defaultdict(set)
-        counts = Counter({c: 0 for word in words for c in word})
+        indegree = defaultdict(int)
+        
+        for word in words:
+            for c in word:
+                indegree[c] = 0
 
         for word1, word2 in zip(words, words[1:]):
+            foundDiff = False
             for c1, c2 in zip(word1, word2):
                 if c1 != c2:
                     if c2 not in adjList[c1]:
                         adjList[c1].add(c2)
-                        counts[c2] += 1
+                        indegree[c2] += 1
+                    foundDiff = True
                     break
-            else:
-                if len(word2) < len(word1):
-                    return ""
+            if not foundDiff and len(word2) < len(word1):
+                return ""
 
         result = []
-        sourceQueue = deque([c for c in counts if counts[c] == 0])
-        while sourceQueue:
-            c = sourceQueue.popleft()
-            result.append(c)
-            for d in adjList[c]:
-                counts[d] -= 1
-                if counts[d] == 0:
-                    sourceQueue.append(d)
+        queue = deque()
+        for currC in indegree:
+            if indegree[currC] == 0:
+                queue.append(currC)
+                
+        while queue:
+            currC = queue.popleft()
+            result.append(currC)
+            for nextC in adjList[currC]:
+                indegree[nextC] -= 1
+                if indegree[nextC] == 0:
+                    queue.append(nextC)
 
-        if len(result) < len(counts):
+        if len(result) < len(indegree):
             return ""
         return "".join(result)
 
 
+words = ["wrt", "wrf", "er", "ett", "rftt"]
+print(Solution().alienOrder(words))
+words = ["z", "x"]
+print(Solution().alienOrder(words))
+words = ["z", "x", "z"]
+print(Solution().alienOrder(words))
 words = ["mzosr", "mqov", "xxsvq", "xazv", "xazau", "xaqu",
          "suvzu", "suvxq", "suam", "suax", "rom", "rwx", "rwv"]
 print(Solution().alienOrder(words))
