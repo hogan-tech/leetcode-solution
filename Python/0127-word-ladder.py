@@ -7,23 +7,21 @@ from typing import List
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         wordSet = set(wordList)
-        queue = deque([beginWord])
+        queue = deque()
+        queue.append(beginWord)
         count = 1
         while queue:
             size = len(queue)
             for _ in range(size):
-                current = list(queue.popleft())
-                for j in range(len(current)):
-                    tmp = current[j]
-                    for c in 'abcdefghijklmnopqrstuvwxyz':
-                        current[j] = c
-                        nextWord = "".join(current)
+                currWord = queue.popleft()
+                if currWord == endWord:
+                    return count
+                for wordIdx in range(len(currWord)):
+                    for nextC in 'abcdefghijklmnopqrstuvwxyz':
+                        nextWord = currWord[:wordIdx] + nextC + currWord[wordIdx + 1:]
                         if nextWord in wordSet:
-                            if nextWord == endWord:
-                                return count + 1
                             queue.append(nextWord)
                             wordSet.remove(nextWord)
-                    current[j] = tmp
             count += 1
         return 0
 
