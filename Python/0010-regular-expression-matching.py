@@ -33,7 +33,8 @@ class Solution(object):
         return dp(0, 0)
 
 # time complexity: O(tp)
-# space complexity: O(tp)class Solution(object):
+# space complexity: O(tp)
+class Solution(object):
     def isMatch(self, text: str, pattern: str) -> bool:
         dp = [[False for _ in range(len(pattern) + 1)]
               for _ in range(len(text) + 1)]
