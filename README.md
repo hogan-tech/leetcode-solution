@@ -84,23 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-## Stack
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-## Greedy
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-<!---LeetCode Topics End-->
