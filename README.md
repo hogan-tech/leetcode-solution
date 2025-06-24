@@ -84,22 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0152-maximum-product-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/0152-maximum-product-subarray) |
-| [0213-house-robber-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0213-house-robber-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0097-interleaving-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0097-interleaving-string) |
-| [0152-maximum-product-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/0152-maximum-product-subarray) |
-| [0213-house-robber-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0213-house-robber-ii) |
-## String
-|  |
-| ------- |
-| [0097-interleaving-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0097-interleaving-string) |
-<!---LeetCode Topics End-->
