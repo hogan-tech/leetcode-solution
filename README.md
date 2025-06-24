@@ -95,4 +95,20 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/hogan-tech/leetcode-solution/tree/master/0091-decode-ways) |
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/hogan-tech/leetcode-solution/tree/master/0355-design-twitter) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/hogan-tech/leetcode-solution/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/hogan-tech/leetcode-solution/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/hogan-tech/leetcode-solution/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
