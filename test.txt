@@ -1,2 +1,3 @@
 2138-divide-a-string-into-groups-of-size-k python easy
 2081-sum-of-k-mirror-numbers python hard
+2200-find-all-k-distant-indices-in-an-array python easy
