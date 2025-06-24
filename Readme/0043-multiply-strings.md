@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/multiply-strings/">43. Multiply Strings</a></h2><h3>Medium</h3><hr><div><p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as strings, return the product of <code>num1</code> and <code>num2</code>, also represented as a string.</p>
+<h2><a href="https://leetcode.com/problems/multiply-strings">43. Multiply Strings</a></h2><h3>Medium</h3><hr><p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as strings, return the product of <code>num1</code> and <code>num2</code>, also represented as a string.</p>
 
 <p><strong>Note:</strong>&nbsp;You must not use any built-in BigInteger library or convert the inputs to integer directly.</p>
 
@@ -18,4 +18,3 @@
 	<li><code>num1</code> and <code>num2</code> consist of digits only.</li>
 	<li>Both <code>num1</code> and <code>num2</code>&nbsp;do not contain any leading zero, except the number <code>0</code> itself.</li>
 </ul>
-</div>
