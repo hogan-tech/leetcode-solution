@@ -84,3 +84,23 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+<!---LeetCode Topics End-->
