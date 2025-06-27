@@ -1,3 +1,5 @@
+# time complexity: O(n * (n/k)!)
+# space complexity: O((n/k)!)
 from collections import deque
 from typing import Counter
 
