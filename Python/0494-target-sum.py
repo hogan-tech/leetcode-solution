@@ -17,7 +17,8 @@ class Solution:
 
         dfs(0, 0)
         return result
-    
+
+# bottom up
 # time complexity: O(totalsum * n)
 # space complexity: O(totalsum * n)
 class Solution:
@@ -36,7 +37,9 @@ class Solution:
                     dp[i][itemSum - nums[i] + total] += dp[i-1][itemSum + total]
         return dp[len(nums) - 1][target + total]
 
-
+# top down
+# time complexity: O(totalsum * n)
+# space complexity: O(totalsum * n)
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         totalSum = sum(nums)
