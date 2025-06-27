@@ -84,3 +84,35 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+<!---LeetCode Topics End-->
