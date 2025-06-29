@@ -107,6 +107,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hogan-tech/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,4 +116,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hogan-tech/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Two Pointers
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hogan-tech/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Sorting
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hogan-tech/leetcode-solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
