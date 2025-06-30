@@ -1,1 +1,3 @@
 2035-partition-array-into-two-arrays-to-minimize-sum-difference python hard
+3597-partition-string python medium
+3599-partition-array-to-minimize-xor python medium
