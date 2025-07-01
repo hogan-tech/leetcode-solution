@@ -21,7 +21,7 @@ class Solution:
         return prev
 
 # time complexity: O(n)
-# space complexity: O(1)
+# space complexity: O(n)
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         if (not head) or (not head.next):
