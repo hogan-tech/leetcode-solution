@@ -1,1 +1,3 @@
-1394-find-lucky-integer-in-an-array python easy
+3602-hexadecimal-and-hexatrigesimal-conversion python easy
+3603-minimum-cost-path-with-alternating-directions-ii pythhon medium
+3604-minimum-time-to-reach-destination-in-directed-graph python medium
