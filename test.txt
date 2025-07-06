@@ -1,1 +1,3 @@
-1865-finding-pairs-with-a-certain-sum python medium
+3606-coupon-code-validator python easy
+3607-power-grid-maintenance python medium
+3608-minimum-time-for-k-connected-components python medium
