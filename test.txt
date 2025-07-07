@@ -1,3 +1,1 @@
-3606-coupon-code-validator python easy
-3607-power-grid-maintenance python medium
-3608-minimum-time-for-k-connected-components python medium
+1353-maximum-number-of-events-that-can-be-attended python medium
