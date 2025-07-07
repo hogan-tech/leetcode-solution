@@ -84,3 +84,23 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hogan-tech/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hogan-tech/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sorting
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hogan-tech/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/hogan-tech/leetcode-solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+<!---LeetCode Topics End-->
