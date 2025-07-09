@@ -103,4 +103,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0285-inorder-successor-in-bst](https://github.com/hogan-tech/leetcode-solution/tree/master/0285-inorder-successor-in-bst) |
+## Array
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Greedy
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
