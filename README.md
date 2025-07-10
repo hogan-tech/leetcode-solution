@@ -106,13 +106,19 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
