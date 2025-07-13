@@ -1,2 +1,1 @@
-1353-maximum-number-of-events-that-can-be-attended python medium
-3440-reschedule-meetings-for-maximum-free-time-i python medium
+1900-the-earliest-and-latest-rounds-where-players-compete python hard
