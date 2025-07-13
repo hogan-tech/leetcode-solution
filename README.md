@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hogan-tech/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hogan-tech/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,4 +109,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2479-meeting-rooms-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hogan-tech/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hogan-tech/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
