@@ -117,4 +117,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hogan-tech/leetcode-solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hogan-tech/leetcode-solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hogan-tech/leetcode-solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
