@@ -91,10 +91,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3939-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3939-process-string-with-special-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
