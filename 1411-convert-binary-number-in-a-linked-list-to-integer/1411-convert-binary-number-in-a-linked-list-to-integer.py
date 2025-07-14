@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import Optional
 
 
@@ -14,7 +16,6 @@ class Solution:
             binaryInt += str(head.val)
             head = head.next
         return int(binaryInt, 2)
-
 
 
 head = ListNode(1)
