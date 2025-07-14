@@ -95,4 +95,20 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
+## Binary Search
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
+## Sort
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
+## Union Find
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
+## Graph
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
 <!---LeetCode Topics End-->
