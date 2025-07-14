@@ -84,33 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
-| [3939-process-string-with-special-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3939-process-string-with-special-operations-ii) |
-## Simulation
-|  |
-| ------- |
-| [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
-| [3939-process-string-with-special-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3939-process-string-with-special-operations-ii) |
-## Binary Search
-|  |
-| ------- |
-| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
-## Sort
-|  |
-| ------- |
-| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
-## Union Find
-|  |
-| ------- |
-| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
-## Graph
-|  |
-| ------- |
-| [3881-minimize-maximum-component-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/3881-minimize-maximum-component-cost) |
-<!---LeetCode Topics End-->

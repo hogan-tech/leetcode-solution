@@ -1,1 +1,3 @@
-1290-convert-binary-number-in-a-linked-list-to-integer python easy
+3612-process-string-with-special-operations-i python medium
+3613-minimize-maximum-component-cost python medium
+3614-process-string-with-special-operations-ii python hard
