@@ -84,3 +84,15 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3931-process-string-with-special-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3931-process-string-with-special-operations-i) |
+<!---LeetCode Topics End-->
