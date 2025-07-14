@@ -84,3 +84,15 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+<!---LeetCode Topics End-->
