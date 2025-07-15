@@ -1,3 +1,1 @@
-3612-process-string-with-special-operations-i python medium
-3613-minimize-maximum-component-cost python medium
-3614-process-string-with-special-operations-ii python hard
+3136-valid-word python easy
