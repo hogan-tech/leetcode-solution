@@ -1,3 +1,5 @@
+# time complexity: O(n)
+# space complexity: O(n)
 from typing import List
 
 
@@ -17,7 +19,7 @@ class Solution:
             if num == evenFirstFlag:
                 evenFirstCount += 1
                 evenFirstFlag = (evenFirstFlag + 1) % 2
-                
+
         return max(oddCount, evenCount, oddFirstCount, evenFirstCount)
 
 
