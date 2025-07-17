@@ -1,1 +1,2 @@
 3201-find-the-maximum-length-of-valid-subsequence-i python medium
+3202-find-the-maximum-length-of-valid-subsequence-ii python medium
