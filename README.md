@@ -94,6 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## String
 |  |
 | ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hogan-tech/leetcode-solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Depth-First Search
 |  |
