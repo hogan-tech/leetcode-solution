@@ -84,24 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1350-remove-sub-folders-from-the-filesystem](https://github.com/hogan-tech/leetcode-solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
-## String
-|  |
-| ------- |
-| [1302-delete-characters-to-make-fancy-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1302-delete-characters-to-make-fancy-string) |
-| [1350-remove-sub-folders-from-the-filesystem](https://github.com/hogan-tech/leetcode-solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
-## Depth-First Search
-|  |
-| ------- |
-| [1350-remove-sub-folders-from-the-filesystem](https://github.com/hogan-tech/leetcode-solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
-## Trie
-|  |
-| ------- |
-| [1350-remove-sub-folders-from-the-filesystem](https://github.com/hogan-tech/leetcode-solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
-<!---LeetCode Topics End-->
