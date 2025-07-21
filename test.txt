@@ -1,1 +1,1 @@
-2163-minimum-difference-in-sums-after-removal-of-elements python hard
+1948-delete-duplicate-folders-in-system python hard
