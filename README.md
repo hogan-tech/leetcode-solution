@@ -99,4 +99,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1813-maximum-erasure-value) |
+## String
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hogan-tech/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hogan-tech/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hogan-tech/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
