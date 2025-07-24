@@ -1,3 +1,2 @@
-3622-check-divisibility-by-digit-sum-and-product python easy
-3623-count-number-of-trapezoids-i python medium
-3624-number-of-integers-with-popcount-depth-equal-to-k-ii python hard
+0527-word-abbreviation python hard
+2322-minimum-score-after-removals-on-a-tree python hard
