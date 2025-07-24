@@ -92,6 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 | ------- |
 | [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
 | [1813-maximum-erasure-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1813-maximum-erasure-value) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,4 +123,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
