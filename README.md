@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
 | [1813-maximum-erasure-value](https://github.com/hogan-tech/leetcode-solution/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## String
 |  |
 | ------- |
+| [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hogan-tech/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -110,5 +112,14 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Greedy
 |  |
 | ------- |
+| [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hogan-tech/leetcode-solution/tree/master/1818-maximum-score-from-removing-substrings) |
+## Trie
+|  |
+| ------- |
+| [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
+## Sorting
+|  |
+| ------- |
+| [0527-word-abbreviation](https://github.com/hogan-tech/leetcode-solution/tree/master/0527-word-abbreviation) |
 <!---LeetCode Topics End-->
