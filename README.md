@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hogan-tech/leetcode-solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
-## Hash Table
-|  |
-| ------- |
-| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hogan-tech/leetcode-solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
-## Greedy
-|  |
-| ------- |
-| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hogan-tech/leetcode-solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
-<!---LeetCode Topics End-->
