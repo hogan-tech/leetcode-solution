@@ -1,2 +1,1 @@
-0527-word-abbreviation python hard
-2322-minimum-score-after-removals-on-a-tree python hard
+3487-maximum-unique-subarray-sum-after-deletion python easy
