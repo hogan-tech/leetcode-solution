@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hogan-tech/leetcode-solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Segment Tree
 |  |
