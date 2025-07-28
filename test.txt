@@ -1,1 +1,2 @@
-3480-maximize-subarrays-after-removing-one-conflicting-pair python hard
+3627-maximum-median-sum-of-subsequences-of-size-3 python medium
+3628-maximum-number-of-subsequences-after-one-inserting python medium
