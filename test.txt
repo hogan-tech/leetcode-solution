@@ -1,1 +1,1 @@
-2210-count-hills-and-valleys-in-an-array python easy
+3480-maximize-subarrays-after-removing-one-conflicting-pair python hard
