@@ -1,2 +1,1 @@
-3627-maximum-median-sum-of-subsequences-of-size-3 python medium
-3628-maximum-number-of-subsequences-after-one-inserting python medium
+2411-smallest-subarrays-with-maximum-bitwise-or python medium
