@@ -84,35 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-## Stack
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-## Tree
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-## Depth-First Search
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-## Binary Tree
-|  |
-| ------- |
-| [0272-closest-binary-search-tree-value-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0272-closest-binary-search-tree-value-ii) |
-<!---LeetCode Topics End-->
