@@ -84,19 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0934-bitwise-ors-of-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0934-bitwise-ors-of-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0934-bitwise-ors-of-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0934-bitwise-ors-of-subarrays) |
-<!---LeetCode Topics End-->
