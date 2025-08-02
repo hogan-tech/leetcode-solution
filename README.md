@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [2689-rearranging-fruits](https://github.com/hogan-tech/leetcode-solution/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [2689-rearranging-fruits](https://github.com/hogan-tech/leetcode-solution/tree/master/2689-rearranging-fruits) |
 ## Tree
 |  |
 | ------- |
@@ -115,8 +117,13 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [2689-rearranging-fruits](https://github.com/hogan-tech/leetcode-solution/tree/master/2689-rearranging-fruits) |
 ## Binary Tree
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/hogan-tech/leetcode-solution/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
