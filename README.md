@@ -90,6 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/hogan-tech/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hogan-tech/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Binary Search
 |  |
@@ -98,9 +99,14 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/hogan-tech/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hogan-tech/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hogan-tech/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/hogan-tech/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
