@@ -92,10 +92,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/hogan-tech/leetcode-solution/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hogan-tech/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hogan-tech/leetcode-solution/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +111,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/hogan-tech/leetcode-solution/tree/master/0940-fruit-into-baskets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
