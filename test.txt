@@ -1,5 +1,1 @@
-3633-earliest-finish-time-for-land-and-water-rides-i python easy
-3634-minimum-removals-to-balance-array python medium
-3635-earliest-finish-time-for-land-and-water-rides-ii python medium
-3637-trionic-array-i python easy
-3638-maximum-balanced-shipments python medium
+3479-fruits-into-baskets-iii python medium

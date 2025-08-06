@@ -84,23 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3791-fruits-into-baskets-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3791-fruits-into-baskets-iii) |
-## Binary Search
-|  |
-| ------- |
-| [3791-fruits-into-baskets-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3791-fruits-into-baskets-iii) |
-## Segment Tree
-|  |
-| ------- |
-| [3791-fruits-into-baskets-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3791-fruits-into-baskets-iii) |
-## Ordered Set
-|  |
-| ------- |
-| [3791-fruits-into-baskets-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/3791-fruits-into-baskets-iii) |
-<!---LeetCode Topics End-->
