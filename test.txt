@@ -1,1 +1,1 @@
-0898-bitwise-ors-of-subarrays python medium
+2106-maximum-fruits-harvested-after-at-most-k-steps python hard
