@@ -107,4 +107,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/hogan-tech/leetcode-solution/tree/master/1143-find-smallest-common-element-in-all-rows) |
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/hogan-tech/leetcode-solution/tree/master/0826-soup-servings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/hogan-tech/leetcode-solution/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/hogan-tech/leetcode-solution/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
