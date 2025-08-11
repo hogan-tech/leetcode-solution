@@ -1,1 +1,3 @@
-0808-soup-servings python medium
+3643-flip-square-submatrix-vertically python easy
+3644-maximum-k-to-sort-a-permutation python medium
+3646-next-special-palindrome-number python hard

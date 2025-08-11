@@ -85,18 +85,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/hogan-tech/leetcode-solution/tree/master/0231-power-of-two) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/hogan-tech/leetcode-solution/tree/master/0231-power-of-two) |
-## Recursion
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/hogan-tech/leetcode-solution/tree/master/0231-power-of-two) |
-<!---LeetCode Topics End-->
