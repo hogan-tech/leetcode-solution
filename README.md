@@ -85,3 +85,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/hogan-tech/leetcode-solution/tree/master/2529-range-product-queries-of-powers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/hogan-tech/leetcode-solution/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/hogan-tech/leetcode-solution/tree/master/2529-range-product-queries-of-powers) |
+<!---LeetCode Topics End-->
