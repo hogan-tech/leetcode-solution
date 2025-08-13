@@ -1,1 +1,1 @@
-2787-ways-to-express-an-integer-as-sum-of-powers python medium
+0326-power-of-three python easy
