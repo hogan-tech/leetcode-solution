@@ -91,5 +91,18 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## String
 |  |
 | ------- |
+| [1125-design-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/1125-design-file-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hogan-tech/leetcode-solution/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [1125-design-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/1125-design-file-system) |
+## Design
+|  |
+| ------- |
+| [1125-design-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/1125-design-file-system) |
+## Trie
+|  |
+| ------- |
+| [1125-design-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/1125-design-file-system) |
 <!---LeetCode Topics End-->
