@@ -1,3 +1,5 @@
+# time complexity: O(logn)
+# space complexity: O(1)
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
         while (n >= 1.0):
