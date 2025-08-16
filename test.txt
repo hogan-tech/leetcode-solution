@@ -1,1 +1,1 @@
-0326-power-of-three python easy
+1323-maximum-69-number python easy

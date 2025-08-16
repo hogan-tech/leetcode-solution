@@ -85,15 +85,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1448-maximum-69-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1448-maximum-69-number) |
-## Greedy
-|  |
-| ------- |
-| [1448-maximum-69-number](https://github.com/hogan-tech/leetcode-solution/tree/master/1448-maximum-69-number) |
-<!---LeetCode Topics End-->
