@@ -85,3 +85,23 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0867-new-21-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0867-new-21-game) |
+<!---LeetCode Topics End-->
