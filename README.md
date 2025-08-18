@@ -85,19 +85,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0679-24-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0679-24-game) |
-## Math
-|  |
-| ------- |
-| [0679-24-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0679-24-game) |
-## Backtracking
-|  |
-| ------- |
-| [0679-24-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0679-24-game) |
-<!---LeetCode Topics End-->
