@@ -1,1 +1,2 @@
 1323-maximum-69-number python easy
+0679-24-game python hard
