@@ -85,15 +85,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2432-number-of-zero-filled-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2432-number-of-zero-filled-subarrays) |
-## Math
-|  |
-| ------- |
-| [2432-number-of-zero-filled-subarrays](https://github.com/hogan-tech/leetcode-solution/tree/master/2432-number-of-zero-filled-subarrays) |
-<!---LeetCode Topics End-->
