@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
@@ -100,4 +101,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3974-xor-after-range-multiplication-queries-i) |
+## Simulation
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3974-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
