@@ -85,3 +85,19 @@ We welcome contributions! If you have a solution to a problem that isn't already
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+## Sliding Window
+|  |
+| ------- |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+## Prefix Sum
+|  |
+| ------- |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+<!---LeetCode Topics End-->
