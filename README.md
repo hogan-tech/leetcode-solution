@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Array
 |  |
 | ------- |
+| [1132-before-and-after-puzzle](https://github.com/hogan-tech/leetcode-solution/tree/master/1132-before-and-after-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -113,4 +114,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
+## Hash Table
+|  |
+| ------- |
+| [1132-before-and-after-puzzle](https://github.com/hogan-tech/leetcode-solution/tree/master/1132-before-and-after-puzzle) |
+## String
+|  |
+| ------- |
+| [1132-before-and-after-puzzle](https://github.com/hogan-tech/leetcode-solution/tree/master/1132-before-and-after-puzzle) |
+## Sorting
+|  |
+| ------- |
+| [1132-before-and-after-puzzle](https://github.com/hogan-tech/leetcode-solution/tree/master/1132-before-and-after-puzzle) |
 <!---LeetCode Topics End-->
