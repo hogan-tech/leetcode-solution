@@ -1,5 +1,1 @@
-3648-minimum-sensors-to-cover-grid python medium
-3649-number-of-perfect-pairs python medium
-3652-best-time-to-buy-and-sell-stock-using-strategy python medium
-3653-xor-after-range-multiplication-queries-i python medium
-3654-minimum-sum-after-divisible-sum-deletions python medium
+3197-find-the-minimum-area-to-cover-all-ones-ii python hard
