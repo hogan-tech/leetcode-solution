@@ -94,6 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 | [1132-before-and-after-puzzle](https://github.com/hogan-tech/leetcode-solution/tree/master/1132-before-and-after-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
@@ -105,6 +106,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
 |  |
@@ -126,4 +128,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [1132-before-and-after-puzzle](https://github.com/hogan-tech/leetcode-solution/tree/master/1132-before-and-after-puzzle) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
