@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/hogan-tech/leetcode-solution/tree/master/0498-diagonal-traverse) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Matrix
 |  |
 | ------- |
