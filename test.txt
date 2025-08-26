@@ -1,1 +1,1 @@
-3197-find-the-minimum-area-to-cover-all-ones-ii python hard
+3000-maximum-area-of-longest-diagonal-rectangle python easy

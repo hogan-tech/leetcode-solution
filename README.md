@@ -84,20 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/hogan-tech/leetcode-solution/tree/master/0498-diagonal-traverse) |
-| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
-## Matrix
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/hogan-tech/leetcode-solution/tree/master/0498-diagonal-traverse) |
-## Simulation
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/hogan-tech/leetcode-solution/tree/master/0498-diagonal-traverse) |
-<!---LeetCode Topics End-->
