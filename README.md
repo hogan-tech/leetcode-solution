@@ -84,23 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hogan-tech/leetcode-solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hogan-tech/leetcode-solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
-## Memoization
-|  |
-| ------- |
-| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hogan-tech/leetcode-solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
-## Matrix
-|  |
-| ------- |
-| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hogan-tech/leetcode-solution/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
-<!---LeetCode Topics End-->
