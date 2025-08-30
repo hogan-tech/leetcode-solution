@@ -1,1 +1,2 @@
-1182-shortest-distance-to-target-color python medium
+3658-gcd-of-odd-and-even-sums python easy
+3659-partition-array-into-k-distinct-groups python medium
