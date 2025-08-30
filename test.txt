@@ -1,1 +1,1 @@
-3021-alice-and-bob-playing-flower-game python medium
+1182-shortest-distance-to-target-color python medium
