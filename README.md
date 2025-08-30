@@ -91,4 +91,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hogan-tech/leetcode-solution/tree/master/3279-alice-and-bob-playing-flower-game) |
+## Array
+|  |
+| ------- |
+| [1134-shortest-distance-to-target-color](https://github.com/hogan-tech/leetcode-solution/tree/master/1134-shortest-distance-to-target-color) |
+## Binary Search
+|  |
+| ------- |
+| [1134-shortest-distance-to-target-color](https://github.com/hogan-tech/leetcode-solution/tree/master/1134-shortest-distance-to-target-color) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1134-shortest-distance-to-target-color](https://github.com/hogan-tech/leetcode-solution/tree/master/1134-shortest-distance-to-target-color) |
 <!---LeetCode Topics End-->
