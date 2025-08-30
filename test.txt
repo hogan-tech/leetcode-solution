@@ -1,2 +1,2 @@
-3658-gcd-of-odd-and-even-sums python easy
-3659-partition-array-into-k-distinct-groups python medium
+3663-find-the-least-frequent-digit python easy
+3665-twisted-mirror-path-count python medium
