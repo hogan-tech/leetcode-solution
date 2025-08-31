@@ -84,23 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/hogan-tech/leetcode-solution/tree/master/0037-sudoku-solver) |
-## Hash Table
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/hogan-tech/leetcode-solution/tree/master/0037-sudoku-solver) |
-## Backtracking
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/hogan-tech/leetcode-solution/tree/master/0037-sudoku-solver) |
-## Matrix
-|  |
-| ------- |
-| [0037-sudoku-solver](https://github.com/hogan-tech/leetcode-solution/tree/master/0037-sudoku-solver) |
-<!---LeetCode Topics End-->
