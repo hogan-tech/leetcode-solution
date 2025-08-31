@@ -1,2 +1,2 @@
-3663-find-the-least-frequent-digit python easy
-3665-twisted-mirror-path-count python medium
+3668-restore-finishing-order python easy
+3669-balanced-k-factor-decomposition python medium
