@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/campus-bikes-ii/">1066. Campus Bikes II</a></h2><h3>Medium</h3><hr><div><p>On a campus represented as a 2D grid, there are <code>n</code> workers and <code>m</code> bikes, with <code>n &lt;= m</code>. Each worker and bike is a 2D coordinate on this grid.</p>
+<h2><a href="https://leetcode.com/problems/campus-bikes-ii">1067. Campus Bikes II</a></h2><h3>Medium</h3><hr><p>On a campus represented as a 2D grid, there are <code>n</code> workers and <code>m</code> bikes, with <code>n &lt;= m</code>. Each worker and bike is a 2D coordinate on this grid.</p>
 
 <p>We assign one unique bike to each worker so that the sum of the <strong>Manhattan distances</strong> between each worker and their assigned bike is minimized.</p>
 
@@ -8,16 +8,18 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/03/06/1261_example_1_v2.png" style="width: 376px; height: 366px;">
-<pre><strong>Input:</strong> workers = [[0,0],[2,1]], bikes = [[1,2],[3,3]]
+<img alt="" src="https://assets.leetcode.com/uploads/2019/03/06/1261_example_1_v2.png" style="width: 376px; height: 366px;" />
+<pre>
+<strong>Input:</strong> workers = [[0,0],[2,1]], bikes = [[1,2],[3,3]]
 <strong>Output:</strong> 6
 <strong>Explanation:</strong> 
 We assign bike 0 to worker 0, bike 1 to worker 1. The Manhattan distance of both assignments is 3, so the output is 6.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/03/06/1261_example_2_v2.png" style="width: 376px; height: 366px;">
-<pre><strong>Input:</strong> workers = [[0,0],[1,1],[2,0]], bikes = [[1,0],[2,2],[2,1]]
+<img alt="" src="https://assets.leetcode.com/uploads/2019/03/06/1261_example_2_v2.png" style="width: 376px; height: 366px;" />
+<pre>
+<strong>Input:</strong> workers = [[0,0],[1,1],[2,0]], bikes = [[1,0],[2,2],[2,1]]
 <strong>Output:</strong> 4
 <strong>Explanation: </strong>
 We first assign bike 0 to worker 0, then assign bike 1 to worker 1 or worker 2, bike 2 to worker 2 or worker 1. Both assignments lead to sum of the Manhattan distances as 4.
@@ -25,7 +27,8 @@ We first assign bike 0 to worker 0, then assign bike 1 to worker 1 or worker 2, 
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> workers = [[0,0],[1,0],[2,0],[3,0],[4,0]], bikes = [[0,999],[1,999],[2,999],[3,999],[4,999]]
+<pre>
+<strong>Input:</strong> workers = [[0,0],[1,0],[2,0],[3,0],[4,0]], bikes = [[0,999],[1,999],[2,999],[3,999],[4,999]]
 <strong>Output:</strong> 4995
 </pre>
 
@@ -41,4 +44,3 @@ We first assign bike 0 to worker 0, then assign bike 1 to worker 1 or worker 2, 
 	<li><code>0 &lt;= workers[i][0], workers[i][1], bikes[i][0], bikes[i][1] &lt; 1000</code></li>
 	<li>All the workers and the bikes locations are <strong>unique</strong>.</li>
 </ul>
-</div>

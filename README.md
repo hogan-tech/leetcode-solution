@@ -84,36 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1067-campus-bikes-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1067-campus-bikes-ii) |
-| [1917-maximum-average-pass-ratio](https://github.com/hogan-tech/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
-## Greedy
-|  |
-| ------- |
-| [1917-maximum-average-pass-ratio](https://github.com/hogan-tech/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1917-maximum-average-pass-ratio](https://github.com/hogan-tech/leetcode-solution/tree/master/1917-maximum-average-pass-ratio) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1067-campus-bikes-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1067-campus-bikes-ii) |
-## Backtracking
-|  |
-| ------- |
-| [1067-campus-bikes-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1067-campus-bikes-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1067-campus-bikes-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1067-campus-bikes-ii) |
-## Bitmask
-|  |
-| ------- |
-| [1067-campus-bikes-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/1067-campus-bikes-ii) |
-<!---LeetCode Topics End-->
