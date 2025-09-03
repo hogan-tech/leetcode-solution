@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hogan-tech/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
@@ -123,17 +124,21 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Math
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
