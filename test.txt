@@ -1,2 +1,2 @@
-3668-restore-finishing-order python easy
-3669-balanced-k-factor-decomposition python medium
+3025-find-the-number-of-ways-to-place-people-i python medium
+3027-find-the-number-of-ways-to-place-people-ii python hard
