@@ -84,39 +84,3 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0948-sort-an-array) |
-<!---LeetCode Topics End-->
