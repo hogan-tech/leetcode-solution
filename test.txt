@@ -1,2 +1,1 @@
-3025-find-the-number-of-ways-to-place-people-i python medium
-3027-find-the-number-of-ways-to-place-people-ii python hard
+0460-lfu-cache python hard
