@@ -1,1 +1,1 @@
-0460-lfu-cache python hard
+2749-minimum-operations-to-make-the-integer-zero python hard
