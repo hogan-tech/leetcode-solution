@@ -103,4 +103,16 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
