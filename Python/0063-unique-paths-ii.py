@@ -22,17 +22,20 @@ class Solution:
 # space complexity: O(m*n)
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
-        ROW = len(obstacleGrid)
-        COL = len(obstacleGrid[0])
+        ROW, COL = len(obstacleGrid), len(obstacleGrid[0])
         dp = [[0 for _ in range(COL)] for _ in range(ROW)]
-        dp[0][0] = 0 if obstacleGrid[0][0] else 1
-        for r in range(1, ROW):
-            dp[r][0] = 0 if obstacleGrid[r][0] else dp[r - 1][0]
-        for c in range(1, COL):
-            dp[0][c] = 0 if obstacleGrid[0][c] else dp[0][c - 1]
-        for r in range(1, ROW):
-            for c in range(1, COL):
-                dp[r][c] = 0 if obstacleGrid[r][c] else dp[r - 1][c] + dp[r][c - 1]
+        if obstacleGrid[0][0]:
+            return 0
+        dp[0][0] = 1
+        for r in range(ROW):
+            for c in range(COL):
+                if obstacleGrid[r][c]:
+                    dp[r][c] = 0
+                else:
+                    if r > 0:
+                        dp[r][c] += dp[r - 1][c]
+                    if c > 0:
+                        dp[r][c] += dp[r][c - 1]
         return dp[ROW - 1][COL - 1]
 
 
