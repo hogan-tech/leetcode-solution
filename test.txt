@@ -1,1 +1,2 @@
 0702-search-in-a-sorted-array-of-unknown-size python medium
+3495-minimum-operations-to-make-array-elements-zero python hard
