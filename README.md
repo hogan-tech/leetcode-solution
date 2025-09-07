@@ -86,6 +86,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
@@ -95,4 +96,8 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
