@@ -1,29 +1,25 @@
 # time complexity: O(nlogn)
 # space complexity: O(1)
 from math import ceil
+import math
 from typing import List
 
 
 class Solution:
     def smallestDivisor(self, nums: List[int], threshold: int) -> int:
-        def findDivisionSum(divisor: int) -> int:
-            count = 0
-            for num in nums:
-                count += ceil((1.0 * num) / divisor)
-            return count
-        
-        result = -1
         left = 1
         right = max(nums)
+
         while left <= right:
-            mid = (left + right) // 2
-            if findDivisionSum(mid) <= threshold:
-                result = mid
-                right = mid - 1
-            else:
+            mid = (right + left) // 2
+            count = 0
+            for num in nums:
+                count += math.ceil(num / mid)
+            if threshold < count:
                 left = mid + 1
-        
-        return result
+            else:
+                right = mid - 1
+        return left
 
 
 '''
