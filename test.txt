@@ -1,1 +1,3 @@
-1304-find-n-unique-integers-sum-up-to-zero python easy
+3674-minimum-operations-to-equalize-array python easy
+3675-minimum-operations-to-transform-string python medium
+3676-count-bowl-subarrays python medium
