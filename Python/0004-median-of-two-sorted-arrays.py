@@ -14,10 +14,8 @@ class Solution:
             if bStart > bEnd:
                 return nums1[targetIdx - bStart]
 
-            aMid = (aStart + aEnd) // 2
-            bMid = (bStart + bEnd) // 2
-            aVal = nums1[aMid]
-            bVal = nums2[bMid]
+            aMid, bMid = (aStart + aEnd) // 2, (bStart + bEnd) // 2
+            aVal, bVal = nums1[aMid], nums2[bMid]
 
             if aMid + bMid < targetIdx:
                 if aVal > bVal:
@@ -33,8 +31,7 @@ class Solution:
         if n % 2:
             return binaryCut(n // 2, 0, n1 - 1, 0, n2 - 1)
         else:
-            return (binaryCut(n // 2 - 1, 0, n1 - 1, 0, n2 - 1) + binaryCut(n // 2, 0, n1 - 1, 0, n2 - 1)) // 2
-
+            return (binaryCut(n // 2 - 1, 0, n1 - 1, 0, n2 - 1) + binaryCut(n // 2, 0, n1 - 1, 0, n2 - 1)) / 2
 
 # time complexity: O(n)
 # space complexity: O(1)
