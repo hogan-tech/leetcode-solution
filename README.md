@@ -88,11 +88,13 @@ We welcome contributions! If you have a solution to a problem that isn't already
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/hogan-tech/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/hogan-tech/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/hogan-tech/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/hogan-tech/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
