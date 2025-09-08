@@ -91,4 +91,8 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 <!---LeetCode Topics End-->
