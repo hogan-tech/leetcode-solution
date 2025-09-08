@@ -80,19 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-## Math
-|  |
-| ------- |
-| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hogan-tech/leetcode-solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
-<!---LeetCode Topics End-->
