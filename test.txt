@@ -1,3 +1,1 @@
-3674-minimum-operations-to-equalize-array python easy
-3675-minimum-operations-to-transform-string python medium
-3676-count-bowl-subarrays python medium
+1317-convert-integer-to-the-sum-of-two-no-zero-integers python easy
