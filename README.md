@@ -80,27 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
-## Hash Table
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
-## Two Pointers
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
-## Binary Search
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
-## Sorting
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
-<!---LeetCode Topics End-->
