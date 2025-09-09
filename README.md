@@ -80,39 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-## Hash Table
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-## Sorting
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2408-number-of-people-aware-of-a-secret](https://github.com/hogan-tech/leetcode-solution/tree/master/2408-number-of-people-aware-of-a-secret) |
-## Queue
-|  |
-| ------- |
-| [2408-number-of-people-aware-of-a-secret](https://github.com/hogan-tech/leetcode-solution/tree/master/2408-number-of-people-aware-of-a-secret) |
-## Simulation
-|  |
-| ------- |
-| [2408-number-of-people-aware-of-a-secret](https://github.com/hogan-tech/leetcode-solution/tree/master/2408-number-of-people-aware-of-a-secret) |
-<!---LeetCode Topics End-->
