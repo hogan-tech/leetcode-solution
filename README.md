@@ -103,4 +103,16 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/hogan-tech/leetcode-solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/hogan-tech/leetcode-solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/hogan-tech/leetcode-solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
