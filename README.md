@@ -86,6 +86,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0252-meeting-rooms](https://github.com/hogan-tech/leetcode-solution/tree/master/0252-meeting-rooms) |
 | [0875-longest-mountain-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0875-longest-mountain-in-array) |
 ## Two Pointers
 |  |
@@ -99,4 +100,8 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0875-longest-mountain-in-array) |
+## Sorting
+|  |
+| ------- |
+| [0252-meeting-rooms](https://github.com/hogan-tech/leetcode-solution/tree/master/0252-meeting-rooms) |
 <!---LeetCode Topics End-->
