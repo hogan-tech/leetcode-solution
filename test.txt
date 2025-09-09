@@ -1,1 +1,2 @@
 1317-convert-integer-to-the-sum-of-two-no-zero-integers python easy
+2327-number-of-people-aware-of-a-secret python medium
