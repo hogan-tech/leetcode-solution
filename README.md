@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/hogan-tech/leetcode-solution/tree/master/1028-interval-list-intersections) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/hogan-tech/leetcode-solution/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +96,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/hogan-tech/leetcode-solution/tree/master/1028-interval-list-intersections) |
+## Hash Table
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/hogan-tech/leetcode-solution/tree/master/1834-minimum-number-of-people-to-teach) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/hogan-tech/leetcode-solution/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
