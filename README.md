@@ -91,6 +91,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hogan-tech/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 ## Sorting
 |  |
 | ------- |
@@ -103,4 +104,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hogan-tech/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
