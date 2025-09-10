@@ -1,5 +1,6 @@
 # time complexity: O(n)
 # space complexity: O(n)
+from collections import deque
 from typing import List, Optional
 
 
@@ -27,6 +28,32 @@ class Solution:
 
         bfs(root, 0)
         return result
+
+# time complexity: O(n)
+# space complexity: O(n)
+class Solution:
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+        levels = []
+        if not root:
+            return levels
+
+        level = 0
+        queue = deque([root])
+        while queue:
+            levels.append([])
+            levelLen = len(queue)
+
+            for _ in range(levelLen):
+                node = queue.popleft()
+                levels[level].append(node.val)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+
+            level += 1
+
+        return levels
 
 
 root = TreeNode(3)
