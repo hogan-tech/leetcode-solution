@@ -1,1 +1,1 @@
-1733-minimum-number-of-people-to-teach python medium
+0528-random-pick-with-weight python medium
