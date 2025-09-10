@@ -80,37 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
-| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
-## Queue
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
-## Sliding Window
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
-| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
-## Monotonic Queue
-|  |
-| ------- |
-| [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
-## Binary Search
-|  |
-| ------- |
-| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
-## Prefix Sum
-|  |
-| ------- |
-| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
-<!---LeetCode Topics End-->
