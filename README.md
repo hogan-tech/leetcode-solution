@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/hogan-tech/leetcode-solution/tree/master/0912-random-pick-with-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,17 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/hogan-tech/leetcode-solution/tree/master/0912-random-pick-with-weight) |
+## Math
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/hogan-tech/leetcode-solution/tree/master/0912-random-pick-with-weight) |
+## Binary Search
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/hogan-tech/leetcode-solution/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/hogan-tech/leetcode-solution/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
