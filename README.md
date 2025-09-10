@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Queue
 |  |
 | ------- |
@@ -95,6 +96,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,4 +105,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hogan-tech/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/hogan-tech/leetcode-solution/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
