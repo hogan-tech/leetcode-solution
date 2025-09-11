@@ -80,34 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0018-4sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0018-4sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0018-4sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0018-4sum) |
-## Sorting
-|  |
-| ------- |
-| [0018-4sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0018-4sum) |
-## Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
-## Binary Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
-<!---LeetCode Topics End-->
