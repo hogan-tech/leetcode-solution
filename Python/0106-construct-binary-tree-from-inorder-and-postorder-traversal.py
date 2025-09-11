@@ -3,26 +3,24 @@
 from typing import List, Optional
 
 
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-
 
 class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        def helper(inLeft: int, inRight: int) -> TreeNode:
-            if inLeft > inRight:
+        def traverse(left, right):
+            nonlocal postorderIdx
+            if left > right:
                 return None
-            val = postorder.pop()
-            root = TreeNode(val)
-            index = idxMap[val]
-            root.right = helper(index + 1, inRight)
-            root.left = helper(inLeft, index - 1)
+            rootVal = postorder[postorderIdx]
+            root = TreeNode(rootVal)
+            postorderIdx -= 1
+            root.right = traverse(inorderMap[rootVal] + 1, right)
+            root.left = traverse(left, inorderMap[rootVal] - 1)
             return root
-        idxMap = {val: idx for idx, val in enumerate(inorder)}
-        return helper(0, len(inorder) - 1)
+        inorderMap = {}
+        for i, val in enumerate(inorder):
+            inorderMap[val] = i
+        postorderIdx = len(postorder) - 1
+        return traverse(0, len(inorder) - 1)
 
 
 inorder = [9, 3, 15, 20, 7]
