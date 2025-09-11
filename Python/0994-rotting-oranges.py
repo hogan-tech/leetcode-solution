@@ -10,17 +10,14 @@ class Solution:
         COL = len(grid[0])
         queue = deque()
         freshCount = 0
-        for nextR in range(ROW):
-            for nextC in range(COL):
-                if grid[nextR][nextC] == 2:
-                    queue.append((nextR, nextC))
-                if grid[nextR][nextC] == 1:
+        for r in range(ROW):
+            for c in range(COL):
+                if grid[r][c] == 2:
+                    queue.append((r, c))
+                if grid[r][c] == 1:
                     freshCount += 1
-                    
         if freshCount == 0:
             return 0
-        
-        
         minutes = -1
         while queue:
             size = len(queue)
@@ -35,12 +32,14 @@ class Solution:
                         freshCount -= 1
                         queue.append((nextR, nextC))
             minutes += 1
-        
         if freshCount == 0:
             return minutes
-        
         return -1
 
 
 grid = [[2, 1, 1], [1, 1, 0], [0, 1, 1]]
+print(Solution().orangesRotting(grid))
+grid = [[2, 1, 1], [0, 1, 1], [1, 0, 1]]
+print(Solution().orangesRotting(grid))
+grid = [[0, 2]]
 print(Solution().orangesRotting(grid))
