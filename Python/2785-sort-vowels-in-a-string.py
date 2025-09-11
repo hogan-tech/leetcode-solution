@@ -1,3 +1,5 @@
+# time complexity: O(nlogn)
+# space complexity: O(n)
 from collections import defaultdict
 
 
@@ -12,20 +14,22 @@ class Solution:
         if not vowelMap:
             return s
         sortedVowels = sorted(vowelMap.keys(), key=lambda x: ord(x))
-        l = 0
-        ans = ""
+        vowelIdx = 0
+        result = ""
         for char in s:
             if char not in vowels:
-                ans += char
+                result += char
             else:
-                vowelMap[sortedVowels[l]] -= 1
-                ans += sortedVowels[l]
-                if vowelMap[sortedVowels[l]] == 0:
-                    del vowelMap[sortedVowels[l]]
-                    l += 1
+                vowelMap[sortedVowels[vowelIdx]] -= 1
+                result += sortedVowels[vowelIdx]
+                if vowelMap[sortedVowels[vowelIdx]] == 0:
+                    del vowelMap[sortedVowels[vowelIdx]]
+                    vowelIdx += 1
 
-        return ans
+        return result
 
 
 s = "lEetcOde"
+print(Solution().sortVowels(s))
+s = "lYmpH"
 print(Solution().sortVowels(s))

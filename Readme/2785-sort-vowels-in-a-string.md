@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sort-vowels-in-a-string/">2785. Sort Vowels in a String</a></h2><h3>Medium</h3><hr><div><p>Given a <strong>0-indexed</strong> string <code>s</code>, <strong>permute</strong> <code>s</code> to get a new string <code>t</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/sort-vowels-in-a-string">2887. Sort Vowels in a String</a></h2><h3>Medium</h3><hr><p>Given a <strong>0-indexed</strong> string <code>s</code>, <strong>permute</strong> <code>s</code> to get a new string <code>t</code> such that:</p>
 
 <ul>
 	<li>All consonants remain in their original places. More formally, if there is an index <code>i</code> with <code>0 &lt;= i &lt; s.length</code> such that <code>s[i]</code> is a consonant, then <code>t[i] = s[i]</code>.</li>
@@ -7,21 +7,23 @@
 
 <p>Return <em>the resulting string</em>.</p>
 
-<p>The vowels are <code>'a'</code>, <code>'e'</code>, <code>'i'</code>, <code>'o'</code>, and <code>'u'</code>, and they can appear in lowercase or uppercase. Consonants comprise all letters that are not vowels.</p>
+<p>The vowels are <code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>, and they can appear in lowercase or uppercase. Consonants comprise all letters that are not vowels.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "lEetcOde"
-<strong>Output:</strong> "lEOtcede"
-<strong>Explanation:</strong> 'E', 'O', and 'e' are the vowels in s; 'l', 't', 'c', and 'd' are all consonants. The vowels are sorted according to their ASCII values, and the consonants remain in the same places.
+<pre>
+<strong>Input:</strong> s = &quot;lEetcOde&quot;
+<strong>Output:</strong> &quot;lEOtcede&quot;
+<strong>Explanation:</strong> &#39;E&#39;, &#39;O&#39;, and &#39;e&#39; are the vowels in s; &#39;l&#39;, &#39;t&#39;, &#39;c&#39;, and &#39;d&#39; are all consonants. The vowels are sorted according to their ASCII values, and the consonants remain in the same places.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "lYmpH"
-<strong>Output:</strong> "lYmpH"
-<strong>Explanation:</strong> There are no vowels in s (all characters in s are consonants), so we return "lYmpH".
+<pre>
+<strong>Input:</strong> s = &quot;lYmpH&quot;
+<strong>Output:</strong> &quot;lYmpH&quot;
+<strong>Explanation:</strong> There are no vowels in s (all characters in s are consonants), so we return &quot;lYmpH&quot;.
 </pre>
 
 <p>&nbsp;</p>
@@ -31,4 +33,3 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists only of letters of the&nbsp;English alphabet&nbsp;in <strong>uppercase and lowercase</strong>.</li>
 </ul>
-</div>
