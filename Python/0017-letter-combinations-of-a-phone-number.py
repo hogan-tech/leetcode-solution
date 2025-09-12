@@ -33,4 +33,9 @@ class Solution:
         return result
 
 
-print(Solution().letterCombinations("2345"))
+digits = "23"
+print(Solution().letterCombinations(digits))
+digits = ""
+print(Solution().letterCombinations(digits))
+digits = "2"
+print(Solution().letterCombinations(digits))
