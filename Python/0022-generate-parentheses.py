@@ -19,4 +19,7 @@ class Solution:
         return result
 
 
-print(Solution().generateParenthesis(3))
+n = 3
+print(Solution().generateParenthesis(n))
+n = 1
+print(Solution().generateParenthesis(n))
