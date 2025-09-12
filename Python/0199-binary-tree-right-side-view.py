@@ -32,16 +32,16 @@ class Solution:
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         result = []
-        if root is None:
+        if not root:
             return result
-        def dfs(node: Optional[TreeNode], level: int, rside: List[int]):
-            if level == len(rside):
-                rside.append(node.val)
+        def traverse(node, level):
+            if len(result) == level:
+                result.append(node.val)
             if node.right:
-                dfs(node.right, level + 1, rside)
+                traverse(node.right, level + 1)
             if node.left:
-                dfs(node.left, level + 1, rside)
-        dfs(root, 0, result)
+                traverse(node.left, level + 1)
+        traverse(root, 0)
         return result
 
 

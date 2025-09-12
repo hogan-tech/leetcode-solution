@@ -80,23 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0199-binary-tree-right-side-view](https://github.com/hogan-tech/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-## Depth-First Search
-|  |
-| ------- |
-| [0199-binary-tree-right-side-view](https://github.com/hogan-tech/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0199-binary-tree-right-side-view](https://github.com/hogan-tech/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-## Binary Tree
-|  |
-| ------- |
-| [0199-binary-tree-right-side-view](https://github.com/hogan-tech/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-<!---LeetCode Topics End-->
