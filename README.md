@@ -87,4 +87,13 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0254-factor-combinations](https://github.com/hogan-tech/leetcode-solution/tree/master/0254-factor-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/hogan-tech/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+## String
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/hogan-tech/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/hogan-tech/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
