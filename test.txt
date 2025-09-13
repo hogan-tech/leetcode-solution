@@ -1,2 +1,3 @@
-0491-non-decreasing-subsequences python medium
-1192-critical-connections-in-a-network python hard
+3678-smallest-absent-positive-greater-than-average python easy
+3679-minimum-discards-to-balance-inventory python medium
+3681-maximum-xor-of-subsequences python hard
