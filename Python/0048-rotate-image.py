@@ -27,6 +27,21 @@ class Solution:
                 matrix[r][c], matrix[n-1-c][r] = matrix[n-1-c][r], matrix[r][c]
         return matrix
 
+# time complexity: O(n^2)
+# space complexity: O(1)
+class Solution:
+    def rotate(self, matrix: List[List[int]]) -> None:
+        ROW = len(matrix)
+        COL = len(matrix[0])
+        for r in range(ROW):
+            for c in range(r + 1, COL):
+                matrix[r][c], matrix[c][r] = matrix[c][r], matrix[r][c]
+
+        for r in range(ROW):
+            for c in range(COL // 2):
+                matrix[r][c], matrix[r][-c -1] = matrix[r][-c - 1], matrix[r][c]
+
+
 
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(Solution().rotate(matrix))
