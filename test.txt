@@ -1,1 +1,2 @@
 0491-non-decreasing-subsequences python medium
+1192-critical-connections-in-a-network python hard
