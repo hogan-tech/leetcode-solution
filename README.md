@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/hogan-tech/leetcode-solution/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,9 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/hogan-tech/leetcode-solution/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/hogan-tech/leetcode-solution/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
