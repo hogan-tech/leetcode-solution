@@ -11,17 +11,26 @@ class ListNode:
 
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        sentinel = ListNode(0, head)
-        pred = sentinel
-        while head:
-            if head.next and head.val == head.next.val:
-                while head.next and head.val == head.next.val:
-                    head = head.next
-                pred.next = head.next
+        dummy = ListNode(-1)
+        dummy.next = head
+        curr, prev = head, dummy
+        while curr:
+            while curr.next and curr.val == curr.next.val:
+                curr = curr.next
+            if prev.next == curr:
+                prev = prev.next
+                curr = curr.next
             else:
-                pred = pred.next
-            head = head.next
-        return sentinel.next
+                prev.next = curr.next
+                curr = prev.next
+        return dummy.next
+
+
+def traverse(node: Optional[ListNode]):
+    if node is None:
+        return
+    print(node.val)
+    traverse(node.next)
 
 
 head = ListNode(1)
@@ -31,4 +40,4 @@ head.next.next.next = ListNode(3)
 head.next.next.next.next = ListNode(4)
 head.next.next.next.next.next = ListNode(4)
 head.next.next.next.next.next.next = ListNode(5)
-print(Solution().deleteDuplicates(head))
+traverse(Solution().deleteDuplicates(head))
