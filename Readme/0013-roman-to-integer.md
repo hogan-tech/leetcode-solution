@@ -1,6 +1,7 @@
-<h2><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></h2><h3>Easy</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
+<h2><a href="https://leetcode.com/problems/roman-to-integer">13. Roman to Integer</a></h2><h3>Easy</h3><hr><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
-<pre><strong>Symbol</strong>       <strong>Value</strong>
+<pre>
+<strong>Symbol</strong>       <strong>Value</strong>
 I             1
 V             5
 X             10
@@ -24,21 +25,24 @@ M             1000</pre>
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "III"
+<pre>
+<strong>Input:</strong> s = &quot;III&quot;
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> III = 3.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "LVIII"
+<pre>
+<strong>Input:</strong> s = &quot;LVIII&quot;
 <strong>Output:</strong> 58
 <strong>Explanation:</strong> L = 50, V= 5, III = 3.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> s = "MCMXCIV"
+<pre>
+<strong>Input:</strong> s = &quot;MCMXCIV&quot;
 <strong>Output:</strong> 1994
 <strong>Explanation:</strong> M = 1000, CM = 900, XC = 90 and IV = 4.
 </pre>
@@ -48,7 +52,6 @@ M             1000</pre>
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 15</code></li>
-	<li><code>s</code> contains only&nbsp;the characters <code>('I', 'V', 'X', 'L', 'C', 'D', 'M')</code>.</li>
+	<li><code>s</code> contains only&nbsp;the characters <code>(&#39;I&#39;, &#39;V&#39;, &#39;X&#39;, &#39;L&#39;, &#39;C&#39;, &#39;D&#39;, &#39;M&#39;)</code>.</li>
 	<li>It is <strong>guaranteed</strong>&nbsp;that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.</li>
 </ul>
-</div>
