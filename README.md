@@ -124,4 +124,5 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
