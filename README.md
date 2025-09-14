@@ -101,4 +101,8 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/hogan-tech/leetcode-solution/tree/master/0289-game-of-life) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/hogan-tech/leetcode-solution/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
