@@ -80,3 +80,19 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1006-vowel-spellchecker](https://github.com/hogan-tech/leetcode-solution/tree/master/1006-vowel-spellchecker) |
+## Hash Table
+|  |
+| ------- |
+| [1006-vowel-spellchecker](https://github.com/hogan-tech/leetcode-solution/tree/master/1006-vowel-spellchecker) |
+## String
+|  |
+| ------- |
+| [1006-vowel-spellchecker](https://github.com/hogan-tech/leetcode-solution/tree/master/1006-vowel-spellchecker) |
+<!---LeetCode Topics End-->
