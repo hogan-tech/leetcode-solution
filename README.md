@@ -80,15 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0086-partition-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0086-partition-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0086-partition-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0086-partition-list) |
-<!---LeetCode Topics End-->
