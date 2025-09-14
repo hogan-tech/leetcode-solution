@@ -86,6 +86,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/hogan-tech/leetcode-solution/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/hogan-tech/leetcode-solution/tree/master/0289-game-of-life) |
 ## Hash Table
@@ -101,12 +102,14 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/hogan-tech/leetcode-solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hogan-tech/leetcode-solution/tree/master/0289-game-of-life) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/hogan-tech/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0068-text-justification](https://github.com/hogan-tech/leetcode-solution/tree/master/0068-text-justification) |
 ## Math
 |  |
 | ------- |
