@@ -4,20 +4,26 @@ class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1:
             return s
-        rows = [""] * numRows
+        rows = ["" for _ in range(numRows)]
         backward = True
-        index = 0
-        for char in s:
-            rows[index] += char
-            if index == 0 or index == numRows - 1:
+        i = 0
+        for c in s:
+            rows[i] += c
+            if i == 0 or i == numRows - 1:
                 backward = not backward
             if backward:
-                index -= 1
+                i -= 1
             else:
-                index += 1
+                i += 1
         return "".join(rows)
 
 
 s = "PAYPALISHIRING"
 numRows = 3
+print(Solution().convert(s, numRows))
+s = "PAYPALISHIRING"
+numRows = 4
+print(Solution().convert(s, numRows))
+s = "A"
+numRows = 1
 print(Solution().convert(s, numRows))
