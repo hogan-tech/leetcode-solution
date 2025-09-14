@@ -118,5 +118,10 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0443-string-compression](https://github.com/hogan-tech/leetcode-solution/tree/master/0443-string-compression) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
