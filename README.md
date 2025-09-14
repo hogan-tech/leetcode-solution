@@ -91,6 +91,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -105,4 +106,9 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/hogan-tech/leetcode-solution/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
