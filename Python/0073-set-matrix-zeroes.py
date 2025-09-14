@@ -19,32 +19,43 @@ class Solution:
 
 # time complexity: O(r*c)
 # space complexity: O(1)
-class Solution(object):
-    def setZeroes(self, grid: List[List[int]]) -> None:
-        isCol = False
-        ROW = len(grid)
-        COL = len(grid[0])
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
+        ROW = len(matrix)
+        COL = len(matrix[0])
+        firstRowZero = False        
+        firstColZero = False
+        for c in range(COL):
+            if matrix[0][c] == 0:
+                firstRowZero = True
+                break
         for r in range(ROW):
-            if grid[r][0] == 0:
-                isCol = True
-            for c in range(1, COL):
-                if grid[r][c] == 0:
-                    grid[0][c] = 0
-                    grid[r][0] = 0
-
+            if matrix[r][0] == 0:
+                firstColZero = True
+                break
         for r in range(1, ROW):
             for c in range(1, COL):
-                if not grid[r][0] or not grid[0][c]:
-                    grid[r][c] = 0
-
-        if grid[0][0] == 0:
+                if matrix[r][c] == 0:
+                    matrix[r][0] = 0
+                    matrix[0][c] = 0
+        for r in range(1, ROW):
+            if matrix[r][0] == 0:
+                for c in range(1, COL):
+                    matrix[r][c] = 0
+        for c in range(1, COL):
+            if matrix[0][c] == 0:
+                for r in range(1, ROW):
+                    matrix[r][c] = 0
+        if firstRowZero:
             for c in range(COL):
-                grid[0][c] = 0
-
-        if isCol:
+                matrix[0][c] = 0
+        if firstColZero:
             for r in range(ROW):
-                grid[r][0] = 0
+                matrix[r][0] = 0
+        return matrix
 
 
+matrix = [[1, 1, 1], [1, 0, 1], [1, 1, 1]]
+print(Solution().setZeroes(matrix))
 matrix = [[0, 1, 2, 0], [3, 4, 5, 2], [1, 3, 1, 5]]
 print(Solution().setZeroes(matrix))
