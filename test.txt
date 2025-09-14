@@ -1,3 +1,1 @@
-3678-smallest-absent-positive-greater-than-average python easy
-3679-minimum-discards-to-balance-inventory python medium
-3681-maximum-xor-of-subsequences python hard
+0966-vowel-spellchecker python medium
