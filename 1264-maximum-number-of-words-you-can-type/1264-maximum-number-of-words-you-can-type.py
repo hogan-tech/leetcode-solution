@@ -1,3 +1,5 @@
+# time complexity: O(n^2)
+# space complexity: O(n)
 class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
         brokenLetterSet = set([c for c in brokenLetters])
