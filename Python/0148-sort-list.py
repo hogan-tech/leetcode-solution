@@ -1,4 +1,5 @@
-# Definition for singly-linked list.
+# time complexity: O(nlogn)
+# space complexity: O(logn)
 from typing import Optional
 
 
@@ -10,19 +11,36 @@ class ListNode:
 
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        array = []
-        while head:
-            array.append(head.val)
-            head = head.next
-        array.sort()
-        if not array:
-            return
-        root = ListNode(array[0])
-        current = root
-        for i in range(1,len(array)):
-            current.next = ListNode(array[i])
-            current = current.next
-        return root
+        if not head or not head.next:
+            return head
+        mid = self.getMid(head)
+        left = self.sortList(head)
+        right = self.sortList(mid)
+        return self.merge(left, right)
+
+    def merge(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        dummy = ListNode(0)
+        curr = dummy
+        while list1 and list2:
+            if list1.val < list2.val:
+                curr.next = list1
+                list1 = list1.next
+            else:
+                curr.next = list2
+                list2 = list2.next
+            curr = curr.next
+        curr.next = list1 if list1 else list2
+        return dummy.next
+
+    def getMid(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        slow = None
+        fast = head
+        while fast and fast.next:
+            slow = fast if not slow else slow.next
+            fast = fast.next.next
+        mid = slow.next
+        slow.next = None
+        return mid
 
 
 def printLinkedList(head):
@@ -37,6 +55,4 @@ root = ListNode(4)
 root.next = ListNode(2)
 root.next.next = ListNode(1)
 root.next.next.next = ListNode(3)
-
-
 printLinkedList(Solution().sortList(root))
