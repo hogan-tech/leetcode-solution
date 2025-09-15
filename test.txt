@@ -1,1 +1,2 @@
-0966-vowel-spellchecker python medium
+1150-check-if-a-number-is-majority-element-in-a-sorted-array python easy
+1935-maximum-number-of-words-you-can-type python easy

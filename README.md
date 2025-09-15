@@ -80,23 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1264-maximum-number-of-words-you-can-type](https://github.com/hogan-tech/leetcode-solution/tree/master/1264-maximum-number-of-words-you-can-type) |
-## String
-|  |
-| ------- |
-| [1264-maximum-number-of-words-you-can-type](https://github.com/hogan-tech/leetcode-solution/tree/master/1264-maximum-number-of-words-you-can-type) |
-## Array
-|  |
-| ------- |
-| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
-## Binary Search
-|  |
-| ------- |
-| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
-<!---LeetCode Topics End-->
