@@ -91,4 +91,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hogan-tech/leetcode-solution/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Array
+|  |
+| ------- |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
