@@ -1,34 +1,38 @@
 # time complexity: O(n)
 # space complexity: O(n)
-class Solution:
+import math
 
+
+class Solution:
     def calculate(self, s: str) -> int:
-        if len(s) == 0:
-            return 0
+        num = 0
+        prevOperation = '+'
+        s += '+'
         stack = []
-        currNum = 0
-        operation = "+"
-        for i in range(len(s)):
-            c = s[i]
+        for c in s:
             if c.isdigit():
-                currNum = currNum * 10 + int(c)
-            if (not c.isdigit() and not s[i].isspace()) or i == len(s) - 1:
-                if operation == "-":
-                    stack.append(-currNum)
-                elif operation == "*":
-                    stack.append(stack.pop() * currNum)
-                elif operation == "+":
-                    stack.append(currNum)
-                else:
-                    tmp = stack.pop()
-                    if tmp // currNum < 0 and tmp % currNum != 0:
-                        stack.append(tmp // currNum + 1)
-                    else:
-                        stack.append(tmp // currNum)
-                operation = s[i]
-                currNum = 0
+                num = num*10 + int(c)
+            elif c == ' ':
+                pass
+            else:
+                if prevOperation == '+':
+                    stack.append(num)
+                elif prevOperation == '-':
+                    stack.append(-num)
+                elif prevOperation == '*':
+                    operant = stack.pop()
+                    stack.append((operant*num))
+                elif prevOperation == '/':
+                    operant = stack.pop()
+                    stack.append(math.trunc(operant/num))
+                num = 0
+                prevOperation = c
         return sum(stack)
 
 
 s = "3+2*2"
+print(Solution().calculate(s))
+s = " 3/2 "
+print(Solution().calculate(s))
+s = " 3+5 / 2 "
 print(Solution().calculate(s))
