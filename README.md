@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,16 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
+## Math
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
