@@ -100,6 +100,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
 ## Design
@@ -145,4 +146,5 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0516-longest-palindromic-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
