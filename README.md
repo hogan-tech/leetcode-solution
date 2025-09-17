@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
 | [0305-number-of-islands-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0305-number-of-islands-ii) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
@@ -140,4 +141,8 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
