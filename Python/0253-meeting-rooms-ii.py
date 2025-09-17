@@ -1,6 +1,6 @@
 # time complexity: O(nlogn)
 # space complexity: O(n)
-import heapq
+from heapq import heappop, heappush
 from typing import List
 
 
@@ -8,15 +8,15 @@ class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         if not intervals:
             return 0
-        freeRooms = []
+        minHp = []
         intervals.sort()
-        heapq.heappush(freeRooms, intervals[0][1])
-        for interval in intervals[1:]:
-            if freeRooms[0] <= interval[0]:
-                heapq.heappop(freeRooms)
-            heapq.heappush(freeRooms, interval[1])
+        heappush(minHp, intervals[0][1])
+        for start, end in intervals[1:]:
+            if minHp[0] <= start:
+                heappop(minHp)
+            heappush(minHp, end)
 
-        return len(freeRooms)
+        return len(minHp)
 
 
 intervals = [[7, 10], [2, 4]]
