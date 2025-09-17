@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
 | [0305-number-of-islands-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0305-number-of-islands-ii) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
 ## Hash Table
@@ -105,6 +106,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -114,4 +116,20 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0305-number-of-islands-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0305-number-of-islands-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
+## Greedy
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
+## Sorting
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
