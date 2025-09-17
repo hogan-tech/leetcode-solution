@@ -94,14 +94,17 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0305-number-of-islands-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0305-number-of-islands-ii) |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
 ## Design
 |  |
 | ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
@@ -128,8 +131,13 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
+## Trie
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 <!---LeetCode Topics End-->
