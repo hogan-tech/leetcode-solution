@@ -1,3 +1,11 @@
+# time complexity:
+# ls: O(D + K log K)
+# mkdir: O(D)
+# addContentToFile: O(D + L)
+# readContentFromFile: O(D + L)
+# space complexity: O(N + T)
+# N = number of directories/files
+# T = total length of all file contents
 from typing import List
 
 
@@ -11,47 +19,47 @@ class FileSystem:
         self.root = self.Dir()
 
     def ls(self, path: str) -> List[str]:
-        t = self.root
+        root = self.root
         files = []
         if path != "/":
             d = path.split("/")
             for i in range(1, len(d) - 1):
-                t = t.dirs[d[i]]
-            if d[-1] in t.files:
+                root = root.dirs[d[i]]
+            if d[-1] in root.files:
                 files.append(d[-1])
                 return files
             else:
-                t = t.dirs[d[-1]]
+                root = root.dirs[d[-1]]
 
-        files.extend(t.dirs.keys())
-        files.extend(t.files.keys())
+        files.extend(root.dirs.keys())
+        files.extend(root.files.keys())
         files.sort()
         return files
 
     def mkdir(self, path: str) -> None:
-        t = self.root
+        root = self.root
         d = path.split("/")
         for i in range(1, len(d)):
-            if d[i] not in t.dirs:
-                t.dirs[d[i]] = self.Dir()
-            t = t.dirs[d[i]]
+            if d[i] not in root.dirs:
+                root.dirs[d[i]] = self.Dir()
+            root = root.dirs[d[i]]
 
     def addContentToFile(self, filePath: str, content: str) -> None:
-        t = self.root
+        root = self.root
         d = filePath.split("/")
         for i in range(1, len(d) - 1):
-            t = t.dirs[d[i]]
-        if d[-1] not in t.files:
-            t.files[d[-1]] = ""
-        t.files[d[-1]] += content
+            root = root.dirs[d[i]]
+        if d[-1] not in root.files:
+            root.files[d[-1]] = ""
+        root.files[d[-1]] += content
 
     def readContentFromFile(self, filePath: str) -> str:
-        t = self.root
+        root = self.root
         d = filePath.split("/")
         for i in range(1, len(d) - 1):
-            t = t.dirs[d[i]]
+            root = root.dirs[d[i]]
 
-        return t.files[d[-1]]
+        return root.files[d[-1]]
 
 
 fileSystem = FileSystem()
