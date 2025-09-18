@@ -80,36 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0045-jump-game-ii) |
-| [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0045-jump-game-ii) |
-| [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
-## Greedy
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0045-jump-game-ii) |
-| [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
-| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
-## Hash Table
-|  |
-| ------- |
-| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
-## Two Pointers
-|  |
-| ------- |
-| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
-## String
-|  |
-| ------- |
-| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
-<!---LeetCode Topics End-->
