@@ -98,6 +98,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 | [0305-number-of-islands-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0305-number-of-islands-ii) |
 | [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hogan-tech/leetcode-solution/tree/master/3678-design-task-manager) |
 ## String
 |  |
 | ------- |
@@ -109,15 +110,18 @@ We welcome contributions! If you have a solution to a problem that isn't already
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hogan-tech/leetcode-solution/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hogan-tech/leetcode-solution/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/hogan-tech/leetcode-solution/tree/master/3678-design-task-manager) |
 ## Union Find
 |  |
 | ------- |
