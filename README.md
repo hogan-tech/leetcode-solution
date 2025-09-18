@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
 | [0305-number-of-islands-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0305-number-of-islands-ii) |
@@ -145,6 +146,11 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
