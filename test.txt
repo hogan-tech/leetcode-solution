@@ -1,1 +1,2 @@
 0132-palindrome-partitioning-ii python hard
+0087-scramble-string python hard
