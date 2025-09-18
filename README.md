@@ -90,9 +90,14 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0087-scramble-string) |
 | [0361-bomb-enemy](https://github.com/hogan-tech/leetcode-solution/tree/master/0361-bomb-enemy) |
 ## Matrix
 |  |
 | ------- |
 | [0361-bomb-enemy](https://github.com/hogan-tech/leetcode-solution/tree/master/0361-bomb-enemy) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
