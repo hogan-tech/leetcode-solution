@@ -81,3 +81,35 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+<!---LeetCode Topics End-->
