@@ -91,9 +91,31 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
 | [0715-range-module](https://github.com/hogan-tech/leetcode-solution/tree/master/0715-range-module) |
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
 | [0715-range-module](https://github.com/hogan-tech/leetcode-solution/tree/master/0715-range-module) |
+## Array
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
