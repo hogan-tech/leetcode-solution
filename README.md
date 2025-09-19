@@ -81,3 +81,27 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
+## Hash Table
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
+## String
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
+<!---LeetCode Topics End-->
