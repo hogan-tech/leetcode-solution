@@ -81,3 +81,19 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Design
+|  |
+| ------- |
+| [0715-range-module](https://github.com/hogan-tech/leetcode-solution/tree/master/0715-range-module) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/hogan-tech/leetcode-solution/tree/master/0715-range-module) |
+## Ordered Set
+|  |
+| ------- |
+| [0715-range-module](https://github.com/hogan-tech/leetcode-solution/tree/master/0715-range-module) |
+<!---LeetCode Topics End-->
