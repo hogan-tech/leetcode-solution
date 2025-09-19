@@ -87,6 +87,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0256-paint-house](https://github.com/hogan-tech/leetcode-solution/tree/master/0256-paint-house) |
 | [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -104,4 +105,8 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/hogan-tech/leetcode-solution/tree/master/3797-design-spreadsheet) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0256-paint-house](https://github.com/hogan-tech/leetcode-solution/tree/master/0256-paint-house) |
 <!---LeetCode Topics End-->
