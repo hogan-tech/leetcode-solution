@@ -5,47 +5,43 @@ from typing import List
 
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        return len(self.solveNQueens(n))
+        result = []
+        emptyBoard = [["."] * n for _ in range(n)]
 
-    def solveNQueens(self, n: int) -> List[List[str]]:
-        def createBoard(state: List[str]):
-            board = []
-            for row in state:
-                board.append("".join(row))
-            return board
-
-        def backtrack(row: int, diagonals: set, antiDiagonals: set, cols: set, state: List[str]):
-            if row == n:
-                ans.append(createBoard(state))
+        def backtrack(r: int, diagonals: set, antiDiagonals: set, cols: set, state: List[str]):
+            if r == n:
+                board = []
+                for row in state:
+                    board.append("".join(row))
+                result.append(board)
                 return
 
-            for col in range(n):
-                currDiagonal = row - col
-                currAntiDiagonal = row + col
+            for c in range(n):
+                currDiagonal = r - c
+                currAntiDiagonal = r + c
                 if (
-                    col in cols
+                    c in cols
                     or currDiagonal in diagonals
                     or currAntiDiagonal in antiDiagonals
                 ):
                     continue
-
-                cols.add(col)
+                cols.add(c)
                 diagonals.add(currDiagonal)
                 antiDiagonals.add(currAntiDiagonal)
-                state[row][col] = "Q"
+                state[r][c] = "Q"
 
-                backtrack(row + 1, diagonals, antiDiagonals, cols, state)
+                backtrack(r + 1, diagonals, antiDiagonals, cols, state)
 
-                cols.remove(col)
+                cols.remove(c)
                 diagonals.remove(currDiagonal)
                 antiDiagonals.remove(currAntiDiagonal)
-                state[row][col] = "."
+                state[r][c] = "."
 
-        ans = []
-        emptyBoard = [["."] * n for _ in range(n)]
         backtrack(0, set(), set(), set(), emptyBoard)
-        return ans
+        return len(result)
 
 
 n = 4
+print(Solution().totalNQueens(n))
+n = 1
 print(Solution().totalNQueens(n))
