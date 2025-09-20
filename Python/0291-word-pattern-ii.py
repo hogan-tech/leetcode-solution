@@ -1,4 +1,7 @@
+# time complexity: O(p*n^3)
+# space complexity: O(p + n)
 from typing import Dict
+
 
 class Solution:
     def wordPatternMatch(self, pattern: str, s: str) -> bool:
@@ -28,4 +31,10 @@ class Solution:
 
 pattern = "abab"
 s = "redblueredblue"
+print(Solution().wordPatternMatch(pattern, s))
+pattern = "aaaa"
+s = "asdasdasdasd"
+print(Solution().wordPatternMatch(pattern, s))
+pattern = "aabb"
+s = "xyzabcxzyabc"
 print(Solution().wordPatternMatch(pattern, s))
