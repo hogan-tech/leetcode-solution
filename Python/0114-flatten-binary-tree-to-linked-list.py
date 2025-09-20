@@ -11,25 +11,21 @@ class TreeNode:
 
 
 class Solution:
-    def flattenTree(self, node: TreeNode) -> TreeNode:
-        if node is None:
+    def flatten(self, root: Optional[TreeNode]) -> None:
+        if root is None:
             return None
-        if node.left is None and node.right is None:
-            return node
-        leftTail = self.flattenTree(node.left)
-        rightRail = self.flattenTree(node.right)
-
+        if root.left is None and root.right is None:
+            return root
+        leftTail = self.flatten(root.left)
+        rightRail = self.flatten(root.right)
         if leftTail:
-            leftTail.right = node.right
-            node.right = node.left
-            node.left = None
-
+            leftTail.right = root.right
+            root.right = root.left
+            root.left = None
         return rightRail if rightRail else leftTail
 
-    def flatten(self, root: Optional[TreeNode]) -> None:
-        self.flattenTree(root)
-
-
+# time complexity: O(n)
+# space complexity: O(1)
 class Solution:
     def flatten(self, root: TreeNode) -> TreeNode:
         if not root:
