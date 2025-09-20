@@ -22,3 +22,9 @@ class Solution:
 pattern = "abba"
 s = "dog cat cat dog"
 print(Solution().wordPattern(pattern, s))
+pattern = "abba"
+s = "dog cat cat fish"
+print(Solution().wordPattern(pattern, s))
+pattern = "aaaa"
+s = "dog cat cat dog"
+print(Solution().wordPattern(pattern, s))
