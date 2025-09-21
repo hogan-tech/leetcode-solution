@@ -1,1 +1,3 @@
-0270-closest-binary-search-tree-value python easy
+3688-bitwise-or-of-even-numbers-in-an-array python easy
+3689-maximum-total-subarray-value-i python medium
+3690-split-and-merge-array-transformation python medium
