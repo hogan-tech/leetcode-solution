@@ -1,3 +1,1 @@
-3688-bitwise-or-of-even-numbers-in-an-array python easy
-3689-maximum-total-subarray-value-i python medium
-3690-split-and-merge-array-transformation python medium
+1912-design-movie-rental-system python hard
