@@ -1,1 +1,1 @@
-0510-inorder-successor-in-bst-ii python medium
+0270-closest-binary-search-tree-value python easy
