@@ -8,18 +8,20 @@ class Solution:
         nums.sort()
         left = 0
         right = len(nums) - 1
-        ans = -1
+        result = -1
         while left < right:
-            sum = nums[left] + nums[right]
-            if sum < k:
-                ans = max(ans, sum)
+            currSum = nums[left] + nums[right]
+            if currSum < k:
+                result = max(result, currSum)
                 left += 1
             else:
                 right -= 1
-        return ans
+        return result
 
 
 nums = [34, 23, 1, 24, 75, 33, 54, 8]
 k = 60
-
+print(Solution().twoSumLessThanK(nums, k))
+nums = [10, 20, 30]
+k = 15
 print(Solution().twoSumLessThanK(nums, k))
