@@ -80,3 +80,27 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2023-design-movie-rental-system) |
+## Hash Table
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2023-design-movie-rental-system) |
+## Design
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2023-design-movie-rental-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2023-design-movie-rental-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2023-design-movie-rental-system) |
+<!---LeetCode Topics End-->
