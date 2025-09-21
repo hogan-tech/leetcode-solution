@@ -27,3 +27,9 @@ class Solution:
 nums = [-2, 0, 1, 3]
 target = 2
 print(Solution().threeSumSmaller(nums, target))
+nums = []
+target = 0
+print(Solution().threeSumSmaller(nums, target))
+nums = [0]
+target = 0
+print(Solution().threeSumSmaller(nums, target))

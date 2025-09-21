@@ -80,23 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
-## Two Pointers
-|  |
-| ------- |
-| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
-## Binary Search
-|  |
-| ------- |
-| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
-## Sorting
-|  |
-| ------- |
-| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
-<!---LeetCode Topics End-->
