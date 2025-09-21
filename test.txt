@@ -1,2 +1,1 @@
-0298-binary-tree-longest-consecutive-sequence python medium
-0549-binary-tree-longest-consecutive-sequence-ii python medium
+0510-inorder-successor-in-bst-ii python medium
