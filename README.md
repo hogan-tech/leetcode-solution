@@ -93,9 +93,14 @@ We welcome contributions! If you have a solution to a problem that isn't already
 | ------- |
 | [0045-jump-game-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/hogan-tech/leetcode-solution/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hogan-tech/leetcode-solution/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/hogan-tech/leetcode-solution/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
