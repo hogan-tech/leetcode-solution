@@ -103,4 +103,21 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/hogan-tech/leetcode-solution/tree/master/0091-decode-ways) |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
+## Hash Table
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
+## Design
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
+## Trie
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
+## Sorting
+|  |
+| ------- |
+| [0588-design-in-memory-file-system](https://github.com/hogan-tech/leetcode-solution/tree/master/0588-design-in-memory-file-system) |
 <!---LeetCode Topics End-->
