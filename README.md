@@ -80,3 +80,23 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+## Two Pointers
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+## Greedy
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+## Sorting
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+<!---LeetCode Topics End-->
