@@ -49,8 +49,8 @@ class Solution:
             return 0
         dp = [0]
         for i in range(len(nums)):
-            dp.append(max((nums[j]+j for j in range(dp[i]+1))))
-            if dp[i+1] >= len(nums)-1:
+            dp.append(max((nums[j] + j for j in range(dp[i] + 1))))
+            if dp[i + 1] >= len(nums)-1:
                 break
         return len(dp) - 1
     
@@ -61,17 +61,33 @@ class Solution:
     def jump(self, nums: List[int]) -> int:
         if len(nums) == 1: 
             return 0
-        last = next = 0
+        last = nextPlace = 0
         count = 1
         for _ in range(len(nums)):
-            temp = next
-            next = max(nums[j] + j for j in range(last, next + 1))
-            if next >= len(nums) - 1:
+            temp = nextPlace
+            nextPlace = max(nums[j] + j for j in range(last, nextPlace + 1))
+            if nextPlace >= len(nums) - 1:
                 break
             count += 1
             last = temp
         return count
     
+# time complexity: O(n)
+# space complexity: O(1)
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+        near = far = jumps = 0
+
+        while far < len(nums) - 1:
+            farthest = 0
+            for i in range(near, far + 1):
+                farthest = max(farthest, i + nums[i])
+            
+            near = far + 1
+            far = farthest
+            jumps += 1
+        
+        return jumps
     
 nums = [2, 3, 1, 1, 4]
 print(Solution().jump(nums))
