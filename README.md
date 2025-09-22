@@ -90,6 +90,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -99,4 +100,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
