@@ -80,32 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
-| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
-## Binary Search
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
-## Hash Table
-|  |
-| ------- |
-| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
-## Linked List
-|  |
-| ------- |
-| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
-<!---LeetCode Topics End-->
