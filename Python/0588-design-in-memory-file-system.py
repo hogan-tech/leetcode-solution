@@ -8,15 +8,15 @@
 # T = total length of all file contents
 from typing import List
 
+class Dir:
+    def __init__(self):
+        self.dirs = {}
+        self.files = {}
 
 class FileSystem:
-    class Dir:
-        def __init__(self):
-            self.dirs = {}
-            self.files = {}
 
     def __init__(self):
-        self.root = self.Dir()
+        self.root = Dir()
 
     def ls(self, path: str) -> List[str]:
         root = self.root
@@ -41,7 +41,7 @@ class FileSystem:
         d = path.split("/")
         for i in range(1, len(d)):
             if d[i] not in root.dirs:
-                root.dirs[d[i]] = self.Dir()
+                root.dirs[d[i]] = Dir()
             root = root.dirs[d[i]]
 
     def addContentToFile(self, filePath: str, content: str) -> None:
