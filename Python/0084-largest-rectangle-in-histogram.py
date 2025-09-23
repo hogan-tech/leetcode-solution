@@ -5,20 +5,20 @@ from typing import List
 
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        stack = [-1]
+        monoStack = []
         maxArea = 0
         for i in range(len(heights)):
-            while stack[-1] != -1 and heights[stack[-1]] >= heights[i]:
-                currentHeight = heights[stack.pop()]
-                currentWidth = i - stack[-1] - 1
-                maxArea = max(maxArea, currentHeight * currentWidth)
-            stack.append(i)
-
-        while stack[-1] != -1:
-            currentHeight = heights[stack.pop()]
-            currentWidth = len(heights) - stack[-1] - 1
-            maxArea = max(maxArea, currentHeight * currentWidth)
-
+            while monoStack and heights[monoStack[-1]] >= heights[i]:
+                currHeight = heights[monoStack.pop()]
+                currWidth = i if not monoStack else i - monoStack[-1] - 1
+                maxArea = max(maxArea, currHeight * currWidth)
+            monoStack.append(i)
+        
+        n = len(heights)
+        while monoStack:
+            currHeight = heights[monoStack.pop()]
+            currWidth = n if not monoStack else n - monoStack[-1] - 1
+            maxArea = max(maxArea, currHeight * currWidth)
         return maxArea
 
 
