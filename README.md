@@ -91,4 +91,13 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/0165-compare-version-numbers) |
+| [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
+## Array
+|  |
+| ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
