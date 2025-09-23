@@ -14,25 +14,25 @@ class Solution:
         if not head:
             return
 
-        curr = head
+        node = head
         prev = None
         for _ in range(left - 1):
-            prev = curr
-            curr = curr.next
+            prev = node
+            node = node.next
             right -= 1
 
-        tail, con = curr, prev
+        tail, con = node, prev
         for _ in range(right):
-            next = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next
+            nextNode = node.next
+            node.next = prev
+            prev = node
+            node = nextNode
 
         if con:
             con.next = prev
         else:
             head = prev
-        tail.next = curr
+        tail.next = node
         return head
 
 
