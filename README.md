@@ -100,4 +100,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
