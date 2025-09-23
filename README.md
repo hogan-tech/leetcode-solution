@@ -86,6 +86,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hogan-tech/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/hogan-tech/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -100,10 +101,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hogan-tech/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0990-verifying-an-alien-dictionary](https://github.com/hogan-tech/leetcode-solution/tree/master/0990-verifying-an-alien-dictionary) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hogan-tech/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
