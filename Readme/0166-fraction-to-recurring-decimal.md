@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/fraction-to-recurring-decimal/">166. Fraction to Recurring Decimal</a></h2><h3>Medium</h3><hr><div><p>Given two integers representing the <code>numerator</code> and <code>denominator</code> of a fraction, return <em>the fraction in string format</em>.</p>
+<h2><a href="https://leetcode.com/problems/fraction-to-recurring-decimal">166. Fraction to Recurring Decimal</a></h2><h3>Medium</h3><hr><p>Given two integers representing the <code>numerator</code> and <code>denominator</code> of a fraction, return <em>the fraction in string format</em>.</p>
 
 <p>If the fractional part is repeating, enclose the repeating part in parentheses.</p>
 
@@ -9,20 +9,23 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> numerator = 1, denominator = 2
-<strong>Output:</strong> "0.5"
+<pre>
+<strong>Input:</strong> numerator = 1, denominator = 2
+<strong>Output:</strong> &quot;0.5&quot;
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> numerator = 2, denominator = 1
-<strong>Output:</strong> "2"
+<pre>
+<strong>Input:</strong> numerator = 2, denominator = 1
+<strong>Output:</strong> &quot;2&quot;
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> numerator = 4, denominator = 333
-<strong>Output:</strong> "0.(012)"
+<pre>
+<strong>Input:</strong> numerator = 4, denominator = 333
+<strong>Output:</strong> &quot;0.(012)&quot;
 </pre>
 
 <p>&nbsp;</p>
@@ -32,4 +35,3 @@
 	<li><code>-2<sup>31</sup> &lt;=&nbsp;numerator, denominator &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>denominator != 0</code></li>
 </ul>
-</div>
