@@ -95,4 +95,16 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hogan-tech/leetcode-solution/tree/master/0013-roman-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/hogan-tech/leetcode-solution/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/hogan-tech/leetcode-solution/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/hogan-tech/leetcode-solution/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
