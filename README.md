@@ -91,4 +91,16 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hogan-tech/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
+## Hash Table
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/hogan-tech/leetcode-solution/tree/master/0166-fraction-to-recurring-decimal) |
+## Math
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/hogan-tech/leetcode-solution/tree/master/0166-fraction-to-recurring-decimal) |
+## String
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/hogan-tech/leetcode-solution/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
