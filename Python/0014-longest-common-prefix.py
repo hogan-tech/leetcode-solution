@@ -29,16 +29,14 @@ class Solution:
         for word in strs:
             trie.insert(word)
 
-        def findLongestCommonPrefix(trie: Trie):
-            prefix = ""
-            node = trie.root
-            while node and not node.isEnd and len(node.children) == 1:
-                char, childNode = list(node.children.items())[0]
-                prefix += char
-                node = childNode
-            return prefix
+        prefix = ""
+        node = trie.root
+        while node and not node.isEnd and len(node.children) == 1:
+            char, childNode = list(node.children.items())[0]
+            prefix += char
+            node = childNode
+        return prefix
 
-        return findLongestCommonPrefix(trie)
 
 
 strs = ["flower", "flow", "flight"]
