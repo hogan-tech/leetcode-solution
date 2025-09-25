@@ -107,4 +107,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/hogan-tech/leetcode-solution/tree/master/1300-critical-connections-in-a-network) |
+## Array
+|  |
+| ------- |
+| [0120-triangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0120-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
