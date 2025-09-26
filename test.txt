@@ -1,1 +1,1 @@
-0969-pancake-sorting python medium
+0611-valid-triangle-number python medium
