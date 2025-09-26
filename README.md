@@ -112,6 +112,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0120-triangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0120-triangle) |
+| [0611-valid-triangle-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +129,20 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hogan-tech/leetcode-solution/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0611-valid-triangle-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/hogan-tech/leetcode-solution/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
