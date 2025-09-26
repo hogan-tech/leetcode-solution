@@ -21,6 +21,29 @@ class Solution:
             result.append(intervals[i])
             i += 1
         return result
+    
+# time complexity: O(n)
+# space complexity: O(n)
+class Solution:
+    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+        result = []
+        merged = False
+        for interval in intervals:
+            if interval[1] < newInterval[0]:
+                result.append(interval)
+
+            elif interval[0] > newInterval[1]:
+                if not merged:
+                    result.append(newInterval)
+                    merged = True
+                result.append(interval)
+            else:
+                newInterval[0] = min(newInterval[0], interval[0])
+                newInterval[1] = max(newInterval[1], interval[1])
+        if not merged:
+            result.append(newInterval)
+        return result
+
 
 
 intervals = [[1, 3], [6, 9]]
