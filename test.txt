@@ -1,1 +1,2 @@
 1039-minimum-score-triangulation-of-polygon python medium
+1121-divide-array-into-increasing-sequences python hard
