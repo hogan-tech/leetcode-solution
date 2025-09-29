@@ -1,5 +1,1 @@
-3692-majority-frequency-characters python easy
-3693-climbing-stairs-ii python medium
-3694-distinct-points-reachable-after-substring-removal python medium
-3697-compute-decimal-representation python easy
-3698-split-array-with-minimum-difference python medium
+1039-minimum-score-triangulation-of-polygon python medium
