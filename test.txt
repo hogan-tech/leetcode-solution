@@ -1,2 +1,3 @@
 0611-valid-triangle-number python medium
 0812-largest-triangle-area python easy
+0976-largest-perimeter-triangle python easy
