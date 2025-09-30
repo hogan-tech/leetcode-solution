@@ -88,6 +88,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +97,20 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
