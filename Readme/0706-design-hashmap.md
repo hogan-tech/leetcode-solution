@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-hashmap/">706. Design HashMap</a></h2><h3>Easy</h3><hr><div><p>Design a HashMap without using any built-in hash table libraries.</p>
+<h2><a href="https://leetcode.com/problems/design-hashmap">817. Design HashMap</a></h2><h3>Easy</h3><hr><p>Design a HashMap without using any built-in hash table libraries.</p>
 
 <p>Implement the <code>MyHashMap</code> class:</p>
 
@@ -12,8 +12,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input</strong>
-["MyHashMap", "put", "put", "get", "get", "put", "get", "remove", "get"]
+<pre>
+<strong>Input</strong>
+[&quot;MyHashMap&quot;, &quot;put&quot;, &quot;put&quot;, &quot;get&quot;, &quot;get&quot;, &quot;put&quot;, &quot;get&quot;, &quot;remove&quot;, &quot;get&quot;]
 [[], [1, 1], [2, 2], [1], [3], [2, 1], [2], [2], [2]]
 <strong>Output</strong>
 [null, null, null, 1, -1, null, 1, null, -1]
@@ -37,4 +38,3 @@ myHashMap.get(2);    // return -1 (i.e., not found), The map is now [[1,1]]
 	<li><code>0 &lt;= key, value &lt;= 10<sup>6</sup></code></li>
 	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>put</code>, <code>get</code>, and <code>remove</code>.</li>
 </ul>
-</div>
