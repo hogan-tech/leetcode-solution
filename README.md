@@ -81,3 +81,23 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2324-find-triangular-sum-of-an-array) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hogan-tech/leetcode-solution/tree/master/2324-find-triangular-sum-of-an-array) |
+<!---LeetCode Topics End-->
