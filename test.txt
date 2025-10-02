@@ -1,2 +1,1 @@
-1039-minimum-score-triangulation-of-polygon python medium
-1121-divide-array-into-increasing-sequences python hard
+1135-connecting-cities-with-minimum-cost python medium
