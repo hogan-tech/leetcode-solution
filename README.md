@@ -116,4 +116,20 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hogan-tech/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Union Find
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/1100-connecting-cities-with-minimum-cost) |
+## Graph
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/1100-connecting-cities-with-minimum-cost) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/1100-connecting-cities-with-minimum-cost) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/hogan-tech/leetcode-solution/tree/master/1100-connecting-cities-with-minimum-cost) |
 <!---LeetCode Topics End-->
