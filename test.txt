@@ -1,1 +1,3 @@
-1135-connecting-cities-with-minimum-cost python medium
+3701-compute-alternating-sum python easy
+3702-longest-subsequence-with-non-zero-bitwise-xor python medium
+3703-remove-k-balanced-substrings python medium
