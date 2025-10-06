@@ -94,6 +94,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hogan-tech/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -103,4 +104,16 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hogan-tech/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hogan-tech/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hogan-tech/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
