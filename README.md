@@ -86,6 +86,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0307-range-sum-query-mutable) |
 | [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0307-range-sum-query-mutable) |
 | [0817-design-hashmap](https://github.com/hogan-tech/leetcode-solution/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -108,6 +110,7 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hogan-tech/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0307-range-sum-query-mutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,4 +119,12 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hogan-tech/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/hogan-tech/leetcode-solution/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
