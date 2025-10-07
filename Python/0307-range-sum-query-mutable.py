@@ -9,43 +9,53 @@ class NumArray:
 
     def __init__(self, nums: List[int]):
         self.n = len(nums)
-        self.tree = [0 for _ in range(4 * self.n)]
+        self.segTree = [0 for _ in range(4 * self.n)]
         self.buildTree(nums, 0, 0, self.n - 1)
+    
+    def buildTree(self, nums, nodeIdx, start, end):
+            if start == end:
+                self.segTree[nodeIdx] = nums[start]
+                return
+            leftIdx = 2 * nodeIdx + 1
+            rightIdx = 2 * nodeIdx + 2
 
-    def buildTree(self, nums: List[int], nodeIdx: int, start: int, end: int):
-        if start == end:
-            self.tree[nodeIdx] = nums[start]
-            return
-        mid = (start + end) // 2
-        self.buildTree(nums, 2 * nodeIdx + 1, start, mid)
-        self.buildTree(nums, 2 * nodeIdx + 2, mid + 1, end)
-        self.tree[nodeIdx] = self.tree[2 * nodeIdx + 1] + \
-            self.tree[2 * nodeIdx + 2]
+            mid = (start + end) // 2
 
-    def update(self, index: int, val: int, nodeIdx=0, start=0, end=None) -> None:
+            self.buildTree(nums, leftIdx, start, mid)
+            self.buildTree(nums, rightIdx, mid + 1, end)
+
+            self.segTree[nodeIdx] = self.segTree[leftIdx] + self.segTree[rightIdx]
+
+    def update(self, index: int, val: int, nodeIdx = 0, start = 0, end = None) -> None:
         if end is None:
             end = self.n - 1
         if start == end:
-            self.tree[nodeIdx] = val
+            self.segTree[nodeIdx] = val
             return
+        
         mid = (start + end) // 2
+        leftIdx = 2 * nodeIdx + 1
+        rightIdx = 2 * nodeIdx + 2
+
         if index <= mid:
-            self.update(index, val, 2 * nodeIdx + 1, start, mid)
+            self.update(index, val, leftIdx, start, mid)
         else:
-            self.update(index, val, 2 * nodeIdx + 2, mid + 1, end)
-        self.tree[nodeIdx] = self.tree[2 * nodeIdx + 1] + \
-            self.tree[2 * nodeIdx + 2]
+            self.update(index, val, rightIdx, mid + 1, end)
+        
+        self.segTree[nodeIdx] = self.segTree[leftIdx] + self.segTree[rightIdx]
 
-    def sumRange(self, left: int, right: int, nodeIdx=0, start=0, end=None) -> int:
+    def sumRange(self, left: int, right: int, nodeIdx = 0, start = 0, end = None) -> int:
         if end is None:
             end = self.n - 1
-        if right < start or end < left:
+        if right < start or left > end:
             return 0
         if left <= start and end <= right:
-            return self.tree[nodeIdx]
+            return self.segTree[nodeIdx]
+
         mid = (start + end) // 2
-        return self.sumRange(left, right, 2 * nodeIdx + 1, start, mid) + \
-            self.sumRange(left, right, 2 * nodeIdx + 2, mid + 1, end)
+        leftIdx = 2 * nodeIdx + 1
+        rightIdx = 2 * nodeIdx + 2
+        return self.sumRange(left, right, leftIdx, start, mid) + self.sumRange(left, right, rightIdx, mid + 1, end)
 
 
 numArray = NumArray([1, 3, 5])
