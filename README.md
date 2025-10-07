@@ -80,27 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1612-avoid-flood-in-the-city](https://github.com/hogan-tech/leetcode-solution/tree/master/1612-avoid-flood-in-the-city) |
-## Hash Table
-|  |
-| ------- |
-| [1612-avoid-flood-in-the-city](https://github.com/hogan-tech/leetcode-solution/tree/master/1612-avoid-flood-in-the-city) |
-## Binary Search
-|  |
-| ------- |
-| [1612-avoid-flood-in-the-city](https://github.com/hogan-tech/leetcode-solution/tree/master/1612-avoid-flood-in-the-city) |
-## Greedy
-|  |
-| ------- |
-| [1612-avoid-flood-in-the-city](https://github.com/hogan-tech/leetcode-solution/tree/master/1612-avoid-flood-in-the-city) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1612-avoid-flood-in-the-city](https://github.com/hogan-tech/leetcode-solution/tree/master/1612-avoid-flood-in-the-city) |
-<!---LeetCode Topics End-->
