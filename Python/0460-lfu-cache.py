@@ -4,53 +4,52 @@ from collections import OrderedDict, defaultdict
 
 
 class LFUCache:
-
     def __init__(self, capacity: int):
-        self.cap = capacity
-        self.key2val = {}
-        self.key2freq = {}
-        self.freq2key = defaultdict(OrderedDict)
+        self.cache = {}
+        self.frequencies = defaultdict(OrderedDict)
         self.minf = 0
+        self.capacity = capacity
+
+    def insert(self, key, frequency, value):
+        self.cache[key] = (frequency, value)
+        self.frequencies[frequency][key] = value
 
     def get(self, key: int) -> int:
-        if key not in self.key2val:
+        if key not in self.cache:
             return -1
-        oldfreq = self.key2freq[key]
-        self.key2freq[key] = oldfreq + 1
-        self.freq2key[oldfreq].pop(key)
-        if not self.freq2key[oldfreq]:
-            del self.freq2key[oldfreq]
-        self.freq2key[oldfreq + 1][key] = 1
-        if self.minf not in self.freq2key:
-            self.minf += 1
-        return self.key2val[key]
+        frequency, value = self.cache[key]
+        del self.frequencies[frequency][key]
+        if not self.frequencies[frequency]:
+            del self.frequencies[frequency]
+            if frequency == self.minf:
+                self.minf += 1
+        self.insert(key, frequency + 1, value)
+        return value
 
     def put(self, key: int, value: int) -> None:
-        if self.cap <= 0:
+        if self.capacity <= 0:
             return
-        if key in self.key2val:
+        if key in self.cache:
+            frequency = self.cache[key][0]
+            self.cache[key] = (frequency, value)
             self.get(key)
-            self.key2val[key] = value
             return
-
-        if len(self.key2val) == self.cap:
-            delkey, _ = self.freq2key[self.minf].popitem(last=False)
-            del self.key2val[delkey]
-            del self.key2freq[delkey]
-        self.key2val[key] = value
-        self.key2freq[key] = 1
-        self.freq2key[1][key] = 1
+        if self.capacity == len(self.cache):
+            keyToDelete, frequency = self.frequencies[self.minf].popitem(
+                last=False)
+            del self.cache[keyToDelete]
         self.minf = 1
+        self.insert(key, 1, value)
 
 
 lfu = LFUCache(2)
-lfu.put(1, 1)   
-lfu.put(2, 2)   
-print(lfu.get(1))      
-lfu.put(3, 3)   
-print(lfu.get(2))      
-print(lfu.get(3))      
-lfu.put(4, 4)   
-print(lfu.get(1))      
-print(lfu.get(3))      
-print(lfu.get(4))      
+lfu.put(1, 1)
+lfu.put(2, 2)
+print(lfu.get(1))
+lfu.put(3, 3)
+print(lfu.get(2))
+print(lfu.get(3))
+lfu.put(4, 4)
+print(lfu.get(1))
+print(lfu.get(3))
+print(lfu.get(4))
