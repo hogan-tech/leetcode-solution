@@ -95,4 +95,20 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hogan-tech/leetcode-solution/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/hogan-tech/leetcode-solution/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/hogan-tech/leetcode-solution/tree/master/0460-lfu-cache) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/hogan-tech/leetcode-solution/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/hogan-tech/leetcode-solution/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
