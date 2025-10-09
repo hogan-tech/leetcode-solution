@@ -111,4 +111,16 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/hogan-tech/leetcode-solution/tree/master/0460-lfu-cache) |
+## Array
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hogan-tech/leetcode-solution/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Simulation
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hogan-tech/leetcode-solution/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hogan-tech/leetcode-solution/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
