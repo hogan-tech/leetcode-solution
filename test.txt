@@ -1,1 +1,1 @@
-1488-avoid-flood-in-the-city python medium
+3494-find-the-minimum-amount-of-time-to-brew-potions python medium
