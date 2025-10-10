@@ -80,3 +80,15 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hogan-tech/leetcode-solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hogan-tech/leetcode-solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+<!---LeetCode Topics End-->
