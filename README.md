@@ -80,33 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
-| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hogan-tech/leetcode-solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
-## Prefix Sum
-|  |
-| ------- |
-| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
-| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hogan-tech/leetcode-solution/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
-## Two Pointers
-|  |
-| ------- |
-| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
-## Greedy
-|  |
-| ------- |
-| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
-## Sorting
-|  |
-| ------- |
-| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0253-meeting-rooms-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0253-meeting-rooms-ii) |
-<!---LeetCode Topics End-->

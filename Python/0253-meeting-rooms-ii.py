@@ -6,17 +6,32 @@ from typing import List
 
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
-        if not intervals:
-            return 0
         minHp = []
         intervals.sort()
         heappush(minHp, intervals[0][1])
         for start, end in intervals[1:]:
-            if minHp[0] <= start:
+            if start >= minHp[0]:
                 heappop(minHp)
             heappush(minHp, end)
-
         return len(minHp)
+
+
+'''
+[[0,30],[5,10],[15,20]]
+
+30
+
+start < min[0]
+minPush 10 end
+
+10 30
+
+start >= min[0]
+minPop and push(end)
+
+len(minHp)
+
+'''
 
 
 intervals = [[7, 10], [2, 4]]
