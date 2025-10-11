@@ -1,1 +1,1 @@
-0774-minimize-max-distance-to-gas-station python hard
+3186-maximum-total-damage-with-spell-casting python medium
