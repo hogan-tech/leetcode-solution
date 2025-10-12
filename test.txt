@@ -1,3 +1,1 @@
-3707-equal-score-substrings python easy
-3708-longest-fibonacci-subarray python medium
-3709-design-exam-scores-tracker python medium
+3539-find-sum-of-array-product-of-magical-sequences python hard
