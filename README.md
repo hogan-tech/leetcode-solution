@@ -80,3 +80,31 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Math
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hogan-tech/leetcode-solution/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+<!---LeetCode Topics End-->
