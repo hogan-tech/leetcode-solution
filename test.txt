@@ -1,1 +1,3 @@
-3539-find-sum-of-array-product-of-magical-sequences python hard
+3712-sum-of-elements-with-frequency-divisible-by-k python easy
+3713-longest-balanced-substring-i python medium
+3715-sum-of-perfect-square-ancestors python hard
