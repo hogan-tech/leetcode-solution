@@ -1,4 +1,5 @@
-# Definition for a binary tree node.
+# time complexity: O(n)
+# space complexity: O(n)
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -53,6 +54,4 @@ root.left.right.right = TreeNode(5)
 root.right = TreeNode(8)
 root.right.left = TreeNode(7)
 root.right.right = TreeNode(9)
-
-solution = Solution()
-result = solution.lowestCommonAncestor(root, root.left, root.right)
+print(Solution().lowestCommonAncestor(root, root.left, root.right))
