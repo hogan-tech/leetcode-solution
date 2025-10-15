@@ -90,9 +90,14 @@ We welcome contributions! If you have a solution to a problem that isn't already
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hogan-tech/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0291-word-pattern-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0291-word-pattern-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0291-word-pattern-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0291-word-pattern-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hogan-tech/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
