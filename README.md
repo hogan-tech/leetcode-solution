@@ -27,7 +27,7 @@ Welcome to a robust and versatile repository of LeetCode solutions! This reposit
 
 ## Statistics
 
-<img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
+<img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 
 ## Folder Structure
 
