@@ -30,21 +30,7 @@
 
 <img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 
-## Folder Structure
-
-leetcode-solution/
-│
-├── Python/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-├── C++/
-├── JavaScript/
-├── TypeScript/
-├── SQL/
-└── Question_List_0001_1000.md
-
-
+## Rules
 
 The solutions are organized as follows:
 
