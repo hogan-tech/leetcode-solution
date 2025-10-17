@@ -1,12 +1,12 @@
-# LeetCode Solutions
+# LeetCode Solutions in Multiple Languages  
 
-![Python](https://img.shields.io/badge/language-Python-blue.svg)
-![C++](https://img.shields.io/badge/language-C++-orange.svg)
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
-![SQL](https://img.shields.io/badge/language-SQL-lightgrey.svg)
-![TypeScript](https://img.shields.io/badge/language-TypeScript-blue.svg)
+[![Stars](https://img.shields.io/github/stars/hogan-tech/leetcode-solution?style=social)](https://github.com/hogan-tech/leetcode-solution/stargazers)
+[![Forks](https://img.shields.io/github/forks/hogan-tech/leetcode-solution?style=social)](https://github.com/hogan-tech/leetcode-solution/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#contributing)
 
-Welcome to a robust and versatile repository of LeetCode solutions! This repository is a treasure trove for coding enthusiasts, educators, students, and professionals who are preparing for technical interviews or enhancing their coding skills.
+> Clean, well-commented solutions for **LeetCode problems #1–4000**, written in **Python, C++, JavaScript, TypeScript, and SQL.**
+
 
 ## What You'll Find Here
 
@@ -14,6 +14,7 @@ Welcome to a robust and versatile repository of LeetCode solutions! This reposit
 - **Multi-Language Support:** We offer solutions in several programming languages, including Python, C++, JavaScript, SQL, and TypeScript, catering to a diverse coding community.
 - **Organized and Accessible:** Each solution is meticulously organized by difficulty and language, making it easy to navigate and find what you need.
 - **In-Depth Explanations:** You'll find README files in each problem folder with detailed explanations of the problem, the approach taken, and a thorough walkthrough of the solution.
+
 
 ## Question List
 
@@ -25,11 +26,25 @@ Welcome to a robust and versatile repository of LeetCode solutions! This reposit
 
 - [Problem 3001 ~ 4000](./Question_List_3001_4000.md)
 
-## Statistics
+## LeetCode Stats
 
 <img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 
 ## Folder Structure
+
+leetcode-solution/
+│
+├── Python/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+├── C++/
+├── JavaScript/
+├── TypeScript/
+├── SQL/
+└── Question_List_0001_1000.md
+
+
 
 The solutions are organized as follows:
 
@@ -43,6 +58,7 @@ The solutions are organized as follows:
 
 ```bash
 git clone https://github.com/hogan.tech/leetcode-solutions.git
+cd leetcode-solution
 ```
 
 2. Choose a Problem:
@@ -79,4 +95,11 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 
 ## Contributing
 
-We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
+We love new solutions & optimizations!
+
+1. Fork → Branch (`feat/add-problem-1234`) → Commit → PR  
+2. Follow existing folder / naming conventions  
+3. Add a short explanation (README or comments)  
+4. Tag your PR with the language label  
+
+
