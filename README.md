@@ -88,4 +88,6 @@ We love new solutions & optimizations!
 3. Add a short explanation (README or comments)  
 4. Tag your PR with the language label  
 
+---
 
+Feedback / Questions → open an Issue or reach out on [LinkedIn](https://linkedin.com/in/hogan-tech)  
