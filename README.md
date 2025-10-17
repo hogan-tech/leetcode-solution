@@ -99,4 +99,20 @@ We welcome contributions! If you have a solution to a problem that isn't already
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## String
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
