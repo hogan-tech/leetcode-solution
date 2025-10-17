@@ -15,6 +15,24 @@
 - **Organized and Accessible:** Each solution is meticulously organized by difficulty and language, making it easy to navigate and find what you need.
 - **In-Depth Explanations:** You'll find README files in each problem folder with detailed explanations of the problem, the approach taken, and a thorough walkthrough of the solution.
 
+## 🏗️ Folder Structure
+```text
+leetcode-solution/
+│
+├── Python/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+├── C++/
+├── JavaScript/
+├── TypeScript/
+├── SQL/
+│
+├── Question_List_0001_1000.md
+├── Question_List_1001_2000.md
+├── Question_List_2001_3000.md
+└── Question_List_3001_4000.md
+```
 
 ## Question List
 
@@ -87,6 +105,13 @@ We love new solutions & optimizations!
 2. Follow existing folder / naming conventions  
 3. Add a short explanation (README or comments)  
 4. Tag your PR with the language label  
+
+## Support
+
+If this project helped you:
+
+Star this repository!
+It helps others discover the repo and keeps the project growing.
 
 ---
 
