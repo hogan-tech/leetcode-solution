@@ -114,4 +114,4 @@ It helps others discover the repo and keeps the project growing.
 
 ---
 
-Feedback / Questions → open an Issue or reach out on [LinkedIn](https://linkedin.com/in/hogan-tech)  
+Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
