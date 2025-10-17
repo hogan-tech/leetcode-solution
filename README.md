@@ -7,6 +7,9 @@
 
 > Clean, well-commented solutions for **LeetCode problems #1–4000**, written in **Python, C++, JavaScript, TypeScript, and SQL.**
 
+## LeetCode Stats
+
+<img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 
 ## What You'll Find Here
 
@@ -15,7 +18,7 @@
 - **Organized and Accessible:** Each solution is meticulously organized by difficulty and language, making it easy to navigate and find what you need.
 - **In-Depth Explanations:** You'll find README files in each problem folder with detailed explanations of the problem, the approach taken, and a thorough walkthrough of the solution.
 
-## 🏗️ Folder Structure
+## Folder Structure
 ```text
 leetcode-solution/
 │
@@ -43,10 +46,6 @@ leetcode-solution/
 - [Problem 2001 ~ 3000](./Question_List_2001_3000.md)
 
 - [Problem 3001 ~ 4000](./Question_List_3001_4000.md)
-
-## LeetCode Stats
-
-<img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 
 ## Rules
 
@@ -93,7 +92,7 @@ If you have a better solution or want to contribute in any way, feel free to sub
 
 Welcome feedback and suggestions. If you have any ideas to improve the solutions or find any errors, please let me know.
 
-Happy coding! 🚀
+9. Happy coding!
 
 By following these steps, users can easily navigate and utilize your LeetCode solutions repository for their coding needs.
 
