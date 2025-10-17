@@ -80,39 +80,3 @@ By following these steps, users can easily navigate and utilize your LeetCode so
 ## Contributing
 
 We welcome contributions! If you have a solution to a problem that isn't already included, or if you have suggestions for improvements, please feel free to submit a pull request.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
-## Hash Table
-|  |
-| ------- |
-| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
-## Math
-|  |
-| ------- |
-| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
-## Greedy
-|  |
-| ------- |
-| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
-## String
-|  |
-| ------- |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
-## Dynamic Programming
-|  |
-| ------- |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
-## Bitmask
-|  |
-| ------- |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
-<!---LeetCode Topics End-->
