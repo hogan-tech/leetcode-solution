@@ -1,2 +1,1 @@
-2598-smallest-missing-non-negative-integer-after-operations python medium
-3003-maximize-the-number-of-partitions-after-operations python hard
+3397-maximum-number-of-distinct-elements-after-operations python medium
