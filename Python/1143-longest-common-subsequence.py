@@ -10,13 +10,15 @@ class Solution:
         T1 = len(text1)
         T2 = len(text2)
         dp = [[0 for _ in range(T2 + 1)] for _ in range(T1 + 1)]
-        for t1 in range(T1):
-            for t2 in range(T2):
-                if text1[t1] == text2[t2]:
-                    dp[t1 + 1][t2 + 1] = dp[t1][t2] + 1
+        for t1 in range(1, T1 + 1):
+            for t2 in range(1, T2 + 1):
+                if text1[t1 - 1] == text2[t2 - 1]:
+                    dp[t1][t2] = dp[t1 - 1][t2 - 1] + 1
                 else:
-                    dp[t1 + 1][t2 + 1] = max(dp[t1][t2 + 1], dp[t1 + 1][t2])
+                    dp[t1][t2] = max(dp[t1 - 1][t2], dp[t1][t2 - 1])
+
         return dp[T1][T2]
+
 
 # time complexity: O(n*m)
 # space compleixty: O(n*m)
