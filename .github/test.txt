@@ -1,2 +1,3 @@
-3397-maximum-number-of-distinct-elements-after-operations python medium
-1625-lexicographically-smallest-string-after-applying-operations python medium
+3718-smallest-missing-multiple-of-k python easy
+3719-longest-balanced-subarray-i python medium
+3720-lexicographically-smallest-permutation-greater-than-target python medium
