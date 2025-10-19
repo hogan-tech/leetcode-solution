@@ -146,4 +146,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/hogan-tech/leetcode-solution/tree/master/0327-count-of-range-sum) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/hogan-tech/leetcode-solution/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
