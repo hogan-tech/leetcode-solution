@@ -115,23 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
-## Depth-First Search
-|  |
-| ------- |
-| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
-## Breadth-First Search
-|  |
-| ------- |
-| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
-## Enumeration
-|  |
-| ------- |
-| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
-<!---LeetCode Topics End-->
