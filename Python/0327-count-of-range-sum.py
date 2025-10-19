@@ -3,64 +3,68 @@
 from typing import List
 
 
-class TreeNode:
-    def __init__(self, start, end, val=0, left=None, right=None):
-        self.val = val
-        self.start = start
-        self.end = end
-        self.left = left
-        self.right = right
-
-
 class SegmentTree:
-    def __init__(self, n):
-        self.root = self.build(0, n - 1)
+    def __init__(self, size: int):
+        self.n = size
+        self.segTree = [0 for _ in range(4 * size)]
 
-    def build(self, l, r):
-        if l == r:
-            return TreeNode(l, r, 0)
-        leftTree = self.build(l, (l + r) // 2)
-        rightTree = self.build((l + r) // 2 + 1, r)
-        return TreeNode(l, r, 0, leftTree, rightTree)
+    def update(self, idx: int, val: int, nodeIdx=0, start=0, end=None):
+        if end is None:
+            end = self.n - 1
+        if start == end:
+            self.segTree[nodeIdx] += val
+            return
 
-    def update(self, root, index, value):
-        if root.start == root.end == index:
-            root.val += value
-            return root.val
-        if root.start > index or root.end < index:
-            return root.val
-        root.val = self.update(root.left, index, value) + \
-            self.update(root.right, index, value)
-        return root.val
+        mid = (start + end) // 2
+        leftIdx = 2 * nodeIdx + 1
+        rightIdx = 2 * nodeIdx + 2
 
-    def query(self, root, l, r) -> int:
-        if root.start > r or root.end < l:
+        if idx <= mid:
+            self.update(idx, val, leftIdx, start, mid)
+        else:
+            self.update(idx, val, rightIdx, mid + 1, end)
+
+        self.segTree[nodeIdx] = self.segTree[leftIdx] + self.segTree[rightIdx]
+
+    def query(self, left: int, right: int, nodeIdx=0, start=0, end=None) -> int:
+        if end is None:
+            end = self.n - 1
+        if right < start or left > end:
             return 0
-        if l <= root.start and root.end <= r:
-            return root.val
-        return self.query(root.left, l, r) + self.query(root.right, l, r)
+        if left <= start and end <= right:
+            return self.segTree[nodeIdx]
+
+        mid = (start + end) // 2
+        leftIdx = 2 * nodeIdx + 1
+        rightIdx = 2 * nodeIdx + 2
+        return self.query(left, right, leftIdx, start, mid) + self.query(left, right, rightIdx, mid + 1, end)
 
 
 class Solution:
     def countRangeSum(self, nums: List[int], lower: int, upper: int) -> int:
-        presums = [0]
+        preSums = [0]
         for num in nums:
-            presums.append(presums[-1] + num)
+            preSums.append(preSums[-1] + num)
+
         allSums = set()
-        for presum in presums:
-            allSums.add(presum)
-            allSums.add(presum - lower)
-            allSums.add(presum - upper)
-        sortedSum = sorted(allSums)
-        rankMap = {val: idx for idx, val in enumerate(sortedSum)}
-        tree = SegmentTree(len(sortedSum))
-        result = 0
-        for presum in presums:
-            left = rankMap[presum - upper]
-            right = rankMap[presum - lower]
-            result += tree.query(tree.root, left, right)
-            tree.update(tree.root, rankMap[presum], 1)
-        return result
+        for preSum in preSums:
+            allSums.add(preSum)
+            allSums.add(preSum - lower)
+            allSums.add(preSum - upper)
+
+        sortedSums = sorted(allSums)
+        rankMap = {val: idx for idx, val in enumerate(sortedSums)}
+
+        tree = SegmentTree(len(sortedSums))
+        count = 0
+
+        for preSum in preSums:
+            left = rankMap[preSum - upper]
+            right = rankMap[preSum - lower]
+            count += tree.query(left, right)
+            tree.update(rankMap[preSum], 1)
+
+        return count
 
 
 nums = [-2, 5, -1]
