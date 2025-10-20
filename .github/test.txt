@@ -1,3 +1,1 @@
-3718-smallest-missing-multiple-of-k python easy
-3719-longest-balanced-subarray-i python medium
-3720-lexicographically-smallest-permutation-greater-than-target python medium
+2011-final-value-of-variable-after-performing-operations python easy
