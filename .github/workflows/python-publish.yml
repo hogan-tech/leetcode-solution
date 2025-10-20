@@ -1,4 +1,4 @@
-name: Update Stats (WakaTime + LeetCode)
+name: Update Stats
 
 on:
   workflow_dispatch:
@@ -28,7 +28,7 @@ jobs:
       - name: Generate latest LeetCode SVG
         run: |
           mkdir -p assets
-          node .github/scripts/update_leetcode.js
+          node .github/scripts/update_leetcode.cjs
 
       - name: Commit and push updated LeetCode card
         env:
