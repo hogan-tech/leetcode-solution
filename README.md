@@ -115,3 +115,19 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## String
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/hogan-tech/leetcode-solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+<!---LeetCode Topics End-->
