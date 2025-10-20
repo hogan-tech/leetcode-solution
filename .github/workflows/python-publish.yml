@@ -6,6 +6,9 @@ on:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-leetcode:
     name: Update local LeetCode stats card
