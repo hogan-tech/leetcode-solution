@@ -115,27 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
-## Binary Search
-|  |
-| ------- |
-| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
-## Sliding Window
-|  |
-| ------- |
-| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
-## Sorting
-|  |
-| ------- |
-| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
-## Prefix Sum
-|  |
-| ------- |
-| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
-<!---LeetCode Topics End-->
