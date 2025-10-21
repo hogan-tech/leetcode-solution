@@ -134,4 +134,20 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
+## String
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/hogan-tech/leetcode-solution/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
