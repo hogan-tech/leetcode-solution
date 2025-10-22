@@ -1,1 +1,1 @@
-3346-maximum-frequency-of-an-element-after-performing-operations-i python medium
+3347-maximum-frequency-of-an-element-after-performing-operations-ii python hard
