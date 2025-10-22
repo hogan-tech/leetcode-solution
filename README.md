@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/hogan-tech/leetcode-solution/tree/master/1713-dot-product-of-two-sparse-vectors) |
+## Hash Table
+|  |
+| ------- |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/hogan-tech/leetcode-solution/tree/master/1713-dot-product-of-two-sparse-vectors) |
+## Two Pointers
+|  |
+| ------- |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/hogan-tech/leetcode-solution/tree/master/1713-dot-product-of-two-sparse-vectors) |
+## Design
+|  |
+| ------- |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/hogan-tech/leetcode-solution/tree/master/1713-dot-product-of-two-sparse-vectors) |
+<!---LeetCode Topics End-->
