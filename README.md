@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/hogan-tech/leetcode-solution/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,4 +135,20 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/hogan-tech/leetcode-solution/tree/master/1713-dot-product-of-two-sparse-vectors) |
+## Binary Search
+|  |
+| ------- |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Sorting
+|  |
+| ------- |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 <!---LeetCode Topics End-->
