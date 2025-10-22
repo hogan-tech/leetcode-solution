@@ -115,3 +115,35 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Graph
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Matrix
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+<!---LeetCode Topics End-->
