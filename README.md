@@ -115,3 +115,27 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## String
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+<!---LeetCode Topics End-->
