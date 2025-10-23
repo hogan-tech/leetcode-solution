@@ -138,4 +138,20 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hogan-tech/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
