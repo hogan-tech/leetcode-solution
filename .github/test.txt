@@ -1,1 +1,1 @@
-3347-maximum-frequency-of-an-element-after-performing-operations-ii python hard
+2048-next-greater-numerically-balanced-number python medium
