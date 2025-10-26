@@ -122,4 +122,20 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hogan-tech/leetcode-solution/tree/master/1817-calculate-money-in-leetcode-bank) |
+## Array
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2169-simple-bank-system) |
+## Hash Table
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2169-simple-bank-system) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2169-simple-bank-system) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
