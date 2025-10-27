@@ -122,10 +122,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hogan-tech/leetcode-solution/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/hogan-tech/leetcode-solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Array
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/hogan-tech/leetcode-solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +140,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/hogan-tech/leetcode-solution/tree/master/2169-simple-bank-system) |
+## String
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/hogan-tech/leetcode-solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/hogan-tech/leetcode-solution/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
