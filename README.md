@@ -130,4 +130,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3616-make-array-elements-equal-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
