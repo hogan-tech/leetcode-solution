@@ -126,4 +126,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/3676-smallest-number-with-all-set-bits) |
+## Array
+|  |
+| ------- |
+| [0312-burst-balloons](https://github.com/hogan-tech/leetcode-solution/tree/master/0312-burst-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0312-burst-balloons](https://github.com/hogan-tech/leetcode-solution/tree/master/0312-burst-balloons) |
 <!---LeetCode Topics End-->
