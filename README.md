@@ -115,23 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2607-minimum-subarrays-in-a-valid-split](https://github.com/hogan-tech/leetcode-solution/tree/master/2607-minimum-subarrays-in-a-valid-split) |
-## Math
-|  |
-| ------- |
-| [2607-minimum-subarrays-in-a-valid-split](https://github.com/hogan-tech/leetcode-solution/tree/master/2607-minimum-subarrays-in-a-valid-split) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2607-minimum-subarrays-in-a-valid-split](https://github.com/hogan-tech/leetcode-solution/tree/master/2607-minimum-subarrays-in-a-valid-split) |
-## Number Theory
-|  |
-| ------- |
-| [2607-minimum-subarrays-in-a-valid-split](https://github.com/hogan-tech/leetcode-solution/tree/master/2607-minimum-subarrays-in-a-valid-split) |
-<!---LeetCode Topics End-->

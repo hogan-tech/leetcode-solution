@@ -1,1 +1,1 @@
-2048-next-greater-numerically-balanced-number python medium
+2464-minimum-subarrays-in-a-valid-split python medium
