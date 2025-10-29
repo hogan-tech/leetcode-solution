@@ -115,23 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3676-smallest-number-with-all-set-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/3676-smallest-number-with-all-set-bits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3676-smallest-number-with-all-set-bits](https://github.com/hogan-tech/leetcode-solution/tree/master/3676-smallest-number-with-all-set-bits) |
-## Array
-|  |
-| ------- |
-| [0312-burst-balloons](https://github.com/hogan-tech/leetcode-solution/tree/master/0312-burst-balloons) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0312-burst-balloons](https://github.com/hogan-tech/leetcode-solution/tree/master/0312-burst-balloons) |
-<!---LeetCode Topics End-->
