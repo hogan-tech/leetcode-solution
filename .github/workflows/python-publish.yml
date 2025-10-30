@@ -3,8 +3,8 @@ name: Update Stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
 
 permissions:
   contents: write
