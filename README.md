@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +147,20 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/hogan-tech/leetcode-solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Greedy
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hogan-tech/leetcode-solution/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
