@@ -122,4 +122,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0077-combinations](https://github.com/hogan-tech/leetcode-solution/tree/master/0077-combinations) |
+## Array
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hogan-tech/leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Hash Table
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hogan-tech/leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Math
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hogan-tech/leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
