@@ -1,3 +1,5 @@
+# time complexity: O(n^2)
+# space complexity: O(n)
 class Solution:
     def maximumNumberOfOnes(self, width: int, height: int, sideLength: int, maxOnes: int) -> int:
         count = []
@@ -10,4 +12,13 @@ class Solution:
         return sum(count[:maxOnes])
 
 
-print(Solution().maximumNumberOfOnes(3, 3, 2, 1))
+width = 3
+height = 3
+sideLength = 2
+maxOnes = 1
+print(Solution().maximumNumberOfOnes(width, height, sideLength, maxOnes))
+width = 3
+height = 3
+sideLength = 2
+maxOnes = 2
+print(Solution().maximumNumberOfOnes(width, height, sideLength, maxOnes))
