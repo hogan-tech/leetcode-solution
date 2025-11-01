@@ -125,13 +125,19 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hogan-tech/leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hogan-tech/leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hogan-tech/leetcode-solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hogan-tech/leetcode-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
