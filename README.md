@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2343-count-unguarded-cells-in-the-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
-## Matrix
-|  |
-| ------- |
-| [2343-count-unguarded-cells-in-the-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
-## Simulation
-|  |
-| ------- |
-| [2343-count-unguarded-cells-in-the-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
-<!---LeetCode Topics End-->
