@@ -1,1 +1,3 @@
-1183-maximum-number-of-ones python hard
+3731-find-missing-elements python easy
+3732-maximum-product-of-three-elements-after-one-replacement python medium
+3733-minimum-time-to-complete-all-deliveries python medium
