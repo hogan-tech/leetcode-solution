@@ -1,4 +1,5 @@
-from itertools import permutations
+# time complexity: O(n^2)
+# space complexity: O(1)
 from typing import List
 
 
@@ -30,4 +31,8 @@ class Solution:
 
 
 nums = [1, 2, 3]
+print(Solution().nextPermutation(nums))
+nums = [3, 2, 1]
+print(Solution().nextPermutation(nums))
+nums = [1, 1, 5]
 print(Solution().nextPermutation(nums))

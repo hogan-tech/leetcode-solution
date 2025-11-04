@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/next-permutation/">31. Next Permutation</a></h2><h3>Medium</h3><hr><div><p>A <strong>permutation</strong> of an array of integers is an arrangement of its members into a sequence or linear order.</p>
+<h2><a href="https://leetcode.com/problems/next-permutation">31. Next Permutation</a></h2><h3>Medium</h3><hr><p>A <strong>permutation</strong> of an array of integers is an arrangement of its members into a sequence or linear order.</p>
 
 <ul>
 	<li>For example, for <code>arr = [1,2,3]</code>, the following are all the permutations of <code>arr</code>: <code>[1,2,3], [1,3,2], [2, 1, 3], [2, 3, 1], [3,1,2], [3,2,1]</code>.</li>
@@ -19,19 +19,22 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,2,3]
+<pre>
+<strong>Input:</strong> nums = [1,2,3]
 <strong>Output:</strong> [1,3,2]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,2,1]
+<pre>
+<strong>Input:</strong> nums = [3,2,1]
 <strong>Output:</strong> [1,2,3]
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,1,5]
+<pre>
+<strong>Input:</strong> nums = [1,1,5]
 <strong>Output:</strong> [1,5,1]
 </pre>
 
@@ -42,4 +45,3 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
-</div>
