@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hogan-tech/leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -134,4 +135,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hogan-tech/leetcode-solution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Hash Table
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
