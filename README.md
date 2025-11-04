@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+## Two Pointers
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+## Greedy
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+## Sorting
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/hogan-tech/leetcode-solution/tree/master/1009-pancake-sorting) |
+<!---LeetCode Topics End-->
