@@ -134,4 +134,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hogan-tech/leetcode-solution/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0087-scramble-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/hogan-tech/leetcode-solution/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
