@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/">3318. Find X-Sum of All K-Long Subarrays I</a></h2><h3>Easy</h3><hr><div><p>You are given an array <code>nums</code> of <code>n</code> integers and two integers <code>k</code> and <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i">3610. Find X-Sum of All K-Long Subarrays I</a></h2><h3>Easy</h3><hr><p>You are given an array <code>nums</code> of <code>n</code> integers and two integers <code>k</code> and <code>x</code>.</p>
 
 <p>The <strong>x-sum</strong> of an array is calculated by the following procedure:</p>
 
@@ -11,8 +11,6 @@
 <p><strong>Note</strong> that if an array has less than <code>x</code> distinct elements, its <strong>x-sum</strong> is the sum of the array.</p>
 
 <p>Return an integer array <code>answer</code> of length <code>n - k + 1</code> where <code>answer[i]</code> is the <strong>x-sum</strong> of the <span data-keyword="subarray-nonempty">subarray</span> <code>nums[i..i + k - 1]</code>.</p>
-
-<p>A <strong>subarray</strong> is a contiguous <b>non-empty</b> sequence of elements within an array.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -51,4 +49,3 @@
 	<li><code>1 &lt;= nums[i] &lt;= 50</code></li>
 	<li><code>1 &lt;= x &lt;= k &lt;= nums.length</code></li>
 </ul>
-</div>

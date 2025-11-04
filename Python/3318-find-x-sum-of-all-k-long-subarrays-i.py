@@ -1,4 +1,4 @@
-# time complexity: O(n^2)
+# time complexity: O(n^2 * klogk)
 # space complexity: O(n)
 from typing import Counter, List
 
@@ -6,7 +6,7 @@ from typing import Counter, List
 class Solution:
     def findXSum(self, nums: List[int], k: int, x: int) -> List[int]:
         n = len(nums)
-        ans = []
+        result = []
 
         for i in range(n - k + 1):
             items = list(Counter(nums[i:i+k]).items())
@@ -16,12 +16,20 @@ class Solution:
             for j in range(min(x, len(items))):
                 tempSum += items[j][0] * items[j][1]
 
-            ans.append(tempSum)
+            result.append(tempSum)
 
-        return ans
+        return result
 
 
-nums = [2, 5, 3, 5, 1]
+nums = [1, 1, 2, 2, 3, 4, 2, 3]
+k = 6
+x = 2
+print(Solution().findXSum(nums, k, x))
+nums = [3, 8, 7, 8, 7, 5]
 k = 2
-x = 1
+x = 2
+print(Solution().findXSum(nums, k, x))
+nums = [9, 2, 2]
+k = 3
+x = 3
 print(Solution().findXSum(nums, k, x))

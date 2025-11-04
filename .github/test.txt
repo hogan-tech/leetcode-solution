@@ -1,3 +1,4 @@
 3731-find-missing-elements python easy
 3732-maximum-product-of-three-elements-after-one-replacement python medium
 3733-minimum-time-to-complete-all-deliveries python medium
+3318-find-x-sum-of-all-k-long-subarrays-i python easy
