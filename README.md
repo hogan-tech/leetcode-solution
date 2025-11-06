@@ -115,3 +115,19 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1304-longest-happy-string) |
+## Greedy
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1304-longest-happy-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1304-longest-happy-string) |
+<!---LeetCode Topics End-->
