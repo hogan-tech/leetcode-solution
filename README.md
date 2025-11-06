@@ -130,4 +130,33 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/hogan-tech/leetcode-solution/tree/master/1304-longest-happy-string) |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Array
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Hash Table
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hogan-tech/leetcode-solution/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
