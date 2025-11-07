@@ -1,2 +1,1 @@
-3321-find-x-sum-of-all-k-long-subarrays-ii python hard
-2528-maximize-the-minimum-powered-city python hard
+0339-nested-list-weight-sum python medium
