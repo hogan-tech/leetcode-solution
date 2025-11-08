@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/">1611. Minimum One Bit Operations to Make Integers Zero</a></h2><h3>Hard</h3><hr><div><p>Given an integer <code>n</code>, you must transform it into <code>0</code> using the following operations any number of times:</p>
+<h2><a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero">1732. Minimum One Bit Operations to Make Integers Zero</a></h2><h3>Hard</h3><hr><p>Given an integer <code>n</code>, you must transform it into <code>0</code> using the following operations any number of times:</p>
 
 <ul>
 	<li>Change the rightmost (<code>0<sup>th</sup></code>) bit in the binary representation of <code>n</code>.</li>
@@ -10,22 +10,24 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> n = 3
+<pre>
+<strong>Input:</strong> n = 3
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> The binary representation of 3 is "11".
-"<u>1</u>1" -&gt; "<u>0</u>1" with the 2<sup>nd</sup> operation since the 0<sup>th</sup> bit is 1.
-"0<u>1</u>" -&gt; "0<u>0</u>" with the 1<sup>st</sup> operation.
+<strong>Explanation:</strong> The binary representation of 3 is &quot;11&quot;.
+&quot;<u>1</u>1&quot; -&gt; &quot;<u>0</u>1&quot; with the 2<sup>nd</sup> operation since the 0<sup>th</sup> bit is 1.
+&quot;0<u>1</u>&quot; -&gt; &quot;0<u>0</u>&quot; with the 1<sup>st</sup> operation.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> n = 6
+<pre>
+<strong>Input:</strong> n = 6
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> The binary representation of 6 is "110".
-"<u>1</u>10" -&gt; "<u>0</u>10" with the 2<sup>nd</sup> operation since the 1<sup>st</sup> bit is 1 and 0<sup>th</sup> through 0<sup>th</sup> bits are 0.
-"01<u>0</u>" -&gt; "01<u>1</u>" with the 1<sup>st</sup> operation.
-"0<u>1</u>1" -&gt; "0<u>0</u>1" with the 2<sup>nd</sup> operation since the 0<sup>th</sup> bit is 1.
-"00<u>1</u>" -&gt; "00<u>0</u>" with the 1<sup>st</sup> operation.
+<strong>Explanation:</strong> The binary representation of 6 is &quot;110&quot;.
+&quot;<u>1</u>10&quot; -&gt; &quot;<u>0</u>10&quot; with the 2<sup>nd</sup> operation since the 1<sup>st</sup> bit is 1 and 0<sup>th</sup> through 0<sup>th</sup> bits are 0.
+&quot;01<u>0</u>&quot; -&gt; &quot;01<u>1</u>&quot; with the 1<sup>st</sup> operation.
+&quot;0<u>1</u>1&quot; -&gt; &quot;0<u>0</u>1&quot; with the 2<sup>nd</sup> operation since the 0<sup>th</sup> bit is 1.
+&quot;00<u>1</u>&quot; -&gt; &quot;00<u>0</u>&quot; with the 1<sup>st</sup> operation.
 </pre>
 
 <p>&nbsp;</p>
@@ -34,4 +36,3 @@
 <ul>
 	<li><code>0 &lt;= n &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
