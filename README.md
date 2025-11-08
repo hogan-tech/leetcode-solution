@@ -115,3 +115,27 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/hogan-tech/leetcode-solution/tree/master/0170-two-sum-iii-data-structure-design) |
+## Hash Table
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/hogan-tech/leetcode-solution/tree/master/0170-two-sum-iii-data-structure-design) |
+## Two Pointers
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/hogan-tech/leetcode-solution/tree/master/0170-two-sum-iii-data-structure-design) |
+## Design
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/hogan-tech/leetcode-solution/tree/master/0170-two-sum-iii-data-structure-design) |
+## Data Stream
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/hogan-tech/leetcode-solution/tree/master/0170-two-sum-iii-data-structure-design) |
+<!---LeetCode Topics End-->
