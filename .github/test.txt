@@ -1,1 +1,2 @@
 0339-nested-list-weight-sum python medium
+2169-count-operations-to-obtain-zero python easy

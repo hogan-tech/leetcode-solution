@@ -115,15 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2288-count-operations-to-obtain-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
-## Simulation
-|  |
-| ------- |
-| [2288-count-operations-to-obtain-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/2288-count-operations-to-obtain-zero) |
-<!---LeetCode Topics End-->
