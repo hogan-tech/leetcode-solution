@@ -1,3 +1,1 @@
-3740-minimum-distance-between-three-equal-elements-i python easy
-3741-minimum-distance-between-three-equal-elements-ii python medium
-3742-maximum-path-score-in-a-grid python medium
+3542-minimum-operations-to-convert-all-elements-to-zero python medium
