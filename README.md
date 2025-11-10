@@ -115,3 +115,27 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hogan-tech/leetcode-solution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+<!---LeetCode Topics End-->
