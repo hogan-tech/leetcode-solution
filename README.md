@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/hogan-tech/leetcode-solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
-## Math
-|  |
-| ------- |
-| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/hogan-tech/leetcode-solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
-## Number Theory
-|  |
-| ------- |
-| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/hogan-tech/leetcode-solution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
-<!---LeetCode Topics End-->
