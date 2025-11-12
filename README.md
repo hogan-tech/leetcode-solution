@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0474-ones-and-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0474-ones-and-zeroes) |
-## String
-|  |
-| ------- |
-| [0474-ones-and-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0474-ones-and-zeroes) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0474-ones-and-zeroes](https://github.com/hogan-tech/leetcode-solution/tree/master/0474-ones-and-zeroes) |
-<!---LeetCode Topics End-->
