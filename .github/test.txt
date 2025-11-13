@@ -1,1 +1,2 @@
-3228-maximum-number-of-operations-to-move-ones-to-the-end python medium
+1470-shuffle-the-array python easy
+1929-concatenation-of-array python easy
