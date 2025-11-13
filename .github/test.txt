@@ -1,2 +1,1 @@
-3542-minimum-operations-to-convert-all-elements-to-zero python medium
-2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1 python medium
+3228-maximum-number-of-operations-to-move-ones-to-the-end python medium
