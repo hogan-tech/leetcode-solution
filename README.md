@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hogan-tech/leetcode-solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
-## Greedy
-|  |
-| ------- |
-| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hogan-tech/leetcode-solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
-## Counting
-|  |
-| ------- |
-| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hogan-tech/leetcode-solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
-<!---LeetCode Topics End-->
