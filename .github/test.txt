@@ -1,1 +1,1 @@
-2536-increment-submatrices-by-one python medium
+3234-count-the-number-of-substrings-with-dominant-ones python medium
