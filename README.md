@@ -143,4 +143,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
+## String
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hogan-tech/leetcode-solution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
