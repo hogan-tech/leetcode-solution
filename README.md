@@ -121,6 +121,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
 | [2625-increment-submatrices-by-one](https://github.com/hogan-tech/leetcode-solution/tree/master/2625-increment-submatrices-by-one) |
 ## Matrix
 |  |
@@ -130,4 +131,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/hogan-tech/leetcode-solution/tree/master/2625-increment-submatrices-by-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
+## Binary Search
+|  |
+| ------- |
+| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
+## Sorting
+|  |
+| ------- |
+| [0259-3sum-smaller](https://github.com/hogan-tech/leetcode-solution/tree/master/0259-3sum-smaller) |
 <!---LeetCode Topics End-->
