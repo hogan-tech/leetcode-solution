@@ -1,1 +1,3 @@
-1437-check-if-all-1s-are-at-least-length-k-places-away python easy
+3745-maximize-expression-of-three-elements python easy
+3746-minimum-string-length-after-balanced-removals python medium
+3747-count-distinct-integers-after-removing-zeros python medium
