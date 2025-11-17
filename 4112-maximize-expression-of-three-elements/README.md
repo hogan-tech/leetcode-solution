@@ -1,0 +1,38 @@
+<h2><a href="https://leetcode.com/problems/maximize-expression-of-three-elements">4112. Maximize Expression of Three Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+
+<p>Choose three elements <code>a</code>, <code>b</code>, and <code>c</code> from <code>nums</code> at <strong>distinct</strong> indices such that the value of the expression <code>a + b - c</code> is maximized.</p>
+
+<p>Return an integer denoting the <strong>maximum possible value</strong> of this expression.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [1,4,2,5]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">8</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>We can choose <code>a = 4</code>, <code>b = 5</code>, and <code>c = 1</code>. The expression value is <code>4 + 5 - 1 = 8</code>, which is the maximum possible.</p>
+</div>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [-2,0,5,-2,4]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">11</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>We can choose <code>a = 5</code>, <code>b = 4</code>, and <code>c = -2</code>. The expression value is <code>5 + 4 - (-2) = 11</code>, which is the maximum possible.</p>
+</div>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>3 &lt;= nums.length &lt;= 100</code></li>
+	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
+</ul>
