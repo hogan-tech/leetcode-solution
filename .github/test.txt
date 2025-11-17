@@ -1,1 +1,1 @@
-3234-count-the-number-of-substrings-with-dominant-ones python medium
+1437-check-if-all-1s-are-at-least-length-k-places-away python easy
