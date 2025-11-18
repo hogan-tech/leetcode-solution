@@ -1,10 +1,10 @@
-<h2><a href="https://leetcode.com/problems/build-an-array-with-stack-operations/">1441. Build an Array With Stack Operations</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>target</code> and an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/build-an-array-with-stack-operations">1552. Build an Array With Stack Operations</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>target</code> and an integer <code>n</code>.</p>
 
 <p>You have an empty stack with the two following operations:</p>
 
 <ul>
-	<li><strong><code>"Push"</code></strong>: pushes an integer to the top of the stack.</li>
-	<li><strong><code>"Pop"</code></strong>: removes the integer on the top of the stack.</li>
+	<li><strong><code>&quot;Push&quot;</code></strong>: pushes an integer to the top of the stack.</li>
+	<li><strong><code>&quot;Pop&quot;</code></strong>: removes the integer on the top of the stack.</li>
 </ul>
 
 <p>You also have a stream of the integers in the range <code>[1, n]</code>.</p>
@@ -22,8 +22,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> target = [1,3], n = 3
-<strong>Output:</strong> ["Push","Push","Pop","Push"]
+<pre>
+<strong>Input:</strong> target = [1,3], n = 3
+<strong>Output:</strong> [&quot;Push&quot;,&quot;Push&quot;,&quot;Pop&quot;,&quot;Push&quot;]
 <strong>Explanation:</strong> Initially the stack s is empty. The last element is the top of the stack.
 Read 1 from the stream and push it to the stack. s = [1].
 Read 2 from the stream and push it to the stack. s = [1,2].
@@ -33,8 +34,9 @@ Read 3 from the stream and push it to the stack. s = [1,3].
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> target = [1,2,3], n = 3
-<strong>Output:</strong> ["Push","Push","Push"]
+<pre>
+<strong>Input:</strong> target = [1,2,3], n = 3
+<strong>Output:</strong> [&quot;Push&quot;,&quot;Push&quot;,&quot;Push&quot;]
 <strong>Explanation:</strong> Initially the stack s is empty. The last element is the top of the stack.
 Read 1 from the stream and push it to the stack. s = [1].
 Read 2 from the stream and push it to the stack. s = [1,2].
@@ -43,8 +45,9 @@ Read 3 from the stream and push it to the stack. s = [1,2,3].
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> target = [1,2], n = 4
-<strong>Output:</strong> ["Push","Push"]
+<pre>
+<strong>Input:</strong> target = [1,2], n = 4
+<strong>Output:</strong> [&quot;Push&quot;,&quot;Push&quot;]
 <strong>Explanation:</strong> Initially the stack s is empty. The last element is the top of the stack.
 Read 1 from the stream and push it to the stack. s = [1].
 Read 2 from the stream and push it to the stack. s = [1,2].
@@ -61,4 +64,3 @@ The answers that read integer 3 from the stream are not accepted.
 	<li><code>1 &lt;= target[i] &lt;= n</code></li>
 	<li><code>target</code> is strictly increasing.</li>
 </ul>
-</div>

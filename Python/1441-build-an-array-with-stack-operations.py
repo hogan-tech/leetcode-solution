@@ -1,25 +1,28 @@
 #time complexity: O(n)
 #space complexity: O(1)
-
 from typing import List
 
 
 class Solution:
     def buildArray(self, target: List[int], n: int) -> List[str]:
-        res = []
-        index = 0
+        result = []
+        idx = 0
         for item in target:
-            while index < item - 1:
-                res.append("Push")
-                res.append("Pop")
-                index += 1
-            res.append("Push")
-            index += 1
-        return res
+            while idx < item - 1:
+                result.append("Push")
+                result.append("Pop")
+                idx += 1
+            result.append("Push")
+            idx += 1
+        return result
 
 
 target = [1, 3]
 n = 3
-
-
+print(Solution().buildArray(target, n))
+target = [1, 2, 3]
+n = 3
+print(Solution().buildArray(target, n))
+target = [1, 2]
+n = 4
 print(Solution().buildArray(target, n))
