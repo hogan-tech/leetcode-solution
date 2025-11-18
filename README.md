@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hogan-tech/leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hogan-tech/leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hogan-tech/leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hogan-tech/leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+<!---LeetCode Topics End-->
