@@ -1,10 +1,10 @@
-<h2><a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/">1700. Number of Students Unable to Eat Lunch</a></h2><h3>Easy</h3><hr><div><p>The school cafeteria offers circular and square sandwiches at lunch break, referred to by numbers <code>0</code> and <code>1</code> respectively. All students stand in a queue. Each student either prefers square or circular sandwiches.</p>
+<h2><a href="https://leetcode.com/problems/number-of-students-unable-to-eat-lunch">1802. Number of Students Unable to Eat Lunch</a></h2><h3>Easy</h3><hr><p>The school cafeteria offers circular and square sandwiches at lunch break, referred to by numbers <code>0</code> and <code>1</code> respectively. All students stand in a queue. Each student either prefers square or circular sandwiches.</p>
 
 <p>The number of sandwiches in the cafeteria is equal to the number of students. The sandwiches are placed in a <strong>stack</strong>. At each step:</p>
 
 <ul>
 	<li>If the student at the front of the queue <strong>prefers</strong> the sandwich on the top of the stack, they will <strong>take it</strong> and leave the queue.</li>
-	<li>Otherwise, they will <strong>leave it</strong> and go to the queue's end.</li>
+	<li>Otherwise, they will <strong>leave it</strong> and go to the queue&#39;s end.</li>
 </ul>
 
 <p>This continues until none of the queue students want to take the top sandwich and are thus unable to eat.</p>
@@ -14,7 +14,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> students = [1,1,0,0], sandwiches = [0,1,0,1]
+<pre>
+<strong>Input:</strong> students = [1,1,0,0], sandwiches = [0,1,0,1]
 <strong>Output:</strong> 0<strong> 
 Explanation:</strong>
 - Front student leaves the top sandwich and returns to the end of the line making students = [1,0,0,1].
@@ -30,7 +31,8 @@ Hence all students are able to eat.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> students = [1,1,1,0,0,1], sandwiches = [1,0,0,0,1,1]
+<pre>
+<strong>Input:</strong> students = [1,1,1,0,0,1], sandwiches = [1,0,0,0,1,1]
 <strong>Output:</strong> 3
 </pre>
 
@@ -43,4 +45,3 @@ Hence all students are able to eat.
 	<li><code>sandwiches[i]</code> is <code>0</code> or <code>1</code>.</li>
 	<li><code>students[i]</code> is <code>0</code> or <code>1</code>.</li>
 </ul>
-</div>

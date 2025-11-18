@@ -27,3 +27,6 @@ class Solution:
 students = [1, 1, 1, 0, 0, 1]
 sandwiches = [1, 0, 0, 0, 1, 1]
 print(Solution().countStudents(students, sandwiches))
+students = [1, 1, 1, 0, 0, 1]
+sandwiches = [1, 0, 0, 0, 1, 1]
+print(Solution().countStudents(students, sandwiches))
