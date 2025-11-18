@@ -1,1 +1,1 @@
-0717-1-bit-and-2-bit-characters python easy
+1365-how-many-numbers-are-smaller-than-the-current-number python medium
