@@ -115,11 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0717-1-bit-and-2-bit-characters](https://github.com/hogan-tech/leetcode-solution/tree/master/0717-1-bit-and-2-bit-characters) |
-<!---LeetCode Topics End-->

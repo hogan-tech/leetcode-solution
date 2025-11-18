@@ -1,3 +1,1 @@
-3745-maximize-expression-of-three-elements python easy
-3746-minimum-string-length-after-balanced-removals python medium
-3747-count-distinct-integers-after-removing-zeros python medium
+0717-1-bit-and-2-bit-characters python easy
