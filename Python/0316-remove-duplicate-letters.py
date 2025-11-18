@@ -1,15 +1,22 @@
-from collections import Counter
-
-
+# time complexity: O(n)
+# space complexity: O(n)
 class Solution:
     def removeDuplicateLetters(self, s: str) -> str:
-        c = Counter(s)
-        position = 0
-        for i in range(len(s)):
-            if s[i] < s[position]:
-                position = i
-            c[s[i]] -= 1
-            if c[s[i]] == 0:
-                break
+        stack = []
+        seen = set()
+        lastCharIdx = {c: i for i, c in enumerate(s)}
 
-        return s[position] + self.removeDuplicateLetters(s[position:].replace(s[position], "")) if s else ""
+        for i, c in enumerate(s):
+            if c not in seen:
+                while stack and c < stack[-1] and i < lastCharIdx[stack[-1]]:
+                    seen.discard(stack.pop())
+                seen.add(c)
+                stack.append(c)
+
+        return ''.join(stack)
+
+
+s = "bcabc"
+print(Solution().removeDuplicateLetters(s))
+s = "cbacdcbc"
+print(Solution().removeDuplicateLetters(s))

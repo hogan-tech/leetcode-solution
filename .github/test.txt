@@ -1,1 +1,2 @@
-0941-valid-mountain-array python easy
+0316-remove-duplicate-letters python medium
+1081-smallest-subsequence-of-distinct-characters python medium

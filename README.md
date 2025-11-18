@@ -115,27 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hogan-tech/leetcode-solution/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-## Stack
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hogan-tech/leetcode-solution/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-## Greedy
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hogan-tech/leetcode-solution/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hogan-tech/leetcode-solution/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-<!---LeetCode Topics End-->
