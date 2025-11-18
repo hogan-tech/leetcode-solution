@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/hogan-tech/leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+<!---LeetCode Topics End-->
