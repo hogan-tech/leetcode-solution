@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hogan-tech/leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hogan-tech/leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
 | ------- |
@@ -134,4 +135,13 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hogan-tech/leetcode-solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hogan-tech/leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Hash Table
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hogan-tech/leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hogan-tech/leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
