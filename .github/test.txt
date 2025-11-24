@@ -1,3 +1,0 @@
-3190-find-minimum-operations-to-make-all-elements-divisible-by-three python easy
-1262-greatest-sum-divisible-by-three python medium
-1018-binary-prefix-divisible-by-5 python easy
