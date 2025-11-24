@@ -121,6 +121,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/hogan-tech/leetcode-solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/hogan-tech/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hogan-tech/leetcode-solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
@@ -139,4 +140,8 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/hogan-tech/leetcode-solution/tree/master/1262-greatest-sum-divisible-by-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/hogan-tech/leetcode-solution/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
