@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
-## Matrix
-|  |
-| ------- |
-| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
-<!---LeetCode Topics End-->
