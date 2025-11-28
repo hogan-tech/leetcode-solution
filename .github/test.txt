@@ -1,1 +1,1 @@
-2435-paths-in-matrix-whose-sum-is-divisible-by-k python hard
+3381-maximum-subarray-sum-with-length-divisible-by-k python medium
