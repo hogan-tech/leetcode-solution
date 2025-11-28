@@ -115,27 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [2872-maximum-number-of-k-divisible-components](https://github.com/hogan-tech/leetcode-solution/tree/master/2872-maximum-number-of-k-divisible-components) |
-## Depth-First Search
-|  |
-| ------- |
-| [2872-maximum-number-of-k-divisible-components](https://github.com/hogan-tech/leetcode-solution/tree/master/2872-maximum-number-of-k-divisible-components) |
-## Array
-|  |
-| ------- |
-| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
-## Hash Table
-|  |
-| ------- |
-| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
-## Prefix Sum
-|  |
-| ------- |
-| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
-<!---LeetCode Topics End-->
