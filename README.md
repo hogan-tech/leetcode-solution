@@ -115,26 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0370-range-addition](https://github.com/hogan-tech/leetcode-solution/tree/master/0370-range-addition) |
-| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-## Hash Table
-|  |
-| ------- |
-| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
-## Prefix Sum
-|  |
-| ------- |
-| [0370-range-addition](https://github.com/hogan-tech/leetcode-solution/tree/master/0370-range-addition) |
-| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
-## Math
-|  |
-| ------- |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hogan-tech/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-<!---LeetCode Topics End-->
