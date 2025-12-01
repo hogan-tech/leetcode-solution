@@ -134,6 +134,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Binary Search
 |  |
 | ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Greedy
 |  |
@@ -143,4 +144,28 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
+## Two Pointers
+|  |
+| ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
+## Stack
+|  |
+| ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
+## Tree
+|  |
+| ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
+## Depth-First Search
+|  |
+| ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
+## Binary Tree
+|  |
+| ------- |
+| [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
 <!---LeetCode Topics End-->
