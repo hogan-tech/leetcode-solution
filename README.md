@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/hogan-tech/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,4 +131,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/hogan-tech/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
+## Binary Search
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
+## Greedy
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
+## Sorting
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
