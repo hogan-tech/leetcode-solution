@@ -123,10 +123,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/hogan-tech/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hogan-tech/leetcode-solution/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3623-count-number-of-trapezoids-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/hogan-tech/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [3623-count-number-of-trapezoids-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,4 +170,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1214-two-sum-bsts](https://github.com/hogan-tech/leetcode-solution/tree/master/1214-two-sum-bsts) |
+## Math
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3623-count-number-of-trapezoids-i) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
