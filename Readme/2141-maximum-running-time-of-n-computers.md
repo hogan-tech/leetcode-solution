@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/">2141. Maximum Running Time of N Computers</a></h2><h3>Hard</h3><hr><div><p>You have <code>n</code> computers. You are given the integer <code>n</code> and a <strong>0-indexed</strong> integer array <code>batteries</code> where the <code>i<sup>th</sup></code> battery can <strong>run</strong> a computer for <code>batteries[i]</code> minutes. You are interested in running <strong>all</strong> <code>n</code> computers <strong>simultaneously</strong> using the given batteries.</p>
+<h2><a href="https://leetcode.com/problems/maximum-running-time-of-n-computers">2263. Maximum Running Time of N Computers</a></h2><h3>Hard</h3><hr><p>You have <code>n</code> computers. You are given the integer <code>n</code> and a <strong>0-indexed</strong> integer array <code>batteries</code> where the <code>i<sup>th</sup></code> battery can <strong>run</strong> a computer for <code>batteries[i]</code> minutes. You are interested in running <strong>all</strong> <code>n</code> computers <strong>simultaneously</strong> using the given batteries.</p>
 
 <p>Initially, you can insert <strong>at most one battery</strong> into each computer. After that and at any integer time moment, you can remove a battery from a computer and insert another battery <strong>any number of times</strong>. The inserted battery can be a totally new battery or a battery from another computer. You may assume that the removing and inserting processes take no time.</p>
 
@@ -8,8 +8,9 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/01/06/example1-fit.png" style="width: 762px; height: 150px;">
-<pre><strong>Input:</strong> n = 2, batteries = [3,3,3]
+<img alt="" src="https://assets.leetcode.com/uploads/2022/01/06/example1-fit.png" style="width: 762px; height: 150px;" />
+<pre>
+<strong>Input:</strong> n = 2, batteries = [3,3,3]
 <strong>Output:</strong> 4
 <strong>Explanation:</strong> 
 Initially, insert battery 0 into the first computer and battery 1 into the second computer.
@@ -21,8 +22,9 @@ We can run the two computers simultaneously for at most 4 minutes, so we return 
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/01/06/example2.png" style="width: 629px; height: 150px;">
-<pre><strong>Input:</strong> n = 2, batteries = [1,1,1,1]
+<img alt="" src="https://assets.leetcode.com/uploads/2022/01/06/example2.png" style="width: 629px; height: 150px;" />
+<pre>
+<strong>Input:</strong> n = 2, batteries = [1,1,1,1]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> 
 Initially, insert battery 0 into the first computer and battery 2 into the second computer. 
@@ -38,4 +40,3 @@ We can run the two computers simultaneously for at most 2 minutes, so we return 
 	<li><code>1 &lt;= n &lt;= batteries.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= batteries[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
