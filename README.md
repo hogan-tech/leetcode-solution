@@ -115,23 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3625-count-number-of-trapezoids-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3625-count-number-of-trapezoids-ii) |
-## Hash Table
-|  |
-| ------- |
-| [3625-count-number-of-trapezoids-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3625-count-number-of-trapezoids-ii) |
-## Math
-|  |
-| ------- |
-| [3625-count-number-of-trapezoids-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3625-count-number-of-trapezoids-ii) |
-## Geometry
-|  |
-| ------- |
-| [3625-count-number-of-trapezoids-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3625-count-number-of-trapezoids-ii) |
-<!---LeetCode Topics End-->
