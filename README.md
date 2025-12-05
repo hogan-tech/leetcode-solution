@@ -130,4 +130,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/hogan-tech/leetcode-solution/tree/master/2211-count-collisions-on-a-road) |
+## Array
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
