@@ -1,1 +1,1 @@
-2211-count-collisions-on-a-road python medium
+1523-count-odd-numbers-in-an-interval-range python easy
