@@ -1,1 +1,3 @@
-1523-count-odd-numbers-in-an-interval-range python easy
+3765-complete-prime-number python medium
+3766-minimum-operations-to-make-binary-palindrome python medium
+3767-maximize-points-after-choosing-k-tasks python medium
