@@ -138,6 +138,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/hogan-tech/leetcode-solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hogan-tech/leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
