@@ -130,4 +130,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/1874-minimize-product-sum-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/hogan-tech/leetcode-solution/tree/master/1925-count-square-sum-triples) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/hogan-tech/leetcode-solution/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
