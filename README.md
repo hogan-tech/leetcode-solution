@@ -115,27 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1874-minimize-product-sum-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/1874-minimize-product-sum-of-two-arrays) |
-## Greedy
-|  |
-| ------- |
-| [1874-minimize-product-sum-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/1874-minimize-product-sum-of-two-arrays) |
-## Sorting
-|  |
-| ------- |
-| [1874-minimize-product-sum-of-two-arrays](https://github.com/hogan-tech/leetcode-solution/tree/master/1874-minimize-product-sum-of-two-arrays) |
-## Math
-|  |
-| ------- |
-| [1925-count-square-sum-triples](https://github.com/hogan-tech/leetcode-solution/tree/master/1925-count-square-sum-triples) |
-## Enumeration
-|  |
-| ------- |
-| [1925-count-square-sum-triples](https://github.com/hogan-tech/leetcode-solution/tree/master/1925-count-square-sum-triples) |
-<!---LeetCode Topics End-->

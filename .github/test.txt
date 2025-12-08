@@ -1,3 +1,2 @@
-3765-complete-prime-number python medium
-3766-minimum-operations-to-make-binary-palindrome python medium
-3767-maximize-points-after-choosing-k-tasks python medium
+1874-minimize-product-sum-of-two-arrays python medium
+1925-count-square-sum-triples python easy
