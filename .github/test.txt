@@ -1,2 +1,3 @@
-1874-minimize-product-sum-of-two-arrays python medium
-1925-count-square-sum-triples python easy
+3769-sort-integers-by-binary-reflection python easy
+3770-largest-prime-from-consecutive-prime-sum python medium
+3771-total-score-of-dungeon-runs python medium
