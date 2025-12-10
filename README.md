@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Math
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+<!---LeetCode Topics End-->
