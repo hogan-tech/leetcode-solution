@@ -121,6 +121,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
@@ -134,4 +135,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Hash Table
+|  |
+| ------- |
+| [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
+## Sorting
+|  |
+| ------- |
+| [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
