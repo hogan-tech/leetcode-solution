@@ -121,11 +121,13 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Math
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Brainteaser
 |  |
@@ -142,5 +144,10 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Sorting
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
+## Simulation
+|  |
+| ------- |
+| [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
 <!---LeetCode Topics End-->
