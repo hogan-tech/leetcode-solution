@@ -124,6 +124,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hogan-tech/leetcode-solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3606-coupon-code-validator](https://github.com/hogan-tech/leetcode-solution/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -141,13 +142,19 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/hogan-tech/leetcode-solution/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/hogan-tech/leetcode-solution/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/hogan-tech/leetcode-solution/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/hogan-tech/leetcode-solution/tree/master/3433-count-mentions-per-user) |
+## String
+|  |
+| ------- |
+| [3606-coupon-code-validator](https://github.com/hogan-tech/leetcode-solution/tree/master/3606-coupon-code-validator) |
 <!---LeetCode Topics End-->
