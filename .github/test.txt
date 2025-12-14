@@ -1,3 +1,3 @@
-3769-sort-integers-by-binary-reflection python easy
-3770-largest-prime-from-consecutive-prime-sum python medium
-3771-total-score-of-dungeon-runs python medium
+3774-absolute-difference-between-maximum-and-minimum-k-elements python easy
+3775-reverse-words-with-same-vowel-count python medium
+3776-minimum-moves-to-balance-circular-array python medium

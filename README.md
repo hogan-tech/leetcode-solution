@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hogan-tech/leetcode-solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
-## String
-|  |
-| ------- |
-| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hogan-tech/leetcode-solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hogan-tech/leetcode-solution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
-<!---LeetCode Topics End-->
