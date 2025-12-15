@@ -130,4 +130,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Tree
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+## Binary Tree
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/hogan-tech/leetcode-solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
