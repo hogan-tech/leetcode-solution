@@ -115,3 +115,19 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Math
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hogan-tech/leetcode-solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+<!---LeetCode Topics End-->
