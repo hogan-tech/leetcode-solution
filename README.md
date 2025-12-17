@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hogan-tech/leetcode-solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hogan-tech/leetcode-solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hogan-tech/leetcode-solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hogan-tech/leetcode-solution/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+<!---LeetCode Topics End-->
