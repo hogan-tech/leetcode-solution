@@ -115,24 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0944-delete-columns-to-make-sorted](https://github.com/hogan-tech/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
-| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
-## Sliding Window
-|  |
-| ------- |
-| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
-## Prefix Sum
-|  |
-| ------- |
-| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hogan-tech/leetcode-solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
-## String
-|  |
-| ------- |
-| [0944-delete-columns-to-make-sorted](https://github.com/hogan-tech/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
-<!---LeetCode Topics End-->

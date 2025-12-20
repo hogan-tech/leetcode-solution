@@ -1,1 +1,1 @@
-3562-maximum-profit-from-trading-stocks-with-discounts python hard
+0944-delete-columns-to-make-sorted python easy
