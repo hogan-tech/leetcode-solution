@@ -133,13 +133,19 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## String
 |  |
 | ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+## Greedy
+|  |
+| ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
