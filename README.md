@@ -115,3 +115,19 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+<!---LeetCode Topics End-->
