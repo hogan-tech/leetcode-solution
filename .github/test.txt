@@ -1,3 +1,5 @@
-3779-minimum-number-of-operations-to-have-distinct-elements python medium
-3780-maximum-sum-of-three-numbers-divisible-by-three python medium
-3781-maximum-score-after-binary-swaps python medium
+0955-delete-columns-to-make-sorted-ii python medium
+0960-delete-columns-to-make-sorted-iii python hard
+3783-mirror-distance-of-an-integer python easy
+3784-minimum-deletion-cost-to-make-all-characters-equal python medium
+3785-minimum-swaps-to-avoid-forbidden-values python hard
