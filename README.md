@@ -130,4 +130,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
+## Array
+|  |
+| ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+## String
+|  |
+| ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 <!---LeetCode Topics End-->
