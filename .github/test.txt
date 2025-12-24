@@ -1,5 +1,1 @@
-0955-delete-columns-to-make-sorted-ii python medium
-0960-delete-columns-to-make-sorted-iii python hard
-3783-mirror-distance-of-an-integer python easy
-3784-minimum-deletion-cost-to-make-all-characters-equal python medium
-3785-minimum-swaps-to-avoid-forbidden-values python hard
+3074-apple-redistribution-into-boxes python easy
