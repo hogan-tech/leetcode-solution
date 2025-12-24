@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/hogan-tech/leetcode-solution/tree/master/2054-two-best-non-overlapping-events) |
+| [3074-apple-redistribution-into-boxes](https://github.com/hogan-tech/leetcode-solution/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,8 +135,13 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/hogan-tech/leetcode-solution/tree/master/2054-two-best-non-overlapping-events) |
+| [3074-apple-redistribution-into-boxes](https://github.com/hogan-tech/leetcode-solution/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/hogan-tech/leetcode-solution/tree/master/2054-two-best-non-overlapping-events) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/hogan-tech/leetcode-solution/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
