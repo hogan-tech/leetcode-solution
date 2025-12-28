@@ -129,6 +129,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
 |  |
@@ -146,4 +147,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2402-meeting-rooms-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
