@@ -129,6 +129,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [1176-diet-plan-performance](https://github.com/hogan-tech/leetcode-solution/tree/master/1176-diet-plan-performance) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
@@ -155,4 +156,8 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1176-diet-plan-performance](https://github.com/hogan-tech/leetcode-solution/tree/master/1176-diet-plan-performance) |
 <!---LeetCode Topics End-->
