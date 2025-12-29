@@ -121,6 +121,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/0756-pyramid-transition-matrix) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/hogan-tech/leetcode-solution/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -135,6 +136,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/0756-pyramid-transition-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -160,4 +162,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1176-diet-plan-performance](https://github.com/hogan-tech/leetcode-solution/tree/master/1176-diet-plan-performance) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/hogan-tech/leetcode-solution/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
