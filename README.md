@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+## Math
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+<!---LeetCode Topics End-->
