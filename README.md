@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,4 +135,21 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
+## Binary Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
