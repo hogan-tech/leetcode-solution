@@ -121,6 +121,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hogan-tech/leetcode-solution/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
@@ -130,6 +131,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hogan-tech/leetcode-solution/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
