@@ -130,6 +130,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hogan-tech/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1244-design-a-leaderboard](https://github.com/hogan-tech/leetcode-solution/tree/master/1244-design-a-leaderboard) |
 ## Math
 |  |
 | ------- |
@@ -156,4 +157,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hogan-tech/leetcode-solution/tree/master/1970-last-day-where-you-can-still-cross) |
+## Design
+|  |
+| ------- |
+| [1244-design-a-leaderboard](https://github.com/hogan-tech/leetcode-solution/tree/master/1244-design-a-leaderboard) |
+## Sorting
+|  |
+| ------- |
+| [1244-design-a-leaderboard](https://github.com/hogan-tech/leetcode-solution/tree/master/1244-design-a-leaderboard) |
 <!---LeetCode Topics End-->
