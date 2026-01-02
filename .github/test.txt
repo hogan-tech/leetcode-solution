@@ -1,1 +1,2 @@
-0756-pyramid-transition-matrix python medium
+0961-n-repeated-element-in-size-2n-array python easy
+1244-design-a-leaderboard python medium
