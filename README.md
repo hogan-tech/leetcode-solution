@@ -115,3 +115,15 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/hogan-tech/leetcode-solution/tree/master/1390-four-divisors) |
+## Math
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/hogan-tech/leetcode-solution/tree/master/1390-four-divisors) |
+<!---LeetCode Topics End-->
