@@ -1,2 +1,1 @@
-0961-n-repeated-element-in-size-2n-array python easy
-1244-design-a-leaderboard python medium
+1411-number-of-ways-to-paint-n-3-grid python hard
