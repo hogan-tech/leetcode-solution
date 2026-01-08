@@ -121,9 +121,22 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hogan-tech/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hogan-tech/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
+## Matrix
+|  |
+| ------- |
+| [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
 <!---LeetCode Topics End-->
