@@ -126,6 +126,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hogan-tech/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Depth-First Search
 |  |
@@ -153,4 +154,8 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hogan-tech/leetcode-solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
