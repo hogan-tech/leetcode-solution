@@ -121,11 +121,13 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hogan-tech/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hogan-tech/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Depth-First Search
@@ -141,6 +143,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
 ## Hash Table
 |  |
@@ -158,4 +161,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hogan-tech/leetcode-solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/hogan-tech/leetcode-solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
