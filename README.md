@@ -125,6 +125,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | [0490-the-maze](https://github.com/hogan-tech/leetcode-solution/tree/master/0490-the-maze) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hogan-tech/leetcode-solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hogan-tech/leetcode-solution/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3453-separate-squares-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,4 +179,8 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/hogan-tech/leetcode-solution/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
