@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def separateSquares(self, squares: List[List[int]]) -> float:
         events = []
@@ -7,34 +10,34 @@ class Solution:
 
         events.sort()
         xs = []
-        prev_y = events[0][0]
+        prevY = events[0][0]
         total = 0
         areas = []
 
-        def union_len(intervals):
+        def unionLen(intervals):
             intervals.sort()
-            res = cur = 0
+            result = 0
             end = -10**30
             for a, b in intervals:
                 if a > end:
-                    res += b - a
+                    result += b - a
                     end = b
                 elif b > end:
-                    res += b - end
+                    result += b - end
                     end = b
-            return res
+            return result
 
         for y, typ, x1, x2 in events:
-            if y > prev_y and xs:
-                h = y - prev_y
-                w = union_len(xs)
-                areas.append((prev_y, h, w))
+            if y > prevY and xs:
+                h = y - prevY
+                w = unionLen(xs)
+                areas.append((prevY, h, w))
                 total += h * w
             if typ == 1:
                 xs.append((x1, x2))
             else:
                 xs.remove((x1, x2))
-            prev_y = y
+            prevY = y
 
         half = total / 2
         acc = 0
@@ -44,3 +47,9 @@ class Solution:
             acc += h * w
 
         return 0.0
+
+
+squares = [[0, 0, 1], [2, 2, 1]]
+print(Solution().separateSquares(squares))
+squares = [[0, 0, 2], [1, 1, 1]]
+print(Solution().separateSquares(squares))
