@@ -1,2 +1,1 @@
-1411-number-of-ways-to-paint-n-3-grid python hard
-1339-maximum-product-of-splitted-binary-tree python medium
+3454-separate-squares-ii python hard
