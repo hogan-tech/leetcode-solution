@@ -121,9 +121,34 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 ## Array
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Sorting
 |  |
 | ------- |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Matrix
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
 <!---LeetCode Topics End-->
