@@ -123,6 +123,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/hogan-tech/leetcode-solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hogan-tech/leetcode-solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +152,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/0505-the-maze-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hogan-tech/leetcode-solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hogan-tech/leetcode-solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
