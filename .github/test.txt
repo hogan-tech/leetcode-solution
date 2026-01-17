@@ -1,2 +1,1 @@
-2943-maximize-area-of-square-hole-in-grid python medium
-2975-maximum-square-area-by-removing-fences-from-a-field python medium
+3047-find-the-largest-area-of-square-inside-two-rectangles python medium

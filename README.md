@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
-## Math
-|  |
-| ------- |
-| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
-## Geometry
-|  |
-| ------- |
-| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/hogan-tech/leetcode-solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
-<!---LeetCode Topics End-->
