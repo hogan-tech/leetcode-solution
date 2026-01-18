@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1895-largest-magic-square](https://github.com/hogan-tech/leetcode-solution/tree/master/1895-largest-magic-square) |
-## Matrix
-|  |
-| ------- |
-| [1895-largest-magic-square](https://github.com/hogan-tech/leetcode-solution/tree/master/1895-largest-magic-square) |
-## Prefix Sum
-|  |
-| ------- |
-| [1895-largest-magic-square](https://github.com/hogan-tech/leetcode-solution/tree/master/1895-largest-magic-square) |
-<!---LeetCode Topics End-->

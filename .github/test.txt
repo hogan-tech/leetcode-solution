@@ -1,1 +1,1 @@
-3047-find-the-largest-area-of-square-inside-two-rectangles python medium
+1895-largest-magic-square python medium
