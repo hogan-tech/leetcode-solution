@@ -122,8 +122,10 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 <!---LeetCode Topics End-->
