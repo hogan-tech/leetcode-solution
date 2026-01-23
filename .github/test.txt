@@ -1,1 +1,1 @@
-1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold python medium
+3510-minimum-pair-removal-to-sort-array-ii python hard
