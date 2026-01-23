@@ -123,9 +123,34 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
