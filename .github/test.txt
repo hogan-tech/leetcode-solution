@@ -1,1 +1,1 @@
-3510-minimum-pair-removal-to-sort-array-ii python hard
+1984-minimum-difference-between-highest-and-lowest-of-k-scores python easy
