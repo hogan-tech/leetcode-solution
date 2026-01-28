@@ -1,1 +1,4 @@
-1984-minimum-difference-between-highest-and-lowest-of-k-scores python easy
+1200-minimum-absolute-difference python easy
+0499-the-maze-iii python hard
+3650-minimum-cost-path-with-edge-reversals python medium
+3651-minimum-cost-path-with-teleportations python hard
