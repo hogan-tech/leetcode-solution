@@ -115,3 +115,39 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## String
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Matrix
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+<!---LeetCode Topics End-->
