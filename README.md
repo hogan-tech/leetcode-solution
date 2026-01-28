@@ -139,10 +139,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/hogan-tech/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/hogan-tech/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/hogan-tech/leetcode-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
 | ------- |
