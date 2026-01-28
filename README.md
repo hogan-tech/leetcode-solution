@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hogan-tech/leetcode-solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
 | ------- |
@@ -146,8 +147,13 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hogan-tech/leetcode-solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
 | [0499-the-maze-iii](https://github.com/hogan-tech/leetcode-solution/tree/master/0499-the-maze-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hogan-tech/leetcode-solution/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
