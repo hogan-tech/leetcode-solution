@@ -115,3 +115,23 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+## String
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+<!---LeetCode Topics End-->
