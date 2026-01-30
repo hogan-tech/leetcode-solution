@@ -123,18 +123,22 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [0286-walls-and-gates](https://github.com/hogan-tech/leetcode-solution/tree/master/0286-walls-and-gates) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## String
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hogan-tech/leetcode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,4 +147,12 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0286-walls-and-gates](https://github.com/hogan-tech/leetcode-solution/tree/master/0286-walls-and-gates) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
