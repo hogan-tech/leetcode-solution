@@ -115,19 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
-## Sorting
-|  |
-| ------- |
-| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
-## Enumeration
-|  |
-| ------- |
-| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
-<!---LeetCode Topics End-->

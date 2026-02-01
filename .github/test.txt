@@ -1,1 +1,1 @@
-2977-minimum-cost-to-convert-string-ii python hard
+3010-divide-an-array-into-subarrays-with-minimum-cost-i python easy
