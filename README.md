@@ -122,6 +122,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/hogan-tech/leetcode-solution/tree/master/0362-design-hit-counter) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +139,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/hogan-tech/leetcode-solution/tree/master/0362-design-hit-counter) |
+## Hash Table
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
