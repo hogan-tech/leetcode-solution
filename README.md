@@ -123,6 +123,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [0362-design-hit-counter](https://github.com/hogan-tech/leetcode-solution/tree/master/0362-design-hit-counter) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3640-trionic-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,4 +152,8 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3640-trionic-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-trionic-array-ii) |
 <!---LeetCode Topics End-->
