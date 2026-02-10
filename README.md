@@ -125,6 +125,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/hogan-tech/leetcode-solution/tree/master/3379-transformed-array) |
 | [3640-trionic-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,4 +184,16 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/hogan-tech/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
