@@ -126,6 +126,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | [3379-transformed-array](https://github.com/hogan-tech/leetcode-solution/tree/master/3379-transformed-array) |
 | [3640-trionic-array-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,12 +190,15 @@ Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.li
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hogan-tech/leetcode-solution/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
