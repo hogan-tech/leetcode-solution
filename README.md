@@ -115,23 +115,3 @@ It helps others discover the repo and keeps the project growing.
 ---
 
 Feedback / Questions → open an Issue or reach out on [LinkedIn](https://www.linkedin.com/in/hogan-l/)  
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
-## String
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
-## Counting
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
-## Enumeration
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/hogan-tech/leetcode-solution/tree/master/3713-longest-balanced-substring-i) |
-<!---LeetCode Topics End-->
